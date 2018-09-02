@@ -1,0 +1,1656 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Gqr3f3L/qXNvIVA5aYGagU64r+qpRlgt554GFCXI3C0LbKvdijrMpTx/pOGb2HKk
+ RcbgHvDZCZhIsNNTk9M/Hg==
+
+<SEC-DOCUMENT>0000930661-96-001510.txt : 19961107
+<SEC-HEADER>0000930661-96-001510.hdr.sgml : 19961107
+ACCESSION NUMBER:		0000930661-96-001510
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19960930
+FILED AS OF DATE:		19961106
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043146298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		96655299
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		2147336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO OF DELAWARE INC
+		CENTRAL INDEX KEY:			0000817647
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				251512956
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-03006
+		FILM NUMBER:		96655300
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252-5613
+		BUSINESS PHONE:		2126912000
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WILLIAMHOUSE REGENCY OF DELAWARE INC
+		DATE OF NAME CHANGE:	19960328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+ 
+================================================================================
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                             Washington D.C. 20549
+
+                                   FORM 10-Q
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934 FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1996
+
+                       Commission file number   1-11803
+                                               --------
+
+                         AMERICAN PAD & PAPER COMPANY
+            (Exact name of registrant as specified in its charter)
+
+
+              Delaware                                      04-3164298
+    (State or other jurisdiction of                      (I.R.S. Employer
+    incorporation or organization)                       Identification No.)
+
+17304 Preston Road, Suite 700, Dallas, TX                   75252-5613
+ (Address of principal executive offices)                   (Zip Code)
+
+      Registrant's telephone number, including area code: (972) 733-6200
+
+
+                       Commission file number   333-3006
+                                                --------
+
+                AMERICAN PAD & PAPER COMPANY OF DELAWARE, INC.
+            (Exact name of registrant as specified in its charter)
+
+
+              Delaware                                      25-1512956
+    (State or other jurisdiction of                      (I.R.S. Employer
+    incorporation or organization)                       Identification No.)
+
+17304 Preston Road, Suite 700, Dallas, TX                   75252-5613
+ (Address of principal executive offices)                   (Zip Code)
+
+      Registrant's telephone number, including area code: (972) 733-6200
+
+
+          Indicate by check mark whether each Registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that each
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+          American Pad & Paper Company                   Yes  X       No      
+                                                             ---         ---
+          American Pad & Paper Company of Delaware, Inc. Yes  X       No      
+                                                             ---         ---
+
+          As of November 4, 1996, American Pad & Paper Company has 27,399,809
+shares of Common Stock outstanding.  As of November 4, 1996, American Pad &
+Paper Company of Delaware, Inc. had 100 shares of Common Stock outstanding, all
+of which are indirectly owned by American Pad & Paper Company.
+
+================================================================================
+<PAGE>
+ 
+                          AMERICAN PAD & PAPER COMPANY
+
+                 AMERICAN PAD & PAPER COMPANY OF DELAWARE, INC.
+
+                    QUARTERLY PERIOD ENDED SEPTEMBER 30, 1996
+
+                                      INDEX
+
+<TABLE> 
+<CAPTION> 
+                                                                                             Page No.
+                                                                                             --------
+PART I   FINANCIAL INFORMATION
+<S>                                                                                          <C>  
+         Important Explanatory Note  . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+
+         Item 1.           Financial Statements  . . . . . . . . . . . . . . . . . . . . . .   3
+
+                           Condensed Consolidated Balance Sheets as
+                           of December 31, 1995 and September 30, 1996 . . . . . . . . . . .   3
+
+                           Condensed Consolidated Statements of
+                           Operations for the three months ended
+                           September 30, 1995 and 1996 and for the nine
+                           months ended September 30, 1995 and 1996  . . . . . . . . . . . .   4
+
+                           Condensed Consolidated Statements of
+                           Cash Flows for the nine months
+                           ended September 30, 1995 and 1996 . . . . . . . . . . . . . . . .   5
+
+                           Notes to Condensed Consolidated
+                           Financial Statements  . . . . . . . . . . . . . . . . . . . . . .   6
+
+         Item 2.           Management's Discussion and Analysis of
+                           Financial Condition and Results of
+                           Operations  . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+
+PART II  OTHER INFORMATION
+
+         Item 6.           Exhibits and Reports on Form 8-K  . . . . . . . . . . . . . . . .   18
+</TABLE> 
+
+                          PART I. FINANCIAL INFORMATION
+
+Important Explanatory Note.
+
+         This integrated Form 10-Q is filed pursuant to the Securities Exchange
+Act of 1934, as amended, for each of American Pad & Paper Company, a Delaware
+corporation, and its wholly owned subsidiary, American Pad & Paper Company of
+Delaware, Inc., a Delaware corporation. Unless the context requires otherwise,
+references herein to the "Company" refer to both American Pad & Paper Company
+and American Pad & Paper Company of Delaware, Inc. American Pad & Paper Company
+is a holding company with no operations separate from its operating subsidiary,
+American Pad & Paper Company of Delaware, Inc. No separate financial information
+for American Pad & Paper Company of Delaware, Inc. has been provided herein
+because management of the Company believes such information would not be
+meaningful because (i) American Pad & Paper Company of Delaware, Inc. is the
+only operating subsidiary of American Pad & Paper Company, which has no
+operations other than those of American Pad & Paper Company of Delaware, Inc.
+and its subsidiaries and (ii) all assets and liabilities of American Pad & Paper
+Company are recorded on the books of American Pad & Paper Company of Delaware,
+Inc. There is no material difference between American Pad & Paper Company and
+American Pad & Paper Company of Delaware, Inc. for the disclosure required by
+the instructions to Form 10-Q and therefore, unless otherwise indicated, the
+responses set forth herein apply to each of American Pad & Paper Company and
+American Pad & Paper Company of Delaware, Inc.
+
+                                       2
+<PAGE>
+ 
+ITEM 1.  FINANCIAL STATEMENTS
+
+AMERICAN PAD & PAPER COMPANY
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except per share amounts)
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+
+                                                        December 31,  September 30,
+
+            ASSETS                                         1995           1996
+            ------                                        -------         -----
+<S>                                                       <C>           <C> 
+Current assets:
+  Cash                                                    $ 18,341      $ 13,200
+  Restricted cash                                            3,619         2,410
+  Accounts receivable, net                                  25,943        60,287
+  Refundable income taxes                                    3,657           -
+  Inventories                                               93,061        97,212
+  Prepaid expenses and other current assets                    927         7,601
+  Assets held for sale                                      42,578           356
+  Deferred income taxes                                     15,009        14,070
+                                                          --------      --------
+        Total current assets                               203,135       195,136
+Property and equipment, net                                106,768       132,541
+Intangible assets, net                                     191,012       190,946
+Other                                                        3,441         1,790
+                                                          --------      --------
+          Total assets                                    $504,356      $520,413
+                                                          ========      ========
+</TABLE> 
+
+<TABLE> 
+<CAPTION> 
+
+
+    LIABILITIES AND STOCKHOLDERS'
+    -----------------------------
+               EQUITY (DEFICIT)
+               ----------------
+<S>                                                       <C>          <C> 
+Current liabilities:
+  Current portion of long-term debt                       $  11,834    $   2,168
+  Accounts payable                                           37,048       37,420
+  Accrued expenses                                           44,835       51,565
+  Income taxes payable                                          494           --
+                                                          ---------    ---------
+        Total current liabilities                            94,211       91,153
+Long-term debt                                              443,794      298,920
+Deferred income taxes                                        30,070       31,821
+Other                                                         2,702        4,070
+                                                          ---------    ---------
+        Total liabilities                                   570,777      425,964
+                                                          ---------    ---------
+Stockholders' equity (deficit):
+  Preferred stock, 150 shares authorized, 58
+    shares and no shares issued and outstanding,
+    respectively                                            113,887           --
+  Common stock, voting, $.01 par value, 75,000
+    shares authorized, 900 shares and 27,400
+     shares issued, respectively                                  9          274
+  Additional paid-in capital                                 14,240      300,980
+  Accumulated deficit                                      (194,557)    (206,805)
+                                                          ---------    ---------
+        Total stockholders' equity (deficit)                (66,421)      94,449
+                                                          ---------    ---------
+          Total liabilities and stockholders' (deficit)   $ 504,356    $ 520,413
+                                                          =========    =========
+</TABLE> 
+
+
+
+           See notes to condensed consolidated financial statements.
+
+                                       3
+<PAGE>
+ 
+AMERICAN PAD & PAPER COMPANY
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ (in thousands, except per share amounts)
+
+- --------------------------------------------------------------------------------
+
+<TABLE> 
+<CAPTION> 
+
+                                                 Three Months             Nine Months
+                                              Ended September 30        Ended September 30,
+
+                                               1995        1996          1995        1996
+                                               ----        ----          ----        ----
+<S>                                         <C>         <C>          <C>          <C> 
+Net sales                                   $ 53,787    $ 173,606    $ 146,009    $ 407,813
+Cost of sales                                 43,529      137,569      122,530      323,317
+                                            --------    ---------    ---------    ---------
+     Gross profit                             10,258       36,037       23,479       84,496
+
+Operating expenses:
+
+  Selling and marketing                        1,269        4,945        3,598       12,165
+  General and administrative                   1,733        7,581        4,714       22,051
+  Management fees and services                   185        1,786          472        2,846
+                                            --------    ---------    ---------    ---------
+
+Income from operations                         7,071       21,725       14,695       47,434
+
+Other income (expense):
+  Interest                                    (2,050)      (9,940)      (5,837)     (34,972)
+  Other income, net                              (29)         408          130        1,179
+                                            --------    ---------    ---------    ---------
+
+Income before income taxes                     4,992       12,193        8,988       13,641
+Provision for income taxes                       142        5,268        1,674        5,893
+                                            --------    ---------    ---------    ---------
+
+Income before extraordinary item               4,850        6,925        7,314        7,748
+
+Extraordinary loss from extinguishment of
+   debt (net of income tax benefit of
+
+   $12,018 and $13,009, respectively)           --        (18,695)        --        (19,995)
+                                            --------    ---------    ---------    ---------
+
+Net income (loss)                           $  4,850    $ (11,770)   $   7,314    $ (12,247)
+                                            ========    =========    =========    =========
+Income (loss) per share:
+    Income before extraordinary item        $    .16    $     .24    $     .25    $     .26
+    Extraordinary item                          --           (.64)        --           (.67)
+                                            --------    ---------    ---------    ---------
+    Net income (loss)                       $    .16    $    (.40)   $     .25    $    (.41)
+                                            ========    =========    =========    =========
+
+Weighted average common shares
+  outstanding                                 29,607       29,351       29,607       29,607
+                                            ========    =========    =========    =========
+</TABLE> 
+
+           See notes to condensed consolidated financial statements.
+
+                                       4
+<PAGE>
+ 
+AMERICAN PAD & PAPER COMPANY
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ (in thousands)
+
+- --------------------------------------------------------------------------------
+
+<TABLE> 
+<CAPTION> 
+
+
+                                                                                      Nine Months
+                                                                                  Ended September  30,
+                                                                                      1995         1996
+                                                                                 ---------    ---------
+<S>                                                                              <C>          <C> 
+Cash flows from operating activities:
+  Net income (loss)                                                              $   7,314    $ (12,247)
+  Adjustments to reconcile net income (loss) to 
+  net cash provided by (used in) operating 
+  activities:
+     Depreciation                                                                    1,291        6,796
+     Amortization of goodwill and intangible assets                                     93        3,340
+     Extraordinary loss on extinguishment of debt                                       --       19,995
+     Amortization of debt issuance costs                                               637        3,167
+     Non cash interest expense and accretion of discount                               116           --
+     Gain on sale of assets                                                           (119)         (49)
+     Changes in:
+          Restricted cash                                                               --        2,079
+          Accounts receivable                                                      (14,681)     (14,114)
+          Refundable income taxes                                                       --        3,657
+          Inventories                                                                 (748)       8,638
+          Prepaid expenses and other current assets                                   (537)      (1,279)
+          Deferred tax asset, net                                                      916       12,795
+          Accounts payable                                                            (134)      (5,457)
+          Accrued expenses                                                            (162)      (2,852)
+          Other assets                                                                  --        1,646
+          Other liabilities                                                            390          677
+                                                                                 ---------    ---------
+           Net cash provided by (used in)
+            operating activities                                                    (5,624)      26,792
+                                                                                 ---------    ---------
+Cash flows from investing activities:
+  Purchase of Niagara and other businesses, including
+   acquisition costs and services                                                   (6,665)     (52,894)
+  Purchases of property and equipment, net                                          (1,975)      (7,630)
+  Proceeds from sale of Personalizing Division                                          --       47,890
+  Proceeds from sale of assets                                                         119          913
+  Net cash used by assets held for sale                                                 --       (7,618)
+                                                                                 ---------    ---------
+           Net cash used in investing activities                                    (8,521)     (19,339)
+                                                                                 ---------    ---------
+Cash flows from financing activities:
+  Repayment of old accounts receivable facility                                         --      (45,000)
+  Proceeds from new accounts receivable facility                                        --       45,000
+  Repayment of new accounts receivable facility                                         --      (10,000)
+  Net borrowings under line of credit                                                6,455           --
+  Proceeds from long-term debt                                                      10,209      192,773
+  Repayment of long-term debt                                                       (2,499)    (351,213)
+  Redemption premiums included in extraordinary loss                                    --       (7,700)
+  Debt issuance costs                                                                   --       (9,572)
+  Net proceeds from initial public offering                                             --      173,118
+                                                                                 ---------    ---------
+         Net cash provided by (used in) financing activities                        14,165      (12,594)
+                                                                                 ---------    ---------
+         Net increase (decrease) in cash                                                20       (5,141)
+Cash, beginning of period                                                               64       18,341
+                                                                                 ---------    ---------
+
+Cash, end of period                                                              $      84    $  13,200
+                                                                                 =========    =========
+</TABLE> 
+
+           See notes to condensed consolidated financial statements.
+
+                                       5
+<PAGE>
+ 
+AMERICAN PAD & PAPER COMPANY
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+
+- --------------------------------------------------------------------------------
+
+1.  Organization, Basis of Presentation and Business
+
+    Organization and Basis of Presentation
+
+         American Pad & Paper Company (the "Company") was incorporated on June
+2, 1992 as a holding company to acquire all of the outstanding stock of Ampad
+Corporation ("Ampad"), the surviving entity from the merger between Ampad
+Acquisition Corporation and Ampad. The Company had no operations through July
+31, 1992. All of the Company's operations are conducted through American Pad &
+Paper Company of Delaware, Inc. and its wholly owned subsidiaries.
+
+         The financial statements of the Company present the accounts and
+operations of the Company and its wholly owned subsidiaries. Additionally, the
+consolidated financial statements include the accounts of Notepad Funding
+Corporation, a special purpose corporation utilized in the accounts receivable
+facility. All significant intercompany balances have been eliminated. Certain
+prior and current year amounts have been reclassified for comparative purposes.
+
+     Business
+
+         The Company operates in one segment, paper converting, and is one of
+the largest manufacturers and marketers of paper-based office products
+(excluding computer forms and copy paper) in North America. It offers a broad
+assortment of products through two complementary divisions: Ampad (writing pads,
+file folders, retail envelopes and other paper-based office products) and
+Williamhouse (business envelopes). The Company's products are distributed
+through large mass merchant retailers, office product superstores, warehouse
+clubs, major contract stationers, office products wholesalers, independent
+dealers and merchants. Substantially all sales are to customers within the
+United States.
+
+    Interim Financial Information
+
+         The accompanying interim financial statements and pro forma information
+are unaudited. Certain information and disclosures normally included in
+financial statements prepared in accordance with generally accepted accounting
+principles have been condensed or omitted, although the Company believes the
+disclosures included herein are adequate to make the information presented not
+misleading. These interim financial statements should be read in conjunction
+with the Company's financial statements for the year ended December 31, 1995.
+
+         The accompanying interim financial statements contain all adjustments,
+consisting only of normal recurring adjustments, necessary for a fair
+presentation of the Company's financial position at September 30, 1996 and the
+results of its operations and its cash flows for the three and nine month
+periods ended September 30, 1996 and 1995. The results of operations for the
+interim periods presented are not necessarily indicative of results of the full
+fiscal year.
+
+2.  Summary of Significant Accounting Policies
+
+         Significant accounting policies followed in the preparation of the
+condensed consolidated financial statements are as follows:
+
+    Earnings per share
+
+         Given the changes in the Company's capital structure effected in
+connection with the initial public offering of the Company's common stock on
+July 2, 1996, historical earnings per common share amounts are not presented in
+the consolidated financial statements, except for the three month period ended
+September 30, 1996, as they are not considered to be meaningful. Pro forma
+earnings per share is presented for all other periods and reflects the sale of
+common shares in the initial public offering, the conversion of the preferred
+stock into common stock for the same periods outstanding as the underlying
+common stock on which the preferred stock was issued, and the 8.1192-for-one
+stock split.
+
+                                       6
+<PAGE>
+ 
+3.  Significant transactions
+
+    Niagara Envelope Company, Inc.
+
+         Effective June 28, 1996, the Company acquired the stock of Niagara
+Envelope Company, Inc. ("Niagara"). This acquisition was accounted for under the
+purchase method of accounting. Accordingly, the aggregate acquisition cost was
+allocated to the net assets acquired based on the fair value of such net assets
+in accordance with Accounting Principles Board Opinion (APB) No. 16. The
+aggregate acquisition costs totaled $47,647 and consisted of cash of $44,620 and
+direct acquisition costs of $3,027. Additionally, the Company paid $5,000 at
+closing under a one-year consulting services agreement. The Company principally
+financed the acquisition through proceeds from the sale of the Personalizing
+division described below. The aggregate acquisition cost has been preliminary
+allocated to the assets acquired and liabilities assumed as follows: cash and
+restricted cash of $1,141, accounts receivable of $10,223, inventories of
+$12,787, prepaid and other assets of $1,519, management services agreement of
+$5,000, property and equipment of $24,940, deferred income tax liability of
+$1,992, accounts payable of $6,106, accrued expenses of $9,710, other noncurrent
+liabilities of $693 and assumed debt of $3,900. The aggregate acquisition costs
+exceeded fair market value of the net assets acquired by $19,438. Accordingly,
+goodwill was recorded in accordance with APB No. 16 and is being amortized over
+40 years. The operating results of this acquisition have been included in the
+accompanying condensed consolidated financial statements since the date of
+acquisition.
+
+    WR Acquisition, Inc./Williamhouse-Regency
+
+         The Company acquired WR Acquisition, Inc. ("WR") and its wholly owned
+subsidiary Williamhouse-Regency of Delaware, Inc. ("Williamhouse") (later
+renamed American Pad & Paper Company of Delaware, Inc.) through a merger
+transaction effective October 31, 1995. The transaction was accounted for under
+the purchase method of accounting. Accordingly, the aggregate acquisition cost
+was allocated to the net assets acquired based on the fair market value of such
+net assets in accordance with APB No. 16. The aggregate acquisition cost totaled
+$147,853 and consisted of cash of $140,000 and direct acquisition costs of
+$7,853. The acquisition was entirely financed through the Company's bank credit
+agreement and an off-balance sheet accounts receivable facility. The aggregate
+acquisition costs have been preliminarily allocated to the assets acquired and
+liabilities assumed as follows: accounts receivable of $39,174; inventories of
+$49,496; prepaid expenses and other assets of $8,699; net assets held for sale
+of $40,094; property and equipment of $88,688; identifiable intangible assets of
+$37,900; deferred income tax liability of $27,644; accounts payable of $17,518;
+accrued expenses of $36,482; noncurrent liabilities of $2,019 and assumed debt
+of $152,905. The aggregate acquisition costs exceeded fair market value of the
+net assets acquired by $120,370. Accordingly, goodwill was recorded in
+accordance with APB No. 16 and is being amortized over 40 years. The operating
+results of this acquisition have been included in the accompanying condensed
+consolidated financial statements since the date of acquisition. The
+Williamhouse company consisted of the Williamhouse division, a manufacturer of a
+wide range of mill branded, specialty and commodity envelopes; and the Regency
+division, which provides custom imprinting services.
+
+         The Regency personalized stationery and invitations division (the
+"Personalizing Division") acquired in the acquisition was identified by the
+Company's management at the date of acquisition as a nonstrategic asset held for
+sale. The purchase price allocated to the net assets acquired included the
+expected proceeds from sale plus the net cash flows expected to be generated
+from the Personalizing Division from date of acquisition through the expected
+date of sale (the holding period), offset by interest expense incurred during
+the holding period on debt incurred to finance the purchase of the Personalizing
+Division. On June 27, 1996, the Personalizing Division was sold for net proceeds
+of $51,807, subject to certain post-closing purchase price adjustments. The net
+proceeds from the sale exceeded the carrying amount of the asset held for sale
+at September 30, 1996 by $2,907. As such, the preliminary purchase price
+allocation was adjusted resulting in a $2,907 reduction to goodwill. During the
+six month period ended June 30, 1996, the Personalizing Division had operating
+income of $2,369, and interest carrying costs of $1,884, which have been
+excluded from the condensed consolidated statement of operations and included as
+adjustments to the carrying amount of the net assets held for sale through the
+date of sale.
+
+                                       7
+<PAGE>
+ 
+ Globe-Weis
+
+         Effective August 16, 1995, the Company acquired the inventories and
+certain equipment of the file folder and hanging file folder product lines of
+Globe-Weis's ("Globe") office products division from Globe's parent. For
+financial reporting purposes, this acquisition was accounted for under the
+purchase method of accounting. Accordingly, the aggregate acquisition cost was
+allocated to the net assets acquired based on the fair value of such net assets
+in accordance with APB No. 16. The aggregate acquisition costs totaled $19,958
+and consisted of cash and seller issued notes of $17,869 and direct acquisition
+and financing costs of $2,089. The Company principally financed the acquisition
+through its financing arrangement with a commercial lender and notes issued to
+the seller, which notes were repaid in October 1995. The preliminary allocation
+of the aggregate acquisition costs was as follows: inventories of $12,848,
+equipment of $5,445, and debt issuance costs of $1,665. The operating results of
+this acquisition have been included in the accompanying consolidated financial
+statements since the date of acquisition.
+
+     Initial Public Offering
+
+         Effective July 2, 1996, the Company sold 12,500,000 shares of common
+stock in an initial public offering. The net proceeds to the Company from the
+offering, which were received on July 8, 1996, amounted to $173.1 million, after
+deducting underwriting discounts, legal and accounting fees and printing,
+registration and travel expenses. The Company used such proceeds to (i) repay
+$95.8 million on the indebtedness incurred under the Bank Credit Agreement, (ii)
+redeem $70 million aggregate principal amount of the 13% senior subordinated
+notes from the holders thereof on a pro rata basis, and (iii) pay $7.7 million
+in redemption premiums on such notes.
+
+     New Bank Credit Agreement
+
+         Contemporaneously with the initial public offering, the Company
+refinanced and retired all remaining indebtedness under the old bank credit
+agreement with the proceeds of the loans under a new bank credit agreement. As a
+result of the refinancing, effective July 8, 1996, the Company borrowed $162
+million in revolving loans and $6.5 million in swingline loans. The proceeds of
+these loans was used to (i) pay off the remaining $145 million in term loans, $5
+million in revolver loans and $7.7 million in swingline loans outstanding under
+the existing bank credit agreement and (ii) pay approximately $8.6 million in
+fees associated with the new bank credit agreement. The new bank credit
+agreement provides a revolving credit facility of $300 million. As a result of
+the new bank credit agreement, the Company's effective interest rate under its
+senior credit facility was reduced by approximately 189 basis points
+contemporaneously with the initial public offering.
+
+     Pro Forma Results of Operations
+
+         The following summary presents the results of operations for the nine
+months ended September 30, 1995 and 1996, on an unaudited pro forma basis, as if
+the Niagara, Williamhouse and Globe acquisitions and the initial public offering
+and the new bank credit agreement had occurred as of January 1, 1995 (with
+appropriate adjustments for amortization of intangible assets, interest expense,
+elimination of duplicate selling and administrative expenses and the related
+income tax effects). The pro forma operating results are for illustrative
+purposes only and do not purport to be indicative of the actual results which
+would have occurred had the transactions been consummated as of those earlier
+dates, nor are they indicative of results of operations which may occur in the
+future.
+
+<TABLE> 
+<CAPTION> 
+
+                                                          Nine months ended
+
+                                                            September 30,
+
+                                                           1995         1996
+                                                        ----------    --------
+<S>                                                     <C>         <C> 
+Net sales                                               $    449.7    $  462.3
+                                                        ==========    ========
+Income before income taxes and extraordinary item       $     21.6    $   32.2
+                                                        ==========    ========
+Net income before extraordinary item                    $     13.8    $   18.6
+                                                        ==========    ========
+Net income (loss)                                       $     13.8    $   (3.1)
+                                                        ==========    ========
+Net income (loss) per share                             $      .47    $   (.10)
+                                                        ==========    ========
+</TABLE> 
+
+                                       8
+<PAGE>
+ 
+4. Accounts Receivable
+
+         Accounts receivable consist of the following:
+
+<TABLE> 
+<CAPTION> 
+
+                                                     December 31,  September 30,
+                                                        1995            1996
+                                                     ------------  -------------
+<S>                                                  <C>           <C>  
+Accounts receivable--trade                            $  25,539      $ 58,561
+Accounts receivable--other                                2,013         3,554
+Less allowance for doubtful accounts and
+ reserves for customer deductions and cash
+ discounts                                               (1,609)       (1,828)
+                                                       --------      --------
+                                                       $ 25,943      $ 60,287
+                                                       ========      ========
+</TABLE> 
+
+         On May 29, 1996, the Company entered into a new $60 million accounts
+receivable facility to sell, on a revolving basis, an undivided interest in a
+designated pool of trade accounts receivable. At September 30, 1996, $35 million
+of accounts receivable were sold and are excluded from accounts receivable in
+the accompanying balance sheets. The full amount of the allowance for doubtful
+accounts has been retained because the Company has retained substantially the
+same risk of credit loss as if the accounts receivable had not been sold through
+the recourse provision of the receivable sale agreement. Under the agreement,
+the maximum amount of the purchaser's investment is subject to change based on
+the level of eligible accounts receivable and restrictions on concentrations of
+accounts receivable.
+
+5. Inventories
+
+Inventories consist of the following:
+
+<TABLE> 
+<CAPTION> 
+
+                                           December 31,           September 30,
+                                              1995                     1996
+                                           ------------           -------------
+<S>                                        <C>                    <C> 
+Raw material and semi-finished goods       $  36,129                $  36,300
+Work in process                                7,114                    7,462
+Finished goods                                60,266                   60,644
+                                           ---------                ---------
+                                             103,509                  104,406
+LIFO reserve                                 (10,448)                  (7,194)
+                                           ---------                ---------
+                                           $  93,061                $  97,212
+                                           =========                =========
+</TABLE> 
+
+6. Property, Plant and Equipment              
+
+The cost and accumulated depreciation of property, plant and equipment are as
+follows:
+
+<TABLE> 
+<CAPTION> 
+
+                                      December 31,    September 30,
+                                         1995             1996
+                                      ------------    -------------
+<S>                                   <C>             <C> 
+Property, plant and equipment         $   111,347       $   143,916
+Accumulated depreciation                   (4,579)          (11,375)
+                                      -----------        ---------- 
+
+                                      $   106,768       $   132,541
+                                       ==========        ==========
+</TABLE> 
+                                                  
+                                       9
+<PAGE>
+ 
+7. Intangible Assets
+
+The cost and accumulated amortization of intangible assets are as follows:
+
+<TABLE> 
+<CAPTION> 
+
+                                           December 31,     September 30,
+                                              1995              1996
+                                           ------------     -------------
+<S>                                        <C>              <C> 
+Debt issuance costs                         $    33,775        $   18,344
+Accumulated amortization                           (846)           (4,013)
+                                           ------------       -----------
+
+                                                 32,929            14,331
+                                           ------------       -----------
+
+Goodwill                                        121,176           142,732
+Accumulated amortization                           (793)           (3,226)
+                                           ------------       -----------
+
+                                                120,383           139,506
+                                           ------------       -----------
+
+Intangible assets                                37,900            38,216
+Accumulated amortization                           (200)           (1,107)
+                                           ------------       -----------
+
+                                                 37,700            37,109
+                                           ------------       -----------
+
+                                            $   191,012        $  190,946
+                                           ============       ===========
+</TABLE> 
+
+8.  Condensed Consolidating Financial Information of Guarantor Subsidiaries
+
+         The 13% senior subordinated notes are guaranteed by substantially all
+of the subsidiaries of American Pad & Paper Company of Delaware, Inc.
+("Delaware"), a wholly owned subsidiary of the Company and formerly known as
+Williamhouse-Regency of Delaware, Inc. The subsidiary guarantees are full,
+unconditional and joint and several. Each of the guarantor subsidiaries are
+wholly owned. The Company is not a guarantor of the Notes. Separate financial
+statements of the guarantor subsidiaries are not presented because management
+has determined that they would not be material to investors. However, condensed
+consolidating financial information as of December 31, 1995 and September 30,
+1996 and for the three and nine months ended September 30, 1996 are presented.
+The condensed consolidating financial information of Delaware is as follows:
+
+                                      10
+<PAGE>
+ 
+   Condensed Consolidating Balance Sheet
+
+<TABLE> 
+<CAPTION> 
+
+                                                                 December 31, 1995
+                                 -------------------------------------------------------------------------------------
+                                                 Guarantor         Nonguarantor                           Consolidated
+                                 Delaware      Subsidiaries         Subsidiary         Eliminations          Total
+                                 --------      ------------         ----------         ------------          -----
+<S>                              <C>           <C>                  <C>                <C>                <C> 
+Assets                                                                                                 
+Current assets:                                                                                        
+  Cash                          $  18,295        $     33          $      13          $                   $ 18,341
+  Restricted cash                   3,619            --                 --                 --                3,619
+  Accounts receivable, net        (13,490)           (154)            39,587               --               25,943
+  Intercompany receivable                                                                              
+   (payable)                       75,423         (72,255)            (3,168)              --                 --
+  Refundable income                                                                                    
+   taxes                            3,657            --                 --                 --                3,657
+  Inventories                      74,112          18,949               --                 --               93,061
+  Assets held for sale                864          41,714               --                 --               42,578
+  Deferred income taxes            17,395          (2,386)              --                 --               15,009
+  Other current assets                879              48               --                 --                  927
+                                ---------        --------          ---------          ---------           --------
+     Total current assets         180,754         (14,051)            36,432               --              203,135
+                                ---------        --------          ---------          ---------           --------
+
+Property and equipment, net        69,659          37,109               --                 --              106,768
+Investment in subsidiaries         41,575            --                 --              (41,575)              --
+Intangible assets, net            171,432          16,993              2,587               --              191,012
+Other                               3,311             130               --                 --                3,441 
+                                ---------        --------          ---------          ---------           --------
+    Total Assets                $ 466,731        $ 40,181          $  39,019          $ (41,575)          $504,356
+                                =========        ========          =========          =========           ========
+                                                                                                       
+Liabilities and 
+Stockholders' Equity 
+(Deficit)                                                                                       
+                                                                                                       
+Current liabilities:                                                                                   
+  Current portion of long-                                                                             
+    term debt                   $  10,652        $  1,182          $    --            $    --             $ 11,834
+  Accounts payable and                                                                                 
+   accrued expenses                62,869          19,014               --                 --               81,883
+  Income taxes payable                494            --                 --                 --                  494
+                                ---------        --------          ---------          ---------           --------
+    Total current liabilities      74,015          20,196               --                 --               94,211 
+                                ---------        --------          ---------          ---------           --------
+
+Long-term debt                    442,134           1,660               --                 --              443,794
+Other liabilities                   2,702            --                 --                 --                2,702
+Deferred income taxes              14,301          15,769               --                 --               30,070 
+                                ---------        --------          ---------          ---------           --------
+    Total liabilities             533,152          37,625               --                 --              570,777
+                                ---------        --------          ---------          ---------           --------
+
+Stockholders' equity                                                                                   
+(deficit):                                                                                             
+ Common stock                        --                 1                 10                (11)              --
+ Additional paid-in capital        28,998            --               37,370            (37,370)            28,998
+ Retained earnings                (95,419)          2,555              1,639             (4,194)           (95,419)
+                                ---------        --------          ---------          ---------           --------
+  Total stockholders' equity                                                                           
+   (deficit)                      (66,421)          2,556             39,019            (41,575)           (66,421)
+                                ---------        --------          ---------          ---------           --------
+
+    Total liabilities and                                                                              
+      stockholders' equity                                                                             
+      (deficit)                 $ 466,731        $ 40,181          $  39,019          $ (41,575)          $504,356
+                                =========        ========          =========          =========           ========
+</TABLE> 
+
+                                      11
+<PAGE>
+
+   Condensed Consolidating Balance Sheet
+<TABLE> 
+<CAPTION> 
+
+                                                                   September 30, 1996
+                                  ------------------------------------------------------------------------------------
+                                                     Guarantor         Nonguarantor                    Consolidated
+                                      Delaware      Subsidiaries        Subsidiary     Eliminations        Total
+                                      --------      ------------        ----------     ------------        -----
+<S>                                   <C>           <C>                 <C>            <C>               <C> 
+Assets
+Current Assets:
+
+ Cash                                $  12,980         $     220          $     --       $      --       $  13,200     
+  Restricted cash                        1,791               619                --              --           2,410
+ Accounts receivable                     8,259            11,605            40,423              --          60,287
+ Intercompany receivable                                                                                          
+  (payable)                             40,951           (36,693)           (4,258)             --              --
+ Inventories                            71,495            25,717                --              --          97,212
+ Assets held for sale                       --               356                --              --             356
+ Deferred income taxes                  13,199               181               690              --          14,070
+ Management services                                                                                              
+  agreement                                 --             3,750                --              --           3,750
+ Other current assets                    3,702               149                --              --           3,851
+                                     ---------         ---------          --------       ---------       ---------
+   Total current assets                152,377             5,904            36,855              --         195,136
+                                     ---------         ---------          --------       ---------       ---------
+                                                                                                                  
+Property and equipment, net             71,174            61,367                --              --         132,541
+Investment in subsidiaries              86,960            16,942                --        (103,902)             --
+Intangible assets, net                 155,174            35,298               474              --         190,946
+Other                                    1,198               592                --              --           1,790
+                                     ---------         ---------          --------       ---------       ---------
+  Total assets                       $ 466,883         $ 120,103          $ 37,329       $(103,902)      $ 520,413
+                                     =========         =========          ========       =========       =========
+                                                                                                                  
+Liabilities and                                                                                                   
+stockholders' equity (deficit)                                                                                    
+Current liabilities:                                                                                              
+ Current portion of long-                                                                                         
+  term debt                          $     688         $   1,480          $     --       $      --       $   2,168
+ Accounts payable and                                                                                             
+  accrued expenses                      70,140            18,692               153              --          88,985
+ Income taxes payable                   (9,063)            8,609               454                                
+                                     ---------         ---------          --------       ---------       ---------
+  Total current liabilities             61,765            28,781               607              --          91,153
+                                     ---------         ---------          --------       ---------       ---------
+                                                                                                                  
+Long-term debt                         294,140             4,780                --              --         298,920
+Other liabilities                        3,377               693                --              --           4,070
+Deferred income taxes                   13,152            18,669                --              --          31,821
+                                     ---------         ---------          --------       ---------       ---------
+  Total liabilities                    372,434            52,923               607              --         425,964
+                                                                                                                  
+Stockholders' equity (deficit):                                                                                   
+Common stock                                --               109                10            (119)             --
+Additional paid-in capital             300,980            53,055            35,399         (88,454)        300,980
+Retained earnings                     (206,531)           14,016             1,313         (15,329)       (206,531
+                                     ---------         ---------          --------       ---------       ---------
+Total stockholders' equity                                                                                        
+  (deficit)                             94,449            67,180            36,722        (103,902)         94,449
+                                     ---------         ---------          --------       ---------       ---------
+                                                                                                                  
+Total liabilities and                                                                                             
+ stockholders' equity                                                                                             
+ (deficit)                           $ 466,883         $ 120,103          $ 37,329       $(103,902)      $ 520,413
+                                     =========         =========          ========       =========       =========
+</TABLE> 
+
+
+                                      12
+
+<PAGE>
+ 
+Condensed Consolidating Statement of Operations
+
+<TABLE> 
+<CAPTION> 
+
+                                                   For the three months ended September 30, 1996
+                                   ------------------------------------------------------------------------------
+                                                 Guarantor      Nonguarantor                        Consolidated
+                                   Delaware     Subsidiaries     Subsidiary     Eliminations            Total
+                                   --------     ------------     ----------     ------------            -----
+<S>                              <C>            <C>             <C>             <C>                 <C>   
+Net sales                        $ 129,782       $ 60,795        $      -        $ (16,971)          $ 173,606
+Cost of sales                      107,117         47,423               -          (16,971)            137,569
+                                 ---------       --------        --------        ---------           ---------
+   Gross profit                     22,665         13,372               -                -              36,037
+
+Operating expenses:                                                                                           
+ Selling and marketing               3,460          1,485               -                -               4,945
+ General and administrative          5,561          4,165           (359)                -               9,367 
+                                 ---------       --------        --------        ---------           ---------
+   Income from operations           13,644          7,722             359                -              21,725
+
+Other income (expense):                                                                                       
+  Interest                          (9,775)          (139)            (26)               -              (9,940)
+  Other income, net                   (751)         1,159               -                -                 408
+                                 ---------       --------        --------        ---------           ---------
+ Income before income                                                                                         
+   taxes                             3,118          8,742             333                -              12,193
+                                                                                                              
+Provision for income                                                                                          
+   taxes                             1,341          3,777             150                -               5,268
+                                 ---------       --------        --------        ---------           ---------
+
+Income before equity in                                                                                       
+  net earnings of subsidiaries                                                                                
+  and extraordinary items            1,777          4,965             183                -               6,925
+                                                                                                              
+Equity in net earnings of                                                                                     
+  subsidiaries                       5,148              -               -           (5,148)                  -
+                                 ---------       --------        --------        ---------           ---------
+Income (loss) before                                                                                          
+  extraordinary item                 6,925          4,965             183           (5,148)              6,925
+                                                                                                              
+Extraordinary loss from                                                                                       
+  extinguishment of debt, net      (18,695)             -               -                -             (18,695)
+                                 ---------       --------        --------        ---------           ---------
+Net income (loss)                $ (11,770)      $  4,965        $    183        $  (5,148)          $ (11,770)
+                                 =========       ========        ========        =========           =========
+</TABLE> 
+
+                                      13
+<PAGE>
+ 
+Condensed Consolidating Statement of Operations
+
+<TABLE> 
+<CAPTION> 
+
+                                                   For the three months ended September 30, 1996
+                                   ------------------------------------------------------------------------------
+                                                  Guarantor      Nonguarantor                        Consolidated
+                                      Delaware   Subsidiaries     Subsidiary      Eliminations           Total
+                                      --------   ------------     -----------     ------------           -----
+<S>                                 <C>           <C>             <C>             <C>                 <C>   
+Net sales                            $ 304,167      $ 130,394      $        -       $ (26,748)         $  407,813
+Cost of sales                          249,863        100,202               -         (26,748)            323,317
+                                    ----------      ---------      ----------       ---------           ---------
+   Gross profit                         54,304         30,192               -               -              84,496
+                                                                                             
+Operating expenses:                                                                          
+ Selling and marketing                   8,972          3,193               -               -              12,165
+ General and administrative             20,712          6,211          (2,026)              -              24,897
+                                   -----------     ----------      ----------       ---------           ---------
+   Income from operations               24,620         20,788           2,026               -              47,434
+Other income (expenses):                                                                     
+ Interest                              (34,449)          (223)           (300)              -             (34,972)
+ Other income, net                       2,191         (1,012)              -               -               1,179
+                                   -----------     ----------      ----------       ---------           ---------
+Income (loss) before income                                                                  
+ taxes                                  (7,638)        19,553           1,726               -              13,641
+Provision (benefit) for income                                                               
+ taxes                                  (3,306)         8,447             752               -               5,893
+                                   -----------     ----------      ----------       ---------           ---------
+Income (loss) before equity in                                                               
+ net earnings of subsidiaries                                                                
+ and extraordinary items                (4,332)        11,106             974               -               7,748
+Equity in net earnings of                                                                    
+ subsidiaries                           12,080              -               -         (12,080)                  -
+                                   -----------     ----------      ----------       ---------           ---------
+Income (loss) before                                                                         
+ extraordinary items                     7,748         11,106             974         (12,080)              7,748
+Extraordinary loss from                                                                      
+ extinguishment of debt, net           (19,995)             -          (1,300)          1,300             (19,995)
+                                   -----------     ----------      ----------       ----------          ---------
+Net income (loss)                   $  (12,247)    $   11,106      $     (326)     $  (10,780)         $  (12,247)
+                                    ==========     ==========    ============      ===========         ==========
+</TABLE> 
+
+                                      14
+<PAGE>
+ 
+Condensed Consolidating Cash Flow Information
+
+
+<TABLE> 
+<CAPTION> 
+
+                                                   For the three months ended September 30, 1996
+                                   ------------------------------------------------------------------------------
+                                                 Guarantor      Nonguarantor                     Consolidated      
+                                   Delaware     Subsidiaries     Subsidiary     Eliminations         Total            
+                                   --------     ------------     ----------     ------------         -----            
+<S>                              <C>            <C>             <C>             <C>              <C>                  
+Net cash provided by (used in)                                                                                        
+ operating activities              $67,512         $(40,864)      $   144      $       -          $  26,792           
+                                                                                                                      
+Investing activities:                                                                                                 
+                                                                                                                      
+  Proceeds from sale of assets         864           47,939             -              -             48,803           
+  Purchase of Niagara              (52,894)               -             -              -            (52,894)          
+  Other                             (9,140)          (6,108)            -              -            (15,248)          
+                                   --------        --------       -------      ---------          ---------           
+Net cash provided by (used in)                                                                                        
+  investing activities             (61,170)          41,831             -              -            (19,339)          
+                                   --------        --------       -------      ---------          ---------           
+Financing activities                                                                                                  
+Repayment of old accounts                                                                                             
+  receivable facility              (45,000)               -             -              -            (45,000)          
+Proceeds from new accounts                                                                                            
+  receivable facility               45,000                -             -              -             45,000           
+Repayment of new accounts                                                                                             
+  receivable facility              (10,000)               -             -              -            (10,000)          
+Proceeds from long-term debt       192,773                -             -              -            192,773           
+Repayment of long term debt       (350,433)            (780)            -              -           (351,213)          
+Debt issuance costs and                                                                                               
+  redemption premium               (19,086)               -         1,814              -            (17,272)          
+Proceeds from initial public                                                                                          
+  offering, net                    173,118                -             -              -            173,118           
+Other                                1,971                -        (1,971)             -                -             
+                                   -------         --------       --------     ---------          ---------           
+Net cash provided by (used in)                                                                                        
+  financing activities             (11,657)            (780)          (157)            -            (12,594)          
+                                   -------         --------       --------     ---------          ---------           
+Net increase (decrease) in cash     (5,315)             187           (13)             -             (5,141)          
+Cash, beginning of period           18,295               33            13              -             18,341           
+                                   -------         --------       --------     ---------          ---------           
+Cash, end of period                $12,980         $    220       $     -      $       -          $  13,200           
+                                   =======         ========       =========    =========          =========            
+</TABLE> 
+
+                                      15
+<PAGE>
+ 
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+         FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Results of Operations
+
+Three Months Ended September 30, 1996 Compared to Three Months Ended September
+30, 1995
+
+         Net sales for the three months ended September 30, 1996 increased by
+$119.8 million, or 223%, to $173.6 million from $53.8 million for the three
+months ended September 30, 1995. Of this net sales increase, $99.3 million is
+related to the acquisition of the Williamhouse division and $8.8 million is
+related to the acquisition of the Globe-Weis. Ampad division net sales increased
+by $11.7 million in the third quarter of 1996 compared to the third quarter of
+1995 due to higher sales to fast growing customer channels such as superstores,
+mass merchants stores and contract stationers.
+
+         Gross profit for the three months ended September 30, 1996 increased by
+$25.8 million, or 251%, to $36.0 million from $10.3 million for the three months
+ended September 30, 1995. Approximately $24.6 million of the increase in gross
+profit is attributable to the acquisition of Williamhouse and Niagara. Gross
+profit margin increased to 21% for the three months ended September 30, 1996
+from 19% for the three months ended September 30, 1995. The increase in gross
+profit margin is primarily attributable to higher margins of the Williamhouse
+division.
+
+         SG&A expenses for the three months ended September 30, 1996 increased
+$11.1 million, or 347%, to $14.3 million from $3.2 million for the three months
+ended September 30, 1995. Approximately $7.6 million is attributable to the
+acquisitions of Williamhouse and Niagara, $1.6 million is attributable to
+management fees payable to a significant shareholder and to a former owner of an
+acquired envelope company, and $1.2 million to amortization of goodwill and
+intangible assets related to the acquisitions. The remainder of the increase in
+selling, general and administrative expenses is primarily attributable to
+increases in selling and administrative personnel at the Ampad division and at
+the Company's corporate office to support the sales growth of the Company.
+
+         Interest expense for the three months ended September 30, 1996
+increased $7.8 million to $9.9 million from $2.1 million for the three months
+ended September 30, 1995. The increase is attributable primarily to increased
+borrowings as a result of the acquisitions.
+
+         The income tax provision for the three month period ended September 30,
+1996 reflects an effective tax rate of 43.2% versus an effective tax rate of
+2.9% for the three month period ended September 30, 1995. The effective tax rate
+for the three months ended September 30, 1996 is consistent with the effective
+tax rate for the first six months of 1996 and also represents the expected
+effective tax rate for all of 1996. The tax rate for the three months ended
+September 30, 1995 is unusually low due to the release of a tax valuation
+allowance in 1995 as the Company recognized the tax benefit of its carryforward
+tax losses.
+
+         Extraordinary item representing an after tax loss on extinguishment of
+debt of $18.7 million ($30.7 million pretax) was recognized as a result of the
+premium paid to redeem 35% of the senior subordinated notes using a portion of
+the net proceeds from the Company's initial public offering and the write off of
+unamortized deferred financing costs associated with the senior subordinated
+notes and with the old bank credit agreement.
+
+Nine Months Ended September 30, 1996 Compared to Nine Months Ended September 30,
+1995
+
+         Net sales for the nine months ended September 30, 1996 increased by
+$261.8 million, or 179%, to $407.8 million from $146.0 million for the nine
+months ended September 30, 1995. Of this net sales increase, $222.0 million is
+related to the acquisition of the Williamhouse division and $36.9 million is
+related to the acquisition of Globe-Weis. Ampad division net sales increased by
+$2.9 million in the first nine months of 1996 compared to 1995 due to higher
+sales to the fast growing customer channels such as superstores, mass merchant
+stores and contract stationers. During the unusually strong first nine months of
+1995, certain of the Company's customers increased inventory levels in
+anticipation of supply shortages. Such customer actions were not repeated in the
+first nine months of 1996.
+
+         Gross profit for the nine months ended September 30, 1996 increased by
+$61.0 million, or 260%, to $84.5 million from $23.5 million for the nine months
+ended September 30 1995. Approximately $56.4 million of the increase in gross
+profit is attributable to the acquisition of Williamhouse and Niagara. Gross
+profit margin 
+
+                                      16
+<PAGE>
+ 
+increased to 21% for the nine months ended September 30, 1996 from 16% for the
+nine months ended September 30, 1995. The increase in gross profit margin is
+primarily attributable to higher margins of the Williamhouse division.
+
+         SG&A expenses for the nine months ended September 30, 1996 increased
+$28.3 million, or 322%, to $37.1 million from $8.8 million for the nine months
+ended September 30, 1995. Approximately $21.9 million is attributable to the
+acquisition of Williamhouse and Niagara, $2.4 million is attributable to
+management fees payable to a significant shareholder and to a former owner of an
+acquired envelope company and $3.2 million to amortization of goodwill and
+intangibles related to the acquisitions. The remainder of the increase is due
+primarily to increased personnel which helped support the increase in the sales
+of the Ampad division and the overall growth of the Company.
+
+         Interest expense for the nine months ended September 30, 1996 increased
+$29.1 million to $35.0 million from $5.9 million for the nine months ended
+September 30, 1995. The increase is attributable primarily to increased
+borrowing as a result of the acquisitions.
+
+         The income tax provision for the nine month period ended September 30,
+1996 reflects an effective tax rate of 43.2% versus an effective tax rate of
+18.6% for the nine month period ended September 30, 1995. The effective tax rate
+for 1996 reflects a 40% statutory federal and state income tax rate adjusted for
+nondeductible expenses, primarily goodwill amortization. The effective tax rate
+for the nine months ended September 30, 1995 is lower than the statutory rate
+due to the release of a tax valuation allowance related to the recognition of
+carryforward tax losses.
+
+         Extraordinary item representing an after tax loss on extinguishment of
+debt of $20.0 million ($33.0 million pretax) was recognized as a result of the
+redemption of $70.0 million of senior subordinated notes with a portion of the
+net proceeds from the initial public offering and the write off of unamortized
+deferred financing costs related to the senior subordinated notes, the old bank
+credit agreement and the old accounts receivable facility.
+
+         The results of operations for the first nine months of 1996 may not be
+indicative of future anticipated operating results due to the Company's
+significant acquisition activity. See Note 3 in Item 1.
+
+Liquidity and Capital Resources
+
+         Net cash provided by operating activities for the nine months ended
+September 30, 1996 was $26.8 million compared to a use of cash of $5.6 million
+for the nine months ended September 30, 1995. The increase in net cash provided
+by operating activities is primarily due to higher net sales and earnings of the
+Company in 1996.
+
+         Cash used in investing activities for the nine months ended September
+30, 1996 and 1995 was $19.4 million and $8.5 million, respectively. The use of
+cash for the nine months ended September 30, 1996 was principally due to the
+Niagara acquisition ($52.9 million) and purchases of equipment ($7.6 million),
+offset by proceeds from the sale of the Personalizing Division ($47.9 million).
+The use of cash for the nine months ended September 30, 1995 was primarily due
+to purchases of equipment and due to the acquisition of Globe-Weis.
+
+         Cash used in financing activities for the nine months ended September
+30, 1996 was $12.6 million as compared to a provision of cash from financing
+activities of $14.2 million for the nine months ended September 30, 1995. During
+the nine months ended September 30, 1996, the Company (i) completed its initial
+public offering of 12.5 million shares of common stock for $173.1 million in net
+proceeds after deducting offering fees and expenses, (ii) refinanced its
+accounts receivable facility with a new $60.0 million facility, (iii) refinanced
+its bank credit agreement, (iv) redeemed $70.0 million of senior subordinated
+notes, (v) repaid $95.8 million of debt incurred under the old bank credit
+agreement, (vi) paid $7.7 million in redemption premiums on the senior
+subordinated notes, and (vii) repaid $10 million under the new accounts
+receivable facility with proceeds from the sale of the Personalizing Division.
+
+         Contemporaneously with the initial public offering, the Company
+refinanced and retired all remaining indebtedness under the old bank credit
+agreement with the proceeds of the loans under the new bank credit agreement. As
+a result of the refinancing, effective July 8, 1996, the Company borrowed $162.0
+million in revolving loans and $6.5 million in swingline loans. The proceeds of
+these loans were used to (i) pay off the remaining $145.0 million in term loans,
+$5.0 million in revolver loans and $7.7 million in swingline loans outstanding
+under the old bank credit agreement and (ii) pay approximately $8.1 million in
+fees associated with the new bank credit agreement. The new bank credit
+agreement provides a revolving credit facility of $300 million subject to the
+following principal terms. Loans made under the new bank credit agreement bear
+interest at a rate 
+
+                                      17
+<PAGE>
+ 
+per annum equal to, at the Company's option, (i) a base rate plus an applicable
+margin or (ii) the LIBOR rate plus an applicable margin (as each term is defined
+in the new bank credit agreement). The applicable margin varies from 0% to
+1.75%, based on the Company's level of debt as compared to earnings ("leverage
+ratio"). The Company's margin is currently 1.50%. Availability under the new
+bank credit agreement is subject to an unused commitment fee which, like the
+applicable margin, varies from .3% to .5% based on the Company's leverage ratio.
+The Company's current rate is .45%. Availability under the new bank credit
+agreement will be reduced to the extent of the net proceeds of a sale of assets
+by the Company, the net proceeds of an issuance of debt by the Company or 50% of
+the net proceeds of an issuance of equity by the Company. Availability will also
+be reduced by $50 million in 1999 and $50 million in 2000. The new bank credit
+agreement will terminate in 2001. The Company will be permitted to make
+acquisitions under the new bank credit agreement up to an aggregate of $25
+million without consent of the agent bank and up to $50 million if, on a pro
+forma basis giving effect to such acquisition, the Company's leverage ratio is
+less than 3.0:1.0. As a result of the new bank credit agreement, the Company's
+effective interest rate under its senior credit facility was reduced by 189
+basis points contemporaneously with the initial public offering.
+
+         On May 29, 1996, the Company refinanced its $45 million accounts
+receivable facility with a new $60 million accounts receivable facility. Under
+the new facility the Company may sell, on a revolving basis, an undivided
+interest in a designated pool of trade accounts receivable. At September 30,
+1996, $35.0 million of accounts receivable were sold under the program. The
+agreement expires in 2000.
+
+         Management believes that based on current levels of operations and
+anticipated internal growth, cash flow from operations, together with other
+available sources of funds including borrowings under the new bank credit
+agreement and available cash on hand at September 30, 1996 of $13.2 million,
+will be adequate for the foreseeable future to make required payments of
+principal and interest on the Company's indebtedness, to fund anticipated
+capital expenditures and working capital requirements and to enable the Company
+and its subsidiaries to comply with the terms of their debt agreements. However,
+actual capital requirements may change, particularly as a result of any
+acquisitions which the Company may make. The ability of the Company to meet its
+debt service obligations and reduce its total debt will be dependent, however,
+upon the future performance of the Company and its subsidiaries which, in turn,
+will be subject to general economic conditions and to financial, business and
+other factors, including factors beyond the Company's control. A portion of the
+consolidated debt of the Company bears interest at floating rates; therefore,
+its financial condition is and will continue to be affected by changes in
+prevailing interest rates. The Company has entered into an interest rate
+protection agreement to minimize the impact from a rise in interest rates.
+
+PART II. OTHER INFORMATION
+
+ITEM 6.  Exhibits and Reports on Form 8-K.
+
+(a)      Exhibits. The following Exhibits are filed herewith and made a part
+         hereof:
+
+Exhibit No.                       Description of Exhibit
+- ----------                        ----------------------
+10.1              Amended and Restated Advisory Agreement, dated July 8, 1996,
+                  between Bain Capital, Inc. and American Pad & Paper Company of
+                  Delaware, Inc.
+
+27.1              Financial Data Schedule.
+
+(1)               The Company agrees to furnish supplementally to the Commission
+                  a copy of any omitted schedule or exhibit upon request by the
+                  Commission.
+
+(b)               Reports on Form 8-K. No reports on Form 8-K were filed during
+                  the period presented.
+
+                                      18
+<PAGE>
+ 
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+each Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+Date:  November 4, 1996                       American Pad & Paper Company
+
+                                              American Pad & Paper Company
+                                              Of Delaware, Inc.
+
+                                              By:  /s/ Kevin W. McAleer
+                                                   -------------------------
+                                                        Kevin W. McAleer
+                                                        Chief Financial Officer
+
+                                      19
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>AMENDED AND RESTATED ADVISORY AGREEMENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 10.1
+
+
+                             AMENDED AND RESTATED
+                              ADVISORY AGREEMENT
+                              ------------------
+
+
+          This Agreement dated as of July 8, 1996 by and among American Pad &
+Paper Company of Delaware, Inc., a Delaware corporation (the "Company"),  and
+Bain Capital, Inc., a Delaware corporation ("Bain").  Bain is referred to herein
+as "Advisor".
+
+          WHEREAS, the parties hereto are parties to an Advisory Agreement dated
+as of October 31, 1995 (the "Original Agreement") and desire to amend and
+restate the Original Agreement;
+
+          NOW, THEREFORE, in consideration of the premises and the mutual
+covenants contained herein, the parties agree to amend and restate the Original
+Agreement as follows:
+
+          1.  Term.  This Agreement shall be in effect for an initial term of 
+              ----                                                   
+four years commencing on the date hereof (the "Initial Term"), and on each
+anniversary of the date of this Agreement (an "Anniversary Date") during the
+Initial Term where Bain or its Affiliates own at least 5% of the outstanding
+common stock of American Pad & Paper Company("APP") on such Anniversary Date,
+the term of this Agreement will be extended to four years from such Anniversary
+Date(it being understood that the maximum term of this Agreement will be eight
+years). "Affiliate" means any person directly or indirectly controlled by, or
+         ---------                                                           
+under common control with such person, and which shall include for purposes of
+this Agreement, any limited partners of Tyler Capital Fund, L.P., Tyler
+Massachusetts, L.P. and Tyler International, L.P.-II, Frederick H. Potts and
+Karl E. Lutz.
+
+          2.  Services.  Advisor shall perform or cause to be performed such 
+              --------                                                 
+services for the Company and its subsidiaries as directed by the Company's
+board of directors, which may include, without limitation, the following:
+
+          (a) general executive and management services;
+
+          (b) identification, support, negotiation and analysis of acquisitions
+and dispositions by the Company or its subsidiaries;
+
+          (c) support, negotiation and analysis of financing alternatives,
+including, without limitation, in connection with acquisitions, capital
+expenditures and refinancing of existing indebtedness;
+
+          (d) finance functions, including assistance in the preparation of
+financial projections, and monitoring of compliance with financing agreements;
+
+          (e) marketing functions, including monitoring of marketing plans and
+strategies;
+<PAGE>
+ 
+          (f) human resource functions, including searching and hiring of
+executives; and
+
+          (g) other services for the Company and its subsidiaries upon which the
+Company's board of directors and the Advisor agree.
+
+          3.  Advisory Fee.  Payment for services rendered by the Advisor 
+              ------------                                       
+incurred in connection with the performance of services pursuant to this
+Agreement shall be $2 million per year plus reasonable out-of-pocket expenses of
+Advisor, payable by the Company on a quarterly basis in arrears commencing June
+30, 1996.
+
+          4.  Transaction Fees.  (a) The Company hereby agrees to pay to the 
+              ----------------                                          
+Advisor on the closing date of the public offering of the common stock of APP a
+fee for services rendered in connection with such issuance payable by wire
+transfer in an amount of $2 million to Advisor plus reasonable out-of-pocket
+expenses of Advisor.
+
+          (b) In addition, during the term of this Agreement, Advisor shall
+receive from the Company a transaction fee in connection with the consummation
+of each acquisition, divestiture or financing by APP or its subsidiaries in an
+amount equal to 1% of the aggregate value of such transaction.
+
+          5.  Personnel.  Advisor shall provide and devote to the performance 
+              ---------                                          
+of this Agreement such partners, employees and agents of Advisor as Advisor
+shall deem appropriate to the furnishing of the services required.
+
+          6.  Liability.  Neither Advisor nor any of its affiliates, partners, 
+              ---------                                             
+employees or agents shall be liable to the Company or its subsidiaries or
+affiliates for any loss, liability, damage or expense arising out of or in
+connection with the performance of services contemplated by this Agreement,
+unless such loss, liability, damage or expense shall be proven to result
+directly from gross negligence, willful misconduct or bad faith on the part of
+the Advisor, its affiliates, partners, employees or agents acting within the
+scope of their employment or authority.
+
+          7.  Indemnity.  The Company and its subsidiaries shall defend,
+              ---------                                                 
+indemnify and hold harmless Advisor, its  affiliates, partners, employees and
+agents from and against any and all loss, liability, damage, or expenses arising
+from any claim (a "Claim") by any person with respect to, or in any way related
+to, the performance of services contemplated by this Agreement or services
+provided in connection with the Agreement (including attorneys' fees)
+(collectively, "Claims") resulting from any act or omission of Advisor, its
+affiliates, partners, employees or agents, other 
+
+                                     - 2 -
+<PAGE>
+ 
+than for Claims which shall be proven to be the direct result of gross
+negligence, bad faith or willful misconduct by Advisor, its affiliates,
+partners, employees or agents. The Company and its subsidiaries shall defend at
+its own cost and expense any and all suits or actions (just or unjust) which may
+be brought against the Company, its subsidiaries and Advisor, its officers,
+directors, affiliates, partners, employees or agents or in which Advisor, its
+affiliates, partners, employees or agents may be impleaded with others upon any
+Claim or Claims, or upon any matter, directly or indirectly, related to or
+arising out of this Agreement or the consummation of the Agreement or the
+performance hereof or thereof by Advisor, its affiliates, partners, employees or
+agents, except that if such damage shall be proven to be the direct result of
+gross negligence, bad faith or willful misconduct by Advisor, its affiliates,
+partners, employees or agents, then Advisor shall reimburse the Company and its
+subsidiaries for the costs of defense and other costs incurred by the Company
+and its subsidiaries.
+
+          8.  Notices.  All notices hereunder shall be in writing and shall be 
+              -------                                                
+delivered personally or mailed by United States mail, postage prepaid, addressed
+to the parties as follows:
+
+          To the Company:
+
+          American Pad & Paper Company of Delaware, Inc.
+          17304 Preston Road
+          Dallas, Texas 75252
+          Attention: Charles G. Hanson, III
+                     Russell M. Gard
+
+          To Bain:
+
+          Bain Capital, Inc.
+          Two Copley Place
+          Boston, Massachusetts  02116
+          Attention:  Marc Wolpow
+                      Jonathan Lavine
+
+          9.  Assignment.  Neither party may assign any obligations hereunder to
+              ----------                                           
+any other party without the prior written consent of the other party; such
+consent shall not be unreasonably withheld; provided, however, that Advisor may
+assign its rights and obligations under this Agreement to any of its affiliates
+without the consent of the Company. The assignor shall remain liable for the
+performance of any assignee.
+
+          10. Successors.  This Agreement and all the obligations and benefits 
+              ----------                                             
+hereunder shall inure to the successors and assigns of the parties.
+
+                                     - 3 -
+<PAGE>
+ 
+          11. Counterparts.  This Agreement may be executed and delivered by 
+              ------------                                     
+each party hereto in separate counterparts, each of which when so executed and
+delivered shall be deemed an original and both of which taken together shall
+constitute but one and the same agreement.
+
+          12. Entire Agreement; Modification; Governing Law. The terms and 
+              ---------------------------------------------           
+conditions hereof constitute the entire agreement between the parties hereto
+with respect to the subject matter of this Agreement and supersede all previous
+communications, either oral or written, representations or warranties of any
+kind whatsoever, except as expressly set forth herein.  No modifications of this
+Agreement nor waiver of the terms or conditions thereof shall be binding upon
+either party unless approved in writing by an authorized representative of such
+party.  All issues concerning this agreement shall be governed by and construed
+in accordance with the laws of the State of New York, without giving effect to
+any choice of law or conflict of law provision or rule (whether of the State of
+New York or any other jurisdiction) that would cause the application of the law
+of any jurisdiction other than the State of New York.
+
+
+                              *     *     *     *
+
+                                     - 4 -
+<PAGE>
+ 
+          IN WITNESS WHEREOF, the parties have executed this Agreement on the
+date first above written.
+ 
+                              AMERICAN PAD & PAPER COMPANY OF
+                              DELAWARE, INC.
+
+
+                              By:/s/ Gregory M. Benson
+                                 ----------------------------
+
+                              Its: Chief Financial Officer
+                                  ---------------------------
+
+
+                              BAIN CAPITAL, INC.
+
+
+                              By: /s/ Robert Gay
+                                 -----------------------------
+                              Its: Managing Director
+                                  ---------------------------
+
+
+ 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>ARTICLE 5 FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+<CIK>                           0000817647
+<NAME>                          AMERICAN PAD AND PAPER COMPANY OF DELAWARE, INC.
+<MULTIPLIER> 1,000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-1996             DEC-31-1996
+<PERIOD-START>                             JUL-01-1996             JAN-01-1996
+<PERIOD-END>                               SEP-30-1996             SEP-30-1996
+<CASH>                                          13,200                  13,200
+<SECURITIES>                                         0                       0
+<RECEIVABLES>                                   62,115                  62,115
+<ALLOWANCES>                                   (1,828)                 (1,828)
+<INVENTORY>                                     97,212                  97,212
+<CURRENT-ASSETS>                               195,136                 195,136
+<PP&E>                                         143,927                 143,927
+<DEPRECIATION>                                (11,386)                (11,386)
+<TOTAL-ASSETS>                                 520,413                 520,413
+<CURRENT-LIABILITIES>                           91,153                  91,153
+<BONDS>                                        130,000                 130,000
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                           274                     274
+<OTHER-SE>                                      94,175                  94,175
+<TOTAL-LIABILITY-AND-EQUITY>                   520,413                 520,413
+<SALES>                                        173,606                 407,813
+<TOTAL-REVENUES>                               173,606                 407,813
+<CGS>                                          137,569                 323,317
+<TOTAL-COSTS>                                  151,881                 360,379
+<OTHER-EXPENSES>                                 (408)                 (1,179)
+<LOSS-PROVISION>                                   111                     261
+<INTEREST-EXPENSE>                             (9,940)                (34,972)
+<INCOME-PRETAX>                                 12,193                  13,641
+<INCOME-TAX>                                     5,268                   5,893
+<INCOME-CONTINUING>                              6,925                   7,748
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                               (18,695)                (19,995)
+<CHANGES>                                            0                       0
+<NET-INCOME>                                  (11,770)                (12,247)
+<EPS-PRIMARY>                                        0                       0
+<EPS-DILUTED>                                        0                       0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

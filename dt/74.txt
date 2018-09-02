@@ -1,0 +1,208 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TSEEZRZl2F3TlC5ywf+JCx6AomsZwObLPrBtWGnOZYfA8bbVe3IIvo98B/is9CUb
+ zRw/XIt6DJ/T1HC/Xa5SXw==
+
+<SEC-DOCUMENT>0000005588-98-000010.txt : 19981118
+<SEC-HEADER>0000005588-98-000010.hdr.sgml : 19981118
+ACCESSION NUMBER:		0000005588-98-000010
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980930
+FILED AS OF DATE:		19981116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043164298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		98749614
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		9727336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDED 10Q FOR AMERICAN PAD & PAPER COMPANY
+<TEXT>
+
+
+                                    FORM 10-Q/A
+
+[X]      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                For the quarterly period ended September 30, 1998
+
+                                       OR
+
+[   ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+
+
+                         Commission file number 1-11803
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+             (Exact name of registrant as specified in its charter)
+
+
+            Delaware                                           04-3164298
+    (State or other jurisdiction of                         (I.R.S. Employer
+    incorporation or organization)                        Identification No.)
+
+                    17304 Preston Road, Suite 700, Dallas, TX
+                                   75252-5613
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                 (972) 733-6200
+              (Registrant's telephone number, including area code)
+
+
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+Yes     X                  No         
+
+
+         As of November 13 , 1998,  American Pad & Paper Company had  27,724,045
+shares of Common Stock outstanding.
+
+===============================================================================
+
+
+<PAGE>
+                          PART 1 - FINANCIAL INFORMATION
+
+                          AMERICAN PAD & PAPER COMPANY
+                     CONSOLIDATED BALANCE SHEETS (Unaudited)
+                    (in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+
+                                                    September 30,  December 31,
+                                                          1998          1997
+                                                   --------------  ------------
+<S>                                               <C>............ <C>..........
+ASSETS
+
+Current assets:
+  Cash ............................................$       33,228  $      4,855
+  Accounts receivable, net ........................        49,001        74,203
+  Inventories, net ................................       129,607       154,359
+  Refundable income taxes .........................           751         4,059
+  Prepaid expenses and other current assets .......         1,704         1,402
+  Deferred income taxes ...........................         2,000        11,992
+                                                   --------------  ------------
+    Total current assets ..........................       216,291       250,870
+
+Property, plant and equipment, net ................       152,181       151,390
+Intangible assets, net ............................       187,080       233,698
+Other .............................................         2,729         2,443
+                                                    -------------  ------------
+
+     Total assets ................................. $     558,281  $    638,401
+                                                    =============  ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Current portion of long-term debt ............... $       1,021  $      1,538
+  Accounts payable ................................        42,674        56,356
+  Accrued expenses ................................        53,329        40,157
+  Restructuring reserve ...........................         5,741          --
+                                                    -------------  ------------
+     Total current liabilities ....................       102,765        98,051
+
+Long-term debt ....................................       412,348       398,577
+Deferred income taxes .............................        12,337        39,477
+Other .............................................         1,568         1,630
+                                                    -------------  ------------
+   Total liabilities ..............................       529,018       537,735
+                                                    -------------  ------------
+
+Commitments and contingencies Stockholders' equity:
+  Preferred stock, 150 shares authorized,
+   no shares issued and outstanding, respectively
+                                                             --             --
+  Common stock,  voting,  $.01 par value,  75,000
+   shares authorized,  27,724 and
+   27,436 shares issued
+    and outstanding, respectively .................           277           274
+  Additional paid-in capital ......................       301,287       301,279
+  Accumulated deficit .............................      (272,301)     (200,887)
+                                                    -------------  ------------
+
+    Total stockholders' equity ....................        29,263       100,666
+                                                    -------------  ------------
+
+    Total liabilities and stockholders' equity .... $     558,281  $    638,401
+                                                    =============  ============
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       2
+<PAGE>
+                                   SIGNATURES
+
+Pursuant to the  requirements of the Securities  Exchange Act of 1934,  American
+Pad & Paper  Company has duly  caused  this report to be signed on November  13,
+1998 on their behalf by the undersigned thereunto duly authorized.
+
+
+<TABLE>
+
+<S>                                    <C>
+
+/s/ James W. Swent, III                            /s/ David N. Pilotte
+- ----------------------------            ----------------------------------------
+James W. Swent, III                                    David N. Pilotte
+Chief Executive Officer and             Vice President and Corporate Controller
+Chief Financial Officer                        Principal Accounting Officer
+Principal Financial Officer
+</TABLE>
+
+
+                                       3
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

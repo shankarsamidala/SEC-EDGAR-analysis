@@ -1,0 +1,1845 @@
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+                       management's discussion and analysis of
+                    results of operations and financial condition
+
+overview
+the merger  with  tele-communications,  inc.  (tci) was  completed  in the first
+quarter of 1999 in an all stock transaction valued at approximately $52 billion.
+at&amp;t;  issued  approximately  664  million  shares in the  transaction,  of which
+approximately  149 million were treasury  shares.  also in  connection  with the
+merger of tci in the first  quarter of 1999,  and the formation of liberty media
+group  from  tci's  former  programming  business  and  technology   investments
+business, at&amp;t; issued a separate tracking stock designed to reflect the separate
+economic  performance  of liberty  media  group.  a total of 540 million  shares
+(1,080  million  shares on a  post-split  basis) of class a liberty  media group
+tracking stock and 55 million shares (110 million shares on a post-split  basis)
+of class b liberty  media group  tracking  stock were issued by at&amp;t.;  at&amp;t; also
+issued 30 million class a liberty media group tracking shares (60 million shares
+on a post-split basis) in connection with the conversion of certain  convertible
+notes.  at&amp;t; does not have a  controlling  financial  interest in liberty  media
+group,  therefore it has been  reflected as an equity  method  investment in the
+accompanying  consolidated  financial  statements.  the results  attributable to
+liberty media group are  reflected as separate  line items  "equity  losses from
+liberty  media  group"  and  "investment  in  liberty  media  group and  related
+receivables"  in  the  accompanying  consolidated  financial  statements.  as  a
+separate  tracking stock, all of the earnings or losses related to liberty media
+group are  excluded  from the  earnings  available to the holders of at&amp;t; common
+stock.
+
+the merger  with tci was  recorded  as a purchase.  accordingly,  the  operating
+results of tci have been  included in the  accompanying  consolidated  financial
+statements  since the date of  acquisition.  for accounting  purposes the deemed
+effective  date of the  acquisition  is march 1,  1999,  since the impact of thr
+results from march 1, 1999,  through march 9, 1999, is deemed  immaterial to our
+consolidated  results.  tci's cable and certain other operations,  including its
+ownership interest in at home corporation  (excite@home),  but excluding liberty
+media  group,  became  at&amp;t;  broadband  &amp; internet  services  (ab&amp;is;),  and were
+combined  with the  existing  operations  of at&amp;t; to form the at&amp;t; common  stock
+group (at&amp;t; group).
+
+we segment  our  results  based on how we manage  our  business.  the  following
+businesses comprise at&amp;t; group: business services, consumer services,  broadband
+&amp;  internet  services  and  wireless  services.  a  fifth  category,  other  and
+corporate, includes the results of at&amp;t; solutions,  international operations and
+ventures,  other corporate  operations,  overhead and eliminations.  results are
+discussed  for these five  categories  as well as for combined  at&amp;t; group.  the
+discussion for the other and corporate category is further broken out to include
+information  for at&amp;t;  solutions  (which  includes the results of the  solutions
+outsourcing  unit, the internal at&amp;t; information  technology  services unit, and
+the results of the ibm global  network which was acquired in the second  quarter
+of 1999 and renamed  the at&amp;t; global  network  services  business or agns),  and
+international operations and ventures.
+
+operating  results are  discussed  separately  for at&amp;t; group and liberty  media
+group.  all lines of the accompanying  consolidated  statements of income except
+for  "equity  losses  from  liberty  media  group",   "income  from   continuing
+operations"  and "net income"  reflect the results of at&amp;t; group only. all lines
+of the accompanying  consolidated  balance sheet,  except for the "investment in
+liberty media group and related  receivables" and the components of shareowners'
+equity labeled as relating to liberty media group are attributable to at&amp;t; group
+only.  the  liquidity,  financial  condition,  risk  management  and  year  2000
+discussion pertain to consolidated at&amp;t;, including liberty media group.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+forward-looking statements
+except  for  the  historical   statements  and  discussions   contained  herein,
+statements  contained  in this report on form 10-q  constitute  "forward-looking
+statements"  within the meaning of section 27a of the securities act of 1933 and
+section 21e of the  securities  exchange act of 1934.  any form  10-k/a,  annual
+report to shareowners, form 10-q or form 8-k of at&amp;t; may include forward-looking
+statements,  including statements concerning future operating performance,  year
+2000  compliance,  at&amp;t;'s share of new and existing  markets,  at&amp;t;'s short- and
+long-term  revenue and earnings growth rates,  general industry growth rates and
+at&amp;t;'s performance relative thereto. these forward-looking  statements rely on a
+number of  assumptions  concerning  future  events,  including  the adoption and
+implementation  of balanced and effective  rules and  regulations by the federal
+communications  commission (fcc) and the state public regulatory  agencies,  and
+at&amp;t;'s ability to achieve a significant market penetration in new markets. these
+forward-looking  statements are subject to a number of  uncertainties  and other
+factors,  many of which are outside  at&amp;t;'s  control,  that could  cause  actual
+results to differ materially from such statements.
+
+for a more complete discussion of the factors that could cause actual results to
+differ  materially  from such  forward-looking  statements,  see the  discussion
+thereof contained under the heading "forward-looking  statements" in at&amp;t;'s form
+10-k/a for the year ended  december 31, 1998.  readers  should also consider the
+factors  discussed  under the headings  "results of  operations"  and "financial
+condition"  included  in  this  form  10-q.  at&amp;t;  disclaims  any  intention  or
+obligation  to update or revise  any  forward-looking  statements,  whether as a
+result of new information, future events or otherwise.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+consolidated results of operations
+<caption>
+                                           for the three      for the six
+                                           months ended       months ended
+                                             june 30,           june 30,
+                                           1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+dollars in millions
+(except per share amounts)
+
+income (loss) from continuing operations
+ attributable to common shareowners:
+   at&amp;t; group.........................   $1,588   $ (161)   $2,664   $1,124
+   liberty media group................     (543)       -      (601)       -
+
+income attributable to common shareowners:
+   at&amp;t; group.........................   $1,588   $1,129    $2,664   $2,424
+   liberty media group................     (543)       -      (601)       -
+
+per at&amp;t; common share - basic:
+  income (loss) from continuing
+   operations.........................   $ 0.50   $(0.06)   $ 0.90   $ 0.42
+  income from discontinued operations.        -        -         -        -
+  gain on sale of discontinued
+   operations.........................        -     0.48         -     0.48
+  total income........................   $ 0.50   $ 0.42    $ 0.90   $ 0.90
+
+per at&amp;t; common share - diluted:
+  income (loss) from continuing
+    operations........................   $ 0.49   $(0.06)   $ 0.88   $ 0.41
+  income from discontinued operations.        -        -         -        -
+  gain on sale of discontinued
+   operations.........................        -   $ 0.48         -     0.48
+  total income........................   $ 0.49   $ 0.42    $ 0.88   $ 0.89
+
+liberty media group loss per share:
+  basic...............................   $ 0.43   $    -    $ 0.48    $   -
+  diluted.............................   $ 0.43   $    -    $ 0.48    $   -
+</c></c></c></c></s></caption></table>
+
+earnings  per share  from  continuing  operations  attributable  to at&amp;t;  common
+shareowners  were $0.49 on a diluted  basis for the second  quarter of 1999,  up
+from a loss of $0.06 in the  second  quarter  of 1998.  earnings  per share from
+continuing  operations  attributable to at&amp;t; common  shareowners were $0.88 on a
+diluted basis in the first half of 1999,  compared with $0.41 on a diluted basis
+in the first half of 1998.  the increases  were due to lower  restructuring  and
+other charges,  net and increased income from operations  attributable to higher
+revenues and an improved cost structure.
+
+at&amp;t; group's  operational  earnings  were $0.49 per diluted share for the second
+quarter  of 1999,  a decrease  of 9.3%,  or $0.05,  over the prior year  period.
+operational eps for the second quarter excludes:
+ ..net restructuring and other charges of $0.62 in 1998
+ ..gains on sales of business of $.02 in 1999 and 1998
+ ..a  $0.02  benefit  in 1999  from  changes  in tax rules  with  respect  to the
+utilization  of acquired net operating  losses ..a loss of $0.04  reflecting the
+earnings impact of our investment in excite@home and cablevison systems corp.
+(cablevision)
+
+the decrease in operational  earnings for the second quarter is due primarily to
+the impact of our merger with tci.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+excluding  the  impacts  of both tci and agns,  operational  eps for the  second
+quarter of 1999 was $0.75,  an increase of 38.9%,  or $0.21,  compared  with the
+second  quarter of 1998.  the increase was primarily due to higher  revenues and
+improving margins.
+
+at&amp;t; group's  operational  earnings  were $1.09 per diluted  share for the first
+half of 1999,  an  increase  of 9.0%,  or  $0.09,  over the prior  year  period.
+operational eps for the first half excludes:
+ ..net restructuring and other charges of $0.22 in 1999 and $0.76 in 1998 ..gains
+on sales of businesses of $0.05 in 1999 and $0.17 in 1998
+ ..a  $0.02  benefit  in 1999  from  changes  in tax rules  with  respect  to the
+utilization  of acquired net operating  losses ..a loss of $0.06  reflecting the
+earnings impact of our investment in excite@home and cablevison.
+
+the  increase in  operational  earnings  for the first half is due  primarily to
+higher  revenues and improving  margins,  partially  offset by the impact of our
+merger with tci.
+
+excluding the impacts of both tci and agns,  operational  eps for the six months
+ended june 30, 1999, was $1.42,  an increase of 42.0%,  or $0.42,  compared with
+the prior year period primarily due to higher revenues and improving margins.
+
+liberty  media  group's loss per share was $0.43 for the quarter  ended june 30,
+1999,  and $0.48 for the period from the date of  acquisition  through  june 30,
+1999.
+
+the  results of at&amp;t; group and  liberty  media  group are  discussed  in further
+detail below.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+at&amp;t; group results of operations
+<caption>
+revenues
+                                            for the three months
+                                               ended june 30,        change
+                                               1999      1998       $      %
+<s> <c> <c> <c> <c>
+dollars in millions
+business services.......................... $ 6,283   $ 5,887   $  396    6.7%
+consumer services..........................   5,504     5,695     (191)  (3.4)%
+wireless services..........................   1,878     1,313      565   43.1%
+broadband &amp; internet services..............   1,419         -    1,419      -
+other and corporate........................     607       316      291   91.7%
+total revenues............................. $15,691   $13,211   $2,480   18.8%
+
+<caption>
+                                             for the six months
+                                               ended june 30,        change
+                                               1999      1998       $      %
+<s> <c> <c> <c> <c>
+dollars in millions
+business services.......................... $12,497   $11,666   $  831    7.1%
+consumer services..........................  10,990    11,375     (385)  (3.4)%
+wireless services..........................   3,440     2,477      963   38.9%
+broadband &amp; internet services..............   1,902         -    1,902      -
+other and corporate........................     958       524      434   82.8%
+total revenues............................. $29,787   $26,042   $3,745   14.4%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></table>
+
+total  revenues  on a reported  basis  increased  18.8% to $15,691  million  and
+increased  14.4% to $29,787  million for the three and  six-month  periods ended
+june 30, 1999,  respectively,  compared with the respective  prior year periods.
+excluding  ab&amp;is; and agns,  revenues  increased 6.4% to $14,057  million for the
+second quarter of 1999 and increased 6.3% to $27,670  million for the first half
+of 1999 compared with the comparable prior year periods.  the increases for both
+periods were due to growth in wireless services, business data services and at&amp;t;
+solution's  outsourcing  services,  partially offset by lower consumer  services
+revenues.  revenues  on a pro forma  basis,  which  include the results of ab&amp;is;
+(adjusted  to exclude all closed cable  partnerships  and  excite@home)  and the
+impact of the closed  portions  of agns for a full period in both 1999 and 1998,
+increased  6.7% for the second  quarter of 1999 and increased 6.5% for the first
+half of 1999 compared with the corresponding prior year periods.
+<table>
+operating expenses
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+access and other interconnection..... $3,668   $3,894    $7,400   $7,830
+</c></c></c></c></s></caption></table>
+access and other  interconnection  expenses decreased $226 million,  or 5.8%, to
+$3,668 million in the second quarter of 1999 compared with the second quarter of
+1998. access and other interconnection expenses decreased $430 million, or 5.5%,
+to $7,400  million  in the first  half of 1999  compared  with the first half of
+1998.  the  declines  primarily  relate to  fcc-mandated  access  reform,  lower
+negotiated international settlement rates and more efficient use of the network.
+business long distance volume growth partially offset the decreases.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+network and other communications
+  services........................... $3,774   $2,552    $6,646   $5,098
+</c></c></c></c></s></caption></table>
+network and other communications  services expenses increased $1,222 million, or
+47.9%,  to $3,774  million in the second  quarter of 1999 compared with the same
+period last year. network and other  communications  services expenses increased
+$1,548  million,  or 30.4%, to $6,646 million in the first half of 1999 compared
+with the same period last year. excluding the impacts of ab&amp;is; and agns, network
+and other  communications  services  expenses  increased  11.6% and 7.6% for the
+three and six-month periods ended june 30, 1999, respectively, compared with the
+same periods last year.  these  increases  were  primarily  associated  with the
+growing  wireless  subscriber  base largely  attributable to the success of at&amp;t;
+digital  one rate  service  which has  resulted  in higher  off-network  roaming
+charges and higher costs and volume of  handsets.  a portion of the increase was
+also  due to  growth  in at&amp;t;  solutions.  for the  year-to-date  period,  these
+increases  were  partially  offset  by lower  nonincome  taxes,  lower  per-call
+compensation  expense due to a favorable fcc ruling in the first quarter of 1999
+and a lower provision for uncollectibles for business and consumer services.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+amortization of goodwill and other
+ purchased intangibles............... $  273   $   66    $  430   $  126
+</c></c></c></c></s></caption></table>
+amortization of goodwill and other purchased intangibles increased $207 million,
+or  315.2%,  from the second  quarter of 1998 and  increased  $304  million,  or
+241.5%,  for the six months ended june 30, 1999,  compared with the same periods
+last year.  the increases were primarily  driven by the tci  acquisition.  other
+purchased  intangibles  arising from  business  combinations  primarily  include
+customer  lists,  franchise  costs and licenses.  at&amp;t; also has  amortization of
+goodwill associated with nonconsolidated  investments recorded as a component of
+other income (expense)  amounting to $152 million and $192 million for the three
+and six-month periods ended june 30, 1999, respectively, and $14 million and $29
+million for the three and six-month periods ended june 30, 1998, respectively.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+depreciation and other amortization.. $1,546   $1,067    $2,850   $2,074
+</c></c></c></c></s></caption></table>
+depreciation and other amortization  expenses increased $479 million,  or 44.8%,
+in the second quarter of 1999 and increased $776 million, or 37.4%, in the first
+half of 1999 compared with the corresponding prior year periods. excluding ab&amp;is;
+and agns, depreciation and other amortization expenses increased 22.1% and 21.7%
+for the three and six-month periods ended june 30, 1999, respectively,  compared
+with the  respective  prior year periods.  the increases  were  primarily due to
+growth  in  at&amp;t;  group's   depreciable  asset  base  resulting  from  continued
+infrastructure  investment  throughout  1998.  capital  expenditures  were  $3.0
+billion for the three months  ended june 30, 1999,  and $4.4 billion for the six
+months ended june 30, 1999. the capital expenditures for both periods focused on
+data, cable operations, wireless services and business local services.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+selling, general and administrative.. $3,461   $3,348    $6,618   $6,625
+</c></c></c></c></s></caption></table>
+selling,  general and administrative  (sg&amp;a;) expenses increased $113 million, or
+3.4%, to $3,461  million in the second quarter of 1999 and decreased $7 million,
+or  0.1%,  to  $6,618  million  for the  first  half of 1999  compared  with the
+respective prior year periods.  excluding ab&amp;is; and agns, sg&amp;a; expenses declined
+8.2% for the  second  quarter  of 1999 and  declined  6.6% for the first half of
+1999, versus the respective year-ago periods. these decreases were primarily due
+to  savings  from  headcount  reductions  and other  cost  control  initiatives.
+including  ab&amp;is; and agns,  sg&amp;a; expenses as a percentage of revenues were 22.1%
+and 22.2% for the three and six-month periods ended june 30, 1999, respectively,
+compared with 25.3% and 25.4% in the year-ago periods.  sg&amp;a; expenses  excluding
+wireless  services and the consumer  local  business as a percentage of revenues
+were 20.1% and 20.2% for the three and six-month periods ended june 30, 1999.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+restructuring and other charges, net. $  (29)  $2,743    $  702   $3,344
+</c></c></c></c></s></caption></table>
+restructuring  and other  charges,  net were a pretax benefit of $29 million for
+the second quarter of 1999.  the benefit  included a $68 million pretax net gain
+primarily related to the exit of certain joint ventures that would have competed
+directly with the global venture at&amp;t; is forming with british telecommunications
+plc (bt).  also included was an $11 million  pretax gain from the  settlement of
+pension  obligations from at&amp;t;'s voluntary  retirement  incentive program offer.
+partially offsetting these gains was a $50 million pretax charge recorded in the
+second  quarter of 1999  related to the  estimated  losses that are  expected to
+result from a  contribution  agreement tci entered into with  phoenixstar,  inc.
+(phoenixstar),  formerly primestar,  inc., a previous equity investment.  to the
+extent  necessary,  the company is required to satisfy  certain  liabilities  of
+phoenixstar.  the remaining  obligation under this contribution  agreement which
+expires in 2001 is $26 million.
+
+second  quarter 1998  restructuring  and other  charges,  net of $2,743  million
+pretax,  or a reduction  of  approximately  $0.62 per diluted  share,  primarily
+related to charges associated with at&amp;t;'s voluntary retirement incentive program
+offer.
+
+restructuring  and other  charges,  net for the six months  ended june 30, 1999,
+were $702  million  pretax,  or a reduction of  approximately  $0.22 per diluted
+share.  included in this  balance was an  in-process  research  and  development
+charge of $594 million  pretax  related to the tci  acquisition,  a $128 million
+pretax net charge  primarily  related to the exit of certain joint ventures that
+would have competed directly with the global venture at&amp;t; is forming with bt and
+the $50 million pretax charge related to the phoenixstar  agreement noted above.
+these charges were partially  offset by a $70 million pretax gain related to the
+settlement  of pension  obligations  for former  employees  who accepted  at&amp;t;'s
+voluntary retirement incentive program offer.
+
+the in-process  research and  development  projects  related to tci's efforts to
+offer voice over internet  protocol,  cost savings  efforts for cable  telephony
+implementation and product integration efforts for advanced set-top devices that
+would enable tci to offer next-generation  digital services.  although there are
+significant  technological issues to overcome in order to successfully  complete
+the acquired  in-process  research  and  development,  at&amp;t;  expects  successful
+completion.  at&amp;t;  currently  anticipates  that (i) it will deploy  equipment to
+offer voice over  internet  protocol to two cities in the year 2001,  (ii) field
+deployable devices will be available by the end of the year with respect to
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+at&amp;t;'s cost savings efforts for cable telephony implementation,  and (iii) field
+trials will begin in mid-year 2000 for  next-generation  digital  services.  if,
+however,  at&amp;t; is unable to establish  technological  feasibility  and produce a
+commercially viable  product/service,  then anticipated  incremental future cash
+flows attributable to expected profits from such new  product/service may not be
+realized.
+
+restructuring  and other  charges,  net for the six months  ended june 30, 1998,
+were $3,344 million pretax,  or a reduction of  approximately  $0.76 per diluted
+share.  the charge is  comprised of a first  quarter 1999 pretax  charge of $601
+million which resulted from the decision not to pursue total service resale as a
+local-service  strategy as well as the second  quarter $2,743 million net pretax
+charge primarily related to at&amp;t;'s voluntary retirement incentive program offer.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+other income (expense)............... $  (74)  $  307    $   75   $1,013
+</c></c></c></c></s></caption></table>
+for the three months ended june 30, 1999, other income (expense)  decreased $381
+million,  or 124.2%,  to an expense of $74 million compared with $307 million of
+income in the second  quarter of 1998.  the  decrease  primarily  resulted  from
+equity  losses and goodwill  amortization  associated  with our  nonconsolidated
+investments in excite@home and  cablevision.  also  contributing to the decrease
+was a 1998 second  quarter  pretax gain of $103  million on the sale of smartone
+telecommunications  holdings  limited  (smartone) and higher  interest income in
+1998 on the proceeds  received from the sale of universal  card services  (ucs).
+these decreases were partially  offset by an $88 million pretax gain on the sale
+of wood-tv in the second quarter of 1999.
+
+other income  (expense)  decreased  $938  million,  or 92.6%,  to $75 million of
+income for the six months ended june 30, 1999,  compared with $1,013  million of
+income in the first six months of 1998.  the decrease was due  primarily to 1998
+pretax  gains on the  sales  of at&amp;t;  solutions  customer  care  (ascc)  and lin
+television corp. (lin-tv) of $350 million and $317 million,  respectively, and a
+pretax gain on the sale of smartone of $103 million.  also  contributing  to the
+decrease  were  equity  losses and  goodwill  amortization  associated  with our
+nonconsolidated investments in excite@home and cablevision. partially offsetting
+these  decreases  was a 1999 first quarter gain on the sale of the at&amp;t; language
+line services business (language line) of $153 million pretax, and a 1999 second
+quarter gain on the sale of wood-tv of $88 million pretax.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+interest expense..................... $  459   $  128    $  649   $  208
+</c></c></c></c></s></caption></table>
+interest  expense  increased $331 million,  or 258.3%,  in the second quarter of
+1999 compared with the second quarter of 1998. for the six months ended june 30,
+1999, interest expense increased $441 million, or 212.6%,  compared with the six
+months ended june 30, 1998.  these  increases were primarily  driven by a higher
+level of average debt outstanding  associated with our  acquisitions,  partially
+offset by a lower average interest rate.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+provision (benefit) for income taxes. $  877   $ (119)   $1,903   $  626
+</c></c></c></c></s></caption></table>
+the provision  for income taxes for the second  quarter of 1999  increased  $996
+million compared with the second quarter of 1998. the effective tax rate for the
+quarter  was 35.6%,  down from 42.9% in the second  quarter of 1998.  during the
+second quarter of 1999 a change in the net operating loss  utilization tax rules
+resulted in a $75 million reduction in the current quarter income tax provision.
+excluding  the  impacts  of this  change,  as well as the  second  quarter  1998
+restructuring charges, the effective tax rates in the second quarter of 1999 and
+1998 were  38.6%  and  37.7%,  respectively.  the  increase  in the rate was due
+primarily to higher non-tax deductible goodwill  amortization in 1999 as well as
+the tax impacts of certain  1998 asset  dispositions  and foreign  legal  entity
+restructurings.
+
+the provision for income taxes for the six months ended june 30, 1999, increased
+$1,277  million  compared with the same period 1998.  the effective tax rate for
+the six months ended june 30, 1999,  was 41.7%,  up from 35.7% for the first six
+months of 1998.  in the first  quarter of 1999,  at&amp;t;  group  recorded a non-tax
+deductible  in-process research and development charge, and accordingly,  no tax
+benefit was recorded.  excluding  the impacts of this charge,  the change in the
+net operating loss utilization tax rules as well as the 1998  restructuring  and
+other  charges,  the effective tax rates were 38.3% and 37.4% for the six months
+ended june 30,  1999 and 1998,  respectively.  the  increase in the rate was due
+primarily to higher non-tax deductible goodwill amortization in 1999.
+
+in april 1998 at&amp;t; sold ucs for $3,500  million,  resulting in an after-tax gain
+of  $1,290  million,  or  $0.48  per  share,  reflected  as  "gain  on  sale  of
+discontinued operations" in the accompanying consolidated statements of income.
+<table>
+<caption>
+                                            three               six
+                                         months ended       months ended
+                                           june 30,           june 30,
+dollars in millions                     1999     1998      1999     1998
+<s> <c> <c> <c> <c>
+income available to at&amp;t; shareowners. $1,588   $1,129    $2,664   $2,424
+</c></c></c></c></s></caption></table>
+income available to at&amp;t; shareowners increased $459 million, or 40.5%, to $1,588
+million in the second quarter of 1999,  driven by lower  restructuring and other
+charges, increased income from operations attributable to higher revenues and an
+improved cost structure and the positive impact of changes in net operating loss
+utilization  tax  rules.  these  were  partially  offset  by the gain on sale of
+discontinued  operations in 1998 and the equity losses during the current period
+related to excite@home and  cablevision.  income  available to at&amp;t;  shareowners
+increased  $240 million,  or 9.9%, to $2,664  million for the first half of 1999
+driven  by  lower  restructuring  and  other  charges,   increased  income  from
+operations  attributable  to higher  revenues and an improved cost structure and
+the positive  impact of changes in net  operating  loss  utilization  tax rules.
+these were partially  offset by the gain on sale of  discontinued  operations in
+1998,  lower gains on sales of  businesses in 1999 and the equity losses for the
+first half of the year related to excite@home and cablevision.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+at&amp;t; group segment results
+
+business services
+the business  services  segment results reflect sales of long distance and local
+voice  and  data  services  to  business   customers,   including  domestic  and
+international,   inbound  and  outbound,   intra-lata  toll,  calling  card  and
+operator-handled  services and other network enabled services. this segment also
+includes electronic commerce and  internet-protocol  (ip) for business customers
+such as web site hosting and at&amp;t; worldnet business internet access.
+
+consumer services
+the   consumer    services   segment   includes   the   results   of   providing
+telecommunications  services to  residential  customers  including  domestic and
+international long distance services, intra-lata toll services, calling-card and
+operator-handled  calling services, and prepaid calling cards. in addition, this
+segment  includes at&amp;t; worldnet  residential  internet access service,  noncable
+local services  provided to residential  customers and the costs associated with
+the development of fixed wireless technology.
+
+wireless services
+the  results  of this  segment  are  comprised  primarily  of sales of  wireless
+services and products to customers in at&amp;t; group's 850 mhz  (cellular)  and 1900
+mhz (pcs) markets.  the results of at&amp;t;'s former messaging business are included
+in 1998 results through october 2, when the unit was sold.
+
+broadband &amp; internet services
+this segment reflects operations  associated with providing services through the
+broadband  network acquired as a result of at&amp;t;'s merger with tci. this includes
+the results  associated with  traditional  analog video service,  as well as new
+services,  such as digital  cable and  at&amp;t;@home,  a high-speed  cable  internet
+access service. at&amp;t;@home, along with several other large cable operators, has a
+contract with excite@home, the operator of an internet "backbone", over which we
+can provide high-speed cable internet service. also included in this segment are
+the operations  associated with developing and refining the infrastructure  that
+will support broadband telephony.
+
+other and corporate
+this  group   includes  the  results  of  at&amp;t;   solutions   (including   agns),
+international operations and ventures, other corporate operations,  overhead and
+eliminations.
+
+the above segments  reflect  certain changes since the publication of our annual
+results due to changes in the way we manage our business.  the business services
+segment was  expanded to include  the results of teleport  communications  group
+inc.  (tcg) and the  business  portion of at&amp;t;  worldnet  service;  the consumer
+services  segment  was  expanded  to  include  the  residential  portion of at&amp;t;
+worldnet service and the costs associated with the development of fixed wireless
+technology. all prior results have been restated to reflect these changes.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+the discussion of segment  results for at&amp;t; group generally  includes  revenues;
+earnings  before  interest and taxes,  including  other income (ebit);  earnings
+before interest,  taxes,  depreciation and amortization,  including other income
+(ebitda);  capital additions and total assets. the discussion of ebitda for at&amp;t;
+group's wireless services and broadband &amp; internet services segments is modified
+to exclude other income.
+
+at&amp;t; calculates ebit as operating income plus other income and is a measure used
+by our chief operating  decision-makers to measure at&amp;t;'s consolidated operating
+results and to measure segment  profitability.  interest and taxes are generally
+not allocated to our segments because debt is managed and serviced and taxes are
+managed and calculated on a centralized basis.  trends in interest and taxes are
+discussed  separately on a  consolidated  basis.  management  believes ebit is a
+meaningful  measure to disclose to investors because it provides  investors with
+an analysis  of  operating  results  using the same  measures  used by the chief
+operating  decision-makers  of at&amp;t;,  provides a return on total  capitalization
+measure,  and allows investors a means to evaluate the financial results of each
+segment in relation to consolidated at&amp;t.; our calculation of ebit may or may not
+be consistent with the calculation of ebit by other public  companies,  and ebit
+should  not be viewed by  investors  as an  alternative  to  generally  accepted
+accounting  principles  (gaap) measures of income as a measure of performance or
+to cash flows from operating, investing and financing activities as a measure of
+liquidity.
+
+ebitda is also used by  management  as a measure of segment  performance  and is
+defined as ebit plus depreciation and amortization.  we believe it is meaningful
+to investors as a measure of each  segment's  liquidity and allows  investors to
+evaluate a segment's  liquidity using the same measure that is used by the chief
+operating  decision-makers  of at&amp;t.;  consolidated  ebitda is also  provided for
+comparison purposes. our calculation of ebitda may or may not be consistent with
+the calculation of ebitda by other public  companies and should not be viewed by
+investors  as an  alternative  to  gaap  measures  of  income  as a  measure  of
+performance or to cash flows from operating,  investing and financing activities
+as a measure of liquidity. in addition, ebitda does not take into effect changes
+in certain assets and liabilities which can affect cash flow.
+
+total  assets  for  each  segment  include  all  assets,   except   inter-entity
+receivables.  deferred taxes,  prepaid pension assets,  and  corporate-owned  or
+leased real estate are generally  held at the corporate  level and therefore are
+included in the other and corporate  group.  shared network assets are allocated
+to the  segments and  reallocated  each  january,  based on the prior two years'
+volumes of minutes used.
+
+capital  additions  for each segment  include  additions to property,  plant and
+equipment and other long-lived assets including licenses, investments, franchise
+costs and capitalized software.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+business services
+<caption>
+                                          three months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+external revenues................... $ 5,888      $ 5,680     $  208      3.6%
+internal revenues...................     395          207        188     91.4%
+total revenues......................   6,283        5,887        396      6.7%
+
+ebit................................   1,459        1,119        340     30.4%
+ebitda..............................   2,202        1,712        490     28.7%
+
+other items
+capital additions................... $ 1,603      $ 1,216     $  387     31.7%
+
+<caption>
+                                           six months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+external revenues................... $11,814      $11,238     $  576      5.1%
+internal revenues...................     683          428        255     59.7%
+total revenues......................  12,497       11,666        831      7.1%
+
+ebit................................   3,026        2,243        783     34.9%
+ebitda..............................   4,458        3,363      1,095     32.6%
+
+other items
+capital additions................... $ 2,495      $ 2,176     $  319     14.6%
+
+<caption>
+                                    at june 30,   at dec. 31,       change
+                                        1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets........................ $22,394      $21,415     $  979      4.6%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></c></c></c></c></s></caption></table>
+
+revenues
+business  services  revenues  increased  6.7% in the second quarter of 1999, and
+increased  7.1% for the first six months of 1999  compared  with the prior year.
+the increase for the quarter was primarily driven by continued  strength in data
+services and local voice services.  the increase for the year-to-date period was
+primarily  driven by data  services,  domestic long distance  voice services and
+local voice services.  total calling  volumes for both periods,  including local
+services,  increased  about 25% over the prior year;  excluding  local services,
+volumes maintained a mid-teens growth rate for both periods.
+
+data  services  revenues  increased  by  more  than  20%  for  the  quarter  and
+year-to-date  periods  led by  continued  growth in frame  relay and  high-speed
+private line services partly due to continued customer demand for high-bandwidth
+(oc-x)  capabilities.  the data  services  growth was  augmented by  significant
+growth in ip services such as worldnet and virtual private  network  services to
+business customers.  data growth was approximately 20% for the second quarter of
+1999 compared with the prior year second  quarter when adjusted for at&amp;t;'s frame
+relay service interruption in april 1998.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+long  distance  voice  revenues grew at a  low-single-digit  rate for the second
+quarter  and for the first six  months of 1999.  strong  volume  increases  were
+partially  offset by a declining  average  price per minute.  average  price per
+minute  has been  negatively  impacted  by the  competitive  forces  within  the
+industry  which we expect to continue.  in  addition,  price per minute has been
+negatively impacted by changes in product mix.
+
+local voice service  revenues,  which  included  domestic acc revenues since its
+acquisition  in april,  1998,  grew over 45% in the second quarter and grew over
+65% for the first  half of 1999,  compared  with the  corresponding  prior  year
+periods.  at&amp;t;'s integrated  business local  operations,  including at&amp;t; digital
+link,  added  approximately  105 thousand  access  lines in the second  quarter,
+bringing total access lines in service to approximately  868 thousand as of june
+30, 1999.  at&amp;t; serves 26,723  buildings in 87  metropolitan  statistical  areas
+(msas), up from 16,537 a year ago, with over 20% of the buildings on-net.
+
+internal  revenues  increased 91.4% and 59.7% for the three and six months ended
+june 30, 1999, respectively.  the increases were due to higher sales of business
+long  distance  services  to other at&amp;t;  units,  primarily  at&amp;t;  solutions  and
+wireless services, for resale to at&amp;t; solutions and wireless services customers.
+
+ebit/ebitda
+ebit and ebitda for business services increased to $1,459 million, or 30.4%, and
+to $2,202  million,  or  28.7%,  respectively,  in the  second  quarter  of 1999
+compared  with the  year-ago  quarter.  ebit and  ebitda for  business  services
+increased  to  $3,026  million,  or  34.9%,  and to  $4,458  million,  or 32.6%,
+respectively, for the first six months of 1999 compared with the prior year. the
+increases were due to revenue growth and associated margin improvement.
+
+other items
+capital  additions for business services  increased $387 million,  or 31.7%, for
+the second  quarter of 1999  compared with the second  quarter of 1998.  capital
+additions  increased $319 million, or 14.6%, for the first half of 1999 compared
+with the first half of 1998. the increase for both periods was primarily  driven
+by the  expansion  of sonet,  in  support of data and ip,  and  business  local,
+partially offset by lower capital spending on circuit switched equipment.
+
+total assets  increased  $979 million,  or 4.6%, to $22,394  million at june 30,
+1999, compared with december 31, 1998, primarily due to an increase in property,
+plant and  equipment as a result of capital  additions  and  increased  accounts
+receivable associated with higher revenues.
+<table>
+consumer services
+<caption>
+                                           three months
+                                              ended
+                                             june 30,                change
+dollars in millions                      1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................. $ 5,504      $ 5,695      $(191)    (3.4)%
+ebit.................................   1,851        1,540        311     20.2%
+ebitda...............................   2,062        1,715        347     20.3%
+
+other items
+capital additions.................... $   151      $    81      $  70     87.2%
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<caption>
+                                            six months
+                                              ended
+                                             june 30,                change
+dollars in millions                      1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................. $10,990      $11,375      $(385)    (3.4)%
+ebit.................................   3,717        2,845        872     30.7%
+ebitda...............................   4,142        3,196        946     29.6%
+
+other items
+capital additions.................... $   258      $   199      $  59     30.0%
+<caption>
+                                     at june 30,   at dec. 31,       change
+                                         1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets......................... $ 6,687      $ 6,561      $ 126      1.9%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></page></c></c></c></c></s></caption></table>
+
+revenues
+consumer  services  revenues  decreased  3.4% for both the three  and  six-month
+periods ended june 30, 1999, compared with the same periods last year. excluding
+at&amp;t;  worldnet  services,  revenues  were  down  3.9% and 3.8% for the three and
+six-month periods ended june 30, 1999, respectively, while long distance calling
+volumes  declined at a  mid-single-digit  rate for both  periods.  these results
+reflect the competitive nature of the consumer long distance  industry,  and the
+continued  impact  of at&amp;t;'s  strategy  to  migrate  higher-usage  customers  to
+optional calling plans in order to optimize the customer base for future growth.
+
+two key elements of at&amp;t;'s  strategy are to grow  revenues  through  transaction
+services  and to bundle  services to attract  and retain  high usage  customers.
+at&amp;t;'s  transaction  services  continue to grow rapidly led by prepaid services,
+whose growth in the second  quarter was enhanced by the  acquisition  of certain
+assets of smartalk teleservices (smarttalk). at&amp;t;'s bundled offer, at&amp;t; personal
+network service, offers long distance,  wireless, calling card, and personal 800
+services at a single rate per minute,  plus worldnet internet access, all on one
+integrated  bill.   personal   network  has  seen  a  positive   response  since
+introduction   in  the  first  quarter  of  1999  and  now  has  nearly  250,000
+subscribers.
+
+consumer  worldnet  services  revenues  increased 55.0% in the second quarter of
+1999 over the year-ago quarter to $76 million.  revenues increased 48.1% for the
+first half of 1999 to $141 million  compared  with the first half of 1998.  at&amp;t;
+worldnet services now serves approximately 1.5 million residential  subscribers,
+an increase of 45% from a year ago.
+
+ebit/ebitda
+ebit and ebitda for consumer services  increased 20.2% and 20.3%,  respectively,
+in the second  quarter of 1999 compared with the second quarter of last year and
+increased  30.7% and 29.6%,  respectively,  for the first half of 1999  compared
+with  the  first  half of last  year.  ebit and  ebitda  for  consumer  services
+excluding the first quarter gain on the sale of language  line  increased  25.3%
+and 24.8%,  respectively,  for the first half of 1999 over the same  period last
+year. the increases for both the quarter and year-to-date  periods excluding the
+gain on the sale of language  line were  driven  primarily  by lower  negotiated
+settlement rates and cost reduction efforts, primarily in marketing spending.
+
+other items
+capital additions for consumer services increased $70 million, or 87.2%, for the
+second  quarter of 1999 compared with the second  quarter of 1998.  the increase
+was  primarily due to greater  capital  expenditures  to expand  at&amp;t;'s  network
+infrastructure. capital additions increased $59 million, or 30.0%, for the first
+half of 1999  compared  with the first half of 1998.  the increase was primarily
+due to increased capitalized software and greater capital expenditures to expand
+at&amp;t;'s network infrastructure.
+
+total assets  increased  $126  million,  or 1.9%,  to $6,687  million  primarily
+associated with the purchase of smarttalk in the first quarter.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+wireless services
+<caption>
+                                          three months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................ $ 1,878      $ 1,313      $  565    43.1%
+ebit................................      52          199        (147)  (73.7)%
+ebitda excluding other income.......     329          278          51    18.3%
+
+other items
+capital additions................... $   655      $   247      $  408   164.8%
+<caption>
+                                           six months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................ $ 3,440      $ 2,477      $  963    38.9%
+ebit................................      24          214        (190)  (88.7)%
+ebitda excluding other income.......     531          486          45     9.2%
+
+other items
+capital additions................... $   817      $   395      $  422   106.6%
+<caption>
+                                    at june 30,   at dec. 31,       change
+                                        1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets........................ $21,388      $19,115      $2,273    11.9%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></c></c></c></c></s></caption></table>
+
+revenues
+wireless  services  revenues  increased  $565 million,  or 43.1%,  in the second
+quarter of 1999,  and increased  $963 million,  or 38.9%,  for the first half of
+1999  compared  with same  periods  last year.  wireless  services  1999 results
+include  vanguard  cellular  systems  (vanguard) since its acquisition on may 3,
+1999,  and 1998 results  include our messaging  business  until the sale date of
+october 2, 1998.  adjusted to exclude both vanguard and our messaging  business,
+revenues grew 42.4% and 41.3% for the three and six-month periods ended june 30,
+1999,  respectively,  compared with the prior year periods.  the growth for both
+periods was driven by the  continued  successful  execution  of at&amp;t;'s  wireless
+strategy of  targeting  and  retaining  high-value  subscribers,  expanding  the
+national wireless  footprint,  focusing on digital service,  and offering simple
+rate plans. at&amp;t;'s digital one rate service leverages all of the elements of the
+wireless  strategy and  continues  to generate  significant  revenue  growth and
+contribute  positively  to ebitda.  the number of at&amp;t;  digital one rate service
+subscribers  grew to nearly 1.5 million in the second quarter of 1999, with over
+80% of the net  additions  representing  new  wireless  customers  for at&amp;t.;  in
+addition,  during the quarter, at&amp;t; introduced group calling for business, which
+offers  simplicity and value with  unlimited  calling for a flat fee for "closed
+user groups".
+
+at&amp;t;  continues to  experience  strong  growth in wireless  subscribers  and net
+subscriber  additions.  consolidated net additions increased 45.5% in the second
+quarter of 1999 versus the second quarter of 1998 to over 473 thousand, bringing
+consolidated subscribers,  including approximately 700 thousand subscribers from
+our acquisition of vanguard, to a total of approximately 8.8 million at june 30,
+1999,  up 35.4%  from a year  ago and up  15.9%  from  one  quarter  ago.  total
+subscribers,  including  partnership  markets  in  which  at&amp;t;  does  not  own a
+controlling interest, exceeded 11 million in the second quarter.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+at&amp;t;'s  focus on  high-value  subscribers  has helped  generate  rising usage by
+customers and increased  quarterly average revenue per user (arpu).  arpu across
+all of at&amp;t;'s wireless  markets was $66.2 in the second quarter,  an increase of
+15.3% from the second quarter of 1998 and a 9.2% increase from the first quarter
+of 1999. this represents the third  consecutive  quarter arpu has increased over
+the prior year.
+
+we continue to rapidly  migrate  customers to digital  service,  generating more
+efficient use of the network while also reducing  customer  churn. at the end of
+the second quarter, 69.0% of at&amp;t;'s 8.8 million consolidated subscribers were on
+digital service, up from 45.2% one year ago and up from 67.3% one quarter ago.
+
+ebit/ebitda excluding other income
+ebit was $52 million and $24 million for the three and six months ended june 30,
+1999, respectively,  representing decreases of 73.7% and 88.7% over the year ago
+periods.  the ebit decline for both periods was primarily due to increased costs
+from higher off-network  roaming expenses,  and increased  customer  acquisition
+costs associated with the high growth of subscriber additions. in addition, ebit
+was also impacted by higher other income in 1998 due to the second  quarter gain
+on the sale of smartone. ebitda excluding other income was $329 million and $531
+million,  for the  three  and six  months  ended  june 30,  1999,  respectively,
+representing  increases  of 18.3%  and 9.2%  over  the  year  ago  periods.  the
+improvement for both periods was the result of revenue growth,  partially offset
+by increased costs from higher off-network roaming expenses and greater customer
+acquisition costs associated with the high growth of subscriber additions.
+
+off-network  roaming expenses  continued to negatively impact results,  but have
+been favorably  impacted as a result of  aggressively  capturing more minutes on
+the at&amp;t; network as well as reducing  intercarrier roaming rates. at&amp;t; continues
+to  address  off-network  usage  through  capital  expansion,  acquisitions  and
+affiliate  launches.  capital  expansion  is underway  within  existing  and new
+markets,  including columbus,  ohio; omaha, nebraska; san diego,  california and
+certain connecticut cities. in may 1999, at&amp;t; completed it merger with vanguard,
+adding  more  than 700  thousand  subscribers  and  increasing  at&amp;t;'s  wireless
+coverage in suburban and rural markets in the ohio valley and northeastern  u.s.
+in addition,  the announced acquisition of honolulu cellular closed on august 2,
+1999. partnership  affiliations with cincinnati bell wireless,  triton, telecorp
+and tritel further expand at&amp;t;'s time division multiple access (tdma) footprint.
+intercarrier  roaming  rates  have also  declined  as a result  of  renegotiated
+roaming  agreements and the deployment of intelligent  roaming  database  (irdb)
+technology, which assists in identifying favorable roaming partners in areas not
+included in our wireless network.
+
+other items
+capital  additions  increased $408 million,  or 164.8%, in the second quarter of
+1999, compared with the second quarter of 1998. capital additions increased $422
+million,  or 106.6% in the first half of 1999,  compared  with the first half of
+1998.  these  increases  were the result of  additional  spending to upgrade and
+increase capacity in existing markets.
+
+total assets increased $2,273 million,  or 11.9%, to $21,388 million at june 30,
+1999,  from  december 31, 1998.  the increase was due  primarily to increases in
+goodwill,  property, plant and equipment and licensing costs associated with our
+acquisitions  of  vanguard  and  bakersfield  cellular.  in  addition,  accounts
+receivable were higher partially attributable to increased revenues.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+broadband &amp; internet services
+<caption>
+                                                         date of
+                                    three months       acquisition
+                                       ended             through
+                                      june 30,           june 30,
+dollars in millions                     1999               1999
+<s> <c> <c>
+revenues............................  $1,419            $ 1,902
+ebit................................    (475)            (1,121)
+ebitda excluding other income.......     266               (126)
+
+other items
+capital additions...................  $  838            $ 1,148
+</c></c></s></caption></table>
+                                            at june 30,
+                                               1999
+total assets........................         $42,837
+
+revenues
+revenues  were  $1,419  million  for the second  quarter of 1999 and were $1,902
+million from the date of acquisition of tci through june 30, 1999.
+
+broadband &amp; internet services ended the second quarter of 1999 with 11.3 million
+basic cable  customers and 1.4 million digital cable  customers.  the high-speed
+cable internet service, at&amp;t;@home, had approximately 83,000 customers at the end
+of the second quarter, compared with 52,000 at the end of the first quarter.
+
+major markets served by at&amp;t;'s broadband network currently include chicago,  the
+san  francisco  bay area,  seattle/tacoma,  denver,  portland and dallas,  among
+others.  at&amp;t; continues to enhance and refine its broadband  footprint through a
+series  of  recently  announced   transactions,   including  mediaone,   comcast
+corporation (comcast),  lenfest communications,  inc. (lci), cox communications,
+inc. as well as other affiliates.
+
+ebit/ebitda excluding other income
+ebit was a deficit of $475 million for the second  quarter of 1999 and a deficit
+of $1,121  million since  acquisition in early march of 1999.  ebitda  excluding
+other  income was $266  million for the second  quarter of 1999 and a deficit of
+$126 million  since  acquisition.  included in ab&amp;is;  results was a $594 million
+first quarter 1999 charge for in-process  research and  development and a second
+quarter 1999 charge of $50 million related to a contribution  agreement  entered
+into by tci to satisfy certain liabilities of phoenixstar.
+
+other items
+total assets were $42,837 million at june 30, 1999.
+
+capital  additions  were $838 million for the second  quarter of 1999 and $1,148
+million since the date of acquisition through june 30, 1999, comprised primarily
+of spending on cable distribution systems.
+
+other and corporate
+<table>
+<caption>
+                                          three months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................     607          316        291     91.7%
+
+ebit................................      37       (3,010)     3,047    101.2%
+ebitda..............................     202       (2,903)     3,105    107.0%
+
+other items
+capital additions................... $   181      $   168    $    13      8.1%
+</c></c></c></c></s></caption></table>
+<page>
+                                                         at&amp;t; form 10-q - part i
+<table>
+<caption>
+                                           six months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................     958          524        434     82.8%
+
+ebit................................    (430)      (3,344)     2,914     87.1%
+ebitda..............................    (140)      (3,108)     2,968     95.5%
+
+other items
+capital additions................... $   545      $   258    $   287    109.9%
+<caption>
+                                    at june 30,   at dec. 31,       change
+                                        1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets........................ $16,646      $12,459    $ 4,187     33.6%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></table>
+revenues
+revenues  for the  second  quarter  of 1999  excluding  the  impacts of the agns
+acquisition were $392 million, an increase of 23.8% from the same quarter a year
+ago.  revenues  for the first  half of 1999  excluding  the  impacts of the agns
+acquisition were $743 million, an increase of 41.7% compared with the first half
+of last year.  revenue  growth for both  periods  was  primarily  driven by at&amp;t;
+solutions as a result of the  continued  strength of the  outsourcing  business.
+international  operations  and ventures also  contributed  to the revenue growth
+primarily  due to an  increase in  reorigination  and  transit  revenues.  these
+increases  were  partially   offset  by  an  increase  in  the   elimination  of
+intercompany revenues. additionally,  revenue growth for the year-to-date period
+was partially offset by the sale of ascc in march 1998.
+
+the elimination of revenues and profit generated by the sale of services between
+business  segments is primarily a result of the sale of business  long  distance
+services to other at&amp;t; units.  revenues  eliminated  in the second  quarter were
+$401 million, an increase of 85.2% from the second quarter of 1998 and were $697
+million  for the first six months of 1999,  an  increase  of 40.6% over the same
+period  last  year.  the  increases  over 1998 were  primarily  due to  business
+services sales to at&amp;t; solutions and wireless services.
+
+ebit/ebitda
+ebit and ebitda  were $37 million  and $202  million  for the second  quarter of
+1999, representing increases of 101.2% and 107.0%, respectively, over the second
+quarter of 1998. ebit and ebitda were deficits of $430 million and $140 million,
+respectively,  for the  first  half of 1999  compared  with  deficits  of $3,344
+million and $3,108 million in the same period of 1998.  excluding  restructuring
+and other charges for both periods and the second  quarter 1999 gain on the sale
+of wood-tv and first  quarter  1998 gains on the sales of ascc and lin-tv,  ebit
+was a deficit of $130 million and ebitda was $35 million for the second  quarter
+of 1999, an improvement of 51.6% and 122.6%,  respectively,  over the comparable
+prior year  period.  ebit was a deficit of $460 million and ebitda was a deficit
+of $170 million for the first half of 1999 on this same basis, an improvement of
+31.2% and  60.8%,  respectively,  over the  comparable  prior year  period.  the
+improvements  for both periods were  primarily due to lower  corporate  expenses
+driven by cost cutting initiatives such as headcount  reductions.  additionally,
+the   year-to-date   improvement   was  impacted  by  lower  equity  losses  for
+international  partnerships  and  ventures.  the increases for both periods were
+partially offset by higher interest income in 1998.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+other items
+capital  additions were  essentially flat in the second quarter of 1999 compared
+with the second quarter of last year. capital additions  increased $287 million,
+or 109.9% for the first six months of 1999 compared with the first six months of
+1998 primarily due to increased investments in nonconsolidated subsidiaries.
+
+total  assets at june 30,  1999,  were  $16,646  million  compared  with $12,459
+million at december 31, 1998,  which  represents a 33.6% increase.  the increase
+was primarily due to goodwill  associated with the acquisition of the ibm global
+network.
+
+at&amp;t; solutions
+at&amp;t; solutions is our outsourcing,  network-management and professional-services
+business.  at&amp;t;  solutions is comprised of the solutions  outsourcing  unit, the
+internal at&amp;t; information  technology  services unit, and the recently  acquired
+portions of the ibm global network.  during the second  quarter,  at&amp;t; completed
+the us, japan,  ireland,  and uk portions of the ibm acquisition and renamed the
+unit at&amp;t; global  network  services  (agns).  the results of at&amp;t;  solutions are
+included in the other and corporate group.
+<table>
+<caption>
+                                          three months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................  $  663       $  254     $  409    161.3%
+ebit................................     (18)           5        (23)  (475.1)%
+ebitda..............................      95           73         22     29.4%
+
+other items
+capital additions...................  $   65       $   34     $   31     94.1%
+<caption>
+                                           six months
+                                             ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................  $1,006       $  480     $  526    109.4%
+ebit................................      (7)          (4)        (3)   (66.4)%
+ebitda..............................     179          131         48     37.0%
+
+other items
+capital additions...................  $   76       $   57     $   19     34.3%
+<caption>
+                                    at june 30,   at dec. 31,       change
+                                        1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets........................  $5,395       $1,023     $4,372    427.3%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></c></c></c></c></s></caption></table>
+revenues
+at&amp;t;  solutions  grew revenues  161.3% for the second quarter of 1999 and 109.4%
+for the first six  months of 1999  compared  with the  corresponding  prior year
+periods.  excluding the impact of agns,  revenues grew 49.8% for the quarter and
+50.5% for the first six  months of 1999.  the growth  for both  periods  was the
+result  of  continued  strength  in  outsourcing  services.  in  addition,  at&amp;t;
+solutions   manages  at&amp;t;'s  internal  network   infrastructure   and  generated
+approximately  $423 million and $852 million in internal  billings in the second
+quarter and for the first six months of 1999, respectively,  which were recorded
+as a reduction to at&amp;t; solutions' expenses (cost recovery).
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+at&amp;t;  solutions,  with more  than  30,000  clients,  including  ibm,  citigroup,
+mcgraw-hill, bank one, united health group, textron, j.p. morgan, merrill lynch,
+and  mastercard  international,  has the  potential for more than $11 billion in
+outsourcing revenues over the life of the signed contracts.  during the quarter,
+at&amp;t; solutions also added safeco,  american  century and teachers  insurance and
+annuity association as clients.
+
+ebit/ebitda
+excluding  the impact of agns,  ebit and ebitda were $10 million and $82 million
+for the second quarter of 1999, respectively, an improvement over $5 million and
+$73 million reported in the  corresponding  prior year quarter.  ebit and ebitda
+were $21 million and $166  million on this basis for the first half of 1999,  an
+improvement  over a deficit of $4 million  and a  positive  $131  million in the
+first half of 1998.  the  improvement  for both  periods  was  primarily  due to
+revenue growth in the existing at&amp;t; solutions' outsourcing unit partially offset
+by higher expenses driven by the higher revenues.
+
+other items
+capital  additions for the second quarter of 1999 were $65 million,  an increase
+of 94.1% over the second  quarter of 1998.  capital  additions for the first six
+months of 1999 were $76  million,  an increase  of 34.3% over the  corresponding
+prior year period.  the increases  were  primarily due to the addition of client
+support equipment.
+
+total assets  increased $4,372 million,  or 427.3%,  from december 31, 1998, due
+primarily to goodwill associated with the acquisition of the ibm global network.
+
+international operations and ventures
+international  operations and ventures include  consolidated  foreign operations
+such  as  at&amp;t;   communications   services  uk  (comms  uk),  acc,  transit  and
+reorigination  businesses and international online services. the equity earnings
+or losses of at&amp;t;'s nonconsolidated  international joint ventures and alliances,
+such as alestra in mexico and at&amp;t; canada corp. are also included. as of june 1,
+1999, at&amp;t; canada corp.  completed its merger with metronet  communication corp.
+(metronet), canada's largest facilities-based competitive local exchange carrier
+(clec). at&amp;t; now owns 31% of the combined company, at&amp;t; canada, and continues to
+account for its ownership as an equity investment.  these results do not include
+bilateral  international  long distance traffic,  which is reflected in business
+services and consumer  services,  as appropriate.  the results of  international
+operations and ventures are included in the other and corporate group.
+<table>
+<caption>
+                                         three months
+                                            ended
+                                           june 30,                 change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................  $  333       $  272       $ 61     22.2%
+ebit................................      60          (63)       123    195.7%
+ebitda..............................      79          (42)       121    287.1%
+
+other items
+capital additions...................  $   42       $   34       $  8     21.8%
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+<caption>
+                                           six months
+                                              ended
+                                            june 30,                change
+dollars in millions                     1999         1998         $        %
+<s> <c> <c> <c> <c>
+revenues............................  $  625       $  451       $174     38.7%
+ebit................................    (189)        (126)       (63)   (49.8)%
+ebitda..............................    (151)         (88)       (63)   (71.8)%
+
+other items
+capital additions...................  $  357       $   65       $292    454.4%
+<caption>
+                                    at june 30,   at dec. 31,       change
+                                        1999         1998         $        %
+<s> <c> <c> <c> <c>
+total assets........................  $2,599       $1,915       $684     35.8%
+</c></c></c></c></s></caption></c></c></c></c></s></caption></page></c></c></c></c></s></caption></table>
+revenues
+revenues grew 22.2% in the second quarter of 1999 to $333 million and grew 38.7%
+to $625  million in the first six months of 1999  compared  with the  respective
+prior year periods. revenue growth for both periods was led by reorigination and
+transit/interconnection  due to increased demand and the addition of new traffic
+routes. the growth for the year-to-date period was also impacted by improvements
+in frame relay and wholesale growth, and the purchase of acc in april 1998.
+
+ebit/ebitda
+ebit and ebitda  improved in the second quarter of 1999 by $123 million and $121
+million,  respectively,  compared with the corresponding  prior year periods due
+primarily to a net gain related to the exit of certain joint ventures that would
+have  competed  directly  with  the  global  venture  at&amp;t; is  forming  with bt.
+excluding the net gain,  ebit and ebitda  improved in the second quarter of 1999
+by $55  million  and $53  million,  respectively,  due  primarily  to  improving
+financial  performance in our  nonconsolidated  ventures and  alliances,  strong
+revenues and volume growth in reorigination  and  transit/interconnect  services
+and cost reduction efforts.
+
+ebit and  ebitda  each  declined  in the first  half of 1999 by $63  million  to
+deficits of $189 million and $151 million,  respectively.  the declines were due
+primarily  to the 1999 net  charge  related to the exit of joint  ventures  that
+would have competed  directly  with the global  venture at&amp;t; is forming with bt.
+excluding the charges, ebit and ebitda improved during the period by $65 million
+each,  due  primarily  to  improving  financial   performance  in  ventures  and
+alliances,   strong   revenues   and   volume   growth  in   reorigination   and
+transit/interconnect  services,  improved  performance  in the  frame  relay and
+wholesale arenas and cost reduction efforts.
+
+other items
+capital  additions  were  essentially  flat for the  second  quarter of 1999 and
+increased $292 million for the first six months of 1999,  compared with the same
+periods last year. the increases were primarily due to increased  investments in
+nonconsolidated subsidiaries.
+
+total assets were $2,599 million at june 30, 1999,  compared with $1,915 million
+at december  31,  1998.  the  increase  was  primarily  driven by an increase in
+goodwill  due to our  investment  in  at&amp;t;  canada,  additional  investments  in
+consolidated  subsidiaries and a higher cash balance associated with the gain on
+sale of non-strategic investments in the second quarter.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+liberty media group results
+liberty  media  group   produces,   acquires  and   distributes   entertainment,
+educational and informational programming services through all available formats
+and media. liberty media group is also engaged in electronic retailing services,
+direct marketing services,  advertising sales relating to programming  services,
+infomercials and transaction processing.  although liberty media group is wholly
+owned by at&amp;t;, it is accounted for as an equity  investment in the  accompanying
+consolidated  financial  statements  since  at&amp;t;  does  not  have a  controlling
+financial  interest in liberty  media group.  equity  losses from liberty  media
+group were $543 million for the second  quarter of 1999 and $601 million for the
+period from the date of acquisition through june 30, 1999.
+<table>
+liquidity
+<caption>
+                                                        six months
+                                                          ended
+                                                         june 30,
+dollars in millions                                   1999      1998
+<s> <c> <c>
+cash flow of continuing operations:
+  provided by operating activities..............  $  3,401   $ 4,032
+  (used in) provided by investing activities....   (16,390)    8,428
+  provided by (used in) financing activities....    10,247    (5,025)
+
+ebitda* ........................................   $ 8,688   $ 4,187
+<fn>
+         *  earnings  before  interest,  taxes,  depreciation  and  amortization
+         (ebitda) for the first six months of 1999  includes  restructuring  and
+         other charges,  net of $702 million,  a $153 million pretax gain on the
+         sale of  language  line and an $88  million  pretax gain on the sale of
+         wood-tv. ebitda for the first six months of 1998 includes restructuring
+         and other charges,  net of $3,344 million,  pretax gains from the sales
+         of ascc of $350  million,  lin-tv of $317  million and smartone of $103
+         million. ebitda excludes the results of liberty media group.
+</fn>
+</c></c></s></caption></table>
+net cash provided by operating  activities of continuing  operations for the six
+months ended june 30, 1999, was $3,401  million.  this  represents a decrease of
+$631 million compared with the first six months of 1998. the decrease was driven
+primarily by an increase in the 1999 tax payments of approximately  $1.4 billion
+primarily  related to the gain on the sale of ucs and an  increase  in  accounts
+receivable,  partially  offset by an increase in operating net income  excluding
+depreciation and amortization.
+
+at&amp;t;'s investing  activities resulted in a net use of cash of $16,390 million in
+the first half of 1999 compared  with a net source of cash of $8,428  million in
+the first half of 1998.  during the first six months of 1999,  at&amp;t;  transferred
+$5.5  billion of cash to liberty  media  group,  used $5.1  billion  for capital
+expenditures,  purchased portions of the ibm global network for $4.2 billion and
+loaned $1.5 billion to mediaone to pay termination  fees to comcast.  during the
+first half of 1998,  we received $5.7 billion as a settlement of a receivable in
+conjunction  with the sale of ucs as well as $3.5  billion in proceeds  from the
+sale.  we also  received a total of $1.6  billion in proceeds  from the sales of
+lin-tv,  ascc and  smartone in the first half of 1998.  our capital  spending of
+$3.4 billion was the primary use of cash in the first six months of 1998.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+during the first half of 1999, the net cash provided by financing activities was
+$10,247  million  compared  with cash  used in  financing  activities  of $5,025
+million in the first half of 1998.  during the first half of 1999, at&amp;t; received
+$7.9  billion of cash from a march 1999 bond  issuance,  $5.0  billion  from the
+issuance  of  convertible  securities  and  warrants  to  microsoft  corporation
+(microsoft) and $3.3 billion from the issuance of commercial  paper.  from this,
+$3.9  billion was used to fund the share  repurchase  program,  $2.0 billion was
+used to retire  commercial  paper and other short-term debt and $1.3 billion was
+used to pay dividends on common stock.  in the first half of 1998,  cash used in
+financing  activities  was largely  attributable  to the pay down of  commercial
+paper.
+
+ebitda  is a  measure  of our  ability  to  generate  cash  flow and  should  be
+considered  in  addition  to, but not as a  substitute  for,  other  measures of
+financial  performance reported in accordance with generally accepted accounting
+principles. ebitda increased $4,501 million, or 107.5%, for the six months ended
+june 30, 1999, compared with the same period in 1998. excluding ab&amp;is;, agns, the
+restructuring  and other  charges,  and gains on sales of businesses in 1999 and
+1998,  ebitda  increased 31.3% to $8,875 million in the first six months of 1999
+from $6,761 million for the first six months of 1998. the increase was primarily
+due to increased  revenues in business  services and cost reductions in consumer
+services and corporate overhead.
+
+euro conversion
+on january 1, 1999,  certain  members of the european  union  established  fixed
+conversion  rates between their  existing  currencies  and the european  union's
+currency (euro).  the transition period is anticipated to extend between january
+1, 1999,  and july 1, 2002.  we have  assessed the impact of the  conversion  on
+information-technology  systems,  currency  exchange rate risk,  derivatives and
+other financial instruments,  continuity of material contracts as well as income
+tax and accounting issues. we do not expect the conversion during the transition
+period to have a material effect on our consolidated financial statements.
+
+financial condition
+total assets increased  $85,688 million,  or 143.9%, to $145,238 million at june
+30, 1999,  compared with december 31, 1998. the increase in total assets was due
+primarily to our  acquisition of tci, which resulted in an investment in liberty
+media  group  of $35  billion,  increased  goodwill,  and an  increase  in other
+investments including cablevision,  excite@home and lenfest communications, inc.
+the  acquisition  of tci also  resulted  in the  addition  of over $6 billion to
+property,  plant and  equipment.  other  assets also  increased  by $1.5 million
+representing  the comcast  break-up fee loaned to mediaone by at&amp;t.; in addition,
+we recognized  goodwill  related to our  acquisition of the ibm global  network.
+these increases were partially  offset by a net decrease in cash, which was used
+to partially  fund the first  quarter  share  repurchase,  capital  expenditures
+during the period and the acquisition of the ibm global network.
+
+total  liabilities  increased  $29,070 million,  or 85.7%, to $62,989 million at
+june 30, 1999,  compared with december 31, 1998.  the increase was due primarily
+to the acquisition of tci,  particularly debt and deferred income taxes, an $8.0
+billion bond offering and the issuance of commercial paper.
+
+in addition,  at&amp;t; issued $5.0 billion of quarterly convertible income preferred
+securities (recorded net of a $0.3 million discount) to microsoft.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+total  shareowners'  equity  increased  $47,966 million,  or 187.9%,  to $73,488
+million at june 30, 1999,  compared with december 31, 1998. the increase was due
+primarily to the issuance of shares  related to the tci  acquisition,  partially
+offset by shares repurchased.
+
+at&amp;t; group's  ratio of total debt to total  capital at june 30, 1999,  was 41.9%
+compared  with  20.9% at  december  31,  1998.  equity  includes  the $5 billion
+convertible  securities  issued to microsoft  and debt  includes $1.7 billion of
+non-convertible  securities issued by tci's subsidiary  trusts. the increase was
+primarily driven by an increase in debt associated with the tci merger and an $8
+billion bond issuance in march 1999,  partially  offset by a higher equity base.
+at&amp;t; group's net debt-to-operational ebitda was 1.65x at june 30, 1999, compared
+with 0.24x at december 31, 1998.
+
+risk management
+we are exposed to market  risk from  changes in  interest  and foreign  exchange
+rates.  on a limited  basis we use  certain  derivative  financial  instruments,
+including interest rate swaps, options,  forwards and other derivative contracts
+to manage  these  risks.  we do not use  financial  instruments  for  trading or
+speculative  purposes.  all financial  instruments  are used in accordance  with
+board-approved policies.
+
+assuming a 10% downward  shift in interest rates at june 30, 1999, the potential
+loss for changes in fair value of unhedged debt would have been $1.0 billion.
+
+at&amp;t; has a $20 billion  commitment from multiple lenders with credit  agreements
+to be  finalized  upon  consummation  of the  proposed  merger with the mediaone
+group.
+
+recent pronouncements
+in june 1998,  the  financial  accounting  standards  board issued sfas no. 133,
+"accounting  for derivative  instruments and hedging  activities.  " among other
+provisions, it requires that entities recognize all derivatives as either assets
+or  liabilities  in the  statement  of  financial  position  and  measure  those
+instruments at fair value.  gains and losses  resulting from changes in the fair
+values of those  derivatives  would be accounted for depending on the use of the
+derivative and whether it qualifies for hedge accounting. this effective date of
+this standard was delayed via the issuance of sfas no. 137. the  effective  date
+for sfas no. 133 is now for fiscal years beginning  after june 15, 2000,  though
+earlier  adoption is encouraged and retroactive  application is prohibited.  for
+at&amp;t; this means that the standard must be adopted no later than january 1, 2001.
+management  does not expect the  adoption  of this  standard  to have a material
+impact on at&amp;t;'s results of operations, financial position or cash flows.
+
+year 2000
+at&amp;t; is  preparing  its systems and  applications  for the year 2000 (y2k).  the
+issue our y2k program  addresses is the use of a two-digit year field instead of
+a  four-digit  year  field in  computer  systems.  if  computer  systems  cannot
+distinguish  between the year 1900 and the year 2000,  system  failures or other
+computer  errors could  result.  the potential for failures and errors spans all
+aspects of our business,  including  computer systems,  voice and data networks,
+and  building   infrastructures.   we  are  also  faced  with   addressing   our
+interdependencies  with our suppliers,  connecting carriers and major customers,
+all of whom face the same issue.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+at&amp;t;'s company-wide y2k program is focused on four interrelated categories which
+are   critical  to   maintaining   uninterrupted   service  to  our   customers:
+at&amp;t-developed;  applications  and  their  external  interfaces,  at&amp;t;  networks,
+information-technology (it) platforms that support the applications,  and non-it
+infrastructure.
+
+at&amp;t;'s  progress in our y2k program is  measured  by certain key  milestones  or
+phases common to each category of systems.  these  milestones  are:  assessment,
+repair/remediation,  testing and  certification.  at&amp;t;  monitors  and tracks the
+progress  of our y2k program  through a series of  scorecards  that  capture the
+activities related to the y2k process phases.
+
+as of june 30, 1999,  at&amp;t;'s  network  services  (excluding  recently  completed
+acquisitions)  are year 2000  compliant.  this means they have been assessed for
+year 2000 impacts,  repaired if necessary,  tested and fully  deployed.  for all
+other systems encompassed in our y2k program, at&amp;t; anticipates completion of all
+phases by the third quarter of 1999,  which is an extension of our previous time
+frame due  primarily  due to the impact of  acquisitions  and  vendor  delays in
+delivering y2k-compliant  software/hardware.  the status of tci's y2k program is
+discussed  separately  from the existing at&amp;t; program.  all targets cited herein
+also exclude  information  regarding  pending  acquisitions,  whose programs are
+still being  evaluated  and planned for  integration  into the overall  at&amp;t; y2k
+program.
+
+program status
+at&amp;t; now has over 3,500  applications that (1) directly support at&amp;t;'s voice and
+data  telecommunications  services  (including  wired  and  wireless);  (2)  are
+critical  to  the   provisioning,   administration,   maintenance  and  customer
+service/support related to our telecommunications  services; and (3) support our
+sales  and   marketing   organizations,   other  at&amp;t;   services   and  internal
+administrative functions. these applications represent over 380 million lines of
+code. as of june 30, 1999,  at&amp;t; has completed 100% of the assessment and repair
+and about 98% of the application  testing.  the  certification and deployment of
+these applications is targeted for completion in the third quarter of 1999.
+
+with respect to external (third-party) interface assessment, formal letters were
+sent to about 2,000  domestic  telecommunications  companies  and  international
+telecommunications  authorities  to request  information  on their y2k plans and
+targets  for  compliance.  we have  identified  over  1,000  different  types of
+third-party  interfaces and about 10,000 total  instances of those types.  as of
+june 30, 1999,  at&amp;t; has assessed  approximately  99% of  third-party  interface
+types, and  approximately  98% are y2k compliant.  we expect to be 100% complete
+with y2k certification of external interfaces in the third quarter of 1999.
+
+the at&amp;t; network is critical to providing top-quality,  reliable service to at&amp;t;
+customers. at june 30, 1999, the assessment,  repair and certification phases of
+the operation-support  systems (os) were 100% complete and these systems are now
+fully deployed.  in addition to the at&amp;t-developed;  applications  supporting the
+network,  at&amp;t; has  inventoried  about 2,000  unique  types  (manufactured/model
+combinations)  externally  purchased  network elements (ne) including  switches,
+routers,  network-control  points and  signal-transfer  points.  additional  y2k
+testing is conducted to independently verify supplier claims of compliance.  all
+of the nes are now  certified.  after  os/ne  certification  is  complete,  at&amp;t;
+performs  integration  testing to verify y2k certification of nes in conjunction
+with the associated os applications.  such integration testing is 100% completed
+as of june 30, 1999, and all of the nes are fully deployed.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+the it infrastructure  category addresses not only the computing  platforms that
+are critical to the  at&amp;t-developed;  applications,  but also the common modules,
+communications  protocols,  the internal at&amp;t; wide-area and local-area networks,
+desktop  hardware/software  and the internal voice network. as of june 30, 1999,
+at&amp;t; was approximately 96% compliant in computing platforms, about 94% compliant
+in desktops,  approximately  98% compliant in voice  systems and  adjuncts,  and
+about  99%  compliant  in  data  networks.  at&amp;t;  anticipates  completion  of it
+infrastructure certification by the third quarter of 1999.
+
+the non-it  infrastructure  focuses on the  energy-  and  environment-management
+systems  that are  critical  to  various  computer  systems,  as well as safety,
+security and operations.  this aspect of the y2k program  encompasses  more than
+9,000 sites,  as well as about 7,000  wireless cell sites.  as of june 30, 1999,
+approximately  98% of all sites  completed  inventory and about 94% are assessed
+and compliant (or not impacted).  at&amp;t; has targeted 100% site  compliance by the
+third quarter of 1999.
+
+in addition, at&amp;t; is continuing network interoperability tests with a variety of
+domestic  and  international  testing  partners.  these  tests are  designed  to
+exercise the network  across a range of our vendors,  and across a range of at&amp;t;
+voice,  private line, and data  services.  we are also testing with key customer
+and  industry   segments,   including   the  financial   community,   insurance,
+transportation,  manufacturing  and others.  all test  results to date have been
+positive.
+
+similar to at&amp;t;'s y2k  program,  the tci program has a  four-phased  approach to
+determining the readiness of systems for y2k, namely;  assessment,  remediation,
+testing and implementation.  we anticipate  substantial completion of all phases
+of tci's  program  by the third  quarter  of 1999.  tci is also  continuing  its
+efforts to verify  the year 2000  readiness  of its  significant  suppliers  and
+vendors and continued to  communicate  with  significant  business  partners and
+affiliates to assess such partners and affiliates' year 2000 status.
+
+costswe have expended  approximately $600 million since inception in 1997 on all
+phases of the y2k project.  this figure  includes  approximately  $98 million of
+costs  incurred  during the second quarter of 1999, of which  approximately  $14
+million represented  capital spending for upgrading and replacing  non-compliant
+computer  systems  and  network  components.  less than  half of the 1999  costs
+represent  internal it resources that have been  redeployed  from other projects
+and are expected to return to these projects upon completion of the y2k project.
+we  anticipate  remaining  y2k costs for 1999,  inclusive of  approximately  $69
+million projected expenditures  associated with completing the tci program, will
+be  approximately  $156 million.  this  projection  includes  approximately  $50
+million of capitalized costs.
+
+risk assessment
+we have  assessed our business  exposure that would result from a failure of our
+y2k program,  as well as those of our suppliers,  connecting  carriers and major
+customers.  such  failures  would  result in  business  consequences  that could
+include failure to be able to serve  customers,  loss of network  functionality,
+inability to render accurate bills, lost revenues, harm to the at&amp;t; brand, legal
+and regulatory exposure, and failure of management controls. although we believe
+that internal y2k  compliance  will be achieved no later than december 31, 1999,
+there can be no assurance that the y2k problem will not have a material  adverse
+effect on our business, financial condition or results of operations.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+contingency plans
+at&amp;t;'s  contingency  planning program focuses on 38 critical business  processes
+and many more that are designated as "important" or "support". the plans address
+all    facets    of    business    continuity,    including    key    suppliers,
+systems/applications,  it infrastructure and work centers.  specific examples of
+at&amp;t;'s contingency plan initiatives include the following:
+
+plans are under way to engineer additional network capacity and to position at&amp;t;
+personnel  on site at  critical  locations  to  monitor  operations  and  manage
+increases in work and call volumes.
+
+agreements  are being  negotiated  with  contractors  and  vendors to ensure the
+availability of on-site technical support.  this coverage  includes,  but is not
+limited to, network centers and sites, customer-care centers and data centers.
+
+we  are  planning  to   proactively   stage   power,   fuel,   water,   heating,
+air-conditioning and ventilation sources to support critical business operations
+and personnel requirements.
+
+alternate  procedures  and  processes  are being  developed to support  critical
+customer functions,  including alternative procedures for rapid repair, recovery
+and restoration of critical technology components by business resumption teams.
+
+procedures to perform database backups,  hardcopy printouts,  data retention and
+recovery are being established for business critical data.
+
+risk management
+in  addition  to the  contingency  planning  program,  at&amp;t; has  implemented  an
+independent verification and validation program for applications to validate the
+quality  of  application  remediation  and  testing,  as well as the  continuing
+compliance  of systems  put back into  production.  we also  continue to conduct
+independent audits across critical areas of the y2k program.
+
+other matters
+on april 30, 1999,  at&amp;t;  completed its  acquisition  of the ibm global  network
+(ign) business and its assets in the united states. the acquisition is occurring
+in phases  throughout 1999 as legal and regulatory  requirements are met in each
+of the 59  countries  in which  the  business  operates.  in june of  1999,  the
+acquisitions  of the ign business in japan,  the united kingdom and ireland were
+completed.  the acquisition  has been accounted for as a purchase.  accordingly,
+the operating results of the ign business have been included in the accompanying
+consolidated  financial  statements  since the date of  acquisition.  intangible
+assets of approximately  $3.9 billion including customer lists and the excess of
+the  purchase  price  over  the fair  value of net  assets  acquired  are  being
+amortized on a straight-line  basis over periods ranging from five-30 years. the
+pro forma impact of the ign business  results on historical at&amp;t; results are not
+material.
+
+on may 3, 1999,  at&amp;t;  closed the  previously  announced  merger  with  vanguard
+cellular systems,  inc.  (vanguard).  consummation of the merger resulted in the
+issuance of  approximately  12.6 million at&amp;t; shares and payment of $485 million
+in cash. in addition, vanguard had approximately $550 million in debt, which was
+subsequently  repaid  by at&amp;t.;  the  merger  with  vanguard  was  recorded  as a
+purchase.  accordingly  the operating  results of vanguard have been included in
+the   accompanying   consolidated   financial   statements  since  the  date  of
+acquisition. the pro forma impact of vanguard results on historical at&amp;t; results
+are not material.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+on june 1, 1999,  at&amp;t; canada  completed  the  announced  merger  with  metronet
+communications corp. (metronet),  canada's largest facilities-based  competitive
+local exchange carrier (clec).  the combined companies were renamed at&amp;t; canada.
+at&amp;t; owns a 31% stake in the merged entity, which maintains a national network
+to provide canadian business customers with local and long distance voice, data,
+internet and electronic  commerce  services as well as wireless services through
+rogers cantel at&amp;t.;
+
+on june 7, 1999,  at&amp;t; signed a definitive  agreement  with cox  communications,
+inc. (cox) whereby cox will exchange its at&amp;t; stock for cable television systems
+that  serve   approximately   495,000   customers  as  well  as  certain   other
+consideration, including cash. based on the closing price of at&amp;t; stock when the
+agreement  was  announced,  the  transaction  is  valued at  approximately  $2.8
+billion.  the agreement  has been  approved by the boards of both  companies and
+will be subject to necessary government and regulatory approvals.
+
+on june 29, 1999,  the  previously  announced  global  venture  between at&amp;t; and
+british  telecommunications  plc (bt) received  approval  from the u.s.  justice
+department.  the  venture  has  already  received  approval  from  the  european
+commission.   the  global  venture  will  combine  the  transborder  assets  and
+operations of each company.  the venture will be equally owned by both companies
+when  it  begins  operations.  the  receipt  of  certain  additional  regulatory
+approvals  is required and the venture is expected to be completed in the second
+half of 1999.
+
+on may 28, 1999, at home corporation consummated a merger agreement with excite,
+inc.  (excite),  a global  internet  media  company  that offers  consumers  and
+advertisers   comprehensive   internet   navigation   services  with   extensive
+personalization  capabilities.  under the terms of the merger agreement, at home
+corporation  issued  approximately  116 million  shares of its common  stock (as
+adjusted for a june 1999 stock split) for all of the outstanding common stock of
+excite based on an exchange  ratio of 2.083804  shares of at home  corporation's
+common  stock  (as  adjusted  for a june 1999  stock  split)  for each  share of
+excite's common stock. as a result of the merger, at&amp;t;'s economic interest in at
+home  corporation  (excite@home)  decreased  from  38.8%  to  26.5%.  due to the
+resulting  increase  in  excite@home's  equity,  net of the  dilution  of at&amp;t;'s
+ownership  interest in  exite@home,  at&amp;t;  recorded a $466  million  increase to
+additional paid in capital.  at june 30, 1999, at&amp;t; owned  63,720,000  shares of
+excite@home  class a common  stock (as adjusted for a june 1999 stock split) and
+has an approximate  58% voting  interest on certain  matters.  during the second
+quarter of 1999, the stockholders of excite@home approved certain changes in the
+corporate  governance of excite@home.  as a result of these changes,  management
+has  concluded  that at&amp;t; no longer holds a  controlling  financial  interest in
+excite@home and, accordingly,  during the second quarter of 1999, at&amp;t; ceased to
+consolidate  excite@home and began to account for  excite@home  using the equity
+method of accounting.  the effect of this  deconsolidation was immaterial to the
+consolidated financial statements of at&amp;t.;
+
+subsequent events
+
+on august 2, 1999, at&amp;t; completed its acquisition of honolulu cellular telephone
+company from bellsouth.
+
+on august 5, 1999,  at&amp;t; and bt announced  that they will jointly  acquire a 33%
+stake  in  rogers  cantel  mobile   communications   inc.  (rogers  cantel)  for
+approximately $934 million in cash. the investment will be owned equally by at&amp;t;
+and bt.  at&amp;t; and bt also  announced  that bt will  acquired  30% of at&amp;t;'s  31%
+ownership interest in at&amp;t; canada for approximately  $402 million.  in addition,
+rogers cantel and at&amp;t; canada will  accelerate the bundling and joint  marketing
+of wired and wireless services for canadian business  customers.  the closing of
+these transactions is expected to take place in late august 1999.
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+                           part ii - other information
+
+item 2(c).  changes in securities and use of proceeds.
+on june 16, 1999, in a private  placement  transaction  exempt from registration
+pursuant  to  section  4(2) of the  securities  act of 1933,  as  amended,  as a
+transaction  not  involving a public  offering,  the company  sold to  microsoft
+corporation for an aggregate  price of $5 billion newly issued at&amp;t;  convertible
+trust  preferred  securities  with an  aggregate  face  amount of $5 billion and
+warrants to purchase 40 million shares of at&amp;t; common stock.
+
+the  convertible  trust  preferred  securities bear interest at a rate of 5% per
+annum,  payable  quarterly,  are  convertible  into 66.7 million  shares of at&amp;t;
+common stock, which is equivalent to a conversion price of $75 per share, have a
+maturity  of 30 years,  and the  conversion  feature  can be  terminated,  under
+certain conditions, after three years. the warrants will be exercisable in three
+years to purchase 40 million at&amp;t; common shares at $75 per share. alternatively,
+the warrants are exercisable on a cashless basis.
+
+there were no underwriting discounts or commissions.  the company intends to use
+the proceeds to fund working capital and capital expenditures.
+
+item 4. submission of matters to a vote of security holders
+(a) the annual meeting of the shareholders of the registrant was held on may 19,
+1999.
+
+(b)      election of directors*
+                                                              votes
+                                                           (millions)
+
+nominee                                   for               withheld
+
+c. michael armstrong                     1,855                 18
+kenneth t. derr                          1,855                 18
+m. kathryn eickhoff                      1,855                 19
+walter y. elisha                         1,854                 19
+george m. c. fisher                      1,855                 18
+donald v. fites                          1,855                 19
+ralph s. larsen                          1,855                 18
+john c. malone                           1,855                 19
+donald f. mchenry                        1,854                 19
+michael i. sovern                        1,854                 19
+sanford i. weill                         1,855                 18
+thomas h. wyman                          1,854                 19
+john d. zeglis                           1,855                 18
+
+*in july 1999, amos b. hostetter, jr. was elected as a member of the board of
+directors.
+
+(c) holders of common  shares  voted at this meeting on the  following  matters,
+which were set forth in the registrant's proxy statement dated march 25, 1999.
+
+(i)      ratification of auditors
+                                     for         against       abstain
+
+ratification of the firm            1,861           4             8
+of pricewaterhousecoopers llp      (99.75%)      (.25%)
+as the independent auditors
+to audit the registrant's
+financial statements for
+the year 1999.(*)
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+(ii)     directors proposals
+                                                                   broker
+                               for        against     abstain     non-votes
+
+that the shareholders         1,322         240          18          292
+approve the amendment to     (56.23%)    (10.28%)      (.80%)
+the 1997 long-term
+incentive plan.(**)
+
+ *percentages  are based on the total  common  shares  voted.  approval  of this
+  proposal required a majority of the common shares voted.
+**percentages are based on total number of outstanding  common shares.  approval
+  of this proposal required a majority of the outstanding common shares.
+(iii) shareholder proposals**
+                                                                   broker
+                               for        against     abstain     non-votes
+
+that the company               114        1,427          40          292
+establish a cap on            (7.50%)    (92.50%)
+ceo compensation.(*)
+
+*percentages  are based on the  total  common  shares  voted.  approval  of this
+ proposal required a majority of the common shares voted.
+
+**a second  shareholder  proposal requiring the board to take necessary steps to
+change the annual  meeting date to the third  wednesday of april was included in
+the company's proxy statement but was not submitted at the meeting.
+
+item 6. exhibits and reports on form 8-k.
+
+(a)           exhibits
+
+              exhibit number
+
+                      12       computation of ratio of earnings to fixed charges
+
+                      27       financial data schedule
+
+                      99.1     liberty media group financial results for the
+                               quarter and year-to-date periods ended
+                               june 30, 1999
+
+                      99.2     tele-communications, inc. financial results for
+                               the quarter and year-to-date periods ended
+                               june 30, 1999
+
+                      99.3     at&amp;t; unaudited pro-forma condensed financial
+                               information for the year ended december 31, 1998
+
+(b)           reports on form 8-k
+
+              form 8-k dated may 3, 1999,  was filed  pursuant  to item 5
+              (other  events)  and  item  7  (financial   statements  and
+              exhibits).  form 8-k dated may 7, 1999,  was filed pursuant
+              to item 5 and item 7.
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+                                   signatures
+
+pursuant  to the  requirements  of the  securities  exchange  act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+
+
+
+                                   at&amp;t; corp.
+
+
+
+                                   /s/  n. s. cyprus
+                                   ------------------------------
+                                   by:  n. s. cyprus
+                                        vice president and controller
+                                       (principal accounting officer)
+
+
+
+date:  august 12, 1999
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+                                  exhibit index
+
+
+exhibit
+number
+
+
+
+12                             computation of ratio of earnings to fixed charges
+
+27                             financial data schedule
+
+99.1                           liberty media group financial results for the
+                               quarter and year-to-date periods ended
+                               june 30, 1999
+
+99.2                           tele-communications, inc. financial results for
+                               the quarter and year-to-date periods ended
+                               june 30, 1999
+
+99.3                           at&amp;t; unaudited pro-forma condensed financial
+                               information for the year ended december 31, 1998
+</page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page>

@@ -1,0 +1,963 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FF6gl30UYCWeN1GtaGRpskJCzKax1oN0G9DbtHRk6VeGCRNQtaHW4yH1k5jF/lNQ
+ aFIUyHAwJP9Ab2dxeh1hWg==
+
+<SEC-DOCUMENT>0001104659-07-040463.txt : 20070516
+<SEC-HEADER>0001104659-07-040463.hdr.sgml : 20070516
+<ACCEPTANCE-DATETIME>20070516113027
+ACCESSION NUMBER:		0001104659-07-040463
+CONFORMED SUBMISSION TYPE:	NT 10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070331
+FILED AS OF DATE:		20070516
+DATE AS OF CHANGE:		20070516
+EFFECTIVENESS DATE:		20070516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPHERIX INC
+		CENTRAL INDEX KEY:			0000012239
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT [8700]
+		IRS NUMBER:				520849320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NT 10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05576
+		FILM NUMBER:		07856547
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12051 INDIAN CREEK CT
+		CITY:			BELTSVILLE
+		STATE:			MD
+		ZIP:			20705
+		BUSINESS PHONE:		3014193900
+
+	MAIL ADDRESS:	
+		STREET 1:		12051 INDIAN CREEK COURT
+		CITY:			BELTSVILLE
+		STATE:			MD
+		ZIP:			20705
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BIOSPHERICS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BIOSPHERICS RESEARCH INC
+		DATE OF NAME CHANGE:	19720404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>a07-10901_1nt10q.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading --></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">UNITED
+  STATES</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border:solid windowtext 1.0pt;border-left:none;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">OMB APPROVAL</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SECURITIES
+  AND EXCHANGE COMMISSION</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">OMB Number: 3235-0058</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">Expires: April 30, 2009</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington,
+  D.C. 20549</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">Estimated average burden</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">hours per response . . .
+  2.50</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:16.0pt;font-weight:bold;">FORM
+  12b-25</font></b></p>
+  </td>
+  <td width="25%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">SEC FILE NUMBER<br><br></font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">CUSIP NUMBER</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">NOTIFICATION
+  OF LATE FILING</font></b></p>
+  </td>
+  <td width="25%" valign="bottom" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0pt .7pt 0pt 0pt;width:25.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading --><i>(Check one):</i></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.26%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form 10-K</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" colspan="3" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.58%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form 20-F</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form 11-K</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font>&nbsp;Form 10-Q</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form 10-D</p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.26%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form N-SAR</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" colspan="3" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.58%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Form N-CSR</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.26%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" colspan="3" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.26%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">For Period Ended:</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="71%" colspan="9" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:71.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">March 31, 2007</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="35%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:35.2%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Transition Report on Form
+  10-K</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="35%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:35.2%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Transition Report on Form
+  20-F</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="35%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:35.2%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Transition Report on Form
+  11-K</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="35%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:35.2%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Transition Report on Form
+  10-Q</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="35%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:35.2%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Transition Report on Form
+  N-SAR</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="15%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:15.44%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.36%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="27%" colspan="3" valign="top" style="padding:0pt .7pt 0pt 0pt;width:27.04%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">For the Transition Period Ended:</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.5%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="59%" colspan="7" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:59.1%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr height="0">
+  <td width="85" style="border:none;"></td>
+  <td width="114" style="border:none;"></td>
+  <td width="18" style="border:none;"></td>
+  <td width="70" style="border:none;"></td>
+  <td width="19" style="border:none;"></td>
+  <td width="42" style="border:none;"></td>
+  <td width="18" style="border:none;"></td>
+  <td width="115" style="border:none;"></td>
+  <td width="18" style="border:none;"></td>
+  <td width="115" style="border:none;"></td>
+  <td width="18" style="border:none;"></td>
+  <td width="115" style="border:none;"></td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<table border="1" cellspacing="0" cellpadding="0" width="100%" style="border:none;border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p align="center" style="font-size:10.0pt;margin:0pt 0pt .0001pt;text-align:center;"><!-- SET mrlNoTableShading --><i>Read Instructions (on back page) Before Preparing Form. Please Print
+  or Type.</i></p>
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Nothing
+  in this form shall be construed to imply that the Commission has verified any
+  information contained herein.</font></b></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading -->If the notification relates to a portion of the
+  filing checked above, identify the Item(s) to which the notification relates:</p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">PART I &#151; REGISTRANT INFORMATION</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Spherix Incorporated</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Full Name of Registrant</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Former Name if Applicable</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">12051 Indian Creek Court</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Address of Principal Executive Office <i>(Street and Number)</i></font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Beltsville, Maryland 20705</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:100.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">City, State and Zip Code</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt 12.0pt 10.0pt;page-break-after:avoid;text-indent:-10.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART II &#151; RULES 12b-25(b) AND (c)<a name="PartIiRules12b25bAndc_124733"></a></font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If the subject report could not be filed without
+unreasonable effort or expense and the registrant seeks relief pursuant to Rule&nbsp;12b-25(b),
+the following should be completed. (Check box if appropriate)</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading --></p>
+  </td>
+  <td width="3%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;(a)</font></p>
+  </td>
+  <td width="92%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:92.84%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The reason described in reasonable detail in
+  Part&nbsp;III of this form could not be eliminated without unreasonable
+  effort or expense</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+  <td width="3%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;(b)</font></p>
+  </td>
+  <td width="92%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:92.84%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The subject annual report, semi-annual report,
+  transition report on Form&nbsp;10-K, Form&nbsp;20-F, Form&nbsp;11-K,
+  Form&nbsp;N-SAR or Form&nbsp;N-CSR, or portion thereof, will be filed
+  on or before the fifteenth calendar day following the prescribed due date; or
+  the subject quarterly report or transition report on Form&nbsp;10-Q or
+  subject distribution report on Form&nbsp;10-D, or portion thereof, will
+  be filed on or before the fifth calendar day following the prescribed due
+  date; and</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;(c)</font></p>
+  </td>
+  <td width="92%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:92.84%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The accountant&#146;s statement or other exhibit required
+  by Rule&nbsp;12b-25(c) has been attached if applicable.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\Fc\136191126256_P66491CHE_2128605\10901-1-ba.htm',USER='jmsproofassembler',CD='May 16 19:11 2007' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p style="font-weight:bold;margin:0pt 0pt 12.0pt 10.0pt;page-break-after:avoid;text-indent:-10.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART III &#151; NARRATIVE</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State below in reasonable detail why Forms&nbsp;10-K,
+20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or
+the transition report or portion thereof, could not be filed within the
+prescribed time period.</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Form 10-Q could not be timely filed as our
+registered certified public accountant requested additional time to complete
+its FIN 48 tax analysis.&#160; The Company
+adopted Financial Standards Accounting Board Interpretation No. 48 Accounting
+for Uncertainty in Income Taxes (&#147;FIN 48&#148;) on January 1, 2007.&#160; We do not expect that this analysis will
+result in any further changes to our first quarter results as described herein.</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;(Attach extra
+Sheets if Needed)</font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt 12.0pt 10.0pt;page-break-after:avoid;text-indent:-10.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">PART IV &#151; OTHER INFORMATION</font></b></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading -->(1)</p>
+  </td>
+  <td width="96%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:96.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name and telephone number of person to contact in
+  regard to this notification</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Richard C. Levin, CEO, President, and CFO</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">301</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">419-3900</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name)</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Area Code)</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Telephone
+  Number)</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>
+  </td>
+  <td width="96%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:96.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Have all other periodic reports required under
+  Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of
+  the Investment Company Act of 1940 during the preceding 12 months or for such
+  shorter period that the registrant was required to file such report(s) been
+  filed ? If answer is no, identify report(s).</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font>&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<font face="Wingdings">o</font>&nbsp;No</p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>
+  </td>
+  <td width="96%" colspan="5" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:96.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Is it anticipated that any significant change in
+  results of operations from the corresponding period for the last fiscal year
+  will be reflected by the earnings statements to be included in the subject
+  report or portion thereof?</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font>Yes&nbsp;&nbsp;&nbsp;&nbsp;<font face="Wingdings">o</font>&nbsp;No</p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:60.22%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="11%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:11.12%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:17.94%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.58%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="96%" colspan="5" valign="top" style="padding:0pt .7pt 0pt 0pt;width:96.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If so, attach an explanation of the anticipated
+  change, both narratively and quantitatively, and, if appropriate, state the
+  reasons why a reasonable estimate of the results cannot be made.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company has reported a 2007&#160;
+first quarter loss of $2.3 million compared to a 2006 first quarter loss
+of $533,000.</font></p>
+
+<div style="line-height:9.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><hr size="1" width="672" noshade color="black" align="center" style="width:504.0pt;"></div>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+<div align="center" style="font-family:Times New Roman;">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt .7pt;width:25.0%;">
+  <p align="center" style="font-size:10.0pt;margin:0pt 0pt .0001pt;text-align:center;"><!-- SET mrlNoTableShading --></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt .7pt;width:50.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Spherix
+  Incorporated</font></p>
+  </td>
+  <td width="25%" valign="top" style="padding:0pt .7pt 0pt .7pt;width:25.0%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0pt 0pt 12.0pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name of Registrant as
+Specified in Charter)</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">has caused this notification to be signed on its
+behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="6%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:6.0%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><!-- SET mrlNoTableShading -->Date</p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.4%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="24%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:24.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">May 16, 2007</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.8%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.2%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.4%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="58%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:58.66%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Richard C. Levin</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="6%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:6.0%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.4%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="24%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:24.56%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.8%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.2%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.4%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="58%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:58.66%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Richard C. Levin, CEO, President, and CFO</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:1.0pt;margin:0pt 0pt 12.0pt;"><font size="1" face="Times New Roman">&nbsp;</font></p>
+
+</div><br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\Fc\136191126256_P66491CHE_2128605\10901-1-ba.htm',USER='jmsproofassembler',CD='May 16 19:11 2007' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

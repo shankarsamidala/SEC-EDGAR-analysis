@@ -1,0 +1,137 @@
+<page>
+
+
+      costs. anacomp estimates that total expenditures on its year 2000 project,
+including costs of outside  parties such as consultants and attorneys,  costs of
+hardware  and software  remediation,  internal  labor,  travel and out of pocket
+expenses to be  approximately  $0.3, $2.3, and $1.2 million in fiscal year 1997,
+1998,  and  1999,  respectively.   these  figures  include  estimates  from  the
+engineering,  manufacturing, legal and information technology departments of the
+company.
+
+      risks.  there can be no  assurance  that the  company  and its vendors and
+suppliers will be able to identify all year 2000 issues before problems manifest
+themselves or to complete all  remediation in the required time frame.  further,
+it is possible  that the future level of expenses in the  company's  remediation
+efforts could rise significantly.
+
+      the company  relies upon the  continuous  provision of services from third
+parties such as electrical and telecommunication utilities around the world, and
+the company plans to enhance its electronic data transmission capabilities.  any
+sustained  disruption  of  service  or  capability  could  adversely  impact the
+company's  ability to operate its business.  finally,  there can be no assurance
+that,  if left  unremedied,  the products or services  that the company sells or
+distributes would remain competitive in the marketplace or the products that the
+company uses internally would not have a material effect upon the ability of the
+company to report its financial results.
+
+      contingency  plans. in those  instances where the company  determines that
+year 2000  problems  with its  operational  facilities  may not be identified or
+remediated in time, the company believes that its business will still be able to
+function without substantial interruption. for example, com services provided in
+a data center which  experiences a loss of power due to a third party  utility's
+failure to identify or remediate an isolated  year 2000 problem could be shifted
+to another data center without substantial interruption. in addition, electronic
+transmission  of data  could be  replaced  with  manual  delivery  of data  upon
+completion of certain  modifications.  in those instances where an installed com
+customer  experiences a year 2000 problem while operating its own com equipment,
+anacomp  could offer its com services to the customer at one of its data centers
+upon  completion  of  certain  modifications.  this  seamless  nature of many of
+anacomp's products and services forms the basis of anacomp's ongoing contingency
+planning.
+
+
+item 3.  quantitative and qualitative disclosures about market risks
+
+      the company does not have any significant financial instruments other than
+fixed rate debt.  the  company's  revolving  credit  facility is affected by the
+general level of u.s. interest rates and/or the libor rate. however, the company
+had no amounts  outstanding under this revolving credit facility on december 31,
+1998.
+
+
+
+<page>
+
+
+                      part ii - other information
+
+item 1.       legal proceedings
+
+      the company and its  subsidiaries  are  potential or named  defendants  in
+several  lawsuits and claims arising in the ordinary  course of business.  while
+the outcome of such claims,  lawsuits or other  proceedings  against the company
+cannot be predicted with certainty,  management expects that such liability,  to
+the extent not provided  for through  insurance  or  otherwise,  will not have a
+material adverse effect on the financial  conditions or results of operations of
+the company.
+
+      on august 29, 1997, access solutions  international,  inc. ("asi") filed a
+complaint for patent infringement in the u.s. district court,  district of rhode
+island, against data/ware development,  inc. ("data/ware"),  of which anacomp is
+the successor by merger, and the eastman kodak company ("kodak").  the complaint
+seeks injunctive relief and unspecified damages,  including attorney's fees, for
+the alleged  infringement  by data/ware and kodak of asi's united states letters
+patent no. 4,775,969 for "optical disk storage format,  method and apparatus for
+emulating a magnetic  tape drive" and no.  5,034,914  for "optical  disk storage
+method and  apparatus  with  buffered  interface."  the  company has assumed the
+defense  of this  matter on behalf of both  data/ware  and kodak,  although  the
+company  has  also  requested   indemnification   from  the  principal   selling
+shareholder of data/ware.  discovery in this matter continues, with any trial to
+occur probably not before the third calendar quarter of 1999. although there can
+be no assurance as to the eventual outcome of this matter,  the company believes
+that it has numerous meritorious defenses that it intends to pursue vigorously.
+
+item 2.  changes in securities and use of proceeds
+
+(c)   unregistered securities
+
+      pursuant to the 1996 non-employee  director stock option plan (amended and
+restated  as of december 1,  1997),  non-employee  directors  of the company may
+elect to receive their annual  retainer in the form of options to acquire common
+stock of the company. pursuant to such elections,  during the three-month period
+ending  december  31, 1998,  an aggregate of 1,875  options was granted to three
+directors in lieu of aggregate cash compensation of $9,375. the issuance of such
+options was effected in reliance upon the private placement  exemption set forth
+in section 4 (2) of the securities act of 1933, as amended,  on the basis of the
+directors'  familiarity  with  the  business  and  affairs  of the  company.  no
+underwriting fees or discounts were applicable to the transactions.  the options
+are first exercisable six months after the date of grant and remain  exercisable
+through the tenth anniversary of the grant date, at an exercise price of $11.375
+per share.
+
+item 6.  exhibits and reports on form 8-k
+
+(a)   exhibit 27.1  -  financial data schedule
+
+(b)    the  company  filed no  reports  on form 8-k  during  the  quarter  ended
+       december 31, 1998.
+
+
+
+
+<page>
+
+
+                              signatures
+
+
+
+pursuant  to the  requirements  of the  securities  exchange  act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                                anacomp, inc.
+
+
+
+                                                /s/ donald l. viles
+                                                donald l. viles
+                                                executive vice
+                                          president and
+                                                  chief financial
+                                          officer
+date: february 10, 1999
+
+</page></page></page>

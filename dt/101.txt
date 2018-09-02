@@ -1,0 +1,1452 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N2UaplCqIACt9v7qvKNAZi+tmbhxTwUllwDsGuhkLyEvJhDBhVqYcFrpoM6kOlFA
+ 0ASyZ1+7FlAGd74a3V7W4Q==
+
+<SEC-DOCUMENT>/in/edgar/work/0000006201-00-000017/0000006201-00-000017.txt : 20001027
+<SEC-HEADER>0000006201-00-000017.hdr.sgml : 20001027
+ACCESSION NUMBER:		0000006201-00-000017
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMR CORP
+		CENTRAL INDEX KEY:			0000006201
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [4512
+]		IRS NUMBER:				751825172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-08400
+			FILM NUMBER:		746120
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		4333 AMON CARTER BLVD
+				CITY:			FORT WORTH
+				STATE:			TX
+				ZIP:			76155
+				BUSINESS PHONE:		8179631234
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		4333 AMON CARTER BLVD
+					CITY:			FORT WORTH
+					STATE:			TX
+					ZIP:			75261-9616
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+<PAGE> 1
+
+
+                         UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+
+                            FORM 10-Q
+
+
+
+[X]Quarterly Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the Quarterly Period Ended September 30, 2000.
+
+
+[  ]Transition Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the Transition Period From        to        .
+
+
+Commission file number 1-8400.
+
+
+
+                        AMR Corporation
+     (Exact name of registrant as specified in its charter)
+
+        Delaware                            75-1825172
+    (State or other                      (I.R.S. Employer
+      jurisdiction                      Identification No.)
+   of incorporation or
+     organization)
+
+ 4333 Amon Carter Blvd.
+   Fort Worth, Texas                           76155
+ (Address of principal                      (Zip Code)
+   executive offices)
+
+Registrant's telephone number,   (817) 963-1234
+including area code
+
+
+                         Not Applicable
+(Former name, former address and former fiscal year , if changed
+                       since last report)
+
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes X      No        .
+
+
+
+
+Indicate the number of shares outstanding of each of the
+issuer's classes of common stock, as of the latest practicable
+date.
+
+
+Common Stock, $1 par value - 150,689,302 as of October 19, 2000
+
+
+
+
+<PAGE> 2
+                                 INDEX
+
+                            AMR CORPORATION
+
+
+
+
+PART I:   FINANCIAL INFORMATION
+
+
+Item 1.  Financial Statements
+
+  Consolidated  Statements of Operations --  Three  and  nine  months
+  ended September 30, 2000 and 1999
+
+  Condensed  Consolidated  Balance Sheets - September  30,  2000  and
+  December 31, 1999
+
+  Condensed  Consolidated Statements of Cash  Flows  --  Nine  months
+  ended September 30, 2000 and 1999
+
+  Notes  to  Condensed Consolidated Financial Statements -  September
+  30, 2000
+
+
+Item  2.  Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+
+PART II:  OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+
+SIGNATURE
+
+<PAGE> 3
+                    PART I:  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+AMR CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited) (In millions, except per share amounts)
+<TABLE>
+<CAPTION>
+
+                                   Three Months Ended     Nine Months Ended
+                                       September 30,         September 30,
+                                     2000        1999      2000        1999
+<S>                                 <C>        <C>        <C>        <C>
+Revenues
+Passenger - American Airlines Inc.  $4,385     $3,900     $12,341    $10,971
+          - American Eagle             390        352       1,096        963
+Cargo                                  183        160         530        469
+Other revenues                         298        283         877        840
+  Total operating revenues           5,256      4,695      14,844     13,243
+
+
+Expenses
+  Wages, salaries and benefits       1,721      1,533       5,012      4,561
+  Aircraft fuel                        648        456       1,768      1,219
+  Depreciation and amortization        307        276         889        797
+  Maintenance, materials and repairs   278        263         821        743
+  Commissions to agents                266        314         796        900
+  Other rentals and landing fees       250        248         743        718
+  Food service                         204        196         587        548
+  Aircraft rentals                     151        161         455        483
+  Other operating expenses             859        822       2,472      2,388
+    Total operating expenses         4,684      4,269      13,543     12,357
+Operating Income                       572        426       1,301        886
+
+Other Income (Expense)
+  Interest income                       42         21         108         62
+  Interest expense                    (119)      (108)       (353)      (295)
+  Interest capitalized                  36         27         110         89
+  Miscellaneous - net                   (6)        (9)         38         15
+                                       (47)       (69)        (97)      (129)
+Income From Continuing
+Operations Before Income
+Taxes and Extraordinary Loss           525        357       1,204        757
+Income tax provision                   203        144         472        311
+Income From Continuing
+Operations Before
+Extraordinary Loss                     322        213         732        446
+Income From Discontinued
+Operations, net of
+applicable income taxes and
+minority interest                       -          66          43        195
+Gain on Sale of Discontinued
+Operations, net of                      -          -           -          64
+applicable income taxes
+Income Before Extraordinary Loss      322         279         775        705
+Extraordinary Loss, net of
+applicable income taxes                (9)         -           (9)        -
+Net Earnings                       $  313      $  279      $  766     $  705
+
+</TABLE>
+Continued on next page.
+
+                                     -1-
+
+<PAGE> 4
+AMR CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS (CONTINUED)
+(Unaudited) (In millions, except per share amounts)
+<TABLE>
+<CAPTION>
+
+                            Three Months Ended      Nine Months Ended
+                               September 30,         September 30,
+                              2000       1999       2000      1999
+<S>                          <C>        <C>        <C>       <C>
+Earnings Applicable to
+Common Shares                $  313     $ 279      $ 766     $ 705
+
+Earnings Per Common Share
+  Basic
+    Income from Continuing
+    Operations               $ 2.14     $ 1.42     $ 4.89     $ 2.90
+    Discontinued Operations       -       0.44       0.30       1.68
+    Extraordinary Loss        (0.06)         -      (0.06)        -
+    Net Earnings             $ 2.08       1.86       5.13       4.58
+
+  Diluted
+    Income from Continuing
+    Operations               $ 1.96      $1.38      $4.55     $2.81
+    Discontinued Operations       -       0.38       0.27      1.63
+    Extraordinary Loss        (0.05)        -       (0.05)       -
+    Net Earnings             $ 1.91      $1.76      $4.77     $4.44
+
+Number of Shares Used in
+Computation
+  Basic                         150        150        149       154
+  Diluted                       164        155        161       159
+
+</TABLE>
+The accompanying notes are an integral part of these financial
+statements.
+
+                                     -2-
+
+<PAGE> 5
+AMR CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited) (In millions)
+<TABLE>
+<CAPTION>
+                                          September 30,   December 31,
+                                               2000          1999
+<S>                                          <C>           <C>
+Assets
+
+Current Assets
+  Cash                                       $    171      $     85
+  Short-term investments                        2,163         1,706
+  Receivables, net                              1,496         1,134
+  Inventories, net                                730           708
+  Deferred income taxes                           612           612
+  Other current assets                            180           179
+    Total current assets                        5,352         4,424
+
+Equipment and Property
+  Flight equipment, net                        13,037        11,323
+  Other equipment and property, net             1,603         1,433
+  Purchase deposits for flight equipment        1,630         1,582
+                                               16,270        14,338
+
+Equipment and Property Under Capital Leases
+  Flight equipment, net                         1,680         1,851
+  Other equipment and property, net                97            98
+                                                1,777         1,949
+
+Route acquisition costs, net                      865           887
+Other assets, net                               1,635         2,776
+                                             $ 25,899      $ 24,374
+
+Liabilities and Stockholders' Equity
+
+Current Liabilities
+  Accounts payable                            $  1,299     $  1,115
+  Accrued liabilities                            2,284        1,956
+  Air traffic liability                          2,929        2,255
+  Current maturities of long-term debt             495          302
+  Current obligations under capital leases         273          236
+    Total current liabilities                    7,280        5,864
+
+Long-term debt, less current maturities          3,795        4,078
+Obligations   under  capital  leases, less
+current obligations                              1,403        1,611
+Deferred income taxes                            2,164        1,846
+Other liabilities, deferred gains, deferred
+  credits and postretirement benefits            4,164        4,117
+
+Stockholders' Equity
+  Common stock                                     182          182
+  Additional paid-in capital                     2,974        3,061
+  Treasury stock                                (1,968)      (2,101)
+  Accumulated other comprehensive income            (2)          (2)
+  Retained earnings                              5,907        5,718
+                                                 7,093        6,858
+                                              $ 25,899     $ 24,374
+</TABLE>
+The  accompanying  notes  are an integral  part  of  these  financial
+statements.
+
+                                     -3-
+
+<PAGE> 6
+AMR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited) (In millions)
+<TABLE>
+<CAPTION>
+
+                                         Nine Months Ended September 30,
+                                              2000          1999
+<S>                                           <C>           <C>
+Net Cash Provided by Operating Activities     $2,732        $1,846
+
+Cash Flow from Investing Activities:
+Capital expenditures, including net change in
+  purchase deposits for purchase deposits     (2,792)       (2,751)
+Net increase in short-term investments          (457)          (14)
+Acquisitions and other investments               (41)          (99)
+Proceeds from:
+  Dividend from Sabre, Inc. (Sabre)              559             -
+  Sale of equipment and property                 239             55
+  Sale of other investments                       94             31
+  Sale of discontinued operations                  -            259
+Other                                              -             18
+Net cash used for investing activities        (2,398)        (2,501)
+
+Cash Flow from Financing Activities:
+Payments on long-term debt and capital
+  lease obligations                             (628)          (214)
+Repurchases of common stock                       -            (871)
+Proceeds from:
+   Issuance of long-term debt                   351           1,367
+   Exercise of stock options                     29              18
+   Short-term loan from Sabre                     -             300
+   Sale-leaseback transactions                    -              54
+Net cash provided by (used for)
+  financing activities                         (248)            654
+
+Net increase (decrease) in cash                   86             (1)
+Cash at beginning of period                       85             87
+
+Cash at end of period                         $  171        $    86
+
+
+Activities Not Affecting Cash:
+Distribution of Sabre shares to
+  AMR shareholders                            $  581        $    -
+Payment of short-term loan from Sabre
+  against receivable from Sabre                   -            300
+Capital lease obligations incurred                -             54
+
+
+
+</TABLE>
+The  accompanying notes are an integral part of these  financial
+   statements.
+
+
+                                     -4-
+
+<PAGE> 7
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+
+1.The   accompanying   unaudited  condensed   consolidated   financial
+  statements have been prepared in accordance with generally  accepted
+  accounting  principles for interim financial  information  and  with
+  the  instructions  to Form 10-Q and Article 10  of  Regulation  S-X.
+  Accordingly,  they  do  not  include  all  of  the  information  and
+  footnotes  required by generally accepted accounting principles  for
+  complete financial statements.  In the opinion of management,  these
+  financial  statements contain all adjustments, consisting of  normal
+  recurring  accruals,  necessary  to  present  fairly  the  financial
+  position,  results  of  operations and cash flows  for  the  periods
+  indicated.   Results of operations for the periods presented  herein
+  are  not  necessarily indicative of results of  operations  for  the
+  entire  year.   The  balance sheet at December  31,  1999  has  been
+  derived  from  the audited financial statements at that  date.   The
+  results  of  operations, cash flows and net assets for  Sabre,  Inc.
+  (Sabre),  AMR  Services,  AMR Combs and TeleService  Resources  have
+  been   reflected  in  the  consolidated  financial   statements   as
+  discontinued   operations  (see  Note  7  below),  and  accordingly,
+  related  information previously reported in the September  30,  1999
+  Form 10-Q has been restated.  For further information, refer to  the
+  consolidated financial statements and footnotes thereto included  in
+  the  AMR Corporation (AMR or the Company) Annual Report on Form 10-K
+  for the year ended December 31, 1999.
+
+2.Accumulated   depreciation  of  owned  equipment  and  property   at
+  September 30, 2000 and December 31, 1999, was $8.0 billion and  $7.4
+  billion,  respectively.  Accumulated amortization of  equipment  and
+  property  under  capital leases at September 30, 2000  and  December
+  31, 1999, was $1.4 billion and $1.3 billion, respectively.
+
+3.As  discussed in the notes to the consolidated financial  statements
+  included  in the Company's Annual Report on Form 10-K for  the  year
+  ended  December 31, 1999, the Miami International Airport  Authority
+  is  currently remediating various environmental conditions at  Miami
+  International  Airport (Airport) and funding the  remediation  costs
+  through  landing  fee  revenues.  Future costs  of  the  remediation
+  effort  may be borne by carriers operating at the Airport, including
+  American  Airlines,  Inc. (American), a wholly-owned  subsidiary  of
+  the  Company,  through increased landing fees and/or other  charges.
+  In  addition,  the  Company is subject to  environmental  issues  at
+  various   other  airport  and  non-airport  locations.    Management
+  believes,  after considering a number of factors, that the  ultimate
+  disposition  of  these  environmental  issues  is  not  expected  to
+  materially  affect  the Company's consolidated  financial  position,
+  results  of  operations,  or  cash  flows.   Amounts  recorded   for
+  environmental issues are based on the Company's current  assessments
+  of   the  ultimate  outcome  and,  accordingly,  could  increase  or
+  decrease as these assessments change.
+
+4.As of October 2, 2000, the Company had commitments to acquire the
+  following  aircraft:  67 Boeing 737-800s, 21 Boeing 777-200IGWs,  20
+  Boeing 757-200s, 153 Embraer regional jets and 25 Bombardier CRJ-700s.
+  Deliveries of these aircraft extend through 2006.  Payments for these
+  aircraft will approximate $600 million during the remainder of 2000,
+  $2.5  billion  in  2001, $1.25 billion in 2002 and an  aggregate  of
+  approximately $1.7 billion in 2003 through 2006.
+
+5.During  the  third  quarter  of  2000,  AMR  repurchased  prior   to
+  scheduled maturity approximately $167 million in face value of long-
+  term  debt.   Cash  from operations provided  the  funding  for  the
+  repurchases.   These transactions resulted in an extraordinary  loss
+  of $14 million ($9 million after-tax).
+
+6.During   1999,   the   Company  entered  into  an   agreement   with
+  priceline.com  Incorporated  (priceline)  whereby  ticket  inventory
+  provided  by the Company may be sold through priceline's  e-commerce
+  system.   In  conjunction with this agreement, the Company  received
+  warrants  to purchase approximately 5.5 million shares of  priceline
+  common  stock.   In  the second quarter of 2000,  the  Company  sold
+  these  warrants  for  proceeds  of approximately  $94  million,  and
+  recorded  a  pre-tax  gain of $57 million ($36  million  after-tax),
+  which  is  included  in  Miscellaneous -  net  on  the  consolidated
+  statements of operations.
+
+
+<PAGE> 8
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+7.During  the first quarter of 1999, the Company completed  the  sales
+  of  AMR  Services, AMR Combs and TeleService Resources.  As a result
+  of  these  sales,  the Company recorded a gain of approximately  $64
+  million, net of income taxes of approximately $19 million.
+
+  Effective  after  the  close of business  on  March  15,  2000,  AMR
+  distributed 0.722652 shares of Sabre Class A common stock  for  each
+  share  of  AMR stock owned by AMR's shareholders.  The  record  date
+  for  the dividend of Sabre stock was the close of business on  March
+  1,  2000.   In addition, on February 18, 2000, Sabre paid a  special
+  one-time cash dividend of $675 million to shareholders of record  of
+  Sabre  common stock at the close of business on February  15,  2000.
+  Based  upon  its  approximate  83 percent  interest  in  Sabre,  AMR
+  received  approximately $559 million of this dividend.  These  funds
+  will   be  used  for  general  corporate  purposes,  including   the
+  acquisition  of  aircraft.  The dividend of AMR's  entire  ownership
+  interest  in Sabre's common stock resulted in a reduction  to  AMR's
+  retained  earnings in March of 2000 equal to the carrying  value  of
+  the   Company's  investment  in  Sabre  on  March  15,  2000,  which
+  approximated $581 million.  In addition, effective March  15,  2000,
+  the  Company reduced the exercise price and increased the number  of
+  stock  options  and  other stock-based awards  by  approximately  18
+  million to offset the dilution to the holders, which occurred  as  a
+  result  of  the  spin-off.  These changes  were  made  to  keep  the
+  holders in the same economic position as before the spin-off.   This
+  dilution  adjustment  was  determined in  accordance  with  Emerging
+  Issues  Task  Force Consensus No. 90-9, "Changes to  Fixed  Employee
+  Stock  Option  Plans  as  a  Result of  Equity  Restructuring,"  and
+  accordingly, had no impact on earnings.
+
+  The  results  of operations for Sabre, AMR Services, AMR  Combs  and
+  TeleService  Resources  have  been  reflected  in  the  consolidated
+  statements  of  operations  as  discontinued  operations.   The  net
+  assets  of  Sabre of approximately $1.0 billion were  classified  in
+  the condensed consolidated balance sheet as of December 31, 1999  in
+  other  assets.   Other  summarized  financial  information  of   the
+  discontinued operations is as follows (in millions):
+<TABLE>
+<CAPTION>
+                             Three Months Ended    Nine Months Ended
+                                September 30,        September 30,
+                               2000      1999       2000       1999
+   <S>                        <C>       <C>        <C>          <C>
+   Sabre
+   Revenues                   $   -     $ 617      $ 542       $1,894
+   Minority interest              -        13         10           40
+   Income taxes                   -        47         36          139
+   Net income                     -        66         43          195
+
+  AMR  Services,  AMR  Combs
+   and           TeleService
+   Resources
+   Revenues                   $   -     $   -      $   -       $  97
+   Income taxes                   -         -          -           -
+   Net income                     -         -          -           -
+</TABLE>
+8.In  connection  with  a secondary offering  by  Equant  N.V.  in
+  February  1999,  the  Company sold approximately 923,000  depository
+  certificates  for a pre-tax gain of $66 million ($37 million  after-
+  tax).  Of this amount, approximately 489,000 depository certificates,
+  or a pre-tax gain of $35 million, related to depository certificates
+  held by the Company on behalf of Sabre and is included in income from
+  discontinued operations on the consolidated statements of operations.
+  The  remaining $31 million is included in Miscellaneous - net on the
+  consolidated statements of operations.
+
+                                     -6-
+
+<PAGE> 9
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+9.The  following table sets forth the computations of  basic  and
+  diluted  earnings  per  share  from  continuing  operations  before
+  extraordinary loss (in millions, except per share data):
+<TABLE>
+<CAPTION>
+
+                             Three Months Ended     Nine Months Ended
+                               September 30,         September 30,
+                              2000       1999       2000      1999
+<S>                          <C>        <C>        <C>       <C>
+Numerator:
+Income from continuing
+operations before
+extraordinary loss-
+numerator for basic  and
+diluted earnings per share   $  322     $  213     $  732    $  446
+
+Denominator:
+Denominator for basic
+earnings per share -
+weighted-average shares         150        150        149       154
+
+Effect of dilutive securities:
+Employee options and shares      31         12         26        12
+Assumed treasury shares
+purchased                       (17)        (7)       (14)       (7)
+Dilutive potential common
+shares                           14          5         12         5
+
+Denominator for diluted
+earnings per share adjusted
+weighted-average shares         164        155        161       159
+
+Basic earnings per share from
+continuing operations before
+extraordinary loss            $ 2.14    $ 1.42     $ 4.89    $ 2.90
+
+Diluted earnings per share
+from continuing operations
+before extraordinary loss     $ 1.96    $ 1.38     $ 4.55    $ 2.81
+</TABLE>
+10.Financial Accounting Standards Board Statement of  Financial
+  Accounting   Standards   No.   133,  "Accounting   for   Derivative
+  Instruments  and  Hedging Activities" (SFAS 133),  as  amended,  is
+  required  to  be adopted in fiscal years beginning after  June  15,
+  2000.   SFAS  133  will  require  the  Company  to  recognize   all
+  derivatives  on the balance sheet at fair value.  Derivatives  that
+  are  not  hedges must be adjusted to fair value through income.  If
+  the  derivative is a hedge, depending on the nature of  the  hedge,
+  changes  in  the  fair value of derivatives will either  be  offset
+  against the change in fair value of the hedged assets, liabilities,
+  or  firm  commitments  through  earnings  or  recognized  in  other
+  comprehensive  income  until  the  hedged  item  is  recognized  in
+  earnings.  The ineffective portion of a derivative's change in fair
+  value will be immediately recognized in earnings.  The Company will
+  adopt  SFAS  133  in the first quarter of fiscal  year  2001.   The
+  Company  is  currently evaluating the impact of  SFAS  133  on  the
+  Company's financial condition and results of operations.
+
+                                     -7-
+
+<PAGE> 10
+Item  2.   Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+
+RESULTS OF OPERATIONS
+
+For the Three Months Ended September 30, 2000 and 1999
+
+Summary  AMR's income from continuing operations before extraordinary
+loss during the third quarter of 2000 was $322 million, or $1.96  per
+common  share  diluted,  as compared to $213 million,  or  $1.38  per
+common  share diluted, for the same period in 1999.  AMR's  operating
+income  of $572 million increased $146 million compared to  the  same
+period  in  1999.   AMR's third quarter 2000 results from  continuing
+operations  include the effect of a labor disruption at  one  of  the
+Company's  major competitors which positively impacted the  Company's
+net earnings by an estimated $0.22 to $0.28 per common share diluted.
+
+The  Company's revenues increased $561 million, or 11.9  percent,  in
+the  third  quarter  of  2000  versus  the  same  period  last  year.
+American's  passenger  revenues increased by 12.4  percent,  or  $485
+million,  compared  to the third quarter of 1999.   American's  yield
+(the  average  amount one passenger pays to fly one  mile)  of  13.88
+cents  increased by 7.9 percent compared to the same period in  1999.
+Domestic yields increased 7.9 percent from the third quarter of 1999.
+International yields increased 8.1 percent, reflecting an increase of
+13.3  percent, 4.8 percent and 4.5 percent in Europe, Latin  American
+and  Pacific yields, respectively.  The increase in revenues was  due
+primarily  to a strong U.S. economy, which led to strong  demand  for
+air travel both domestically and internationally, a favorable pricing
+climate,  and  a  labor  disruption at one  of  the  Company's  major
+competitors  which  positively impacted  the  Company's  revenues  by
+approximately $80 million to $100 million.
+
+American's  traffic or revenue passenger miles (RPMs)  increased  4.2
+percent  to  31.6 billion miles for the quarter ended  September  30,
+2000.   American's capacity or available seat miles (ASMs)  decreased
+2.0  percent  to  41.4 billion miles in the third  quarter  of  2000.
+American's  domestic  traffic increased 3.3  percent  on  a  capacity
+decrease  of  3.4  percent and international  traffic  increased  5.9
+percent  on  capacity  increases of 1.1  percent.   The  decrease  in
+domestic  capacity  was  due primarily to the  Company's  "More  Room
+Throughout Coach" initiative.  The increase in international  traffic
+was  driven  by  an  8.7  percent increase in traffic  to  Europe  on
+capacity growth of 4.6 percent, a 7.1 percent increase in traffic  to
+the  Pacific on a capacity increase of 0.4 percent and a 2.9  percent
+increase  in traffic to Latin America on a capacity decrease  of  1.8
+percent.
+
+American  Eagle's passenger revenues increased 10.8 percent,  or  $38
+million.  American Eagle's traffic increased to 1.0 billion RPMs,  up
+10.3  percent, while capacity increased to 1.6 billion ASMs,  or  8.6
+percent, in the third quarter of 2000.
+
+Cargo  revenues increased $23 million, or 14.4 percent, due primarily
+to  a  fuel  surcharge  implemented in February 2000,  the  Company's
+increase in cargo capacity from the addition of new aircraft in  late
+1999  and 2000, and a labor disruption at one of the Company's  major
+competitors.
+
+The  Company's  operating expenses increased  9.7  percent,  or  $415
+million.   American's cost per ASM increased 11.9  percent  to  10.31
+cents.  Wages, salaries and benefits increased 12.3 percent, or  $188
+million,  primarily  due  to an increase in  the  average  number  of
+equivalent  employees, contractual wage rate and seniority  increases
+that are built into the Company's labor contracts and an increase  of
+approximately  $75  million  in  the  provision  for  profit-sharing.
+Aircraft fuel expense increased 42.1 percent, or $192 million, due to
+a 38.3 percent increase in the Company's average price per gallon and
+a  2.7  percent  increase  in the Company's  fuel  consumption.   The
+increase  in  fuel  expense  is net of gains  of  approximately  $159
+million  recognized during the third quarter of 2000 related  to  the
+Company's   fuel  hedging  program.   Depreciation  and  amortization
+expense increased $31 million, or 11.2 percent, due primarily to  the
+addition  of  new  aircraft.  Commissions to  agents  decreased  15.3
+percent,  or  $48 million, despite an increase of approximately  12.3
+percent in passenger revenues, due primarily to the benefit from  the
+international  base  commission  structure  changes  implemented   in
+October  1999  and  January 2000, respectively,  and  a  decrease  in
+commissionable transactions.
+
+Interest  income  increased  $21  million  due  primarily  to  higher
+investment balances.  Interest expense increased $11 million, or 10.2
+percent, due to an increase in the average outstanding long-term debt
+balance in 2000.  Interest capitalized increased 33.3 percent, or  $9
+million, due primarily to an increase in purchase deposits for flight
+equipment.
+
+                                     -8-
+
+<PAGE> 11
+RESULTS OF OPERATIONS (continued)
+<TABLE>
+<CAPTION>
+OPERATING STATISTICS
+                                                Three Months Ended
+                                                   September 30,
+                                                2000          1999
+<S>                                            <C>          <C>
+American Airlines
+    Revenue passenger miles (millions)         31,584       30,325
+    Available seat miles (millions)            41,418       42,245
+    Cargo ton miles (millions)                    576          541
+    Passenger load factor                        76.3%        71.8%
+    Breakeven load factor                        65.4%        63.3%
+    Passenger revenue yield per
+    passenger mile (cents)                      13.88        12.86
+    Passenger revenue per available
+    seat mile (cents)                           10.59         9.23
+    Cargo revenue yield per ton mile (cents)    31.60        29.22
+    Operating expenses per available
+    seat mile (cents)                           10.31         9.21
+    Fuel consumption (gallons, in millions)       796          780
+    Fuel price per gallon (cents)                77.3         55.9
+    Fuel price per gallon, excluding
+    fuel taxes (cents)                           71.7         51.0
+    Operating aircraft at period-end              720          701
+
+AMR Eagle
+    Revenue passenger miles (millions)            998          905
+    Available seat miles (millions)             1,631        1,502
+    Passenger load factor                        61.2%        60.2%
+    Operating aircraft at period-end              270          268
+</TABLE>
+Operating aircraft at September 30, 2000 included:
+<TABLE>
+<CAPTION>
+ <S>                        <C>       <C>                       <C>
+ American         Airlines            AMR Eagle Aircraft:
+ Aircraft:
+Airbus A300-600R            35        ATR 42                     31
+Boeing 727-200              63        Embraer 135                26
+Boeing 737-800              45        Embraer 145                50
+Boeing 757-200             102        Super ATR                  43
+Boeing 767-200               8        Saab 340                   95
+Boeing 767-200 Extended               Saab 340B Plus             25
+ Range                      22
+Boeing 767-300 Extended                Total                    270
+ Range                      49
+Boeing 777-200IGW           24
+Fokker 100                  75
+McDonnell Douglas DC-10-10   3
+McDonnell Douglas DC-10-30   5
+McDonnell Douglas MD-11      8
+McDonnell Douglas MD-80    276
+McDonnell Douglas MD-90      5
+ Total                     720
+
+</TABLE>
+Average aircraft age is 10.8 years for American's aircraft and 6.4
+years for AMR Eagle aircraft.
+
+                                     -9-
+
+<PAGE> 12
+RESULTS OF OPERATIONS (continued)
+
+For the Nine Months Ended September 30, 2000 and 1999
+
+Summary  AMR's income from continuing operations before extraordinary
+loss  for  the nine months ended September 30, 2000 was $732 million,
+or  $4.55  per common share diluted.  This compares with income  from
+continuing  operations  of $446 million, or $2.81  per  common  share
+diluted, for the same period in 1999.  AMR's operating income of $1.3
+billion increased 46.8 percent, or $415 million, compared to the same
+period  in  1999.   AMR's  2000  results from  continuing  operations
+include  the  effect of a labor disruption at one  of  the  Company's
+major  competitors  which  positively  impacted  the  Company's   net
+earnings by an estimated $0.22 to $0.28 per common share diluted
+and an approximate  $36  million  after-tax gain,  or $0.22  per
+common  share diluted, related to the sale of the Company's  warrants
+to   purchase   5.5  million  shares  of  priceline.com  Incorporated
+(priceline)  common  stock.   AMR's  1999  results  from   continuing
+operations include a labor disagreement that disrupted the  Company's
+operations and negatively impacted the Company's 1999 net earnings by
+an  estimated  $140  million,  or $0.87  per  common  share  diluted,
+partially  offset  by an approximate $19 million after-tax  gain,  or
+$0.12  per common share diluted, related to the sale of a portion  of
+American's holdings in Equant, N.V. (Equant).
+
+The  Company's revenues increased approximately $1.6 billion, or 12.1
+percent, during the first nine months of 2000 versus the same  period
+last  year.  American's passenger revenues increased by 12.5 percent,
+or  approximately  $1.4 billion.  American's  yield  of  13.86  cents
+increased  by  6.8  percent  compared to the  same  period  in  1999.
+Domestic  yields increased 6.6 percent from the first nine months  of
+1999.   International  yields increased 7.5  percent,  reflecting  an
+increase  of  12.0 percent, 10.4 percent and 4.8 percent in  Pacific,
+Europe  and  Latin American yields, respectively.   The  increase  in
+revenues  was  due primarily to a strong U.S. economy, which  led  to
+strong demand for air travel both domestically and internationally, a
+favorable  pricing  climate, and a labor disruption  at  one  of  the
+Company's  major competitors which positively impacted the  Company's
+revenues  by  approximately $80 million to $100 million.   The  first
+quarter  of  1999  includes  a schedule disruption  which  negatively
+impacted the Company's operations.
+
+American's  traffic or revenue passenger miles (RPMs)  increased  5.4
+percent to 89.1 billion miles for the nine months ended September 30,
+2000.   American's capacity or available seat miles (ASMs)  increased
+1.0  percent to 121.5 billion miles in the first nine months of 2000.
+American's  domestic  traffic increased 4.2  percent  on  a  capacity
+decrease  of  0.5  percent and international  traffic  increased  7.8
+percent  on  capacity  increases of 4.2  percent.   The  decrease  in
+domestic  capacity  was  due primarily to the  Company's  "More  Room
+Throughout Coach" initiative.  The increase in international  traffic
+was  driven  by a 12.7 percent increase in traffic to the Pacific  on
+capacity growth of 3.5 percent, a 10.1 percent increase in traffic to
+Europe  on  a  capacity increase of 7.9 percent  and  a  4.6  percent
+increase  in  traffic  to  Latin America on capacity  growth  of  1.4
+percent.
+
+American Eagle's passenger revenues increased 13.8 percent,  or  $133
+million.  American Eagle's traffic increased to 2.8 billion RPMs,  up
+13.1  percent, while capacity increased to 4.7 billion ASMs, or  13.4
+percent, in the first nine months of 2000.
+
+Cargo  revenues increased $61 million, or 13.0 percent, due primarily
+to  a  fuel  surcharge  implemented in February 2000,  the  Company's
+increase in cargo capacity from the addition of new aircraft in  late
+1999  and 2000, and a labor disruption at one of the Company's  major
+competitors.
+
+The   Company's   operating  expenses  increased  9.6   percent,   or
+approximately $1.2 billion.  American's cost per ASM increased by 8.4
+percent to 10.17 cents.  Wages, salaries and benefits increased  $451
+million, or 9.9 percent, primarily due to an increase in the  average
+number  of  equivalent employees, contractual wage rate and seniority
+increases  that are built into the Company's labor contracts  and  an
+increase  of approximately $114 million in the provision for  profit-
+sharing.   Aircraft  fuel expense increased  45.0  percent,  or  $549
+million,  due  to  a  39.7 percent increase in the Company's  average
+price  per  gallon and a 4.1 percent increase in the  Company's  fuel
+consumption.  The  increase  in fuel  expense  is  net  of  gains  of
+approximately  $391 million recognized during the nine  months  ended
+September  30,  2000 related to the Company's fuel  hedging  program.
+Depreciation and amortization expense increased $92 million, or  11.5
+percent, due primarily to the addition of new aircraft.
+
+                                     -10-
+
+<PAGE> 13
+RESULTS OF OPERATIONS (continued)
+
+Maintenance, materials and repairs expense increased 10.5 percent, or
+$78  million,  due  primarily to an increase in airframe  and  engine
+maintenance  volumes  at  the  Company's  maintenance  bases  and  an
+approximate $17 million one-time credit the Company received  in  the
+second  quarter  of  1999.   Commissions  to  agents  decreased  11.6
+percent,  or $104 million, despite an increase of approximately  12.6
+percent in passenger revenues, due primarily to the benefit from  the
+international  base  commission  structure  changes  implemented   in
+October  1999  and  January 2000, respectively,  and  a  decrease  in
+commissionable transactions.
+
+Interest income increased 74.2 percent, or $46 million, due primarily
+to  higher  investment  balances.   Interest  expense  increased  $58
+million,  or  19.7  percent,  due  to  an  increase  in  the  average
+outstanding  long-term  debt balance in 2000.   Interest  capitalized
+increased  23.6  percent,  or $21 million,  due  to  an  increase  in
+purchase  deposits  for  flight  equipment.   Miscellaneous   -   net
+increased  $23  million due primarily to the  gain  on  sale  of  the
+Company's warrants to purchase 5.5 million shares of priceline common
+stock  in the second quarter of 2000, which resulted in a $57 million
+gain.   In  the  first  quarter  of 1999,  the  Company  recorded  an
+approximate  $31  million  gain on the  sale  of  a  portion  of  the
+Company's interest in Equant.
+<TABLE>
+<CAPTION>
+OPERATING STATISTICS
+                                          Nine Months Ended September 30,
+                                                 2000         1999
+<S>                                            <C>          <C>
+American Airlines
+    Revenue passenger miles (millions)          89,055       84,522
+    Available seat miles (millions)            121,533      120,354
+    Cargo ton miles (millions)                   1,693        1,483
+    Passenger load factor                         73.3%        70.2%
+    Breakeven load factor                         64.9%        64.3%
+    Passenger  revenue yield  per passenger
+    mile (cents)                                 13.86        12.98
+    Passenger revenue per available seat
+    mile (cents)                                 10.15         9.12
+    Cargo revenue yield per ton mile (cents)     31.00        31.21
+    Operating  expenses per  available
+    seat mile (cents)                            10.17         9.38
+    Fuel consumption (gallons, in millions)      2,285        2,212
+    Fuel price per gallon (cents)                73.6          52.7
+    Fuel price per gallon, excluding
+    fuel taxes (cents)                           68.2          48.1
+    Operating aircraft at period-end              720           701
+
+AMR Eagle
+    Revenue passenger miles (millions)         2,822          2,496
+    Available seat miles (millions)            4,691          4,135
+    Passenger load factor                       60.1%          60.4%
+    Operating aircraft at period-end             270            268
+</TABLE>
+
+                                     -11-
+<PAGE> 14
+LIQUIDITY AND CAPITAL RESOURCES
+
+Net  cash  provided by operating activities in the nine-month  period
+ended  September  30,  2000 was $2.7 billion,  an  increase  of  $886
+million  over  the  same  period  in 1999.   This  increase  resulted
+primarily from an increase in the air traffic liability due to higher
+advanced  sales and an increase in income from continuing operations.
+Capital  expenditures for the first nine months  of  2000  were  $2.8
+billion,  and  included the acquisition of 13 Boeing 777-200IGWs,  21
+Boeing  737-800s,  17  Embraer  135 aircraft  and  five  Embraer  145
+aircraft.   These capital expenditures were financed with  internally
+generated  cash and the $559 million of cash received from the  Sabre
+dividend,  except  for the Embraer aircraft acquisitions  which  were
+funded through secured debt agreements.
+
+  As  of  October 2, 2000, the Company had commitments to acquire  the
+following  aircraft:   67 Boeing 737-800s, 21 Boeing  777-200IGWs,  20
+Boeing 757-200s, 153 Embraer regional jets and 25 Bombardier CRJ-700s.
+Deliveries of these aircraft extend through 2006.  Payments for  these
+aircraft  will approximate $600 million during the remainder of  2000,
+$2.5  billion  in  2001, $1.25 billion in 2002  and  an  aggregate  of
+approximately $1.7 billion in 2003 through 2006.  The Company  expects
+to  fund  these capital expenditures from the Company's existing  cash
+and   short-term  investments,  internally  generated  cash,  and  new
+financing depending upon market conditions and the Company's  evolving
+view of its long-term needs.
+
+  During  the  third  quarter  of  2000,  AMR  repurchased  prior   to
+scheduled maturity approximately $167 million in face value  of  long-
+term  debt.   Cash  from  operations  provided  the  funding  for  the
+repurchases.
+
+OTHER INFORMATION
+
+Dallas Love Field
+
+In  1968, as part of an agreement between the cities of Fort Worth and
+Dallas  to build and operate Dallas/Fort Worth Airport (DFW),  a  bond
+ordinance was enacted by both cities (the Bond Ordinance).   The  Bond
+Ordinance  required  both  cities to direct all  scheduled  interstate
+passenger  operations to DFW and was an integral  part  of  the  bonds
+issued for the construction and operation of DFW.  In 1979, as part of
+a settlement to resolve litigation with Southwest Airlines, the cities
+agreed  to  expand  the  scope of operations allowed  under  the  Bond
+Ordinance  at  Dallas'  Love  Field.   Congress  enacted  the   Wright
+Amendment  to  prevent the federal government from acting inconsistent
+with   this   agreement.   The  Wright  Amendment  limited  interstate
+operations  at Love Field to the four states contiguous to Texas  (New
+Mexico,  Oklahoma,  Arkansas, and Louisiana)  and  prohibited  through
+ticketing to any destination outside that perimeter.  In 1997, without
+the agreement of the cities, Congress amended the Wright Amendment  by
+(i)  adding  three states (Kansas, Mississippi, and  Alabama)  to  the
+perimeter  and  (ii)  removing  some  federal  restrictions  on  large
+aircraft configured with 56 seats or fewer.
+
+  From October 1997 through May 2000, American, the cities of Fort Worth
+and Dallas, and other parties were involved in litigation regarding flight
+restrictions at Love Field.  On May 1, 2000, American commenced service
+from Love Field to Chicago and Los Angeles using Fokker 100 aircraft
+reconfigured to hold 56 seats. These flights depart from terminal space
+leased from Continental Express on a short-term basis. On August 31, 2000,
+American  commenced service from Love Field to New  York's  LaGuardia
+airport  using  the  same facilities.  American is seeking  long-term
+facilities  at Love Field from the City of Dallas for its Love  Field
+operations.  Consultants for the City of Dallas are drafting a master
+plan for Love Field and expect to make recommendations to the City of
+Dallas by the end of November 2000.  As a result of the foregoing, an
+increase in operations at Love Field and/or the inability of American
+to  obtain  adequate facilities to compete effectively at Love  Field
+could adversely impact American's business.
+
+                                     -12-
+
+<PAGE> 15
+Industry Consolidation
+
+Two  competitors of the Company, UAL Corporation and US Airways Group,
+Inc.,  recently  announced that they have entered  into  a  definitive
+merger  agreement.  The Company is considering its strategic  response
+to the possibility of industry consolidation, and from time to time is
+engaged   in  discussions  with  other  carriers  regarding  potential
+significant business combinations and acquisitions of assets.  To date
+these  discussions have not resulted in a definitive agreement between
+the  Company  and  any  other carrier to enter into  such  a  business
+combination  or asset acquisition; however, there can be no  assurance
+that the Company will not enter into such a transaction in the future.
+If  any  significant  airline industry consolidation  were  to  occur,
+including   any   business  combination  involving  the   Company   or
+significant asset acquisition by the Company, the financial  condition
+and  prospects  of the Company or the resulting corporation  could  be
+materially different from those of the Company currently.
+
+FORWARD-LOOKING INFORMATION
+
+Statements  in this report contain various forward-looking statements
+within  the meaning of Section 27A of the Securities Act of 1933,  as
+amended,  and Section 21E of the Securities Exchange Act of 1934,  as
+amended,  which  represent  the  Company's  expectations  or  beliefs
+concerning  future  events.   When used in  this  report,  the  words
+"expects,"  "plans,"  "anticipates,"  and  similar  expressions   are
+intended to identify forward-looking statements.  All forward-looking
+statements in this report are based upon information available to the
+Company  on  the  date  of this report.  The  Company  undertakes  no
+obligation  to  publicly  update  or  revise  any  forward-   looking
+statement, whether as a result of new information, future  events  or
+otherwise.   Forward-looking statements are subject to  a  number  of
+factors that could cause actual results to differ materially from our
+expectations.   Additional  information concerning  these  and  other
+factors  is  contained  in  the  Company's  Securities  and  Exchange
+Commission filings, included but not limited to the Form 10-K for the
+year ended December 31, 1999.
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+There  have  been  no  material  changes  in  market  risk  from   the
+information   provided  in  Item  7A.  Quantitative  and   Qualitative
+Disclosures About Market Risk of the Company's Annual Report  on  Form
+10-K for the year ended December 31, 1999 except as discussed below.
+
+   Based  on  projected  fuel  usage for the  next  twelve  months,  a
+hypothetical  10 percent increase in the September 29, 2000  cost  per
+gallon of fuel would result in an increase to American's aircraft fuel
+expense of approximately $192 million for the next twelve months,  net
+of  fuel  hedge  instruments outstanding at September 30,  2000.   The
+change  in market risk from December 31, 1999 is due primarily to  the
+increase  in  fuel prices.  As of September 30, 2000, the Company  has
+hedged   approximately  70  percent  of  its   remaining   2000   fuel
+requirements   and  approximately  35  percent  of   its   2001   fuel
+requirements.
+
+  During  2000,  the Company terminated interest rate swap  agreements
+on   notional  amounts  of  approximately  $425  million   which   had
+effectively  converted  a  portion of its  fixed-rate  obligations  to
+floating-rate obligations. The cost of terminating these interest rate
+swap agreements was not material and the impact of the termination  of
+these interest rate swap agreements on the Company's interest  rate
+market risk was not significant.
+
+                                     -13-
+
+<PAGE> 16
+                      PART II:  OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings
+
+In  connection with its frequent flyer program, American was  sued  in
+several  purported class action cases currently pending in the Circuit
+Court  of  Cook  County,  Illinois.  In  Wolens  et  al.  v.  American
+Airlines,  Inc.  and  Tucker  v. American Airlines,  Inc.  (hereafter,
+"Wolens"), plaintiffs seek money damages and attorneys' fees  claiming
+that a change made to American's AAdvantage program in May 1988, which
+limited  the  number of seats available to participants travelling  on
+certain  awards,  breached American's agreement  with  its  AAdvantage
+members.   (Although the Wolens complaint originally asserted  several
+state  law  claims,  only  the plaintiffs' breach  of  contract  claim
+remains   after  the  U.S.  Supreme  Court  ruled  that  the   Airline
+Deregulation Act preempted the other claims).  In Gutterman et al.  v.
+American Airlines, Inc. (hereafter, "Gutterman"), plaintiffs also seek
+money  damages  and  attorneys' fees claiming that the  February  1995
+increase  in the award mileage required to claim a certain  AAdvantage
+travel   award  breached  the  agreement  between  American  and   its
+AAdvantage  members.   On  June  23, 1998,  the  court  certified  the
+Gutterman case as a class action.
+
+   In  February 2000, American and the Wolens and Gutterman plaintiffs
+reached  a  settlement of both lawsuits.  Pursuant to  the  agreement,
+American and the plaintiffs agreed to ask the court to consolidate the
+Wolens  and  Gutterman lawsuits for purposes of settlement.   Further,
+American and the Wolens plaintiffs agreed to ask the court to  certify
+a  Wolens  class  of  AAdvantage  members  who  had  at  least  35,000
+unredeemed  AAdvantage miles as of December 31,  1988.   In  addition,
+American  and  the  Gutterman plaintiffs agreed to ask  the  court  to
+decertify  the existing Gutterman class and to certify a new Gutterman
+class  of  AAdvantage  members who as of December  31,  1993  (a)  had
+redeemed  25,000  or  50,000 AAdvantage miles for  certain  AAdvantage
+awards and/or (b) had between 4,700 and 24,999 unredeemed miles in his
+or  her  account  that  were earned in 1992 or 1993.   Depending  upon
+certain  factors, Wolens and Gutterman class members will be  entitled
+to   receive  certificates  entitling  them  to  mileage  off  certain
+AAdvantage awards or dollars off certain American fares.
+
+   As  part of the settlement, American agreed to pay the Wolens  and
+Gutterman  plaintiffs' attorneys fees and the cost  of  administering
+the  settlement, which amounts were accrued as of December 31,  1999.
+In consideration for the relief provided in the settlement agreement,
+Wolens  and  Gutterman class members will release American  from  all
+claims  arising  from  any  changes that American  has  made  to  the
+AAdvantage  program and reaffirming American's right to make  changes
+to  the AAdvantage program in the future.  On May 2, 2000, the  court
+preliminarily  approved the settlement and authorized sending  notice
+of the settlement to class members.  On September 28, 2000, the court
+heard  arguments from a number of class members who are objecting  to
+various  terms  of the settlement.  The court did  not  rule  on  the
+merits  of any objections, and therefore has not yet decided  whether
+it will finally approve the settlement agreement.
+
+   On  August  7,  1998, a purported class action was  filed  against
+American  Airlines in state court in Travis County, Texas (Boon  Ins.
+Agency  v.  American Airlines, Inc., et al.) claiming  that  the  $75
+reissuance   fee  for  changes  to  non-refundable  tickets   is   an
+unenforceable liquidated damages clause and seeking a refund  of  the
+fee  on  behalf  of passengers who paid it, as well as  interest  and
+attorneys'  fees.   On  September 23, 1998, Continental,  Delta,  and
+America West were added as defendants to the lawsuit.  On February 2,
+1999, prior to any discovery being taken and a class being certified,
+the court granted the defendants' motion for summary judgment holding
+that  plaintiff's  claims are preempted by the  Airline  Deregulation
+Act.   Plaintiff appealed and on March 30, 2000, the Texas  Court  of
+Appeals  in  Austin affirmed the granting of defendants'  motion  for
+summary judgment.  On August 17, 2000, the Texas Supreme Court denied
+the plaintiff's petition for review.
+
+
+
+
+
+                                     -14-
+
+
+<PAGE> 17
+                                PART II
+
+
+Item 1.  Legal Proceedings (continued)
+
+   On  May  20, 1999, several class action lawsuits filed against  the
+Allied  Pilots  Association (APA) seeking compensation for  passengers
+and  cargo  shippers adversely affected by a labor  disagreement  that
+disrupted operations in February 1999 were consolidated in the  United
+States  District  Court  for the Northern District  of  Texas,  Dallas
+Division  (In  re Allied Pilots Association Class Action  Litigation).
+Although  American  was  named  as a defendant,  plaintiffs  were  not
+seeking  to  hold American independently liable.  Instead,  Plaintiffs
+named  American  as a defendant because American has a  $45.5  million
+judgment against the APA, the value of which is believed to exceed the
+APA's  total  assets.   The APA moved to dismiss  all  claims  alleged
+against it, and on September 26, 2000, the court dismissed all of  the
+Plaintiffs' claims against the APA.  In so doing, however,  the  court
+refused  to  dismiss  certain  state law claims  with  prejudice,  but
+instead  concluded that these state law claims were not  preempted  by
+federal  law and could proceed in a state court.  On October 3,  2000,
+Plaintiffs filed a complaint in Texas state court against the APA.  In
+the  complaints, Plaintiffs allege that in the event the APA does  not
+have  enough  assets to satisfy American's $45.5 million judgment  and
+any  judgment  the  Plaintiffs' recover, any judgment  in  their  case
+should  be  considered equal to or superior to American's interest  in
+the  $45.5  million  judgment against the APA.   American  intends  to
+vigorously defend all claims against it in this action.
+
+   On July 26, 1999, a class action lawsuit was filed, and in November
+1999 an amended complaint was filed, against AMR Corporation, American
+Airlines,  Inc.,  AMR  Eagle Holding Corporation,  Airlines  Reporting
+Corporation,  and the Sabre Group Holdings, Inc. in the United  States
+District  Court  for  the  Central  District  of  California,  Western
+Division  (Westways  World Travel, Inc. v. AMR Corp.,  et  al.).   The
+lawsuit  alleges that requiring travel agencies to pay debit memos  to
+American for violations of American's fare rules (by customers of  the
+agencies) (1) breaches the Agent Reporting Agreement between  American
+and  American Eagle and plaintiffs, (2) constitutes unjust enrichment,
+and  (3)  violates the Racketeer Influenced and Corrupt  Organizations
+Act  of 1970 (RICO).  The as yet uncertified class includes all travel
+agencies  who have been or will be required to pay monies to  American
+for  debit memos for fare rules violations from July 26, 1995  to  the
+present.   Plaintiffs  seek  to  enjoin American  from  enforcing  the
+pricing  rules in question and to recover the amounts paid  for  debit
+memos,  plus  treble damages, attorneys' fees, and costs.  Defendants'
+motion  to  dismiss  all  claims  is  pending.   American  intends  to
+vigorously defend the lawsuit.
+
+   On  May 13, 1999, the United States (through the Antitrust Division
+of the Department of Justice) sued AMR Corporation, American Airlines,
+Inc.,  and AMR Eagle Holding Corporation in federal court in  Wichita,
+Kansas.  The  lawsuit alleges that American unlawfully monopolized  or
+attempted  to  monopolize  airline  passenger  service  to  and   from
+Dallas/Fort  Worth  International Airport (DFW) by increasing  service
+when  new  competitors began flying to DFW, and by matching these  new
+competitors' fares. The Department of Justice seeks to enjoin American
+from engaging in the alleged improper conduct and to impose restraints
+on  American  to remedy the alleged effects of its past conduct.   The
+case  has  been  set for trial on May 22, 2001.  American  intends  to
+defend the lawsuit vigorously.
+
+   Between  May 14, 1999 and June 7, 1999, seven class action lawsuits
+were  filed against AMR Corporation, American Airlines, Inc., and  AMR
+Eagle  Holding  Corporation in the United  States  District  Court  in
+Wichita,  Kansas  seeking  treble  damages  under  federal  and  state
+antitrust  laws,  as  well as injunctive relief and  attorneys'  fees.
+(King  v. AMR Corp., et al.; Smith v. AMR Corp., et al.; Team Electric
+v.  AMR  Corp., et al.; Warren v. AMR Corp., et al.; Whittier  v.  AMR
+Corp.,  et  al.;  Wright v. AMR Corp., et al.; and  Youngdahl  v.  AMR
+Corp.,  et  al.).  Collectively, these lawsuits allege  that  American
+unlawfully  monopolized or attempted to monopolize  airline  passenger
+service  to  and  from DFW by increasing service when new  competitors
+began flying to DFW, and by matching these new competitors' fares. Two
+of  the  suits (Smith and Wright) also allege that American unlawfully
+monopolized  or attempted to monopolize airline passenger  service  to
+and from DFW by offering discounted fares to corporate purchasers,  by
+offering  a frequent flyer program, by imposing certain conditions  on
+the  use  and availability of certain fares, and by offering  override
+commissions  to  travel agents. The suits propose to  certify  several
+classes  of  consumers,  the broadest of  which  is  all  persons  who
+purchased tickets for air travel on American into or out of DFW  since
+1995  to the present.  On November 10, 1999, the District Court stayed
+all  of these actions pending developments in the case brought by  the
+Department  of  Justice.   As a result, to  date  no  class  has  been
+certified.  American intends to defend these lawsuits vigorously.
+
+                                    -15-
+
+<PAGE> 18
+                                PART II
+
+
+Item 1.  Legal Proceedings (continued)
+
+   On  March  1, 2000, American was served with a federal  grand  jury
+subpoena  calling for American to produce documents  relating  to  de-
+icing  operations at DFW since 1992.  American has produced  documents
+to  the  grand jury, but is not able at this time to determine  either
+the full scope of the grand jury's investigation or American's role in
+the  investigation.   American intends to  cooperate  fully  with  the
+government's investigation.
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+The following exhibits are included herein:
+
+12    Computation of ratio of earnings to fixed charges for the  three
+      and nine months ended September 30, 2000 and 1999.
+
+27.1  Financial Data Schedule as of September 30, 2000.
+
+27.2  Restated Financial Data Schedule as of September 30, 1999.
+
+
+    On  July 20, 2000, AMR filed a report on Form 8-K relative  to  a
+press  release  issued to report the Company's  second  quarter  2000
+earnings.
+
+
+
+                                     -16-
+
+<PAGE> 19
+
+
+
+
+
+
+
+
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of  1934,
+the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+
+
+                               AMR CORPORATION
+
+
+
+
+Date:  October 26, 2000        BY: /s/  Thomas W. Horton
+                               Thomas W. Horton
+                               Senior  Vice President and Chief
+                               Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+                                     -17-
+<PAGE> 20
+                                                            Exhibit 12
+                            AMR CORPORATION
+           Computation of Ratio of Earnings to Fixed Charges
+                             (in millions)
+<TABLE>
+<CAPTION>
+                                    Three Months Ended  Nine Months Ended
+                                       September 30,      September 30,
+                                       2000     1999      2000     1999
+ <S>                                   <C>       <C>      <C>     <C>
+Earnings:
+Earnings from continuing
+ operations before income taxes
+ and extraordinary loss                $525      $357     $1,204    $757
+
+ Add: Total fixed charges
+      (per below)                       327       323        986     933
+
+ Less:  Interest capitalized             36        27        110      89
+    Total earnings                     $816      $653     $2,080  $1,601
+
+ Fixed charges:
+ Interest, including interest
+  capitalized                          $114      $105     $ 340    $ 288
+
+ Portion of rental expense
+ representative of the
+ interest factor                        208       215       633      637
+
+ Amortization of debt expense             5         3        13        8
+    Total fixed charges                $327      $323      $986     $933
+
+ Ratio of earnings to fixed charges    2.50      2.02      2.11     1.72
+</TABLE>
+
+
+                                     -18-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                             171
+<SECURITIES>                                     2,163
+<RECEIVABLES>                                    1,525
+<ALLOWANCES>                                        29
+<INVENTORY>                                        730
+<CURRENT-ASSETS>                                 5,352
+<PP&E>                                          27,354
+<DEPRECIATION>                                   9,307
+<TOTAL-ASSETS>                                  25,899
+<CURRENT-LIABILITIES>                            7,280
+<BONDS>                                          5,198
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           182
+<OTHER-SE>                                       6,911
+<TOTAL-LIABILITY-AND-EQUITY>                    25,899
+<SALES>                                              0
+<TOTAL-REVENUES>                                14,844
+<CGS>                                                0
+<TOTAL-COSTS>                                   13,543
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 353
+<INCOME-PRETAX>                                  1,204
+<INCOME-TAX>                                       472
+<INCOME-CONTINUING>                                732
+<DISCONTINUED>                                      43
+<EXTRAORDINARY>                                      9
+<CHANGES>                                            0
+<NET-INCOME>                                       766
+<EPS-BASIC>                                       5.13
+<EPS-DILUTED>                                     4.77
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<FILENAME>0003.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-END>                               SEP-30-1999
+<CASH>                                              86
+<SECURITIES>                                     1,467
+<RECEIVABLES>                                    1,439
+<ALLOWANCES>                                        23
+<INVENTORY>                                        702
+<CURRENT-ASSETS>                                 4,334
+<PP&E>                                          24,293
+<DEPRECIATION>                                   8,508
+<TOTAL-ASSETS>                                  23,623
+<CURRENT-LIABILITIES>                            6,133
+<BONDS>                                          5,217
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           182
+<OTHER-SE>                                       6,316
+<TOTAL-LIABILITY-AND-EQUITY>                    23,623
+<SALES>                                              0
+<TOTAL-REVENUES>                                13,243
+<CGS>                                                0
+<TOTAL-COSTS>                                   12,357
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 295
+<INCOME-PRETAX>                                    757
+<INCOME-TAX>                                       311
+<INCOME-CONTINUING>                                446
+<DISCONTINUED>                                     259
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                       705
+<EPS-BASIC>                                       4.58
+<EPS-DILUTED>                                     4.44
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

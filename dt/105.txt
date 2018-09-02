@@ -1,0 +1,1947 @@
+<SEC-DOCUMENT>0000006201-01-500047.txt : 20011030
+<SEC-HEADER>0000006201-01-500047.hdr.sgml : 20011030
+ACCESSION NUMBER:		0000006201-01-500047
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010930
+FILED AS OF DATE:		20011025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMR CORP
+		CENTRAL INDEX KEY:			0000006201
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				751825172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08400
+		FILM NUMBER:		1765700
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76155
+		BUSINESS PHONE:		8179631234
+
+	MAIL ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			75261-9616
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>ar3q01d.txt
+<DESCRIPTION>AMR CORPORATION 10-Q
+<TEXT>
+
+
+
+<Page> 1
+
+
+                         UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+
+                            FORM 10-Q
+
+
+
+[X]Quarterly Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the Quarterly Period Ended September 30, 2001.
+
+
+[  ]Transition Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+For the Transition Period From              to        .
+
+
+Commission file number 1-8400.
+
+
+
+                        AMR Corporation
+     (Exact name of registrant as specified in its charter)
+
+        Delaware                            75-1825172
+    (State or other                      (I.R.S. Employer
+      jurisdiction                      Identification No.)
+   of incorporation or
+     organization)
+
+ 4333 Amon Carter Blvd.
+   Fort Worth, Texas                           76155
+ (Address of principal                      (Zip Code)
+   executive offices)
+
+Registrant's telephone number, including area code  (817) 963-1234
+
+
+                         Not Applicable
+(Former name, former address and former fiscal year , if changed
+                       since last report)
+
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes X     No        .
+
+
+
+
+Indicate the number of shares outstanding of each of the
+issuer's classes of common stock, as of the latest practicable
+date.
+
+
+Common Stock, $1 par value - 154,481,598 as of October 19, 2001.
+
+
+
+
+<Page> 2
+                                 INDEX
+
+                            AMR CORPORATION
+
+
+
+
+PART I:   FINANCIAL INFORMATION
+
+
+Item 1.  Financial Statements
+
+  Consolidated  Statements of Operations --  Three  and  nine  months
+  ended September 30, 2001 and 2000
+
+  Condensed  Consolidated  Balance Sheets - September  30,  2001  and
+  December 31, 2000
+
+  Condensed  Consolidated Statements of Cash  Flows  --  Nine  months
+  ended September 30, 2001 and 2000
+
+  Notes  to  Condensed Consolidated Financial Statements -  September
+  30, 2001
+
+Item  2.  Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+
+PART II:  OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+
+SIGNATURE
+
+<Page> 3
+                    PART I:  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+AMR CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited) (In millions, except per share amounts)
+<Table>
+<Caption>
+
+                              Three Months Ended    Nine Months Ended
+                                 September 30,        September 30,
+                               2001       2000      2001        2000
+<s>                           <c>       <c>         <c>         <c>
+Revenues
+Passenger - American Airlines  $3,440    $4,390     $11,349     $12,355
+          - TWA LLC               591         -       1,262           -
+          - American Eagle        338       390       1,101       1,096
+Cargo                             158       183         524         530
+Other revenues                    289       293         923         863
+  Total operating revenues      4,816     5,256      15,159      14,844
+
+
+Expenses
+  Wages, salaries and benefits  2,133     1,721       6,005       5,012
+  Aircraft fuel                   776       648       2,325       1,768
+  Depreciation and amortization   368       307       1,033         889
+  Maintenance, materials and
+   repairs                        332       278         910         821
+  Other rentals and landing fees  323       250         900         743
+  Commissions to agents           207       266         691         796
+  Food service                    209       204         611         587
+  Aircraft rentals                230       151         604         455
+  Other operating expenses        973       859       2,894       2,472
+  Special charges                 632        -        1,317           -
+  U.S. Government grant          (809)       -         (809)          -
+    Total operating expenses    5,374     4,684      16,481      13,543
+Operating Income (Loss)          (558)      572      (1,322)      1,301
+
+Other Income (Expense)
+  Interest income                  16        42          80         108
+  Interest expense               (122)     (119)       (373)       (353)
+  Interest capitalized             37        36         116         110
+  Miscellaneous - net              (9)       (6)         13          38
+                                  (78)      (47)       (164)        (97)
+Income (Loss) From Continuing
+Operations Before Income
+Taxes and Extraordinary Loss     (636)      525      (1,486)      1,204
+Income tax provision (benefit)   (222)      203        (522)        472
+Income (Loss) From Continuing
+Operations Before
+Extraordinary Loss               (414)      322        (964)        732
+Income From Discontinued
+Operations, net of
+applicable income taxes and
+minority interest                   -         -           -          43
+Income (Loss) Before
+Extraordinary Loss               (414)      322        (964)        775
+Extraordinary Loss, net of
+applicable income taxes            -         (9)          -          (9)
+Net Earnings (Loss)             $(414)  $   313       $(964)      $ 766
+</Table>
+Continued on next page.
+
+                                           -1-
+<Page> 4
+AMR CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS (CONTINUED)
+(Unaudited) (In millions, except per share amounts)
+<Table>
+<Caption>
+                              Three Months Ended     Nine Months Ended
+                                September 30,         September 30,
+                              2001        2000      2001        2000
+<s>                          <c>        <c>        <c>         <c>
+Earnings (Loss) Applicable
+to Common Shares             $(414)     $ 313       $(964)      $ 766
+
+Earnings (Loss) Per Share
+Basic
+Income (Loss) from
+Continuing Operations        $(2.68)    $ 2.14      $(6.26)    $ 4.89
+Discontinued Operations           -         -           -        0.30
+Extraordinary Loss                -      (0.06)         -       (0.06)
+Net Earnings (Loss)          $(2.68)    $ 2.08      $(6.26)    $ 5.13
+
+Diluted
+Income (Loss) from
+Continuing Operations        $(2.68)    $ 1.96      $(6.26)    $ 4.55
+Discontinued Operations           -         -           -        0.27
+Extraordinary Loss                -      (0.05)         -       (0.05)
+Net Earnings (Loss)          $(2.68)    $ 1.91      $(6.26)    $ 4.77
+
+Number of Shares Used in
+Computation
+Basic                           154       150          154        149
+Diluted                         154       164          154        161
+</Table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these financial
+statements.
+
+                                      -2-
+<Page> 5
+AMR CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited) (In millions)
+<Table>
+<Caption>
+                                            September 30,  December 31,
+                                               2001          2000
+Assets                                      <c>            <c>
+<s>
+Current Assets
+  Cash                                      $     69       $    89
+  Short-term investments                       2,271         2,144
+  Receivables, net                             1,829         1,303
+  Inventories, net                               871           757
+  Deferred income taxes                          693           695
+  Other current assets                           348           191
+    Total current assets                       6,081         5,179
+
+Equipment and Property
+  Flight equipment, net                       14,601        13,721
+  Other equipment and property, net            1,967         1,671
+  Purchase deposits for flight equipment       1,537         1,700
+                                              18,105        17,092
+
+Equipment and Property Under Capital Leases
+  Flight equipment, net                        1,653         1,448
+  Other equipment and property, net               96            96
+                                               1,749         1,544
+
+Route   acquisition   costs   and   airport
+operating and gate lease rights, net           1,350         1,143
+Other assets, net                              4,555         1,255
+                                            $ 31,840      $ 26,213
+
+Liabilities and Stockholders' Equity
+
+Current Liabilities
+  Accounts payable                          $  1,613      $  1,267
+  Accrued liabilities                          2,619         2,231
+  Air traffic liability                        3,095         2,696
+  Current maturities of long-term debt           509           569
+  Current obligations under capital leases       267           227
+    Total current liabilities                  8,103         6,990
+
+Long-term debt, less current maturities        6,491         4,151
+Obligations  under  capital  leases,  less
+ current obligations                           1,607         1,323
+Postretirement benefits                        2,417         1,706
+Deferred income taxes                          2,168         2,385
+Other  liabilities,  deferred  gains
+ and deferred credits                          4,823         2,482
+
+Stockholders' Equity
+  Common stock                                   182           182
+  Additional paid-in capital                   2,810         2,911
+  Treasury stock                              (1,719)       (1,865)
+  Accumulated other comprehensive income        (28)            (2)
+  Retained earnings                            4,986         5,950
+                                               6,231         7,176
+                                            $ 31,840      $ 26,213
+</Table>
+The  accompanying  notes  are an integral  part  of  these  financial
+statements.
+
+                                         -3-
+<Page> 6
+AMR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited) (In millions)
+<Table>
+<Caption>
+                                                  Nine Months Ended
+                                                    September 30,
+                                                  2001          2000
+<s>                                               <c>           <c>
+Net Cash Provided by Operating Activities         $1,306        $ 2,732
+
+Cash Flow from Investing Activities:
+  Capital expenditures, including purchase
+   deposits for flight equipment                  (3,059)        (2,792)
+  Acquisition of Trans World Airlines, Inc.         (742)            -
+  Net increase in short-term investments            (127)          (457)
+  Proceeds from:
+    Sale of equipment and property                   326            239
+    Sale of other investments                         26             94
+    Dividend from Sabre Holdings Corporation           -            559
+  Other investments and miscellaneous                 18            (41)
+        Net cash used for investing activities    (3,558)        (2,398)
+
+Cash Flow from Financing Activities:
+  Payments on long-term debt and capital
+   lease obligations                                (716)           (628)
+  Proceeds from:
+    Issuance of long-term debt                     2,770             351
+    Sale-leaseback transactions                      141               -
+    Exercise of stock options                         37              29
+       Net cash provided by (used for)
+        financing activities                       2,232            (248)
+
+Net increase (decrease) in cash                      (20)             86
+Cash at beginning of period                           89              85
+
+Cash at end of period                             $   69        $    171
+
+
+Activities Not Affecting Cash:
+Distribution of Sabre Holdings Corporation
+shares to AMR shareholders                        $    -        $    581
+</Table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The  accompanying notes are an integral part of these  financial
+   statements.
+
+                                        -4-
+<Page> 7
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+
+1.The  accompanying  unaudited  condensed  consolidated  financial
+  statements have been prepared in accordance with accounting principles
+  generally  accepted  in  the  United States  for  interim  financial
+  information and with the instructions to Form 10-Q and Article 10 of
+  Regulation  S-X.   Accordingly, they  do  not  include  all  of  the
+  information and footnotes required by generally accepted  accounting
+  principles  for  complete financial statements.  In the  opinion  of
+  management, these financial statements contain all known adjustments,
+  consisting of normal recurring accruals, the impact of the September
+  11, 2001 terrorist attacks referred to below, and asset impairment and
+  other  charges  necessary to present fairly the financial  position,
+  results of operations and cash flows for the periods indicated.  The
+  results  of operations and cash flows for Sabre Holdings Corporation
+  (Sabre)  have  been  reflected  as discontinued  operations  in  the
+  consolidated financial statements for the nine months ended September
+  30, 2000.  Results of operations for the periods presented herein are
+  not  indicative  of results of operations for the entire  year  (see
+  discussion of the impact of the September 11, 2001 terrorist attacks
+  in  footnote  2  below).   For  further information,  refer  to  the
+  consolidated financial statements and footnotes thereto included  in
+  the  AMR Corporation (AMR or the Company) Annual Report on Form 10-K
+  for  the  year ended December 31, 2000.  Certain amounts  have  been
+  reclassified to conform with the 2001 presentation. In this report, a
+  reference  to  "American" or "American  Airlines"  is  to  American
+  Airlines, Inc. (a wholly-owned subsidiary of AMR).
+
+  Among the effects experienced by the Company from the September  11,
+  2001  terrorist  attacks  have  been significant  flight  disruption
+  costs  caused by the Federal Aviation Administration's (FAA) imposed
+  grounding  of  the  U.S.  airline  industry's  fleet,  significantly
+  increased  security  and  other costs, significantly  higher  ticket
+  refunds,  significantly  reduced  load  factors,  and  significantly
+  reduced  yields. Further terrorist attacks using commercial aircraft
+  in  flight could result in another grounding of the Company's fleet,
+  and  would likely result in additional reductions in load factor and
+  yields,  along  with  increased ticket refund,  security  and  other
+  costs.  In  addition,  terrorist attacks  not  involving  commercial
+  aircraft,  or  the  general  increase  in  hostilities  relating  to
+  reprisals  against  terrorist  organizations  or  otherwise,   could
+  result  in decreased load factors and yields for airlines, including
+  the Company, and increased costs.
+
+  The  Company  will  continue  to  evaluate  whether  any  additional
+  provisions and/or revisions to the charges recorded as of  September
+  30,  2001  (see  footnote 2 below) are required  during  the  fourth
+  quarter  of  2001.   However, the impact of the September  11,  2001
+  terrorist  attacks  on  the Company's financial  condition  and  the
+  sufficiency  of its financial resources to absorb that  impact  will
+  depend  on a number of factors.  For a discussion of these  factors,
+  see  Management Discussion and Analysis of Financial  Condition  and
+  Results of Operations - Liquidity and Capital Resources.
+
+2.On  September  11,  2001, two American  Airlines  aircraft  were
+  hijacked and destroyed in terrorist attacks on The World Trade Center
+  in New York City and the Pentagon in northern Virginia.  On the same
+  day,  two United Air Lines aircraft were also hijacked and  used  in
+  terrorist attacks.  In addition to the loss of all passengers and crew
+  on  board the aircraft, these attacks resulted in untold deaths  and
+  injuries  to persons on the ground and massive property damage.   In
+  response to those terrorist attacks, the FAA issued a federal ground
+  stop  order on September 11, 2001, prohibiting all flights to, from,
+  and within the United States.  Airports did not reopen until September
+  13,  2001 (except for Washington Reagan National Airport, which  was
+  partially  reopened on October 4, 2001).  The Company  was  able  to
+  operate  only  a portion of its scheduled flights for  several  days
+  thereafter.  When flights were permitted to resume, passenger traffic
+  and  yields  on the Company's flights were significantly lower  than
+  prior  to the attacks.  As a result, the Company announced  that  it
+  would reduce its operating schedule to approximately 80 percent of the
+  schedule  it  flew  prior to September 11, 2001.  In  addition,  the
+  Company also announced that, as a result of its schedule reduction and
+  the sharp fall off in passenger traffic, it would eliminate at least
+  20,000 jobs.  The Company's future schedule will vary as the Company
+  reacts to continuing changes in demand and yields, as well as normal
+  factors such as seasonality and fleet composition.
+
+                                     -5-
+<Page> 8
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+  On  September  22,  2001, President Bush signed  into  law  the  Air
+  Transportation Safety and System Stabilization Act (the Act),  which
+  for  all  U.S.  airlines and air cargo carriers  (collectively,  air
+  carriers),  provides  for, among other things:  (i)  $5  billion  in
+  compensation  for  direct losses (including lost revenues)  incurred
+  as  a  result  of the federal ground stop order and for  incremental
+  losses incurred through December 31, 2001 as a direct result of  the
+  attacks; (ii) subject to certain conditions, the availability of  up
+  to  $10  billion in federal government guarantees of  certain  loans
+  made  to  air carriers for which credit is not reasonably  available
+  as   determined   by   a   newly  established   Air   Transportation
+  Stabilization  Board;  (iii)  the  authority  of  the  Secretary  of
+  Transportation  to  reimburse air carriers (which authority  expires
+  180  days  after the enactment of the Act) for the increase  in  the
+  cost  of insurance, for coverage ending before October 1, 2002, over
+  the  premium in effect for the period September 4, 2001 to September
+  10,   2001;   (iv)   at   the  discretion  of   the   Secretary   of
+  Transportation,  a $100 million limit on the liability  of  any  air
+  carrier   to  third  parties  with  respect  to  acts  of  terrorism
+  committed  on  or  to  such air carrier during  the  180-day  period
+  following  the enactment of the Act; (v) the extension  of  the  due
+  date  for  the payment by air carriers of certain excise taxes;  and
+  (vi)  compensation  to  individual  claimants  who  were  physically
+  injured  or killed as a result of the terrorist attacks of September
+  11,  2001.  In addition, the Act provides that, notwithstanding  any
+  other   provision   of  law,  liability  for  all  claims,   whether
+  compensatory or punitive, arising from the terrorist-related  events
+  of  September 11, 2001 against any air carrier shall not exceed  the
+  liability coverage maintained by the air carrier.
+
+  The  Company  estimates that its liability from claims arising  from
+  the  events  of  September 11, 2001 is approximately  $2.3  billion,
+  after  considering  the liability protections provided  for  by  the
+  Act.   The  Company  expects to recover the $2.3  billion  from  its
+  insurance  carriers as claims are settled.  The insurance receivable
+  and  liability  are  classified  as  Other  assets,  net  and  Other
+  liabilities,   deferred   gains  and   deferred   credits   on   the
+  accompanying  condensed consolidated balance  sheets,  respectively.
+  The  Company  may revise  these  estimates as additional information
+  becomes available concerning the expected claims.
+
+  As  a  result  of  the September 11, 2001 events, aviation  insurers
+  have  significantly reduced the maximum amount of insurance coverage
+  available to commercial air carriers for liability to persons  other
+  than  employees  or  passengers for claims resulting  from  acts  of
+  terrorism, war or similar events (war-risk coverage).  At  the  same
+  time,  they  significantly increased the premiums for such  coverage
+  as  well as for aviation insurance in general.  As detailed  above,
+  the Act mitigated the  immediate  effects of changes in the aviation
+  insurance market. In addition, and pursuant to the Act, the Government
+  has issued war risk coverage to U.S. air carriers for renewable
+  30-day periods.
+
+  Under  the  Act, each air carrier is entitled to receive the  lesser
+  of  (i)  its direct and incremental losses for the period  September
+  11,  2001  to  December  31, 2001 or (ii) its  available  seat  mile
+  allocation of the $5 billion compensation available under  the  Act.
+  AMR  has  received a total of $452 million from the U.S.  Government
+  under  the Act.  The Company expects to receive additional  payments
+  in  the  fourth  quarter  of  2001  aggregating  approximately  $452
+  million.    As  of  September  30,  2001,  the  Company   recognized
+  approximately $809 million as compensation under the Act,  which  is
+  included  in  U.S. Government grant on the accompanying consolidated
+  statements  of operations, and is based upon direct and  incremental
+  losses  for the period September 11, 2001 through September 30,  2001,
+  including special charges and lost revenue.
+
+  Special  charges  for  the  three months ended  September  30,  2001
+  includes the following (in millions):
+
+   Provision for aircraft impairments and groundings  $  496
+   Facility exit costs                                    61
+   Employee charges                                       55
+   Other                                                  20
+                                                      $  632
+
+                                        -6-
+<Page> 9
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+  Provision for aircraft impairments and groundings
+
+  Following  the events of September 11, 2001 and decisions  by  other
+  carriers  to ground their Fokker 100 fleets, the Company  determined
+  that  the  estimated fair market value of its Fokker 100,  Saab  340
+  and  ATR 42 aircraft had further declined in value, on an other than
+  temporary  basis,  as compared to the estimated fair  market  values
+  used  to write-down the carrying value of these aircraft during  the
+  second  quarter  of 2001 (see discussion below).  Therefore,  during
+  the  third  quarter  of  2001, the Company  recorded  an  additional
+  charge  of  approximately $423 million reflecting the diminution  in
+  the  estimated  fair  market  value of these  aircraft  and  related
+  rotables.
+
+  Earlier this year, the Company determined that the estimated  future
+  undiscounted cash flows expected to be generated by its Fokker  100,
+  Saab  340  and  ATR  42 aircraft fleets would  be  less  than  their
+  carrying  amount and therefore, these aircraft were  impaired  under
+  Statement  of  Financial Accounting Standards No.  121,  "Accounting
+  for  the  Impairment of Long-Lived Assets and for Long-Lived  Assets
+  to  Be  Disposed  Of" (SFAS 121).  As a result,  during  the  second
+  quarter of 2001, the Company recorded an asset impairment charge  of
+  approximately  $685  million  relating  to  the  write-down  of  the
+  carrying  value of 71 Fokker 100 aircraft, 74 Saab 340 aircraft  and
+  20  ATR  42  aircraft and related rotables to their  estimated  fair
+  market  values. Management estimated or determined the  undiscounted
+  future  cash  flows utilizing models used by the Company  in  making
+  fleet  and  scheduling decisions.  In determining  the  fair  market
+  value  of these aircraft, the Company considered outside third party
+  appraisals  and  recent  transactions  involving  sales  of  similar
+  aircraft.
+
+  As  a  result  of  the writedown of these aircraft  to  fair  market
+  value,  as  well  as  the acceleration of the retirement  dates  and
+  changes  in  salvage  values, depreciation and amortization  expense
+  will decrease by approximately $55 million on an annualized basis.
+
+  The  Company  also announced it would accelerate the  retirement  of
+  its   remaining   50  owned  Boeing  727-200  aircraft   (previously
+  scheduled  to  be retired by January 2003) to early  2002,
+  ground all McDonnell Douglas DC-9 (DC9) aircraft by  the  end
+  of  October 2001, and immediately ground eight McDonnell Douglas MD-
+  80  (MD80) aircraft.  In conjunction therewith, the Company recorded
+  a  charge  of approximately $73 million related primarily to  future
+  lease  commitments  on  the DC9 and MD80 operating  leased  aircraft
+  past  the dates they will be removed from service, lease return  and
+  storage costs, and the write-down of one owned MD80 aircraft to  its
+  estimated  fair  market value.  Cash outlays  are  estimated  to  be
+  approximately  $64 million and will occur over the  remaining  lease
+  terms, which extend through 2010.
+
+  The   Company  will  continue  to  evaluate  its  current  operating
+  schedule to determine if additional revisions to its fleet plan  are
+  warranted,  which  will be primarily dependent on  passenger  demand
+  and  yield  in  the  upcoming months.  In addition,  the  events  of
+  September  11,  2001  and  the  resulting  significant  decline   in
+  passenger traffic and yields require the Company to assess its long-
+  lived  assets  for  impairment,  including  aircraft  fleets,  route
+  acquisition  costs,  airport operating and gate  lease  rights,  and
+  goodwill.   However, the Company is currently not  able  to  make  a
+  reasonable  estimate of future cash flows derived from  these  long-
+  lived  assets for the purposes of assessing whether such assets  are
+  impaired  because of the lack of predictability of  future  traffic,
+  business  mix  and  yields.   The Company  will  perform  impairment
+  reviews  once this information becomes more predictable  and  future
+  operating  cash  flows therefore become reasonably estimable.   This
+  may  occur in the fourth quarter of 2001 or during 2002.   The  size
+  of  any  resulting  charge  is not presently  known,  but  could  be
+  significant.
+
+                                     -7-
+<Page> 10
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+  Facility exit costs
+
+  Also  in  response to the September 11, 2001 terrorist attacks,  the
+  Company  announced that it would discontinue service at Dallas  Love
+  Field   and  discontinue  or  reduce  service  on  several  of   its
+  international routes.  In addition, the Company announced  it  would
+  close  six  Admiral's Clubs, five airport Platinum  Service  Centers
+  and  approximately 105 off-airport Travel Centers in 37 cities,  all
+  effective  September 28, 2001.  As a result of these  announcements,
+  the  Company recorded a $61 million charge related to the  write-off
+  of   leasehold  improvements,  fixed  assets  and  future  lease
+  commitments.   Cash  outlays are estimated to be  approximately  $19
+  million and will occur over the remaining lease terms, which  extend
+  through 2017.
+
+  Employee charges
+
+  On  September  19,  2001, the Company announced  that  it  would  be
+  forced  to  reduce its workforce by at least 20,000 jobs across  all
+  work  groups  (pilots, flight attendants, mechanics,  fleet  service
+  clerks,  agents,  management  and  support  staff  personnel).   The
+  reduction  in  workforce, which the Company  expects  to  accomplish
+  through  various measures, including leave of absences, job sharing,
+  elimination   of  open  positions,  furloughs  in  accordance   with
+  collective  bargaining agreements, and permanent  layoffs,  resulted
+  from  the  September 11, 2001 terrorist attacks  and  the  Company's
+  subsequent  reduction of its operating schedule by approximately  20
+  percent  due to a sharp reduction in passenger traffic.  The Company
+  recorded  an  employee  charge  of  approximately  $55  million  for
+  termination  benefits  provided  to  the  employees  impacted.  Cash
+  outlays   for   the   employee  charges  are   expected   to   occur
+  substantially during the remainder of 2001 and will approximate  the
+  amount of the charge recorded.
+
+3.Accumulated  depreciation  of owned equipment  and  property  at
+  September 30, 2001 and December 31, 2000, was $8.9 billion and  $8.3
+  billion,  respectively.  Accumulated amortization of  equipment  and
+  property under capital leases at September 30, 2001 and December 31,
+  2000, was $1.2 billion.
+
+4.As  discussed in the notes to the consolidated financial  statements
+  included  in the Company's Annual Report on Form 10-K for  the  year
+  ended  December 31, 2000, the Miami International Airport  Authority
+  is  currently  investigating and remediating  various  environmental
+  conditions  at  the  Miami International Airport (the  Airport)  and
+  funding   the  remediation  costs  through  various  cost   recovery
+  methods.   American  and AMR Eagle have been  named  as  potentially
+  responsible  parties (PRPs) and contributors to  the  contamination.
+  During  the  second  quarter of 2001, the Airport  filed  a  lawsuit
+  against  17 defendants, including American, in an attempt to recover
+  its  past  and future cleanup costs (Miami-Dade County,  Florida  v.
+  Advance  Cargo Services, Inc., et al. in the Florida Circuit Court).
+  In  addition  to the 17 defendants named in the lawsuit,  243  other
+  agencies  and companies were also named as PRPs and contributors  to
+  the  contamination.  American and AMR Eagle's portion of the cleanup
+  costs  cannot  be  reasonably  estimated  due  to  various  factors,
+  including  the unknown extent of the remedial actions  that  may  be
+  required,  the  proportion  of  the cost  that  will  ultimately  be
+  recovered  from the responsible parties, and uncertainties regarding
+  the  environmental  agencies  that  will  ultimately  supervise  the
+  remedial activities and the nature of that supervision. In  addition,
+  the  Company  is  subject to environmental issues at  various  other
+  airport  and  non-airport  locations.   Management  believes,  after
+  considering  a  number of factors, that the ultimate disposition  of
+  these environmental issues is not expected to materially affect  the
+  Company's consolidated financial position, results of operations  or
+  cash flows.  Amounts recorded for environmental issues are based  on
+  the  Company's  current  assessments of the  ultimate  outcome  and,
+  accordingly,  could  increase  or  decrease  as  these   assessments
+  change.
+
+5.As of September 30, 2001, the Company had commitments to acquire
+  the following aircraft: 49 Boeing 737-800s, 15 Boeing 767-300ERs, 15
+  Boeing 757-200s, 10 Boeing 777-200ERs, 131 Embraer regional jets and
+  25  Bombardier CRJ-700s.  Future payments for all aircraft, including
+  the  estimated  amounts for price escalation, will approximate  $600
+  million  during the remainder of 2001, $1.2 billion  in  2002,  $800
+  million in 2003 and an aggregate of approximately $3.3 billion in 2004
+  and beyond.  These cash flows reflect a tentative agreement the Company
+  has with Boeing to defer 29 of its 45 2002 deliveries to 2004 and
+  beyond. As the Company and Boeing are still negotiating the final
+  terms of the tentative agreement, the  above aircraft commitment and
+  cash flow amounts could change.
+
+                                     -8-
+<Page> 11
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+6.During  the  first  nine  months of 2001,  American  and  AMR  Eagle
+  entered  into various debt agreements secured by aircraft  having  a
+  net  book  value of approximately $1.7 billion.  Effective  interest
+  rates  on  these  agreements are fixed or variable (based  on  LIBOR
+  plus  a spread), ranging up to approximately 7.4 percent, and mature
+  over various periods of time, ranging from 2013 to  2021. During the
+  nine  months  ended  September 30, 2001, the  Company  had  borrowed
+  approximately $1.7 billion under these agreements.
+
+  American  has $1 billion in credit facility agreements  that  expire
+  December  15,  2005,  subject to certain conditions.   In  September
+  2001,  American borrowed approximately $819 million under the credit
+  facility agreements which bears interest at 3.94 percent.
+
+  During  the third quarter of 2001, American entered into an  advance
+  payment facility which expires in 2004.  Interest is variable  based
+  upon one month LIBOR plus a spread. As of September 30, 2001, the Company
+  had  borrowed approximately $200 million under this advance payment
+  facility. These borrowings bear interest ranging from 3 to 4 percent.
+
+  In  April  2001,  the  Board of Directors of American  approved  the
+  guarantee  by  American of AMR's existing debt obligations.   As  of
+  September 30, 2001, American unconditionally guaranteed through  the
+  life  of  the  related  obligations approximately  $695  million  of
+  unsecured  debt,  approximately $700 million  of  secured  debt  and
+  approximately $1.6 billion of special facility revenue bonds  issued
+  by municipalities.
+
+  Subsequent to September 30, 2001 and through October 24, 2001, the
+  Company had issued approximately $1.3 billion  of enhanced
+  equipment trust certificates, with $740 million received at  closing
+  and  the remainder to be received as certain aircraft are delivered,
+  with  interest  rates  ranging  from  6.978  to  8.608  percent  and
+  maturing in 2011.  These borrowings are secured by aircraft.
+
+7.On April 9, 2001, the Company purchased substantially all of the
+  assets  of  Trans World Airlines, Inc. (TWA) for approximately $742
+  million in cash  (subject to certain working capital adjustments) and
+  assumed certain liabilities, including TWA's postretirement benefit
+  other than pension liability.  The $742 million includes the $625
+  million purchase price paid to TWA and various other acquisition costs,
+  primarily the purchase of aircraft security deposits and prepaid rent.
+  TWA was the eighth largest U.S. carrier, with a primary domestic hub in
+  St. Louis. The Company funded the acquisition of TWA's assets with its
+  existing cash and short-term investments.  The acquisition of TWA was
+  accounted for under the purchase method of accounting and, accordingly,
+  the operating results of TWA since the date of acquisition  have  been
+  included in the accompanying consolidated financial statements for the
+  three and nine-month periods ended September 30, 2001.
+
+  The  accompanying  consolidated  financial  statements  reflect  the
+  preliminary  allocation of the purchase price, which  was  based  on
+  estimated  fair  values  of  the  assets  acquired  and  liabilities
+  assumed,  and is subject to adjustments when additional  information
+  concerning  asset  and  liability  valuations  are  finalized.   The
+  preliminary excess purchase price over the estimated fair values  of
+  the  net  assets  acquired resulted in goodwill in  excess  of  $900
+  million, which is being amortized on a straight-line basis  over  40
+  years,  and  brought the Company's total goodwill  to  approximately
+  $1.3  billion as of September 30, 2001.  However, effective  January
+  1,  2002,  the Company will discontinue the amortization of goodwill
+  in  accordance with Statement of Financial Accounting Standards  No.
+  142, "Goodwill and Other Intangible Assets."
+
+                                      -9-
+<Page> 12
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+  The  following  table  provides  unaudited  pro  forma  consolidated
+  results of operations, assuming the acquisition had occurred  as  of
+  January 1, 2000 (in millions, except per share amounts):
+<Table>
+<Caption>
+                                               Nine Months Ended
+                                                September 30,
+                                                2001      2000
+   <s>                                         <c>       <c>
+  Operating revenues                           $16,057   $17,689
+  Income (loss) from continuing operations        (951)      809
+  Net earnings (loss)                             (951)      852
+  Earnings (loss) per share - diluted          $ (6.17)  $  5.31
+  </Table>
+
+  The  unaudited  pro  forma consolidated results of  operations  have
+  been prepared for comparative purposes only.  These amounts are  not
+  indicative  of  the combined results which would have  occurred  had
+  the  transaction  actually been consummated on  the  date  indicated
+  above  and  are  not  indicative  of  the  consolidated  results  of
+  operations which may occur in the future.
+
+  In   addition,   the   Company  acquired  certain   aircraft   lease
+  obligations,  primarily  operating lease agreements,  in  connection
+  with  the  acquisition  of TWA. The future  minimum  lease  payments
+  required under these operating leases are as follows (in millions):
+
+   Year Ending December 31,
+   2002                                         $  373
+   2003                                            271
+   2004                                            200
+   2005                                            174
+   2006 and subsequent                           1,229
+                                                $2,247
+                                     -10-
+<Page> 13
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+8.The  following table sets forth the computations of  basic  and
+  diluted  earnings (loss) per share (in millions, except  per  share
+  data):
+<Table>
+<Caption>
+                               Three Months Ended    Nine Months Ended
+                                 September 30,         September 30,
+                                2001       2000       2001      2000
+   <s>                         <c>        <c>        <c>       <c>
+   Numerator:
+  Income     (loss)      from
+   continuing      operations
+   before extraordinary  loss
+   -  numerator for basic and
+   diluted earnings per share  $(414)     $  322     $(964)    $  732
+
+  Denominator:
+  Denominator    for    basic
+   earnings (loss) per  share
+   - weighted-average shares     154         150       154        149
+
+   Effect of dilutive securities:
+  Employee options and shares      -          31         -         26
+  Assumed treasury shares
+   purchased                       -         (17)        -        (14)
+  Dilutive potential shares        -          14         -         12
+
+  Denominator   for   diluted
+   earnings (loss) per  share
+   -    adjusted    weighted-
+   average shares                 154        164       154        161
+
+  Basic earnings (loss) per
+   share from continuing
+   operations before
+   extraordinary loss          $(2.68)    $ 2.14     $(6.26)   $ 4.89
+
+  Diluted earnings (loss) per
+   share from continuing
+   operations before
+   extraordinary loss          $(2.68)    $ 1.96     $ (6.26)  $ 4.55
+</Table>
+  For   the   three  and  nine  months  ended  September   30,   2001,
+  approximately  12 million and 13 million dilutive potential  shares,
+  respectively,  were not added to the denominator  because  inclusion
+  of such shares would be antidilutive.
+
+9.For  the  three and nine months ended September  30,  2001,  the
+  Company  recognized net gains of approximately $15 million  and  $52
+  million,  respectively,  as  a component  of  fuel  expense  on  the
+  accompanying consolidated statements of operations related to its fuel
+  hedging  agreements.  This compares to net gains recognized  by  the
+  Company of approximately $159 million and $391 million, respectively,
+  for the three and nine months ended September 30, 2000.  (The amounts
+  for 2001 and 2000 are not comparable in that the 2001 amounts reflect
+  the  January  1, 2001 adoption of Statement of Financial  Accounting
+  Standards  No. 133 (SFAS 133); the 2000 amounts do not.)   The  fair
+  value of the Company's fuel hedging agreements at September 30, 2001,
+  representing  the amount the Company would receive to terminate  the
+  agreements, totaled $93 million.
+
+                                      -11-
+<Page> 14
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+
+10.The Company includes unrealized gains and losses on available-for-
+  sale securities, changes in minimum pension liabilities and changes in
+  the  fair  value  of certain derivative financial instruments  which
+  qualify for hedge accounting in comprehensive income (loss).  For the
+  three and nine months ended September 30, 2001, comprehensive loss was
+  $511 million and $990 million, respectively.  The difference between
+  net  loss and comprehensive loss for the three and nine months ended
+  September 30, 2001 is due primarily to the cumulative effect of  the
+  adoption  of  SFAS  133 and the on-going fair value  adjustments  of
+  derivative  financial  instruments  under  SFAS  133,  net  of   the
+  reclassification into earnings of the Company's derivative financial
+  instruments.   The  difference between net income and  comprehensive
+  income for the three and nine months ended September 30, 2000 was not
+  material.
+
+11.During  1999,  the  Company  entered  into  an  agreement  with
+  priceline.com  Incorporated  (priceline)  whereby  ticket  inventory
+  provided  by the Company may be sold through priceline's  e-commerce
+  system.   In  conjunction with this agreement, the Company  received
+  warrants  to purchase approximately 5.5 million shares of  priceline
+  common stock.  In the second quarter of 2000, the Company sold these
+  warrants for proceeds of approximately $94 million, and recorded a pre-
+  tax gain of $57 million, which is included in Miscellaneous - net on
+  the consolidated statements of operations.
+
+12.During  the third quarter of 2000, AMR repurchased  prior  to
+  scheduled maturity approximately $167 million in face value of long-
+  term  debt.   Cash  from operations provided  the  funding  for  the
+  repurchases.   These transactions resulted in an extraordinary  loss
+  of $14 million.
+
+13.Effective  after the close of business on March  15,  2000,  AMR
+  distributed 0.722652 shares of Sabre Class A common stock  for  each
+  share of AMR stock owned by AMR's shareholders.  The record date for
+  the  dividend of Sabre stock was the close of business on  March  1,
+  2000.  In addition, on February 18, 2000, Sabre paid a special  one-
+  time cash dividend of $675 million to shareholders of record of Sabre
+  common  stock at the close of business on February 15, 2000.   Based
+  upon  its  approximate 83 percent interest in  Sabre,  AMR  received
+  approximately $559 million of this dividend.  The dividend of  AMR's
+  entire  ownership  interest in Sabre's common stock  resulted  in  a
+  reduction to AMR's retained earnings in March of 2000 equal  to  the
+  carrying value of the Company's investment in Sabre on March 15, 2000,
+  which approximated $581 million.
+
+  The  results  of  operations for Sabre have been  reflected  in  the
+  consolidated  statements  of operations as discontinued  operations.
+  Other  summarized  financial information of discontinued  operations
+  for  the  nine  months ended September 30, 2000 is  as  follows  (in
+  millions):
+
+    Revenues                               $   542
+    Minority interest                           10
+    Income taxes                                36
+    Net income                                  43
+
+                                     -12-
+<Page> 15
+Item  2.   Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+
+RESULTS OF OPERATIONS
+
+For the Three Months Ended September 30, 2001 and 2000
+
+Summary AMR's net loss for the three months ended September 30,  2001
+was  $414  million,  or $2.68 loss per share, as compared  to  income
+before  extraordinary  loss  of $322  million,  or  $1.96  per  share
+diluted, for the same period in 2000.  AMR's operating loss  for  the
+third  quarter of 2001 was $558 million, compared to operating income
+of  $572  million  for the third quarter of 2000.  On  September  11,
+2001,  two  of  American's aircraft were hijacked  and  destroyed  in
+terrorist attacks on The World Trade Center in New York City and  the
+Pentagon in northern Virginia.  On the same day, two United Air Lines
+aircraft  were  also  hijacked and used  in  terrorist  attacks.   In
+response   to   the   terrorist   attacks,   the   Federal   Aviation
+Administration (FAA) issued a federal ground stop order on  September
+11,  2001,  prohibiting all flights to, from, and within  the  United
+States.  Airports did not reopen until September 13, 2001 (except for
+Washington  Reagan National Airport, which was partially reopened  on
+October 4, 2001).  The Company was able to operate only a portion  of
+its  scheduled flights for several days thereafter. When flights were
+permitted  to  resume, passenger traffic and yields on the  Company's
+flights  were  significantly lower than prior to the attacks.   As  a
+result,  the  Company  announced that it would reduce  its  operating
+schedule to approximately 80 percent of the schedule it flew prior to
+September  11,  2001.   For  additional information  related  to  the
+September   11,  2001  events,  see  footnote  2  to  the   condensed
+consolidated  financial  statements.  In addition,  as  discussed  in
+footnote  7  to  the condensed consolidated financial statements,  on
+April  9, 2001, the Company purchased substantially all of the assets
+and  assumed certain liabilities of Trans World Airlines, Inc. (TWA).
+Accordingly, the operating results of TWA have been included  in  the
+accompanying  consolidated financial statements for  the  three-month
+period  ended  September 30, 2001.  AMR's third quarter 2000  results
+from  continuing operations include the effect of a labor  disruption
+at  one  of the Company's major competitors which positively impacted
+the  Company's net earnings by an estimated $0.22 to $0.28 per  share
+diluted.
+
+The Company's revenues decreased $440 million, or 8.4 percent, in the
+third  quarter  of 2001 versus the same period last year.   Excluding
+TWA's  revenues for the third quarter of 2001, the Company's revenues
+would  have decreased by approximately $1.1 billion versus  the  same
+period  last  year.  During the third quarter of 2001, the  Company's
+revenues,  yield,  revenue passenger miles and available  seat  miles
+were severely impacted by the September 11, 2001 terrorist attacks, a
+worsening  of  the U.S. economy that had already been  dampening  the
+demand for travel both domestically and internationally prior to  the
+September  11, 2001 events, the reduced operating schedule,  business
+travel restrictions imposed by numerous companies as a result of  the
+September  11,  2001  attacks,  and  increased  fare  sale   activity
+occurring  subsequent  to  the  September  11  attacks  to  encourage
+passengers to resume flying.  The Company estimates the September 11,
+2001  terrorist  attacks  to have negatively impacted  the  Company's
+revenues by approximately $550 million to $650 million for the  three
+months ended September 30, 2001.
+
+American's  passenger  revenues decreased by 21.6  percent,  or  $950
+million.  American's yield (the average amount one passenger pays  to
+fly  one  mile) of 12.22 cents decreased by 12.1 percent compared  to
+the same period in 2000.  Domestic yields decreased 15.9 percent from
+the  third  quarter  of  2000.  International  yields  decreased  3.9
+percent,  primarily due to a decrease of 9.0 percent and 6.2  percent
+in  European and Pacific yields, respectively, partially offset by an
+increase of approximately 1.6 percent in Latin American yields.
+
+American's  traffic or revenue passenger miles (RPMs) decreased  10.8
+percent  to  28.2 billion miles for the quarter ended  September  30,
+2001.   American's capacity or available seat miles  (ASMs)  of  38.9
+billion miles decreased 6.0 percent compared to the third quarter  of
+2000.  As a result, American's load factor dropped 4 points year-over-
+year.   American's  domestic  traffic decreased  11.7  percent  on  a
+capacity   decrease  of  6.5  percent  while  international   traffic
+decreased  9.1  percent  on  a  capacity  decrease  of  5.1  percent.
+International activity included a 10.3 percent decrease in traffic to
+Latin  America on a capacity decrease of 8.9 percent, a  9.4  percent
+decrease  in traffic to Europe on a capacity decrease of 3.9 percent,
+and  a  2.8 percent decrease in traffic to the Pacific on a  capacity
+increase of 9.6 percent.
+
+TWA's  passenger revenues were $591 million for the third quarter  of
+2001.   TWA's  traffic  was 5.4 billion RPMs  while  capacity  was  8
+billion ASMs.
+
+
+                                    -13-
+<Page> 16
+RESULTS OF OPERATIONS (Continued)
+
+AMR  Eagle's  passenger  revenues  decreased  13.3  percent,  or  $52
+million.   The decrease in passenger revenues resulted  from  a  10.0
+percent  decrease  in passenger yield and a 3.6 percent  decrease  in
+traffic.
+
+Cargo  revenues decreased $25 million, or 13.7 percent, due primarily
+to  the impact of the September 11, 2001  terrorist  attacks  and  the
+softening of the U.S. economy.
+
+The   Company's  operating  expenses  increased  14.7   percent,   or
+approximately $690 million, and included approximately  $771  million
+related  to TWA's operations for the third quarter 2001.  In addition
+to  the specific explanations provided below, the significant decline
+in  passenger traffic resulting from the terrorist acts of  September
+11,  2001  caused  a  favorable impact on  certain  passenger-related
+operating  expenses,  including  aircraft  fuel,  other  rentals  and
+landing  fees,  commissions to agents and food  service.   American's
+cost  per  ASM  increased 7.6 percent to 11.21 cents,  excluding  the
+impact  of the third quarter 2001 special charges and U.S. Government
+grant.   The increase in American's cost per ASM was driven partially
+by  a  reduction  in ASMs due to the Company's More  Room  Throughout
+Coach  program.  Adjusted for this program, American's cost  per  ASM
+grew  approximately 5.8 percent, excluding the impact of the  special
+charges  and  U.S.  Government grant.  Wages, salaries  and  benefits
+increased  23.9 percent, or $412 million, and included  approximately
+$313  million related to the addition of TWA.  The remaining increase
+of  approximately $99 million related primarily to an increase in the
+average number of equivalent employees and contractual wage rate  and
+seniority   increases  that  are  built  into  the  Company's   labor
+contracts.   During the third quarter of 2001, the  Company  recorded
+approximately $100 million in additional wages, salaries and benefits
+related to the Company's new or tentative labor contracts.  This  was
+mostly  offset by a $98 million decrease in the provision for profit-
+sharing  as  compared to the corresponding period in the prior  year.
+Aircraft  fuel expense increased 19.8 percent, or $128  million,  and
+included approximately $117 million related to the addition  of  TWA.
+The  increase  in  aircraft fuel expense was due  to  a  5.3  percent
+increase in the Company's average price per gallon and a 12.2 percent
+increase   in   the  Company's  fuel  consumption,   including   TWA.
+Depreciation and amortization expense increased 19.9 percent, or  $61
+million,  due  primarily  to the addition  of  new  aircraft  and  an
+increase  of  approximately $30 million related to TWA.  Maintenance,
+materials  and  repairs increased 19.4 percent, or $54  million,  and
+included  approximately $38 million related to  TWA.   The  remaining
+increase  was due primarily to an increase in engine volumes  at  the
+Company's   maintenance  bases.   Other  rentals  and  landing   fees
+increased $73 million, or 29.2 percent, primarily due to the addition
+of  TWA.   Commissions  to  agents decreased  22.2  percent,  or  $59
+million, and included approximately $17 million related to TWA.   The
+decrease  was due primarily to a decrease of 8.6 percent in  combined
+passenger   revenues  and  the  continued  benefit  from   commission
+structure  changes  implemented in 2000.  Aircraft rentals  increased
+$79  million, or 52.3 percent, due primarily to the addition  of  TWA
+aircraft.   Other operating expense increased 13.3 percent,  or  $114
+million,  due  primarily  to the addition of  TWA.   Special  charges
+result  from  the  September 11, 2001 terrorist events  and  include
+approximately  $496  million  related  to  aircraft  impairments  and
+groundings,  $61  million  in facility exit  costs,  $55  million  in
+employee charges, and approximately $20 million in other charges (see
+footnote  2  to  the condensed consolidated financial statements  for
+additional information relating to these charges).  The Company  will
+continue  to  evaluate  whether  any  additional  provisions   and/or
+revisions  to  the  charges recorded as of  September  30,  2001  are
+required  during  the fourth quarter of 2001.  U.S. Government  grant
+represents  the  reimbursement  for  direct  and  incremental   costs
+resulting  from  the terrorist attacks, including impairment  charges
+and lost revenues, recognized by the Company in the third quarter  of
+2001   relating   to  the  Air  Transportation  Safety   and   System
+Stabilization  Act  (see further discussion  in  footnote  2  to  the
+condensed consolidated financial statements).
+
+Other  income  (expense), historically a net expense,  increased  $31
+million  due  primarily  to a decrease in interest  income  from  the
+Company's lower investment balances during 2001.
+
+                                     -14-
+<Page> 17
+RESULTS OF OPERATIONS (Continued)
+<Table>
+<Caption>
+
+OPERATING STATISTICS                                 Three Months Ended
+                                                        September 30,
+                                                     2001          2000
+<s>                                                 <c>          <c>
+American Airlines
+ Revenue passenger miles (millions)                 28,158        31,584
+ Available seat miles (millions)                    38,926        41,418
+ Cargo ton miles (millions)                            501           576
+ Passenger load factor                                72.3%         76.3%
+ Breakeven load factor (*)                            87.1%         65.4%
+ Passenger revenue yield per passenger mile (cents)  12.22         13.90
+ Passenger revenue per available seat mile (cents)    8.84         10.60
+ Cargo revenue yield per ton mile (cents)            28.85         31.60
+ Operating expenses per available seat  mile
+  (cents) (*)                                        11.21         10.42
+ Fuel consumption (gallons, in millions)               753           796
+ Fuel price per gallon (cents)                        81.4          77.3
+ Fuel price per gallon, excluding fuel taxes (cents)  76.0          71.7
+ Operating aircraft at period-end                      717           720
+
+TWA
+ Revenue passenger miles (millions)                  5,385             -
+ Available seat miles (millions)                     7,982             -
+ Passenger load factor                                67.5%            -
+ Passenger revenue yield per passenger mile (cents)  10.98             -
+ Passenger revenue per available seat mile (cents)    7.41             -
+ Operating expenses per available seat mile
+  (cents) (*)                                        10.16             -
+ Operating aircraft at period-end                      176             -
+
+AMR Eagle
+ Revenue passenger miles (millions)                    962           998
+ Available seat miles (millions)                     1,664         1,631
+ Passenger load factor                                57.8%         61.2%
+ Operating aircraft at period-end                      279           270
+
+</Table>
+(*)  Excludes the third quarter 2001 impact of the special charges and
+U.S. Government grant.
+
+                                      -15-
+<Page> 18
+RESULTS OF OPERATIONS (Continued)
+
+Operating aircraft at September 30, 2001, included:
+<Table>
+<Caption>
+ <s>                            <c>       <c>                           <c>
+ American Airlines Aircraft:            TWA Aircraft:
+Airbus A300-600R                 35     Boeing 717-200                   27
+Boeing 727-200                   50     Boeing 757-200                   27
+Boeing 737-800                   71     Boeing 767-300 Extended Range     9
+Boeing 757-200                  109     McDonnell Douglas MD-80         103
+Boeing 767-200                    8     McDonnell Douglas DC-9           10
+Boeing 767-200 Extended Range    21         Total                       176
+Boeing 767-300 Extended Range    49
+Boeing 777-200 Extended Range    37     AMR Eagle Aircraft:
+Fokker 100                       74     ATR 42                           30
+McDonnell Douglas MD-11           4     Embraer 135                      40
+McDonnell Douglas MD-80         259     Embraer 140                       8
+                                717     Embraer 145                      56
+                                        Super ATR                        43
+                                        Saab 340                         77
+                                        Saab 340B Plus                   25
+                                         Total                          279
+</Table>
+Average aircraft age is 10.8 years for American's aircraft, 8.8  years
+for TWA aircraft, and 6.5 years for AMR Eagle aircraft.
+
+The  Company  has  announced  that it will  remove  from  service  its
+remaining  Boeing 727-200 fleet by early 2002 and its remaining McDonnell
+Douglas DC-9 fleet by October 2001.
+
+                                   -16-
+<Page> 19
+RESULTS OF OPERATIONS (Continued)
+
+For the Nine Months Ended September 30, 2001 and 2000
+
+Summary  AMR's net loss for the nine months ended September 30,  2001
+was $964 million, or $6.26 loss per share.  This compares with income
+from continuing operations before extraordinary loss of $732 million,
+or  $4.55  per  share diluted, for the same period  in  2000.   AMR's
+operating loss for the nine months ended September 30, 2001 was  $1.3
+billion,  compared to operating income of $1.3 billion for  the  same
+period  in  2000.  On September 11, 2001, two of American's  aircraft
+were  hijacked and destroyed in terrorist attacks on The World  Trade
+Center  in  New York City and the Pentagon in northern Virginia.   On
+the  same  day, two United Air Lines aircraft were also hijacked  and
+used in terrorist attacks.  In response to the terrorist attacks, the
+FAA  issued  a  federal  ground stop order  on  September  11,  2001,
+prohibiting  all  flights  to, from, and within  the  United  States.
+Airports  did  not  reopen  until  September  13,  2001  (except  for
+Washington  Reagan National Airport, which was partially reopened  on
+October 4, 2001).  The Company was able to operate only a portion  of
+its scheduled flights for several days thereafter.  When flights were
+permitted  to  resume, passenger traffic and yields on the  Company's
+flights  were  significantly lower than prior to the attacks.   As  a
+result,  the  Company  announced that it would reduce  its  operating
+schedule to approximately 80 percent of the schedule it flew prior to
+September  11,  2001.   On  April  9,  2001,  the  Company  purchased
+substantially  all of the assets and assumed certain  liabilities  of
+TWA.   Accordingly, the operating results of TWA since  the  date  of
+acquisition  have  been  included in  the  accompanying  consolidated
+financial  statements for the nine month period ended  September  30,
+2001.   AMR's  third quarter 2000 results from continuing  operations
+include  the  effect of a labor disruption at one  of  the  Company's
+major  competitors  which  positively  impacted  the  Company's   net
+earnings by an estimated $0.22 to $0.28 per share diluted.
+
+The  Company's revenues increased approximately $315 million, or  2.1
+percent, during the first nine months of 2001 versus the same  period
+last  year.   However, excluding TWA's revenues for the period  April
+10,  2001  through September 30, 2001, the Company's  revenues  would
+have decreased approximately $1.1 billion versus the same period last
+year. The Company's 2001 revenues, yield, revenue passenger miles and
+available seat miles were severely impacted by the September 11, 2001
+terrorist attacks, the reduced operating schedule, a worsening of the
+U.S.  economy that had already been dampening the demand  for  travel
+both domestically and internationally prior to the September 11, 2001
+events, business travel restrictions imposed by numerous companies as
+a  result of the September 11, 2001 attacks, and increased fare  sale
+activity  occurring  subsequent  to  the  September  11  attacks   to
+encourage  passengers  to resume flying.  The Company  estimates  the
+September 11, 2001 terrorist attacks to have negatively impacted  the
+Company's revenues by approximately $550 million to $650 million.
+
+American's  passenger  revenues  decreased  by  8.1  percent,  or  $1
+billion.   American's yield of 13.49 cents decreased by  2.7  percent
+compared  to the same period in 2000.  Domestic yields decreased  3.9
+percent  from  the  first nine months of 2000.  International  yields
+increased 0.2 percent, reflecting an increase of 4.1 percent in Latin
+American yields, mostly offset by a decrease of 7.0 percent  and  2.6
+percent in Pacific and European yields, respectively.
+
+American's  traffic  or RPMs decreased 5.5 percent  to  84.1  billion
+miles  for  the  nine  months ended September 30,  2001.   American's
+capacity or ASMs decreased 2.2 percent to 118.9 billion miles for the
+first nine months of 2001.  American's domestic traffic decreased 6.8
+percent  on  a  capacity decrease of 2.4 percent while  international
+traffic  decreased 2.9 percent on capacity decreases of 1.6  percent.
+International activity included a 6.7 percent increase in traffic  to
+the  Pacific  on a capacity increase of 8.2 percent,  a  4.0  percent
+decrease  in traffic to Europe on a capacity increase of 0.3 percent,
+and  a 3.9 percent decrease in traffic to Latin America on a capacity
+decrease of 5.2 percent.
+
+TWA's  passenger  revenues were approximately $1.3  billion  for  the
+period April 10, 2001 through September 30, 2001.  TWA's traffic  was
+11.1 billion RPMs while capacity was 16 billion ASMs.
+
+
+                                     -17-
+<Page> 20
+RESULTS OF OPERATIONS (Continued)
+
+The   Company's  operating  expenses  increased  21.7   percent,   or
+approximately $2.9 billion, and included approximately  $1.5  billion
+related  to  TWA's operations for the period April 10,  2001  through
+September 30, 2001. In addition to the specific explanations provided
+below,  the  significant decline in passenger traffic resulting  from
+the terrorist acts of September 11, 2001 caused a favorable impact on
+certain  passenger-related  operating  expenses,  including  aircraft
+fuel, other rentals and landing fees, commissions to agents and  food
+service.  American's  cost per ASM increased  8.7  percent  to  11.15
+cents,  excluding  the impact of the second and  third  quarter  2001
+special   charges  and  U.S.  Government  grant.   The  increase   in
+American's cost per ASM was driven partially by a reduction  in  ASMs
+due  to  the Company's More Room Throughout Coach program.   Adjusted
+for  this  program,  American's cost per  ASM  grew  approximately  5
+percent,  excluding  the  impact of  the  special  charges  and  U.S.
+Government  grant.   Wages,  salaries  and  benefits  increased  19.8
+percent,  or  $993 million, and included approximately  $600  million
+related   to  the  addition  of  TWA.   The  remaining  increase   of
+approximately  $393 million related primarily to an increase  in  the
+average number of equivalent employees and contractual wage rate  and
+seniority   increases  that  are  built  into  the  Company's   labor
+contracts.   During  the nine months ended September  30,  2001,  the
+Company  recorded  approximately $280 million  in  additional  wages,
+salaries and benefits related to the Company's new or tentative labor
+contracts.  This was mostly offset by a $270 million decrease in  the
+provision for profit-sharing as compared to the corresponding  period
+in  the prior year.  Aircraft fuel expense increased 31.5 percent, or
+$557 million, and included approximately $237 million related to  the
+addition of TWA.  The increase in aircraft fuel expense was due to  a
+13.9 percent increase in the Company's average price per gallon and a
+12 percent increase in the Company's fuel consumption, including TWA.
+Depreciation and amortization expense increased 16.2 percent, or $144
+million,  due  primarily  to the addition  of  new  aircraft  and  an
+increase  of  approximately $55 million related to TWA.  Maintenance,
+materials  and  repairs increased $89 million, or 10.8  percent,  and
+included  approximately $54 million related to  TWA.   The  remaining
+increase  was due primarily to an increase in engine volumes  at  the
+Company's   maintenance  bases.   Other  rentals  and  landing   fees
+increased  $157 million, or 21.1 percent, and included  approximately
+$97  million related to the addition of TWA.  The remaining  increase
+of $60 million is due primarily to higher facilities rent and landing
+fees  across American's system.  Commissions to agents decreased 13.2
+percent,  or  $105  million, and included approximately  $48  million
+related to TWA.  Despite an increase of approximately 1.9 percent  in
+combined  passenger revenues, the Company benefited  from  commission
+structure  changes  implemented in 2000.  Aircraft rentals  increased
+$149  million, or 32.7 percent, due primarily to the addition of  TWA
+aircraft.   Other operating expense increased 17.1 percent,  or  $422
+million, and included approximately $264 million related to TWA.  The
+remaining  increase  is  due  primarily to  increases  in  outsourced
+services,  data processing, TWA integration expenses, and travel  and
+incidental costs.  Special charges result from the September 11, 2001
+terrorist  events  and the asset impairment charge  recorded  in  the
+second  quarter  of  2001.  The September 11,  2001  special  charges
+include  approximately $496 million related to  aircraft  impairments
+and  groundings, $61 million in facility exit costs, $55  million  in
+employee  charges,  and approximately $20 million in  other  charges.
+During  the  second  quarter of 2001, the Company recorded  an  asset
+impairment  charge of $685 million relating to the writedown  of  the
+carrying  value  of  the Company's Fokker 100, Saab  340  and  ATR-42
+aircraft and related rotables.  The Company will continue to evaluate
+whether  any  additional provisions and/or revisions to  the  charges
+recorded  as  of  September 30, 2001 are required during  the  fourth
+quarter  of  2001  (see  further discussion  in  footnote  2  to  the
+condensed consolidated financial statements).  U.S. Government  grant
+represents  the  reimbursement  for  direct  and  incremental   costs
+resulting  from  the terrorist attacks, including impairment  charges
+and lost revenues, recognized by the Company in the third quarter  of
+2001   relating   to  the  Air  Transportation  Safety   and   System
+Stabilization  Act  (see further discussion  in  footnote  2  to  the
+condensed consolidated financial statements).
+
+Other  income  (expense), historically a net expense,  increased  $67
+million due primarily to a decrease of $28 million in interest income
+resulting from lower investment balances throughout most of the  year
+and  a  decrease  of  $25 million in miscellaneous-net.   The  latter
+reflects  the $57 million gain in the second quarter of 2000  on  the
+sale  of  the  Company's warrants to purchase 5.5 million  shares  of
+priceline  common stock versus a $45 million gain during  the  second
+quarter of 2001 from the settlement of a legal matter related to  the
+Company's 1999 labor disruption, offset by the write-down of  certain
+investments held by the Company during 2001.
+
+
+                                      -18-
+<Page> 21
+RESULTS OF OPERATIONS (Continued)
+<Table>
+<Caption>
+
+OPERATING STATISTICS                                   Nine Months Ended
+                                                         September 30,
+                                                       2001          2000
+<s>                                                   <c>          <c>
+American Airlines
+    Revenue passenger miles (millions)                 84,115       89,055
+    Available seat miles (millions)                   118,920      121,533
+    Cargo ton miles (millions)                          1,624        1,693
+    Passenger load factor                                70.7%        73.3%
+    Breakeven load factor (*)                            76.0%        64.9%
+    Passenger revenue yield per passenger mile (cents)  13.49        13.87
+    Passenger revenue per available seat mile (cents)    9.54        10.17
+    Cargo revenue yield per ton mile (cents)            30.22        31.00
+    Operating expenses per available seat mile
+     (cents) (*)                                        11.15        10.26
+    Fuel consumption (gallons, in millions)             2,280        2,285
+    Fuel price per gallon (cents)                        83.8         73.6
+    Fuel price per gallon, excluding fuel taxes (cents)  78.3         68.2
+    Operating aircraft at period-end                      717          720
+
+TWA
+    Revenue passenger miles (millions)                 11,067            -
+    Available seat miles (millions)                    16,010            -
+    Passenger load factor                                69.1%           -
+    Passenger revenue yield per passenger mile (cents)  11.41            -
+    Passenger revenue per available seat mile (cents)    7.89            -
+    Operating expenses per available seat  mile
+     (cents) (*)                                         9.80            -
+    Operating aircraft at period-end                      176            -
+
+AMR Eagle
+    Revenue passenger miles (millions)                  2,851        2,822
+    Available seat miles (millions)                     4,931        4,691
+    Passenger load factor                                57.8%        60.1%
+    Operating aircraft at period-end                      279          270
+</Table>
+(*)   Excludes the second and third quarter 2001 impact of the special
+charges and U.S. Government grant.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Net  cash  provided by operating activities in the nine month  period
+ended   September  30,  2001  was  $1.3  billion,   a   decrease   of
+approximately  $1.4  billion  over  the  same  period  in  2000,  due
+primarily to a decrease in income from continuing operations from the
+corresponding period in the prior year.  Capital expenditures for the
+first  nine  months  of  2001  were $3.1 billion,  and  included  the
+acquisition of 20 Boeing 737-800s, 10 Boeing 777-200ERs, eight Boeing
+757-200s,  eight  Embraer 140s, seven Embraer 135s, six  Embraer  145
+aircraft,  and  the purchase of 18 McDonnell Douglas  MD-80  aircraft
+previously  leased by TWA.  These capital expenditures were  financed
+primarily through secured mortgage and debt agreements.  Four  Boeing
+737-800  aircraft were financed through sale-leaseback  transactions.
+On  April  9, 2001, the Company purchased substantially  all  of  the
+assets and assumed certain liabilities of TWA for approximately  $742
+million, which was funded from the Company's existing cash and short-
+term  investments.   The  $742  million  includes  the  $625  million
+purchase  price  paid  to  TWA and various other  acquisition  costs,
+primarily  the  purchase of aircraft security  deposits  and  prepaid
+rent.   Proceeds  from  the sale of equipment and  property  of  $326
+million  included  the proceeds received upon the  delivery  of  four
+McDonnell Douglas MD-11 aircraft to Federal Express.
+
+                               -19-
+<Page> 22
+  As  of  September 30, 2001, the Company had commitments  to  acquire
+the  following aircraft: 49 Boeing 737-800s, 15 Boeing 767-300ERs,  15
+Boeing  757-200s, 10 Boeing 777-200ERs, 131 Embraer regional jets  and
+25  Bombardier  CRJ-700s.  Future payments for all aircraft,  including
+the  estimated  amounts  for price escalation, will  approximate  $600
+million  during  the  remainder of 2001, $1.2 billion  in  2002,  $800
+million in 2003 and an aggregate of approximately $3.3 billion in 2004
+and beyond. These cash flows reflect a tentative  agreement the Company
+has with Boeing to defer 29 of its 45 2002 deliveries to 2004 and beyond.
+As the Company and Boeing are still negotiating the final terms of the
+tentative agreement, the above aircraft commitment and cash flow amounts
+could change.
+
+  The  Company  has  available a variety of future financing  sources,
+including, but not limited to: (i) the receipt of the remainder of the
+U.S.   Government  grant,  which  approximates  $452   million,   (ii)
+additional  secured  aircraft debt agreements, including the  issuance
+of  approximately  $1.3  billion  of  enhanced equipment  trust
+certificates, with $740 million received at closing and the  remainder
+to  be  received  as  aircraft  are  delivered,  (iii)  sale-leaseback
+transactions  of owned property, including aircraft and  real  estate,
+(iv)  securitization  of  future  operating  receipts,  (v)  unsecured
+borrowings, and (vi) federal loan guarantees as provided under the Act
+and other types of secured debt agreements. No assurance can be given
+that any of these financing sources will be available on terms acceptable
+to the Company.
+
+  As  of  September  30, 2001, the Company is in compliance with the two
+financial covenants contained in the Company's credit facility agreements.
+However,  it is likely that a significant  loss  in  the fourth  quarter
+of  2001  could  cause the Company to violate one or both covenants,
+unless they are modified. American is currently pursuing such modifications
+to the agreements so that the Company will remain in compliance with the
+covenants. Absent such modification, the $819 million currently outstanding
+under the credit facility agreements could become due and payable in
+late first quarter 2002.
+
+  Subsequent  to  the  September 11, 2001 events,  Standard  &  Poor's
+downgraded the senior unsecured credit rating of American from BBB- to
+BB  and  Moody's  downgraded  the senior unsecured  credit  rating  of
+American from Baa3 to Ba2.  The long-term corporate credit ratings  of
+American  remain  on  Standard  &  Poor's  CreditWatch  with  negative
+implications and Moody's has retained the credit ratings  of  American
+on review for possible downgrade.
+
+  The  impact of the terrorist attacks of September 11, 2001 and their
+aftermath  on  the  Company  and  the  sufficiency  of  its  financial
+resources  to absorb that impact will depend on a number  of  factors,
+including: (i) the magnitude and duration of the adverse impact of the
+terrorist attacks on the economy in general, and the airline  industry
+in  particular;  (ii)  the Company's ability to reduce  its  operating
+costs  and  conserve its financial resources, taking into account  the
+increased  costs  it  will  incur as a  consequence  of  the  attacks,
+including  those referred to below; (iii) the higher costs  associated
+with   new   airline  security  directives  and  any  other  increased
+regulation  of  air carriers; (iv) the significantly higher  costs  of
+aircraft insurance coverage for future claims caused by acts  of  war,
+terrorism,  sabotage,  hijacking and other  similar  perils,  and  the
+extent to which such insurance will continue to be available; (v)  the
+Company's  ability to raise additional financing; (vi) the  price  and
+availability of jet fuel, and the availability to the Company of  fuel
+hedges  in  light of current industry conditions; (vii) the number  of
+crew  members who may be called for duty in the reserve forces of  the
+armed  services and the resulting impact on the Company's  ability  to
+operate as planned; (viii) any resulting declines in the values of the
+aircraft  in  the  Company's fleet and any  aircraft  or  other  asset
+impairment   charge,  including  routes,  slots,   gates   and   other
+intangibles; (ix) the extent of the benefits received by  the  Company
+under   the   Act,   taking  into  account  any  challenges   to   and
+interpretations  or  amendments  of  the  Act  or  regulations  issued
+pursuant  thereto;  and  (x)  the  Company's  ability  to  retain  its
+management and other employees in light of current industry conditions
+and their impact on compensation and morale.
+
+  At  this point, due in part to the lack of predictability of  future
+traffic,  business  mix and yields, the Company  is  unable  to  fully
+estimate  the  impact on it of the events of September  11,  2001  and
+their  consequences and the sufficiency of its financial resources  to
+absorb  that impact, including the mitigating effects of the  Act  and
+the  Company's aggressive actions to reduce its costs.  However, given
+the   magnitude  of  these  unprecedented  events  and  the   possible
+subsequent effects, the Company expects that the adverse impact to the
+Company's  financial  condition, its operations and  its prospects will
+be material and could be highly material.
+
+                                   -20-
+<Page> 23
+FOURTH QUARTER OUTLOOK
+
+Capacity  for American and TWA combined will be down about 20  percent
+from last year's levels.  Eagle capacity will be down about 5 percent.
+Traffic  for  the  fourth quarter is challenging to  predict,  if  not
+impossible.  As of October 22, 2001, advanced booking levels are down six
+points in November and down four points in December, compared to the same
+date and for the same periods last year. These numbers could  increase
+however, as current trends show a higher than normal number of  booked
+passengers not showing up for their flights.  Yields may decline  more
+steeply in the fourth quarter than in the third, owing to more  -  and
+deeper  -  fare sales and a weaker mix of business traffic.  AMR  unit
+costs are expected to come in about two percent higher than last  year
+-  at 11.8 cents - despite a 20 percent cut in capacity.  This is  due
+in  large part to the numerous cost reduction initiatives the  Company
+put  in  place  in  response to the September 11 terrorist  attacks  -
+cutting  capacity  and  grounding aircraft, sharply  reducing  capital
+spending,  closing facilities, trimming food service and reducing  its
+workforce.  In addition, the Company expects to see lower fuel prices.
+Somewhat offsetting these cost savings will be higher security  costs,
+higher insurance premiums and greater interest expense.
+
+Notwithstanding the cost savings initiatives, the Company is not  able
+in  the  short term to reduce its costs commensurate with its capacity
+(and  revenue).   As  a  result,  the  Company  expects  to  incur   a
+significant loss in the fourth quarter, as well as for the  full  year
+2001.
+
+SPECIAL RISK FACTOR
+
+Negative  Impact of Terrorist Attacks   Among the effects  experienced
+by the Company from the September 11, 2001 terrorist attacks have been
+significant  flight  disruption  costs  caused  by  the  FAA's imposed
+grounding   of   the  U.S.  airline  industry's  fleet,  significantly
+increased  security  and  other  costs,  significantly  higher  ticket
+refunds, significantly reduced load factors, and significantly reduced
+yields. Further terrorist attacks using commercial aircraft in  flight
+could  result in another grounding of the Company's fleet,  and  would
+likely  result  in significant reductions in load factor  and  yields,
+along  with increased ticket refund, security and other  costs.  In
+addition, terrorist attacks not involving commercial aircraft, or  the
+general   increase  in  hostilities  relating  to  reprisals   against
+terrorist  organizations or otherwise, could result in decreased  load
+factors and yields for airlines, including the Company, and could also
+result in increased costs.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In   July  2001,  the  Financial  Accounting  Standards  Board  issued
+Statements  of  Financial  Accounting  Standards  No.  141,  "Business
+Combinations"  (SFAS 141) and No. 142, "Goodwill and Other  Intangible
+Assets"  (SFAS  142).  SFAS 141 prohibits the use of  the  pooling-of-
+interests  method for business combinations initiated after  June  30,
+2001  and  includes criteria for the recognition of intangible  assets
+separately from goodwill.  SFAS 142 includes the requirement  to  test
+goodwill and indefinite lived intangible assets for impairment  rather
+than  amortize  them.  The Company will adopt SFAS 142  in  the  first
+quarter   of   2002,   and  currently  estimates   discontinuing   the
+amortization of approximately $62 million on an annualized basis.  The
+Company  is  currently  evaluating what additional  impact  these  new
+accounting  standards may have on the Company's financial position  or
+results  of  operations.  However, with the decline in  the  Company's
+market  capitalization,  in  part due  to  the  terrorist  attacks  on
+September 11, 2001 the adoption of SFAS 142 might result in the write-
+off or write-down of the Company's goodwill.
+
+                                   -21-
+<Page> 24
+FORWARD-LOOKING INFORMATION
+
+Statements  in this report contain various forward-looking statements
+within  the meaning of Section 27A of the Securities Act of 1933,  as
+amended,  and Section 21E of the Securities Exchange Act of 1934,  as
+amended,  which  represent  the  Company's  expectations  or  beliefs
+concerning  future  events.   When used in  this  report,  the  words
+"expects,"  "plans,"  "anticipates,"  and  similar  expressions   are
+intended  to  identify  forward-looking statements.  Forward  looking
+statements  include the Company's expectations concerning  operations
+and  financial  conditions, overall economic  conditions,  plans  and
+objectives  for future operations, and the impact of  the  events  of
+September  11, 2001 on American and the sufficiency of the Company's
+financial  resources  to  absorb that  impact.   All  forward-looking
+statements in this report are based upon information available to the
+Company  on  the  date  of this report.  The  Company  undertakes  no
+obligation   to   publicly  update  or  revise  any   forward-looking
+statement, whether as a result of new information, future  events  or
+otherwise.   Forward-looking statements are subject to  a  number  of
+factors that could cause actual results to differ materially from our
+expectations.   These  factors include  the  adverse  impact  of  the
+terrorist  attacks  on the economy in general, the  likelihood  of  a
+further decline in air travel because of the attacks and as a  result
+of a reduction in American's operations, higher costs associated with
+new  security  directives and potentially new regulatory initiatives,
+higher  costs  for insurance and the continued availability  of  such
+insurance, the number of crew members who may be called for  duty  in
+the armed services and the impact on American's ability to operate as
+planned.   Additional information concerning these and other  factors
+that  could  cause  actual  results to differ  is  contained  in  the
+Company's  Securities and Exchange Commission filings, including  but
+not limited to, the Form 10-K for the year ended December 31, 2000.
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+There  have  been  no  material  changes  in  market  risk  from  the
+information   provided  in  Item  7A.  Quantitative  and  Qualitative
+Disclosures About Market Risk of the Company's Annual Report on  Form
+10-K for the year ended December 31, 2000, except as discussed below.
+
+  Based on projected fuel usage for the next twelve months, including
+the  Company's estimated fuel consumption for TWA, a hypothetical  10
+percent  increase in the September 30, 2001 cost per gallon  of  fuel
+would result in an increase in the Company's aircraft fuel expense of
+approximately $170 million for the next twelve months,  net  of  fuel
+hedge  instruments outstanding at September 30, 2001.  The change  in
+market risk from December 31, 2000 is due primarily to the additional
+fuel  consumption  of TWA, partially offset by  a  decrease  in  fuel
+prices.   As  of  September  30, 2001,  the  Company,  including  the
+estimated  fuel  consumption  of TWA,  has  hedged  approximately  58
+percent  of its remaining 2001 fuel requirements, 38 percent  of  its
+2002 fuel requirements, and 20 percent of its 2003 fuel requirements.
+
+
+                                   -22-
+<Page> 25
+PART II:  OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+On  July  26, 1999, a class action lawsuit was filed, and in  November
+1999 an amended complaint was filed, against AMR Corporation, American
+Airlines,  Inc.,  AMR  Eagle Holding Corporation,  Airlines  Reporting
+Corporation,  and the Sabre Group Holdings, Inc. in the United  States
+District  Court  for  the  Central  District  of  California,  Western
+Division  (Westways  World Travel, Inc. v. AMR Corp.,  et  al.).   The
+lawsuit  alleges that requiring travel agencies to pay debit memos  to
+American for violations of American's fare rules (by customers of  the
+agencies) (1) breaches the Agent Reporting Agreement between  American
+and  American Eagle and plaintiffs, (2) constitutes unjust enrichment,
+and  (3)  violates the Racketeer Influenced and Corrupt  Organizations
+Act  of 1970 (RICO).  The as yet uncertified class includes all travel
+agencies  who have been or will be required to pay moneys to  American
+for  debit memos for fare rules violations from July 26, 1995  to  the
+present.   Plaintiffs  seek  to  enjoin American  from  enforcing  the
+pricing  rules in question and to recover the amounts paid  for  debit
+memos,  plus  treble  damages, attorneys' fees, and  costs.   American
+intends  to  vigorously  defend  the lawsuit.   Although  the  Company
+believes that the litigation is without merit, adverse court decisions
+could  impose  restrictions  on  American's  ability  to  respond   to
+competitors, and American's business may be adversely impacted.
+
+   On May 13, 1999, the United States (through the Antitrust Division
+of   the  Department  of  Justice)  sued  AMR  Corporation,  American
+Airlines, Inc., and AMR Eagle Holding Corporation in federal court in
+Wichita,   Kansas.  The  lawsuit  alleges  that  American  unlawfully
+monopolized or attempted to monopolize airline passenger  service  to
+and  from Dallas/Fort Worth International Airport (DFW) by increasing
+service  when  new competitors began flying to DFW, and  by  matching
+these  new  competitors' fares.  The Department of Justice  seeks  to
+enjoin American from engaging in the alleged improper conduct and  to
+impose  restraints on American to remedy the alleged effects  of  its
+past  conduct.   On April 27, 2001, the U.S. District Court  for  the
+District  of  Kansas granted American's motion for summary  judgment.
+On  June  26,  2001,  the  U.S. Department of  Justice  appealed  the
+granting  of  American's motion for summary judgment.  Following  the
+events  of  September 11, 2001, AMR requested, and the  10th  Circuit
+Court  of  Appeals  agreed, to defer the filing of all  briefs  until
+2002.   No date has been set for oral argument.  American intends  to
+defend the lawsuit vigorously.
+
+   Between May 14, 1999 and June 7, 1999, seven class action lawsuits
+were filed against  AMR Corporation, American Airlines, Inc., and  AMR
+Eagle  Holding  Corporation in the United States  District  Court  in
+Wichita,  Kansas  seeking  treble damages  under  federal  and  state
+antitrust  laws,  as  well as injunctive relief and  attorneys'  fees
+(King v. AMR Corp., et al.; Smith v. AMR Corp., et al.; Team Electric
+v.  AMR  Corp., et al.; Warren v. AMR Corp., et al.; Whittier v.  AMR
+Corp.,  et  al.;  Wright v. AMR Corp., et al.; and Youngdahl  v.  AMR
+Corp.,  et  al.).  Collectively, these lawsuits allege that  American
+unlawfully  monopolized or attempted to monopolize airline  passenger
+service  to  and from DFW by increasing service when new  competitors
+began  flying  to DFW, and by matching these new competitors'  fares.
+Two  of  the  suits  (Smith  and Wright) also  allege  that  American
+unlawfully  monopolized or attempted to monopolize airline  passenger
+service  to  and from DFW by offering discounted fares  to  corporate
+purchasers, by offering a frequent flyer program, by imposing certain
+conditions  on  the  use and availability of certain  fares,  and  by
+offering override commissions to travel agents. The suits propose  to
+certify  several classes of consumers, the broadest of which  is  all
+persons who purchased tickets for air travel on American into or  out
+of DFW since 1995 to the present.  On November 10, 1999, the District
+Court  stayed all of these actions pending developments in  the  case
+brought by the Department of Justice.  As a result, to date no  class
+has  been  certified.   American intends  to  defend  these  lawsuits
+vigorously.
+
+                                   -23-
+<Page> 26
+Item 1.  Legal Proceedings (Continued)
+
+   In  June 2001, the named plaintiff in a class action lawsuit, Hall
+v.  United Airlines, et al., No. 7:00 CV 123-BR(1), sought  leave  to
+file  an amended complaint that would substantially increase the size
+and  scope  of the pending litigation.  The Hall case was  originally
+filed in the United States District Court for the Eastern District of
+North Carolina against American and other airlines, and alleged  that
+during  1999, American and the other defendant airlines conspired  to
+reduce  commissions paid to U.S.-based travel agents in violation  of
+Section  1 of the Sherman Act.  The proposed amended complaint  seeks
+to  add  additional  named  plaintiffs and  defendants,  and  to  add
+allegations that American and other airlines also conspired to reduce
+commission rates from 10 percent to 8 percent in September  1997  and
+to  cap  commissions  for international travel at  $50  each  way  in
+October 1998.  Plaintiff's motion for leave to amend is pending,  and
+no  class  has yet been certified.  American is vigorously  defending
+the lawsuit.
+
+  The    Miami    International   Airport   Authority   is   currently
+investigating and remediating various environmental conditions at  the
+Miami  International Airport (the Airport) and funding the remediation
+costs through various cost recovery methods.  American Airlines,  Inc.
+and  AMR  Eagle  have  been named as potentially  responsible  parties
+(PRPs)  and  contributors  to the contamination.   During  the  second
+quarter  of  2001, the Airport filed a lawsuit against 17  defendants,
+including American Airlines, Inc., in an attempt to recover  its  past
+and  future cleanup costs (Miami-Dade County, Florida v. Advance Cargo
+Services, Inc., et al. in the Florida Circuit Court).  In addition  to
+the  17  defendants  named  in the lawsuit,  243  other  agencies  and
+companies   were   also  named  as  PRPs  and  contributors   to   the
+contamination.  American and AMR Eagle's portion of the cleanup  costs
+cannot  be reasonably estimated due to various factors, including  the
+unknown  extent  of  the remedial actions that may  be  required,  the
+proportion  of  the  cost that will ultimately be recovered  from  the
+responsible  parties,  and uncertainties regarding  the  environmental
+agencies  that  will ultimately supervise the remedial activities  and
+the nature of that supervision. American is vigorously defending the
+lawsuit.
+
+
+
+
+                                    -24-
+<Page> 27
+Item 6.  Exhibits and Reports on Form 8-K
+
+The following exhibits are included herein:
+
+12    Computation of ratio of earnings to fixed charges for the three
+   and nine months ended September 30, 2001 and 2000.
+
+
+Form 8-Ks filed under Item 5 - Other Events
+
+    On  July  19, 2001, AMR filed a report on Form 8-K relative  to  a
+press  released  issued by AMR to announce AMR's second  quarter  2001
+earnings.   In addition, the Form 8-K included information  regarding:
+(i)  American  Airlines,  Inc. (American)  contract  status  with  the
+Association of Professional Flight Attendants, and (ii) that  on  June
+26,  2001,  the  U.S. Department of Justice appealed the  granting  of
+American's  motion for summary judgment in the U.S. government's  1999
+civil lawsuit alleging predatory pricing by American.
+
+    On  August 3, 2001, AMR filed a report on Form 8-K relative  to  a
+press  released  issued  by  American to announce:  (i)  American  and
+British Airways have agreed to create a new alliance that would  boost
+competition,  deliver  significant  benefits  for  international   air
+travelers,  and  move toward a level playing field with  other  global
+airline  alliances, and (ii) American and British  Airways  will  file
+applications for antitrust immunity in the United States and clearance
+for  their  proposals  in the United Kingdom  and  with  the  European
+Commission.
+
+    On  August 21, 2001, AMR filed a report on Form 8-K relative to  a
+press  released  issued by American to announce  that  American  would
+accelerate  the retirement of five additional Boeing 727 aircraft  and
+will  retire  its remaining four McDonnell Douglas MD-11  aircraft  by
+November 1, 2001.
+
+    On September 7, 2001, AMR filed a report on Form 8-K relative to a
+press  release  issued by AMR to announce: (i)  AMR  expects  a  third
+quarter  loss  considerably  larger than its  second  quarter  loss  in
+addition to a significant fourth quarter loss, and (ii) American  will
+retire five more Boeing 727 aircraft earlier than originally planned.
+
+   On September 11, 2001, AMR filed a report on Form 8-K relative to a
+press  release  issued by American to confirm that American  lost  two
+aircraft in tragic events on September 11, 2001.
+
+   On September 19, 2001, AMR filed a report on Form 8-K regarding the
+potential  impact to the Company of the September 11,  2001  terrorist
+attacks.
+
+    On  September 25, 2001, AMR filed a report on Form 8-K  providing:
+(i)  an update of the potential impact to the Company of the September
+11,  2001  terrorist attacks, (ii) information pertaining to  the  Air
+Transportation Safety and System Stabilization Act, (iii) Standard and
+Poor's and Moody's downgrade of American's credit rating, and (iv) the
+announced job reductions.
+
+Form 8-Ks furnished under Item 9 - Regulation FD Disclosure
+
+    On  July  11,  2001, AMR filed a report on Form 8-K  to  announce
+information  relating to AMR's intent to host a  conference  call  on
+July  18,  2001 with the financial community relating to  its  second
+quarter 2001 earnings.
+
+    On  August 30, 2001, AMR filed a report on Form 8-K to provide  a
+monthly  update  of certain data regarding its unit costs,  capacity,
+traffic and fuel, and an updated fleet plan.
+
+                                    -25-
+<Page> 28
+
+
+
+
+
+
+
+
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of  1934,
+the  registrant has duly caused this amended report to be  signed  on
+its behalf by the undersigned thereunto duly authorized.
+
+
+                               AMR CORPORATION
+
+
+
+
+Date:  October 24, 2001        BY: /s/ Thomas W. Horton
+                               Thomas W. Horton
+                               Senior Vice President and Chief
+                               Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -26-
+<Page> 29
+                                                            Exhibit 12
+                            AMR CORPORATION
+           Computation of Ratio of Earnings to Fixed Charges
+                             (in millions)
+<Table>
+<Caption>
+                                     Three Months Ended    Nine Months Ended
+                                       September 30,         September 30,
+                                       2001     2000         2001     2000
+ <s>                                   <c>       <c>       <c>        <c>
+ Earnings:
+Earnings (loss) from continuing
+ operations before income taxes
+ and extraordinary loss               $(636)     $ 525    $(1,486)  $1,204
+
+ Add: Total fixed charges (per below)   419        327      1,173      986
+
+ Less:  Interest capitalized             37         36        116      110
+    Total earnings (loss)             $(254)     $ 816    $  (429)  $2,080
+
+ Fixed charges:
+ Interest, including interest
+  capitalized                         $117       $ 114    $   357   $  340
+
+Portion of rental expense
+ representative of the interest
+ factor                                294         208        796      633
+
+ Amortization of debt expense            8           5         20       13
+    Total fixed charges                $419      $ 327     $1,173    $ 986
+
+
+ Ratio of earnings to fixed charges      -        2.50          -     2.11
+
+ Coverage deficiency                   $673          -     $1,602        -
+</Table>
+
+
+                                               -27-
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

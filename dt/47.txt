@@ -1,0 +1,3466 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WNwDLawV/uU38CxZMVNUW76y4qTSaiM1Wyp0ZB4lpE6CU4NPXBZZPEZOSFxuK5eH
+ SNd4QWEx8vyFJbx1gzy/lw==
+
+<SEC-DOCUMENT>/in/edgar/work/0000004457-00-000105/0000004457-00-000105.txt : 20001114
+<SEC-HEADER>0000004457-00-000105.hdr.sgml : 20001114
+ACCESSION NUMBER:		0000004457-00-000105
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERCO /NV/
+		CENTRAL INDEX KEY:			0000004457
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7510
+]		IRS NUMBER:				880106815
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-11255
+			FILM NUMBER:		761463
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		1325 AIRMOTIVE WY STE 100
+				CITY:			RENO
+				STATE:			NV
+				ZIP:			89502
+				BUSINESS PHONE:		7756886300
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		1325 AIRMOTIVE WAY
+					STREET 2:		SUITE 100
+					CITY:			RENO
+					STATE:			NV
+					ZIP:			89502
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	AMERCO
+						DATE OF NAME CHANGE:	19770926
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 10-Q 09/30/00
+<TEXT>
+
+<PAGE>  1
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+
+                For the quarterly period ended September 30, 2000
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+        For the transition period from __________________ to __________________
+
+Commission          Registrant, State of Incorporation         I.R.S. Employer
+File Number           Address and Telephone Number            Identification No.
+________________________________________________________________________________
+
+1-11255               AMERCO                                     88-0106815
+                      (A Nevada Corporation)
+                      1325 Airmotive Way, Ste. 100
+                      Reno, Nevada  89502-3239
+                      Telephone (775) 688-6300
+
+
+2-38498               U-Haul International, Inc.                 86-0663060
+                      (A Nevada Corporation)
+                      2727 N. Central Avenue
+                      Phoenix, Arizona 85004
+                      Telephone (602) 263-6645
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+Yes [X] No [ ].
+
+22,075,737 shares of AMERCO Common Stock, $0.25 par value were
+outstanding at November 10, 2000.
+
+5,385 shares of U-Haul International, Inc. Common Stock, $0.01 par value,
+were outstanding at November 10, 2000. U-Haul International, Inc. meets the
+conditions set forth in General Instruction H(1)(a) and (b) of Form 10-Q and is
+therefore filing this form with the reduced disclosure format.
+<PAGE>  2
+                                TABLE OF CONTENTS
+
+
+
+PART I.  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+         a)  Condensed Consolidated Balance Sheets as of September 30, 2000
+             (unaudited) and March 31, 2000...............................     4
+
+         b)  Condensed Consolidated Statements of Earnings for the Six months
+             ended September 30, 2000 and 1999 (unaudited).................    6
+
+         c)  Condensed Consolidated Statements of Comprehensive Income for
+             the Six months ended September 30, 2000 and 1999 (unaudited)..    7
+
+         d)  Condensed Consolidated Statements of Earnings for the Quarters
+             ended September 30, 2000 and 1999 (unaudited)..................   8
+
+         e)  Condensed Consolidated Statements of Cash Flows for the
+             Six months ended September 30, 2000 and 1999 (unaudited)......    9
+
+         f)  Notes to Condensed Consolidated Financial Statements -
+             September 30, 2000 (unaudited), March 31, 2000 and
+             September 30, 1999 (unaudited)................................   10
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations.........................................   20
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk........   28
+
+PART II. OTHER INFORMATION
+
+Item 1.  Legal Proceedings.................................................   29
+
+Item 4.  Submission of Matters to a Vote of Security Holders...............   30
+
+Item 6.  Exhibits and Reports on Form 8-K..................................   31
+<PAGE>  3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 THIS PAGE LEFT
+                               INTENTIONALLY BLANK
+<PAGE>  4
+                         PART I.  FINANCIAL INFORMATION
+
+                          ITEM 1.  FINANCIAL STATEMENTS
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                      Condensed Consolidated Balance Sheets
+
+
+                                                  September 30,   March 31,
+Assets                                                2000           2000
+                                                  -------------------------
+                                                   (Unaudited)
+                                                        (in thousands)
+
+
+Cash and cash equivalents                       $    26,408         48,435
+Notes and mortgage, net                              63,514         49,866
+Inventories, net                                     83,671         84,614
+Prepaid expenses                                     12,003         17,822
+Investments, fixed maturities                       874,122        884,824
+Investments, other                                  489,359        320,695
+Other assets                                        351,590        336,307
+                                                  ------------------------
+
+Property, plant and equipment, at cost:
+  Buildings and improvements                        817,666        853,403
+  Rental trucks                                   1,006,364      1,035,585
+  Other property, plant, and equipment              653,492        672,122
+                                                  ------------------------
+                                                  2,477,522      2,561,110
+  Less accumulated depreciation                   1,143,096      1,178,448
+                                                  ------------------------
+
+       Total property, plant and equipment        1,334,426      1,382,662
+                                                  ------------------------
+
+
+
+
+
+
+
+
+Total Assets                                    $ 3,235,093      3,125,225
+                                                  ========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE>  5
+
+
+
+
+
+
+
+
+
+
+                                                  September 30,   March 31,
+Liabilities and Stockholders' Equity                  2000           2000
+                                                  -------------------------
+                                                   (Unaudited)
+                                                        (in thousands)
+
+Liabilities:
+  Notes and loans payable                       $ 1,096,240      1,137,840
+  Policy benefits and losses, claims and
+    loss expenses payable                           553,716        548,043
+  Liabilities from premium deposits                 463,360        461,673
+  Deferred income taxes                             169,441        109,413
+  Other liabilities                                 271,478        282,962
+                                                  ------------------------
+         Total liabilities                        2,554,235      2,539,931
+
+Stockholders' equity:
+  Serial preferred stock -
+    Series A preferred stock                            -              -
+    Series B preferred stock                            -              -
+  Serial common stock -
+    Series A common stock                             1,441          1,441
+  Common stock                                        9,122          9,122
+  Additional paid-in capital                        311,708        275,242
+  Accumulated other comprehensive income            (50,125)       (42,317)
+  Retained earnings                                 827,536        755,172
+  Cost of common shares in treasury, net           (402,661)      (397,000)
+  Unearned ESOP shares                              (16,163)       (16,366)
+                                                  ------------------------
+         Total stockholders' equity                 680,858        585,294
+
+Contingent liabilities and commitments
+                                                  ------------------------
+
+Total Liabilities and Stockholders' Equity      $ 3,235,093      3,125,225
+                                                  ========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE>  6
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Earnings
+
+                         Six months ended September 30,
+                                   (Unaudited)
+
+                                                        2000         1999
+                                                  -------------------------
+                                                     (in thousands, except
+                                                   share and per share data)
+
+Revenues
+  Rental revenue                                 $    680,283      643,030
+  Net sales                                           113,961      110,121
+  Premiums                                            121,495      107,803
+  Net investment and interest income                   46,604       41,485
+                                                   -----------------------
+       Total revenues                                 962,343      902,439
+
+Costs and expenses
+  Operating expenses                                  486,828      467,378
+  Cost of sales                                        65,974       62,734
+  Benefits and losses                                  95,815       84,015
+  Amortization of deferred policy
+    acquisition costs                                  16,569       14,981
+  Lease expense                                        86,536       64,212
+  Depreciation, net                                    44,485       38,551
+                                                   -----------------------
+Total costs and expenses                              796,207      731,871
+
+Earnings from operations                              166,136      170,568
+
+  Interest expense                                     44,052       39,815
+                                                   -----------------------
+
+Pretax earnings                                       122,084      130,753
+
+Income tax expense                                    (43,239)     (46,319)
+                                                   -----------------------
+
+       Net earnings                              $     78,845       84,434
+                                                   =======================
+
+Earnings per common share:
+  Basic                                          $       3.35         3.53
+  Diluted                                        $       3.35         3.46
+                                                   =======================
+
+Weighted average common shares outstanding:
+  Basic                                            21,606,388   21,958,826
+  Diluted                                          21,606,388   22,542,159
+                                                   =======================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE>  7
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+           Condensed Consolidated Statements of Comprehensive Income
+
+                         Six months ended September 30,
+                                   (Unaudited)
+
+                                                        2000         1999
+                                                       -------------------
+                                                          (in thousands)
+Comprehensive income:
+  Net earnings                                       $ 78,845       84,434
+    Changes in other comprehensive income:
+     Foreign currency translation                      (3,585)       2,605
+     Fair market value of cash flow hedge                (182)       1,497
+     Unrealized gain on investments                    (4,041)      (8,521)
+                                                       -------------------
+
+     Total comprehensive income                      $ 71,037       80,015
+                                                       ===================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE> 8
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Earnings
+
+                          Quarters ended September 30,
+                                   (Unaudited)
+
+                                                        2000         1999
+                                                  --------------------------
+                                                    (in thousands, except
+                                                  share and per share data)
+
+Revenues
+  Rental revenue                                 $    357,535      337,464
+  Net sales                                            53,815       52,481
+  Premiums                                             66,508       51,727
+  Net investment and interest income                   25,048       21,254
+                                                   -----------------------
+       Total revenues                                 502,906      462,926
+
+Costs and expenses
+  Operating expense                                   255,184      246,647
+  Cost of sales                                        32,777       31,360
+  Benefits and losses                                  53,580       40,306
+  Amortization of deferred policy
+    acquisition costs                                   8,694        7,019
+  Lease expense                                        46,102       32,816
+  Depreciation, net                                    21,675       19,772
+                                                   -----------------------
+Total costs and expenses                              418,012      377,920
+
+Earnings from operations                               84,894       85,006
+
+  Interest expense                                     21,242       19,617
+                                                   -----------------------
+
+Pretax earnings                                        63,652       65,389
+
+Income tax expense                                    (22,419)     (23,262)
+                                                   -----------------------
+
+       Net earnings                              $     41,233       42,127
+                                                   =======================
+
+Earnings per common share:
+  Basic                                          $       1.77         1.77
+  Diluted                                        $       1.77         1.76
+                                                   =======================
+
+Weighted average common shares outstanding:
+  Basic                                            21,489,970   21,964,452
+  Diluted                                          21,489,970   22,131,119
+                                                   ========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE>  9
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Cash Flows
+
+                         Six months ended September 30,
+                                   (Unaudited)
+
+                                                         2000        1999
+                                                       -------------------
+                                                          (in thousands)
+
+Net cash provided by operating activities              118,092     160,493
+                                                       -------------------
+
+Cash flows from investing activities:
+  Purchases of investments:
+    Property, plant and equipment                     (260,914)   (182,680)
+    Fixed maturities                                   (52,636)    (62,530)
+    Mortgage loans                                     (13,591)     (8,395)
+  Proceeds from sale of investments:
+    Property, plant and equipment                      231,147     120,403
+    Fixed maturities                                    58,550      66,219
+  Changes in other investments                         (56,462)    (23,960)
+                                                       -------------------
+Net cash used by investing activities                  (93,906)    (90,943)
+                                                       -------------------
+
+Cash flows from financing activities:
+  Net change in short-term borrowings                  (41,566)   (147,335)
+  Investment contract deposits                          40,128      31,856
+  Investment contract withdrawals                      (37,750)    (31,519)
+  Changes in other financing activities                 (7,025)     82,578
+                                                       -------------------
+
+Net cash used by financing activities                  (46,213)    (64,420)
+                                                       -------------------
+
+Increase (decrease) in cash and cash equivalents       (22,027)      5,130
+
+Cash and cash equivalents at beginning of period        48,435      44,505
+                                                       -------------------
+
+Cash and cash equivalents at end of period           $  26,408      49,635
+                                                       ===================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE> 10
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+
+            September 30, 2000, March 31, 2000 and September 30, 1999
+                                   (Unaudited)
+
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION
+     AMERCO, a Nevada corporation (AMERCO), is the holding company for U-Haul
+International, Inc. (U-Haul), Amerco Real Estate Company (Real Estate), Republic
+Western Insurance Company (RepWest) and Oxford Life Insurance Company (Oxford).
+
+PRINCIPLES OF CONSOLIDATION
+     The condensed consolidated financial statements include the accounts of
+the parent corporation, AMERCO, and its wholly-owned subsidiaries.  All
+material intercompany accounts and transactions of AMERCO and its subsidiaries
+have been eliminated.  The financial statements and notes are presented as
+permitted by Form 10-Q and do not contain certain information included in
+AMERCO's annual financial statements and notes.
+
+     The condensed consolidated balance sheet as of September 30, 2000 and the
+related condensed consolidated statements of earnings for the three and six
+months ended September 30, 2000 and 1999 and the condensed consolidated
+statements of comprehensive income and the condensed consolidated cash flows for
+the six months ended September 30, 2000 and 1999 are unaudited.  In the opinion
+of management, all adjustments necessary for a fair presentation of such
+condensed financial statements have been included.  Such adjustments consisted
+only of normal recurring items.  Interim results are not necessarily indicative
+of results for a full year.
+
+     The operating results and financial position of AMERCO's consolidated
+insurance operations are determined on a one quarter lag.  There were no effects
+related to intervening events which would materially affect the consolidated
+financial position or results of operations for the financial statements
+presented herein.
+
+     Certain reclassifications have been made to the financial statements for
+the three and six months ended September 30, 1999 to conform with the current
+year's presentation.
+
+NEW ACCOUNTING STANDARDS
+     During the quarter ended June 30, 2000, AMERCO adopted Staff Accounting
+Bulletin No. 101 (SAB 101), "Revenue Recognition in Financial Statements",
+which provides guidance on the recognition, presentation and disclosure of
+revenue in the financial statements filed with the Securities and Exchange
+Commission.  The adoption of SAB 101 was not material to AMERCO's condensed
+consolidated financial statements.
+<PAGE> 11
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+        Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+2.  INVESTMENTS
+
+     A comparison of amortized cost to market for fixed maturities is as
+follows:
+
+     June 31, 2000
+     -------------        Par Value               Gross       Gross    Estimated
+     Consolidated         or number  Amortized  unrealized  unrealized   market
+     Held-to-Maturity     of shares     cost      gains       losses      value
+                          ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities
+       and government
+       obligations        $  17,775  $  17,105        112        (352)   16,865
+     U.S. government
+       agency mortgage-
+       backed securities  $  16,641     16,559         36        (378)   16,217
+     Corporate
+       securities         $  66,500     67,252        389      (4,363)   63,278
+     Mortgage-backed
+       securities         $  34,777     34,243        248        (485)   34,006
+     Redeemable preferred
+       stocks                 4,561    115,174        211     (17,136)   98,249
+                                       ----------------------------------------
+
+                                       250,333        996     (22,714)  228,615
+                                       ----------------------------------------
+
+     June 30, 2000
+     -------------        Par Value               Gross       Gross    Estimated
+     Consolidated         or number  Amortized  unrealized  unrealized   market
+     Available-for-Sale   of shares     cost      gains       losses      value
+                          ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities
+       and government
+       obligations        $  41,270  $  41,863        889      (1,137)   41,615
+     U.S. government
+       agency mortgage-
+       backed securities  $  35,172     34,899        223        (534)   34,588
+     Obligations of
+       states and
+       political
+       subdivisions       $  16,135     16,346        407        (160)   16,593
+     Corporate
+       securities         $ 488,333    487,181      1,933     (21,992)  467,122
+     Mortgage-backed
+       securities         $  35,712     35,464        375        (495)   35,344
+     Redeemable preferred
+       stocks                 1,311     32,675         63      (4,211)   28,527
+                                       ----------------------------------------
+
+                                       648,428      3,890     (28,529)  623,789
+                                       ----------------------------------------
+
+            Total                    $ 898,761      4,886     (51,243)  852,404
+                                       ========================================
+
+
+
+
+
+
+<PAGE> 12
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+3.  SUMMARIZED CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE SUBSIDIARIES
+
+     A summarized condensed consolidated balance sheet for RepWest is presented
+below:
+
+                                                           June 30,
+                                                     -------------------
+                                                       2000        1999
+                                                     -------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 392,243     408,273
+    Receivables                                      176,416     111,227
+    Deferred policy acquisition costs                 21,450      11,710
+    Deferred federal income taxes                     11,384      11,477
+    Other assets                                      63,644      79,752
+                                                     -------------------
+
+         Total assets                              $ 665,137     622,439
+                                                     ===================
+
+    Policy liabilities and accruals                $ 325,043     328,114
+    Unearned premiums                                 77,364      46,260
+    Other policyholders' funds and liabilities        52,867      34,515
+                                                     -------------------
+      Total liabilities                              455,274     408,889
+
+    Stockholder's equity                             209,863     213,550
+                                                     -------------------
+
+         Total liabilities and
+           stockholder's equity                    $ 665,137     622,439
+                                                     ===================
+
+
+     A summarized condensed consolidated income statement for RepWest is
+presented below:
+
+                                         Quarter ended        Six months ended
+                                           June 30,               June 30,
+                                     ------------------------------------------
+                                        2000      1999          2000      1999
+                                     ------------------------------------------
+                                                   (in thousands)
+
+    Premiums                         $ 41,925    30,775        72,332    64,568
+    Net investment income               7,744     8,537        15,752    16,689
+                                      -----------------       -----------------
+      Total revenue                    49,669    39,312        88,084    81,257
+
+    Benefits and losses                35,519    25,428        60,101    53,713
+    Amortization of deferred
+      policy acquisition costs          3,191     3,437         6,371     6,832
+    Operating expenses                 11,405     7,462        19,717    15,736
+                                      -----------------       -----------------
+      Total expenses                   50,115    36,327        86,189    76,281
+
+        Income (loss) from operations    (446)    2,985         1,895     4,976
+    Income tax benefit (expense)          273      (939)         (590)   (1,566)
+                                      -----------------       -----------------
+
+        Net income (loss)           $    (173)    2,046         1,305     3,410
+                                      =================       =================
+
+<PAGE> 13
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+        Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+3.   SUMMARIZED  CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE  SUBSIDIARIES,
+continued
+
+     A summarized condensed consolidated balance sheet for Oxford is presented
+below:
+
+                                                            June 30,
+                                                     -------------------
+                                                       2000        1999
+                                                     -------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 481,879     473,121
+    Investments, other                               148,115     152,577
+    Deferred policy acquisition costs                 74,787      77,054
+    Other assets                                      22,674      45,051
+                                                     -------------------
+
+        Total assets                               $ 727,455     747,803
+                                                     ===================
+
+    Policy liabilities and accruals                $ 149,151     151,401
+    Premium deposits                                 463,360     457,612
+    Other policyholders' funds and liabilities        27,327      48,088
+                                                     -------------------
+      Total liabilities                              639,838     657,101
+
+    Stockholder's equity                              87,617      90,702
+                                                     -------------------
+        Total liabilities and
+          stockholder's equity                     $ 727,455     747,803
+                                                     ===================
+
+
+     A summarized condensed consolidated income statement for Oxford is
+presented below:
+
+                                        Quarter ended         Six months ended
+                                          June 30,                June 30,
+                                      ----------------------------------------
+                                       2000      1999          2000      1999
+                                      ----------------------------------------
+                                                   (in thousands)
+
+    Premiums                        $ 26,020    22,095        51,524    47,207
+    Net investment income              6,659     4,624        12,363    10,241
+                                      ----------------        ----------------
+      Total revenue                   32,679    26,719        63,887    57,448
+
+    Benefits and losses               18,061    14,878        35,714    30,302
+    Amortization of deferred
+      policy acquisition costs         5,503     3,582        10,198     8,149
+    Operating expenses                 7,626     5,653        13,231    12,531
+                                      ----------------        ----------------
+      Total expenses                  31,190    24,113        59,143    50,982
+
+        Income from operations         1,489     2,606         4,744     6,466
+    Income tax expense                   (56)     (911)       (1,125)   (2,172)
+                                      ----------------        ----------------
+
+        Net income                  $  1,433     1,695         3,619     4,294
+                                      ================        ================
+
+<PAGE> 14
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+        Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+4.  CONTINGENT LIABILITIES AND COMMITMENTS
+
+     During the six months ended September 30, 2000, a subsidiary of U-Haul
+entered into thirty-one transactions and has subsequently entered into one
+transaction, whereby the subsidiary sold rental trucks, which were subsequently
+leased back.  AMERCO has guaranteed $49,098,000 of residual values at September
+30, 2000 for these assets at the end of the respective lease terms.  U-Haul also
+entered into one transaction where it leased computer equipment and one
+transaction where it leased general rental items (GRI).  Following are the lease
+commitments for the leases executed during the quarter ended September 30, 2000,
+and subsequently which have a term of more than one year (in thousands):
+
+                                              Net activity
+             Year ended           Lease       subsequent to
+              March 31,        Commitments      period end      Total
+             --------------------------------------------------------
+
+             2001              $  24,986          1,697        26,683
+             2002                 33,976          4,183        38,159
+             2003                 33,924          4,183        38,107
+             2004                 33,574          4,183        37,757
+             2005                 33,558          4,183        37,741
+             Thereafter           66,576         10,854        77,430
+                                 ------------------------------------
+                               $ 226,594         29,283       255,877
+                                 ====================================
+
+     In the normal course of business, AMERCO is a defendant in a number of
+suits and claims.  AMERCO is also a party to several administrative proceedings
+arising from state and local provisions that regulate the removal and/or clean-
+up of underground fuel storage tanks.  It is the opinion of management that
+none of such suits, claims or proceedings involving AMERCO, individually or in
+the aggregate are expected to result in a material loss.
+
+
+5.  SUPPLEMENTAL CASH FLOWS INFORMATION
+
+     The (increase) decrease in receivables, inventories, investment, other
+and accounts payable and accrued liabilities net of other operating and
+investing activities follows:
+
+                                                            Six months ended
+                                                              September 30,
+                                                          2000          1999
+                                                       ----------------------
+                                                           (in thousands)
+
+        Receivables                                 $  (20,937)        (2,917)
+                                                       ======================
+
+        Investment, other (refer to Note 7)         $  (98,351)           -
+                                                       ======================
+
+        Inventories                                 $      943          3,831
+                                                       ======================
+
+        Accounts payable and accrued expenses       $   (7,709)        (8,595)
+                                                       ======================
+
+
+
+
+
+<PAGE> 15
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+6.  EARNINGS PER SHARE
+<TABLE>
+     The following table reflects the calculation of the earnings per share:
+<CAPTION>
+
+                                                               Weighted Average
+                                                                Common Shares
+                                                 Income          Outstanding       Per Share
+                                              (Numerator)       (Denominator)       Amount
+                                             _____________     _______________     _________
+                                                            (in thousands, except
+                                                          share and per share data)
+<S>                                          <C>                 <C>               <C>
+Quarter ended September 30, 2000:
+ Earnings from operations                    $   41,233
+ Less:  preferred stock dividends                 3,241
+                                                 ------
+ Basic and diluted earnings
+   per common share                              37,992          21,489,970        $  1.77
+                                                 ======          ==========           ====
+Quarter ended September 30, 1999:
+ Earnings from operations                    $   42,127
+ Less:  preferred stock dividends                 3,313
+                                                 ------
+ Basic earnings per common share                 38,814          21,964,452        $  1.77
+
+ Effects of dilutive securities -
+   preferred stock conversion                        72             166,667
+                                                 ------          ----------
+ Diluted earnings per common share               38,886          22,131,119        $  1.76
+                                                 ======          ==========           ====
+Six months ended September 30, 2000:
+ Earnings from operations                    $   78,845
+ Less:  preferred stock dividends                 6,481
+                                                 ------
+ Basic and diluted earnings
+   per common share                              72,364          21,606,388        $  3.35
+                                                 ======          ==========           ====
+
+ Six months ended September 30, 1999:
+ Earnings from operations                    $   84,434
+ Less:  preferred stock dividends                 7,018
+                                                 ------
+ Basic earnings per common share                 77,416          21,958,826        $  3.53
+
+Effect of dilutive securities -
+   Series B preferred shares                        537             583,333
+                                                 ------          ----------
+ Diluted earnings per common share               77,953          22,542,159        $  3.46
+                                                 ======          ==========           ====
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 16
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+
+7.  RELATED PARTIES
+
+     During the six months ended September 30, 2000, subsidiaries of AMERCO held
+various senior and junior notes with SAC Holding Corporation and its
+subsidiaries (SAC Holdings).  The voting common stock of SAC Holdings is held by
+Mark V. Shoen, a major stockholder of AMERCO.  AMERCO's subsidiaries received
+interest payments of $15,431,564 and principal payments of $71,591 from SAC
+Holdings during the six months ended September 30, 2000. The terms of the notes
+with SAC Holdings are consistent with the terms of notes held by U-Haul for
+other properties owned by unrelated parties and managed by U-Haul.  These
+amounts are reflected in Investments, other of the condensed consolidated
+balance sheet.
+
+     During the six months ended September 30, 2000, a subsidiary of AMERCO
+funded through a note the purchase of properties and construction costs for
+SAC Holdings of approximately $141,087,000.  This amount is reflected in
+Investments, other of the condensed consolidated balance sheet.
+
+     U-Haul currently manages the properties owned by SAC Holdings pursuant to a
+management agreement, under which U-Haul receives a management fee equal to 6%
+of the gross receipts from the properties.  Management fees of $2,690,000 and
+$2,269,000 were received during the six months ended September 30, 2000 and
+1999, respectively.  The management fee percentage is consistent with the fees
+received by U-Haul for other properties owned by unrelated parties and managed
+by U-Haul.
+
+     In June 2000, Real Estate completed the sale of twenty-four storage
+properties to Twelve SAC Self-Storage Corporation, Thirteen SAC Self-Storage
+Corporation and Fourteen SAC Self-Storage Corporation, subsidiaries of SAC
+Holding Corporation, for $98,351,000.  Real Estate received cash and notes from
+the sale.  The gain is reflected in the equity section of the condensed
+consolidated balance sheet.
+
+     Management believes that the foregoing transactions were consummated on
+terms equivalent to those that prevail in arm's-length transactions.
+
+<PAGE> 17
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+8. INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA
+
+     Industry Segment Data - AMERCO has four industry segments represented by
+Moving and Storage Operations (U-Haul), Real Estate (AREC), Property and
+Casualty Insurance (RepWest) and Life Insurance (Oxford).
+
+<TABLE>
+     Information concerning operations by industry segment follows:
+<CAPTION>
+                  Moving and         Property/           Adjustments
+                    Storage   Real   Casualty    Life        and
+                  Operations Estate  Insurance Insurance Eliminations Consolidated
+                  ----------------------------------------------------------------
+                                           (in thousands)
+
+   Six months ended
+   September 30, 2000
+   ------------------
+   <S>           <C>        <C>      <C>       <C>        <C>          <C>
+   Revenues:
+    Outside      $  806,415   6,318   86,418    63,192         -         962,343
+    Intersegment        -    34,845    1,666       695     (37,206)          -
+                  --------- -------  -------   -------    ---------    ---------
+    Total
+     revenues    $  806,415  41,163   88,084    63,887     (37,206)      962,343
+   Depreciation/
+    amortization $   48,687   5,384    6,755    10,625         -          71,451
+   Interest
+    expense      $   44,052  22,244      -         -       (22,244)       44,052
+   Pretax
+    earnings     $  107,345   8,100    1,895     4,744         -         122,084
+   Income tax    $  (38,689) (2,835)    (590)   (1,125)        -         (43,239)
+   Identifiable
+    assets       $1,437,776 747,255  665,137   727,455    (342,530)    3,235,093
+
+
+   Six months ended
+   September 30, 1999
+   ------------------
+   Revenues:
+    Outside      $  761,710   5,996   77,907    56,826         -         902,439
+    Intersegment        -    35,298    3,350       622     (39,270)          -
+                  --------- -------  -------   -------    ---------    ---------
+    Total
+     revenues    $  761,710  41,294   81,257    57,448     (39,270)      902,439
+   Depreciation/
+    amortization $   40,416   5,041    6,985    11,357         -          63,799
+   Interest
+    expense      $   39,815  20,273      -         -       (20,273)       39,815
+   Pretax
+    earnings     $  105,395  13,916    4,976     6,466         -         130,753
+   Income tax    $  (37,710) (4,871)  (1,566)   (2,172)        -         (46,319)
+   Identifiable
+    assets       $1,400,884 708,010  622,439   747,803    (352,003)    3,127,133
+
+</TABLE>
+
+
+<PAGE> 18
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+ 8. INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA, continued
+<TABLE>
+<CAPTION>
+                      Moving              Property/             Adjustments
+                    and Storage   Real    Casualty     Life         and
+                    Operations   Estate   Insurance  Insurance  Eliminations  Consolidated
+                    ----------------------------------------------------------------------
+                                               (in thousands)
+   Quarter ended
+   September 30, 2000
+   ------------------
+   <S>              <C>          <C>       <C>        <C>         <C>            <C>
+   Revenues:
+     Outside        $  418,193     3,802    48,590     32,321          -           502,906
+     Intersegment          -      17,102     1,079        358      (18,539)            -
+                     ---------   -------   -------    -------     --------       ---------
+
+     Total revenue  $  418,193    20,904    49,669     32,679      (18,539)        502,906
+   Depreciation/
+     amortization   $   24,381     2,632     3,298      5,556          -            35,867
+   Interest expense $   21,242    10,911       -          -        (10,911)         21,242
+   Pretax earnings  $   58,419     4,190      (446)     1,489          -            63,652
+   Income tax       $  (21,177)   (1,459)      273        (56)         -           (22,419)
+   Identifiable
+     assets         $1,437,776   747,255   665,137    727,455     (342,530)      3,235,093
+
+
+   Quarter ended
+   September 30, 1999
+   ------------------
+   Revenues:
+     Outside        $  394,999     3,039    38,485     26,403          -           462,926
+     Intersegment          -      17,688       827        316      (18,831)            -
+                     ---------   -------   -------    -------     --------       ---------
+     Total revenue  $  394,999    20,727    39,312     26,719      (18,831)        462,926
+   Depreciation/
+     amortization   $   21,272     2,566     3,626      6,788          -            34,252
+   Interest expense $   19,617    10,035       -          -        (10,035)         19,617
+   Pretax earnings  $   53,660     6,138     2,985      2,606          -            65,389
+   Income tax       $  (19,263)   (2,149)     (939)      (911)         -           (23,262)
+   Identifiable
+     assets         $1,400,884   708,010   622,439    747,803     (352,003)      3,127,133
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+   Geographic Area Data -  United                            United
+     (All amounts are in   States     Canada   Consolidated  States   Canada  Consolidated
+                           ---------------------------------------------------------------
+      U.S. $'s)                    Six months ended                  Quarter ended
+                           ---------------------------------------------------------------
+                                                     (in thousands)
+   September 30, 2000
+   ------------------
+   <S>                   <C>           <C>       <C>        <C>         <C>       <C>
+   Total revenues        $   939,062   23,281      962,343    490,212   12,694      502,906
+   Depreciation/
+     amortization        $    69,281    2,170       71,451     34,765    1,102       35,867
+   Interest expense      $    44,045        7       44,052     21,241        1       21,242
+   Pretax earnings       $   116,869    5,215      122,084     60,738    2,914       63,652
+   Income tax            $   (43,233)      (6)     (43,239)   (22,413)      (6)     (22,419)
+   Identifiable assets   $ 3,177,402   57,691    3,235,093  3,177,402   57,691    3,235,093
+
+   September 30, 1999
+   ------------------
+   Total revenues        $   881,585   20,854      902,439    451,357   11,569      462,926
+   Depreciation/
+     amortization        $    62,099    1,700       63,799     33,347      905       34,252
+   Interest expense      $    39,804       11       39,815     19,614        3       19,617
+   Pretax earnings       $   126,976    3,777      130,753     62,928    2,461       65,389
+   Income tax            $   (46,319)     -        (46,319)   (23,262)     -        (23,262)
+   Identifiable assets   $ 3,082,969   44,164    3,127,133  3,082,969   44,164    3,127,133
+</TABLE>
+
+
+
+
+<PAGE> 19
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Condensed Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+ 9. SUBSEQUENT EVENTS
+
+     On November 7, 2000, AMERCO declared a cash dividend of $3,241,000
+($0.53125 per preferred share) to preferred stockholders of record as of
+November 17, 2000.
+
+
+<PAGE> 20
+           ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                       CONDITION AND RESULTS OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+     This report contains forward-looking statements.  Additional written or
+oral forward-looking statements may be made by AMERCO from time to time in
+filings with the Securities and Exchange Commission or otherwise.  Management
+believes such forward-looking statements are within the meaning of the safe-
+harbor provisions.  Such statements may include, but not be limited to,
+projections of revenues, income or loss, estimates of capital expenditures,
+plans for future operations, products or services and financing needs or plans,
+as well as assumptions relating to the foregoing.  The words "believe",
+"expect", "anticipate", "estimate", "project" and similar expressions identify
+forward-looking statements, which speak only as of the date the statement was
+made.  Forward-looking statements are inherently subject to risks and
+uncertainties, some of which cannot be predicted or quantified.  Future events
+and actual results could differ materially from those set forth in, contemplated
+by or underlying the forward-looking statements.  The following disclosures, as
+well as other statements in this report and in the Notes to AMERCO's
+Consolidated Financial Statements, describe factors, among others, that could
+contribute to or cause such differences, or that could affect AMERCO's stock
+price.
+
+GENERAL
+     Information on industry segments is incorporated by reference from "Item 1.
+Financial Statements - Notes 1, 3 and 8 of Notes to Consolidated Financial
+Statements".  The notes discuss the principles of consolidation, summarized
+consolidated financial information and industry segment and geographical area
+data, respectively.  In consolidation, all intersegment premiums are eliminated
+and the benefits, losses and expenses are retained by the insurance companies.
+
+
+RESULTS OF OPERATIONS
+
+SIX MONTHS ENDED SEPTEMBER 30, 2000 VERSUS SIX MONTHS ENDED SEPTEMBER 30, 1999
+
+Moving and Storage Operations
+     Revenues consist of rental revenues and net sales.  Total rental revenue
+was $679.1 million and $641.8 million for the six months ended September 30,
+2000 and 1999, respectively.  Net revenues from the rental of moving related
+equipment increased by $31.1 million.  This increase is primarily attributable
+to higher truck and trailer rental revenues and storage revenues.
+
+     Net sales revenues were $114.0 million and $110.1 million for the six
+months ended September 30, 2000 and 1999, respectively.  Revenue growth resulted
+from an increase in the sale of moving support items and an increase in the sale
+of hitches.
+
+     Cost of sales was $66.0 million and $62.7 million for the six months ended
+September 30, 2000 and 1999, respectively.  A higher sales volume contributed to
+the increase.
+
+     Operating expenses before intercompany eliminations were $491.8 million and
+$476.5 million for the six months ended September 30, 2000 and 1999,
+respectively.  Increased expenditure levels for personnel and rental equipment
+maintenance, due to an increase in truck rental transactions and in fleet size,
+were primarily responsible.
+
+     Net depreciation expense was $39.2 million and $33.9 million for the six
+months ended September 30, 2000 and 1999, respectively.  The increase reflects
+depreciation on the rental truck fleet.
+
+     Operating profit before tax and intercompany elimination was $121.6 million
+and $117.9 million for the six months ended September 30, 2000 and 1999,
+respectively.
+
+
+<PAGE> 21
+Real Estate Operations
+     Rental revenue before intercompany eliminations was $36.1 million and $36.5
+million for the six months ended September 30, 2000 and 1999, respectively.
+Intercompany revenue was $34.8 million and $35.3 million for the six months
+ended September 30, 2000 and 1999, respectively.
+
+     Net investment and interest income was $5.1 million and $4.7 million for
+the six months ended September 30, 2000 and 1999, respectively.  This increase
+correlates to an increase in average note and mortgage outstanding.
+
+     Net depreciation expense was $5.3 million and $4.6 million for the six
+months ended September 30, 2000 and 1999, respectively.  The increase is due
+to the build out of storage facilities.
+
+     Operating profit before tax and intercompany elimination was $8.1 million
+and $13.9 million for the six months ended September 30, 2000 and 1999,
+respectively.  The decrease reflects increases in lease expenses.
+
+Property and Casualty
+     RepWest's premiums were $72.3 million and $64.6 million for the six months
+ended June 30, 2000 and 1999, respectively.  General agency premiums were $20.3
+million and $8.2 million for the six months ended June 30, 2000 and 1999,
+respectively.  Assumed treaty reinsurance premium was $22.9 million and $20.9
+million for the six months ended June 30, 2000 and 1999, respectively.  Rental
+industry revenue was $17.0 million and $23.9 million for the six months ending
+June 30, 2000 and 1999, respectively.  This change was caused by the
+restructuring of the rental industry Business Auto General Liability Policy.
+
+     Net investment income was $15.8 million and $16.7 million for the six
+months ended June 30, 2000 and 1999, respectively.  The reduction is
+attributable to decreased gains and decreased invested assets.
+
+     Benefits and losses were $60.1 million and $53.7 million for the six months
+ended June 30, 2000 and 1999, respectively.  This increase is due to new agency
+programs in Non-Standard Auto and Transportation, which were offset by a
+decrease in rental industry incurred.
+
+     The amortization of deferred acquisition costs (DAC) were $6.4 million and
+$6.8 million for the six months ended June 30, 2000 and 1999, respectively.  The
+decrease was related to the timing of inception of new business.
+
+     Operating expenses were $19.7 million and $15.7 million for the six months
+ended June 30, 2000 and 1999, respectively.  The difference was due to
+increased personnel, changes in claims handling procedures and commissions on
+new agency business premium writings.
+
+     Operating profit before tax and intercompany elimination was $1.9 million
+and $5.0 million for the six months ended June 30, 2000 and 1999, respectively.
+The decrease is the result of additional incurred losses and operating expense,
+and decreased investment income, offset by an increase in earned premiums.
+
+<PAGE> 22
+Life Insurance
+     Net premiums were $51.5 million and $47.2 million for the six months ended
+June 30, 2000 and 1999, respectively.  The difference was primarily due to a
+$2.2 million increase in the credit insurance lines and a $2.6 million increase
+in the Medicare supplement line.
+
+     Net investment income before intercompany eliminations was $12.4 million
+and $10.2 million for the six months ended June 30, 2000 and 1999, respectively.
+The increase was due to improved interest rate spreads on the interest sensitive
+products and a larger invested asset base.
+
+     Benefits were $35.7 million and $30.3 million for the six months ended June
+30, 2000 and 1999, respectively.  Medicare supplement benefits increased $3.7
+million from 1999; credit insurance benefits increased $2.1 million from 1999.
+These increases are primarily due to higher loss ratios.  Other health insurance
+benefits increased $0.8 million for the year primarily from one-time charges.
+The life insurance lines have had better mortality experience in 2000, resulting
+in a $1.2 million decrease in benefits from 1999.
+
+     Amortization of DAC was $10.2 million and $8.1 million for the six months
+ended June 30, 2000 and 1999, respectively.  The increase resulted from a $1.0
+million increase in the annuity lines and $1.1 million increase in the credit
+insurance lines.
+
+     Operating expenses were $13.2 million and $12.5 million for the six months
+ended June 30, 2000 and 1999, respectively.  The increase is due to premium
+volume increases.
+
+     Operating profit before tax and intercompany eliminations was $4.7 million
+and $6.5 million for the six months ended June 30, 2000 and 1999, respectively.
+The decrease is due to loss ratios on the Medicare supplement business and
+Credit insurance business.
+
+Interest Expense
+     Interest expense was $44.1 million and $39.8 million for the six months
+ended September 30, 2000 and 1999, respectively.  The increase can be attributed
+to increases in the average debt outstanding and in the average cost of debt.
+
+Consolidated Group
+     As a result of the foregoing, pretax earnings totaled $122.1 million and
+$130.8 million for the six months ended September 30, 2000 and 1999,
+respectively.  After providing for income taxes, net earnings were $78.8 million
+and $84.4 million for the six months ended September 30, 2000 and 1999,
+respectively.
+
+
+<PAGE> 23
+QUARTER ENDED SEPTEMBER 30, 2000 VERSUS QUARTER ENDED SEPTEMBER 30, 1999
+
+Moving and Storage Operations
+     Revenues consist of rental revenues and net sales.  Total rental revenue
+was $356.7 million and $336.8 million for the quarters ended September 30, 2000
+and 1999, respectively.  Net revenues from the rental of moving related
+equipment increased by $17.8 million.  This increase is primarily attributable
+to higher truck and trailer rental revenues and storage revenues increased $2.1
+million due to increases in rates and in the number of storage rooms rented.
+
+     Net sales revenues were $53.8 million and $52.5 million for the quarters
+ended September 30, 2000 and 1999, respectively.  Revenue growth resulted from
+the sale of moving support items (i.e. boxes, etc.) which led to the majority of
+the increase during the quarter.
+
+     Cost of sales was $32.8 million and $31.4 million for the quarters ended
+September 30, 2000 and 1999, respectively.  Rising material costs from the sale
+of propane accounted for almost half of the increase.
+
+     Operating expenses before intercompany elimination were $255.2 million and
+$250.9 million for the quarters ended September 30, 2000 and 1999,
+respectively.  The increase reflects higher personnel and rental equipment
+maintenance expenditures associated with an increase in truck rental
+transactions and inventory levels.
+
+     Net depreciation expense was $19.0 million and $17.2 million for the
+quarters ended September 30, 2000 and 1999, respectively.  The increase reflects
+an increase in depreciation recognized on the rental truck fleet.
+
+     Operating profit before tax and intercompany elimination was $66.7 million
+and $59.7 million for the quarters ended September 30, 2000 and 1999,
+respectively.  The increase reflects increases in revenues over increases in
+operating expenses.
+
+
+Real Estate Operations
+     Rental revenue before intercompany eliminations was $17.9 million and $18.4
+million for the quarters ended September 30, 2000 and 1999, respectively.
+Intercompany revenue was $17.1 million and $17.7 million for the quarters ended
+September 30, 2000 and 1999, respectively.
+
+     Net investment and interest income was $3.0 million and $2.4 million for
+the quarters ended September 30, 2000 and 1999, respectively.  This increase
+correlates to an increase in average note and mortgages outstanding.
+
+     Net depreciation expense remained constant at $2.6 million for the quarters
+ended September 30, 2000 and 1999.
+
+     Operating profit before tax and intercompany elimination was $4.2 million
+and $6.1 million for the quarters ended September 30, 2000 and 1999,
+respectively.  The decrease reflects increases in lease expenses.
+
+
+<PAGE> 24
+Property and Casualty
+
+     RepWest's premiums were $41.9 million and $30.8 million for the quarters
+ended June 30, 2000 and 1999, respectively.  The increase is directly related to
+general agency premiums, of $12.7 million and $4.2 million for the quarters
+ended June 30, 2000 and 1999, respectively.  Assumed treaty reinsurance premium
+were $13.2 million and $11.0 million for the quarters ended June 30, 2000 and
+1999, respectively.
+
+     Net investment income was $7.7 million and $8.5 million for the quarters
+ended June 30, 2000 and 1999, respectively.  This resulted from decreased gains
+and invested assets.
+
+     Benefits and losses incurred were $35.5 million and $25.4 million for the
+quarters ended June 30, 2000 and 1999, respectively.  The increase is a result
+of new general agency business writings in Non-Standard Auto and
+Transportation.
+
+     The amortization of deferred acquisition costs (DAC) was $3.2 million and
+$3.4 million for the quarters ended June 30, 2000 and 1999, respectively.  The
+decrease was related to the timing of inception of new business.
+
+     Operating expenses were $11.4 million and $7.5 million for the quarters
+ended June 30, 2000 and 1999, respectively. The change is due to increased
+general and administrative expenses, due to an increase in personnel and
+overhead required to support new business expansion.  Commission expense also
+increased due to new agency business premium writings on Non-standard Auto and
+Transportation coverages.
+
+     Operating profit (loss) before tax and intercompany elimination was ($0.4)
+million and $3.0 million for the quarters ended June 30, 2000 and 1999,
+respectively.  This decrease is the result of increased incurred losses and
+operating expense, decreased investment income, offset by an increase in earned
+premiums.
+
+<PAGE> 25
+Life Insurance
+     Net premiums were $26.0 million and $22.1 million for the quarters ended
+June 30, 2000 and 1999, respectively.  The change is primarily due to a $1.4
+million increase in the credit insurance line and a $1.6 million increase in the
+Medicare supplement line.
+
+     Net investment income before intercompany eliminations was $6.7 million and
+$4.6 million for the quarters ended June 30, 2000 and 1999, respectively.  This
+increase is due to improved spreads on the interest sensitive products timing
+difference and a larger invested asset base.
+
+     Benefits were $18.1 million and $14.9 million for the quarters ended June
+30, 2000 and 1999, respectively.  Medicare supplement benefits increased $1.7
+million from 1999 due to higher loss ratios.  Credit insurance benefits
+increased $0.6 million due to volume of insurance.  Other health insurance
+benefits increased $0.7 million due to one-time charges.
+
+     Amortization of DAC was $5.5 million and $3.6 million for the quarters
+ended June 30, 2000 and 1999, respectively.  Annuity lines and credit insurance
+lines increased $0.8 million and $1.1 million, respectively for the quarter
+ending June 30, 2000.
+
+     Operating expenses were $7.6 million and $5.7 million for the quarters
+ended June 30, 2000 and 1999, respectively.  This increase included $0.8
+million in Medical Supplement commissions to agents, $0.4 million for outside
+fronting fees and administration costs, $0.3 million of personnel costs and
+$0.4 million of other expense.
+
+     Operating profit before tax and intercompany eliminations was $1.5 million
+and $2.6 million for the quarters ended June 30, 2000 and 1999, respectively.
+The decrease is due to loss ratios on the Medicare supplement business.
+
+Interest Expense
+     Interest expense was $21.2 million and $19.6 million for the quarters ended
+September 30, 2000 and 1999, respectively.  The increase can be attributed to an
+increase in the average cost of debt partially offset by a decrease in average
+debt outstanding.
+
+Consolidated Group
+     As a result of the foregoing, pretax earnings were $63.7 million and $65.4
+million for the quarters ended September 30, 2000 and 1999, respectively.  After
+providing for income taxes, net earnings were $41.2 million and $42.1 million
+for the quarters ended September 30, 2000 and 1999, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 26
+LIQUIDITY AND CAPITAL RESOURCES
+
+Moving and Storage Operations
+     To meet the needs of its customers, U-Haul maintains a large inventory
+of rental items.  In the six months ended September 30, 2000 and 1999,
+capital expenditures were $260.9 million and $182.7 million, respectively.
+These expenditures primarily reflect the expansion of the rental truck fleet.
+The capital required to fund these acquisitions was obtained through internally
+generated funds from operations and through lease financings.
+
+     Cash provided by operating activities was $61.0 million and $96.1 million
+for the six months ended September 30, 2000 and 1999, respectively.  The
+decrease resulted primarily from an increase in receivables and a decrease in
+accounts payable and accrued liabilities.
+
+     At September 30, 2000, total outstanding notes and loans payable was
+$1,096.2 million as compared to $1,137.8 million at March 31, 2000.
+
+Real Estate Operations
+     Cash provided by operating activities was $8.3 million and $2.5 million for
+the six months ended September 30, 2000 and 1999, respectively.  The increase
+resulted from a decrease in receivables.
+
+Property and Casualty
+     Cash used by operating activities was $(1.8) million and $(6.6) million for
+six months ended June 30, 2000 and 1999, respectively.  This change resulted
+from increases in unearned premuium and reinsurance losses payable from December
+1999 to June 2000.  The increase was offset by a larger decrease in loss and
+loss adjusting expense reserves from December 1999 to June 2000, decreased net
+income and a larger increase in deferred policy acquisition costs.
+
+     RepWest's cash and cash equivalents and short-term investment portfolio
+were $10.4 million and $10.5 million at June 30, 2000 and 1999, respectively.
+
+     RepWest maintains a diversified securities investment portfolio, primarily
+in bonds, at varying maturity levels with 88.0% of the fixed-income securities
+consisting of investment grade securities.  The maturity distribution is
+designed to provide sufficient liquidity to meet future cash needs.  Current
+liquidity remains strong with current invested assets equal to 92.2% of total
+liabilities.
+
+     The liability for reported and unreported losses isare based upon company
+historical and industry averages.  Unpaid loss adjustment expenses are based on
+historical ratios of loss adjustment expenses paid to losses paid.  Unpaid loss
+and loss expenses are not discounted.
+
+<PAGE> 27
+Life Insurance
+     Oxford's primary sources of cash are premiums, receipts from interest-
+sensitive products and investment income.  The primary uses of cash are
+operating costs and benefit payments to policyholders.  Matching the investment
+portfolio to the cash flow demands of the types of insurance being written is an
+important consideration.
+
+     Cash provided (used) by operating activities was ($3.4) million and $2.4
+million for the six months ended June 30, 2000 and 1999, respectively.  The
+decrease is due to higher benefit payouts in relation to collected premium.
+Cash provided by financing activities were $2.4 million and $0.3 million for the
+six months ended June 30, 2000 and 1999, respectively.  The increase is due to a
+better ratio of annuity deposits to withdrawals.
+
+     In addition to cash flows from operating and financing activities, a
+substantial amount of liquid funds is available through Oxford's short-term
+portfolio. Short-term investments were $51.6 million and $75.6 million for the
+six months ending June 30, 2000 and 1999, respectively.  Management believes
+that the overall sources of liquidity will continue to meet foreseeable cash
+needs.
+
+Consolidated Group
+     During each of the fiscal years ended March 31, 2001, 2002 and 2003, AMERCO
+estimates gross capital expenditures will average approximately $380 million
+primarily reflecting rental fleet rotation.  This level of capital expenditures,
+combined with an average of approximately $72 million in annual long-term debt
+maturities during this same period, are expected to create annual average
+funding needs of approximately $452 million.
+
+Credit Agreements
+     AMERCO's operations are funded by various credit and financing
+arrangements, including unsecured long-term borrowings, unsecured medium-term
+notes and revolving lines of credit with domestic and foreign banks.
+Principally to finance its fleet of trucks and trailers, AMERCO routinely enters
+into sale and leaseback transactions.  As of September 30, 2000, AMERCO had
+$1,096.2 million in total notes and loans payable outstanding and
+unutilized lines of credit of approximately $284.2 million.
+
+     Certain of AMERCO's credit agreements contain restrictive financial and
+other covenants, including, among others, covenants with respect to incurring
+additional indebtedness, maintaining certain financial ratios and placing
+certain additional liens on its properties, assets and restricting the issuance
+of certain types of preferred stock.  At September 30, 2000, AMERCO was in
+compliance with these covenants.
+
+     Reference is made to Note 5 of Notes to Consolidated Financial Statements
+in AMERCO's Annual Report on Form 10-K for the fiscal year ended March 31, 2000
+for additional information about AMERCO's credit agreements.
+
+<PAGE> 28
+       ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Reference is made to Part II, Item 7A, Quantitative and Qualitative
+Disclosure About Market Risk, in AMERCO's Annual Report on Form 10-K for the
+fiscal year ended March 31, 2000.
+
+<PAGE> 29
+                           PART II.  OTHER INFORMATION
+
+
+                           ITEM 1.  LEGAL PROCEEDINGS
+
+     In the normal course of business, AMERCO is a defendant in a number of
+suits and claims.  AMERCO is also a party to several administrative proceedings
+arising from state and local provisions that regulate the removal and/or cleanup
+of underground fuel storage tanks.  It is the opinion of management that none of
+the suits, claims or proceedings involving AMERCO, individually or in the
+aggregate, are expected to result in a material loss.
+
+     Reference is made to Part I, Item 1, Business, in AMERCO's Annual Report on
+Form 10-K for the fiscal year ended March 31, 2000 for a discussion of certain
+environmental proceedings and to Note 15 of Notes to Consolidated Financial
+Statements in AMERCO's Annual Report on Form 10-K for the fiscal year ended
+March 31, 2000 for a discussion of the California overtime litigation.
+
+<PAGE> 30
+           ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+       The 2000 Annual Meeting of Stockholders was held on September 8, 2000.
+
+      At the 2000 Annual Meeting of Stockholders, Edward J. Shoen and Richard J.
+Herrera were elected to serve until the 2004 Annual Meeting of Stockholders.
+John M. Dodds and James P. Shoen continue to serve as directors with terms that
+expire at the 2001 Annual Meeting of Stockholders; William E. Carty and Charles
+J. Bayer continue as directors with terms that expire at the 2002 Annual Meeting
+of Stockholders; and John P. Brogan and James J. Grogan continue as directors
+with terms that expire at the 2003 Annual Meeting of Stockholders.
+
+     The following table sets forth the votes cast for, against or withheld, as
+well as the number of abstentions and broker non-votes with respect to each
+matter voted on at the 2000 Annual Meeting of Stockholders:
+
+<TABLE>
+
+<CAPTION>
+Matters                                    Votes                                 Broker
+Submitted                  Votes Cast      Cast        Votes                      Non-
+To a Vote                     For         Against     Withheld     Abstentions   Votes
+
+<S>                        <C>            <C>        <C>           <C>           <C>
+Election of Directors
+
+    Edward J. Shoen        19,678,903      3,557      711,814           -           -
+
+    Richard J. Herrera     19,433,633      6,806      886,455           -           -
+</TABLE>
+
+
+
+<PAGE> 31
+                    ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits
+
+     Exhibit No.              Description
+     -----------              -----------
+
+          3.1     Restated Articles of Incorporation (1)
+          3.2     Restated By-Laws of AMERCO as of August 27, 1997 (2)
+         10.1     Management Agreement between Twelve SAC Self Storage
+                  Corporation and a subsidiary of AMERCO
+         10.2     Management Agreement between Thirteen SAC Self Storage
+                  Corporation and a subsidiary of AMERCO
+         10.3     Management Agreement between Fourteen SAC Self Storage
+                  Corporation and a subsidiary of AMERCO
+         27       Financial Data Schedule
+
+(b) Reports on Form 8-K.
+
+          No report on Form 8-K was filed during the quarter ended September 30,
+         2000.
+
+_________________
+
+(1)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1992, file no. 1-11255.
+
+(2)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1997, file no. 1-11255.
+
+<PAGE> 32
+SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                  AMERCO
+                                  ____________________________________
+                                           (Registrant)
+
+
+Dated: November 13, 2000            By: /S/ GARY B. HORTON
+                                  ____________________________________
+                                       Gary B. Horton, Treasurer
+                                     (Principal Financial Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>MANAGEMENT AGREEMENT WITH TWELVE SAC
+<TEXT>
+
+<PAGE>
+                         PROPERTY MANAGEMENT AGREEMENT
+                         -----------------------------
+
+        THIS PROPERTY MANAGEMENT AGREEMENT (this "Agreement") is entered
+into as of June 30, 2000 among Twelve SAC Self-Storage Corporation,
+a Nevada corporation, with its principal place of business at
+715 South Country Club Drive, Mesa, AZ 85210 ("Owner"), and the property
+managers identified on Exhibit A attached hereto and incorporated herein
+by reference (each such property manager is respectively referred to herein
+as "U-Haul").
+
+                                   RECITALS
+                                   --------
+
+	A.  Owner owns the leasehold estate in the real property and self-
+storage related improvements thereon located at the street addresses
+identified on Exhibit A hereto (hereinafter, collectively the "Property").
+
+	B.  Owner intends that the Property be rented on a space-by-space
+retail basis to corporations, partnerships, individuals and/or other entities
+for use as self-storage facilities.
+
+	C.  Owner desires that U-Haul manage the Property and U-Haul
+desires to act as the property manager for the Property, all in accordance
+with the terms and conditions of this Agreement and as more specifically
+designated on Exhibit A hereto.
+
+	NOW, THEREFORE, in consideration of the mutual covenants
+herein contained, Owner and U-Haul hereby agree as follows.
+
+1.  Employment.
+    ----------
+
+	(a) Owner hereby retains U-Haul, and U-Haul agrees to act as
+manager of the Property upon the terms and conditions hereinafter set
+forth.
+
+	(b) Owner acknowledges that U-Haul, and/or U-Haul affiliates, is
+in the business of managing self-storage facilities, both for its own account
+and for the account of others.  It is hereby expressly agreed that
+notwithstanding this Agreement, U-Haul and such affiliates may continue
+to engage in such activities, may manage facilities other than those
+presently managed by U-Haul and its affiliates (whether or not such other
+facilities may be in direct or indirect competition with Owner) and may in
+the future engage in other business which may compete directly or
+indirectly with activities of Owner.
+
+        (c) In the performance of their respective duties under
+this Agreement, each U-Haul property manager shall occupy the
+position of an independent contractor with respect to Owner.
+Nothing contained herein shall be construed as making the parties
+
+<PAGE>
+hereto (or any of them) partners or joint venturors, nor (except as expressly
+otherwise provided for herein) construed as making U-Haul an agent or employee
+of Owner or of any other U-Haul property manager hereunder.
+
+2.  Duties and Authority of U-Haul.
+    ------------------------------
+
+        (a) GENERAL DUTIES AND AUTHORITY.  Subject only to the
+restrictions and limitations provided in paragraphs (o) and (p) of this
+Section 2  and the right of Owner to terminate this Agreement as provided
+in Section 6 hereof, U-Haul shall have the sole and exclusive authority to
+fully manage the Property and supervise and direct the business and affairs
+associated or related to the daily operation thereof, and, to that end on
+behalf of Owner, to execute such documents and instruments as, in the
+sole judgment of U-Haul, are reasonably necessary or advisable under the
+circumstances in order to fulfill U-Haul's duties hereunder.  Such duties
+and authority shall include, without limitation, those set forth below.
+
+        (b) RENTING OF THE PROPERTY.  U-Haul shall establish policies and
+procedures for the marketing activities for the Property, and may advertise
+the Property through such media as U-Haul deems advisable, including,
+without limitation, advertising with the Yellow Pages.  U-Haul shall have
+the sole discretion, which discretion shall be exercised in good faith, to
+establish the terms and conditions of occupancy by the tenants of the
+Property, and U-Haul is hereby authorized to enter into rental agreements
+on behalf and for the account of Owner with such tenants and to collect
+rent from such tenants. U-Haul may jointly advertise the Property with
+other properties owned or managed by U-Haul, and in that event, U-Haul
+shall reasonably allocate the cost of such advertising among such
+properties.
+
+        (c) REPAIR, MAINTENANCE AND IMPROVEMENTS.  U-Haul shall
+make, execute, supervise and have control over the making and executing
+of all decisions concerning the acquisition of furniture, fixtures and
+supplies for the Property, and may purchase, lease or otherwise acquire the
+same on behalf of Owner.  U-Haul shall make and execute, or supervise
+and have control over the making and executing of all decisions
+concerning the maintenance, repair, and landscaping of the Property.
+U-Haul shall, on behalf of Owner, negotiate and contract for and supervise
+the installation of all capital improvements related to the Property;
+provided, however, that U-Haul agrees to secure the prior written approval
+of Owner on all such expenditures in excess of $5,000.00 for any one item,
+except monthly or recurring operating charges and/or emergency repairs if
+in the opinion of U-Haul such emergency-related expenditures are
+necessary to protect the Property from damage or to maintain services to
+the tenants as called for in their respective leases.
+
+        (d) PERSONNEL.  U-Haul shall select all vendors, suppliers,
+contractors, subcontractors and employees with respect to the
+Property and shall hire, discharge and
+
+<PAGE>
+supervise all labor and employees required for the operation and maintenance
+of the Property.  Any employees so hired shall be employees of U-Haul, and
+shall be carried on the payroll of U-Haul.  Employees may include, but will
+not be limited to, on-site resident managers, on-site assistant managers, and
+relief managers located, rendering services, or performing activities on the
+Property in connection with its operation and management.  The cost of
+employing such persons shall not exceed prevailing rates for comparable persons
+performing the same or similar services with respect to real estate similar
+to the Property.
+
+        (e) AGREEMENTS.  U-Haul shall negotiate and execute on behalf of
+Owner such agreements which U-Haul deems necessary or advisable for
+the furnishing of utilities, services, concessions and supplies, for the
+maintenance, repair and operation of the Property and such other
+agreements which may benefit the Property or be incidental to the matters
+for which U-Haul is responsible hereunder.
+
+        (f) OTHER DECISIONS.  U-Haul shall make all decisions in
+connection with the daily operation of the Property.
+
+        (g) REGULATIONS AND PERMITS.  U-Haul shall comply in all material
+respects with any statute, ordinance, law, rule, regulation or order of any
+governmental or regulatory body, having jurisdiction over the Property,
+respecting the use of the Property or the maintenance or operation thereof.
+ U-Haul shall apply for and attempt to obtain and maintain, on behalf of
+Owner, all licenses and permits required or advisable (in the sole judgment
+of U-Haul) in connection with the management and operation of the
+Property.
+
+        (h) RECORDS AND REPORTS OF DISBURSEMENTS AND COLLECTIONS.  U-Haul
+shall establish, supervise, direct and maintain the operation of a system
+of record keeping and bookkeeping with respect to all receipts and
+disbursements in connection with the management and operation of the
+Property.  The books, records and accounts shall be maintained at the U-Haul
+office or at such other location as U-Haul shall determine, and shall
+be available and open to examination and audit quarterly by Owner, its
+representatives, any mortgagee of the Property, and such mortgagee's
+representative.  On or before thirty (30) days after the close of each
+quarter, U-Haul shall cause to be prepared and delivered to Owner, a
+monthly statement of receipts, expenses and charges, together with a
+statement of the disbursements made by U-Haul during such period on
+Owner's behalf.
+
+	(i) [Reserved].
+
+        (j) COLLECTION.  U-Haul shall be responsible for the billing and
+collection of all accounts receivable and for payment of all accounts
+payable with respect to the Property
+
+<PAGE>
+and shall be responsible for establishing policies and procedures to minimize
+the amount of bad debts.
+
+        (k) LEGAL ACTIONS.  U-Haul shall cause to be instituted, on behalf
+and in the name of Owner, any and all legal actions or proceedings U-Haul
+deems necessary or advisable to collect charges, rent or other income due
+to Owner with respect to the Property and to oust or dispossess tenants or
+other persons unlawfully in possession under any lease, license concession
+agreement or otherwise, and to collect damages for breach thereof or
+default thereunder by such tenant, licensee, concessionaire or occupant.
+
+        (l) INSURANCE.  U-Haul shall use its best efforts to assure that there
+is obtained and maintained in force, fire, comprehensive liability and other
+insurance policies in amounts generally carried with respect to similar
+facilities. U-Haul may in its discretion obtain employee theft or similar
+insurance in amounts and with such deductibles as U-Haul deems
+appropriate.  U-Haul shall promptly provide Owner with such certificates
+of insurance as Owner may reasonably request in writing, evidencing such
+insurance coverage.
+
+        (m) TAXES.  During the term of this Agreement, U-Haul shall pay
+from Owner's funds, prior to delinquency, all real estate taxes, personal
+property taxes, and all other taxes assessed to, or levied upon, the
+Property.  If required by the holder of any note secured by the Property,
+U-Haul will set aside, from Owner's funds, a reserve from each month's rent
+and other income collected, in an amount required by said holder for
+purposes of payment of real property taxes.
+
+        (n) [Reserved]
+
+        (o) LIMITATIONS ON U-HAUL AUTHORITY.  Notwithstanding anything
+to the contrary set forth in this Section 2, U-Haul shall not, without
+obtaining the prior written consent of Owner, (i) rent storage space in the
+Property by written lease or agreement for a stated term in excess of one
+year, (ii) alter the building or other structures of the Property in any
+material manner; (iii) make any other agreements which exceed a term of
+one year and are not terminable on thirty day's notice at the will of Owner,
+without penalty, payment or surcharge; (iv) act in violation of any law; or
+(v) act in violation of any duty or responsibility of Owner under any
+mortgage loan secured by the Property.
+
+        (p) SHARED EXPENSES.  Owner acknowledges that certain economies may
+be achieved with respect to certain expenses to be incurred by U-Haul on
+behalf of Owner hereunder if materials, supplies, insurance or services
+are purchased by U-Haul in quantity for use not only in connection with
+the Property but in connection with other properties owned or managed by
+U-Haul or its affiliates.  U-Haul shall have the right to purchase such
+materials, supplies, insurance and/or services in its own name and charge
+
+<PAGE>
+Owner a pro rata allocable share of the cost of the foregoing; provided,
+however, that the pro rata cost of such purchase to Owner shall not result in
+expenses greater than would otherwise be incurred at competitive prices and
+terms available in the area where the Property is located; and provided
+further, U-Haul shall give Owner access to records so Owner may review any
+such expenses incurred.
+
+        (q) DEPOSIT OF GROSS REVENUES.   All Gross Revenues (as
+hereinafter defined) shall be deposited into a "lock box account"
+maintained by U-Haul International, Inc., parent company of U-Haul, in
+accordance with the terms of a certain Cash Management Agreement
+dated as of the date hereof among Owner, Wells Fargo Bank, National
+Association (as lender and agent) and U-Haul (the "CMA").  Borrower
+and U-Haul each hereby covenant and agree that they shall comply with
+the terms and provisions of the CMA.
+
+3.  Duties of Owner.
+    ---------------
+
+	Owner hereby agrees to cooperate with U-Haul in the performance
+of U-Haul's duties under this Agreement and to that end, upon the request
+of U-Haul, to provide, at such rental charges, if any, as are deemed
+appropriate, reasonable office space for U-Haul employees on the
+premises of the Property and to give U-Haul access to all files, books and
+records of Owner relevant to the Property.  Owner shall not unreasonably
+withhold or delay any consent or authorization to U-Haul required or
+appropriate under this Agreement.
+
+4.  Compensation of U-Haul.
+    ----------------------
+
+        (a) MANAGEMENT FEE. Owner shall pay to U-Haul as the full
+amount due for the services herein provided a fee (the "Management
+Fee") equal to six percent (6%) of the "Gross Revenue" derived from
+or connected with the Property so managed by U-Haul hereunder.  The
+term "Gross Revenue" shall mean all receipts (excluding security
+deposits unless and until Owner recognizes the same as income) of
+Owner (whether or not received by U-Haul on behalf or for the account
+of Owner) arising from the operation of the Property, including
+without limitation, rental payments of lessees of space in the Property,
+vending machine or concessionaire revenues, maintenance charges, if any,
+paid by the tenants of the Property in addition to basic rent, parking
+fees, if any, and all monies whether or not otherwise described herein
+paid for the use of the Property.  "Gross  Revenue" shall be determined
+on a cash basis.  The Management Fee shall be paid promptly at the end
+of each calendar quarter and shall be calculated on the basis of
+
+<PAGE>
+the "Gross Revenue" of such preceding quarter.  The Management Fee shall
+be paid to each U-Haul property manager herein identified based on the
+Gross Revenue of each respective Property for which such property manager
+is responsible as set forth on Exhibit A hereto.  Each property manager
+                               ---------
+agrees that its monthly Management Fee shall be subordinate to that month's
+principal balance and interest payment on any first lien position mortgage
+loan on the Property.
+
+	It is understood and agreed that the Management Fee will not be
+reduced by the cost to Owner of those employees and independent
+contractors engaged by or for Owner, including but not limited to the
+categories of personnel specifically referred to in Section 2(d).  Except as
+provided in this Section 4, it is further understood and agreed that U-Haul
+shall not be entitled to additional compensation of any kind in connection
+with the performance by it of its duties under this Agreement.
+
+        (b) REIMBURSEMENT OF CERTAIN EXPENSES.  In addition to the
+Management Fee described above, U-Haul shall be entitled to reimbursement
+from Owner, on a quarterly basis, for all out-of-pocket expenses incurred
+by U-Haul hereunder in connection with the management and operation of the
+Property, including, without limitation, taxes, insurance, operational
+expenses, overhead, litigation and dispute resolution related expenses,
+capital improvement expenses, and costs of sales.
+
+5.  Use of Trademarks, Service Marks and Related Items.
+    --------------------------------------------------
+
+	Owner acknowledges the significant value of the "U-Haul" name
+in the operations of Owner's property and it is therefore understood and
+agreed that the name,  trademark and service mark, "U-Haul", and related
+marks, slogans, caricatures, designs and other trade or service items
+shall be utilized for the non-exclusive benefit of Owner in the rental
+and operation of the Property, and in comparable operations elsewhere.
+It is further understood and agreed that this name and all such marks,
+slogans, caricatures, designs and other trade or service items shall
+remain and be at all times the property of U-Haul and its affiliates, and
+that, except during the term hereof and as expressly provided herein,
+Owner shall have no right whatsoever therein.  Owner agrees that during
+the term of this agreement the sign faces at the property will have the
+name "U-Haul."  The U-Haul sign faces will be paid for by Owner.  Upon
+termination of this agreement at any time for any reason, all such use by
+and for the benefit of Owner of any such name, mark, slogan, caricature,
+design or other trade or service item in connection with the Property
+shall, in any event, be terminated and any signs bearing any of the foregoing
+shall be removed from view and no longer used by Owner.  In addition,
+upon termination of this Agreement at any time for any reason, Owner shall
+not enter into any new leases of Property using the U-Haul lease form or
+use other forms prepared by U-Haul.  It is understood and agreed that
+U-Haul will use and shall be unrestricted in its use of such name, mark,
+slogan, caricature, design or other trade or service item in the management
+
+<PAGE>
+and operation of other storage facilities both during and after the expiration
+or termination of the term of this Agreement.
+
+6.  Termination.
+    -----------
+
+	Owner or U-Haul may terminate this Agreement with or without
+cause by giving not less than sixty days' written notice to the other party
+pursuant to Section 11 hereof.  In addition, if Owner fails to pay U-Haul
+any amounts owed under this Agreement when due, U-Haul may terminate
+this Agreement by giving Owner not less than ten days written notice
+pursuant to Section 11 hereof.  Notwithstanding the foregoing, however,
+U-Haul shall not resign as property manager of the Property until a
+nationally recognized and reputable successor property manager is
+available and prepared to assume property management responsibilities
+with respect to the Property in question  Upon termination of this
+Agreement, U-Haul shall promptly return to Owner all monies, books,
+records and other materials held by U-Haul for or on behalf of Owner.  In
+addition, if U-Haul has contracted to advertise the Property in the Yellow
+Pages, Owner shall, at the option of U-Haul, continue to be responsible for
+the cost of such advertisement and shall either (i) pay U-Haul the
+remaining amount due under such contract in a lump sum; or (ii) pay U-
+Haul monthly for the amount due under such contract.
+
+7.  Indemnification.
+    ---------------
+
+	Owner hereby agrees to indemnify and hold each of U-Haul, all
+persons and companies affiliated with U-Haul, and all officers,
+shareholders, directors, employees and agents of U-Haul and of any
+affiliated companies or persons (collectively, the "Indemnified Persons")
+harmless from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages, and claims in connection with the management of
+the Property (including the loss of use thereof following any damage,
+injury or destruction), arising from any cause except for the willful
+misconduct or gross negligence on the part of the Indemnified Persons.  In
+addition, no Indemnified Person shall be liable for any error of judgment
+or for any mistake of fact or law, or for anything which it may do or
+refrain from doing hereafter, except in cases of willful misconduct or gross
+negligence.  U-Haul hereby agrees to indemnify and hold Owner harmless
+from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages and claims in connection with the management of the
+Property arising from the willful misconduct of, gross negligence of, or
+breach of this Agreement by the Indemnified Persons.  In addition, U-Haul
+shall not be liable to Owner for the acts or omissions of U-Haul's officers,
+shareholders, directors, employees, and agents except for U-Haul's own
+gross negligence or willful misconduct.
+
+<PAGE>
+8.  Assignment.
+    ----------
+
+	This Agreement may be assigned by Owner in connection with any
+mortgage loan on the Property, whether pursuant to a conditional or
+unconditional, absolute assignment.  U-Haul shall have the right to assign
+this Agreement to an affiliate or a wholly or majority owned subsidiary;
+provided, however, any such assignee must assume all obligations of U-
+Haul hereunder, Owner's rights hereunder will be enforceable against any
+such assignee and U-Haul shall not be released from its liabilities
+hereunder unless Owner shall expressly agree thereto in writing.
+
+9.  Headings.
+    --------
+
+	The headings contained herein are for convenience of reference
+only and are not intended to define, limit or describe the scope or intent of
+any provision of this Agreement.
+
+10.  Governing Law.
+     -------------
+
+	The validity of this Agreement, the construction of its terms and
+the interpretation of the rights and duties of the parties shall be governed
+by the internal laws of the State of Arizona.
+
+11.  Notices.
+     -------
+
+	Any notice required or permitted herein shall be in writing and
+shall be personally delivered or mailed first class postage prepaid or
+delivered by an overnight delivery service to the respective addresses of
+the parties set forth below their signatures on the signature page thereof, or
+to such other address as any party may give  to the other in writing.  Any
+notice required by this Agreement will be deemed to have been given
+when personally served or one day after delivery to an overnight delivery
+service or five days after deposit in the first class mail.
+
+12.  Severability.
+     ------------
+
+	Should any term or provision hereof be deemed invalid, void or
+unenforceable either in its entirety or in a particular application, the
+remainder of this Agreement shall nonetheless remain in full force and
+effect and, if the subject term or provision is deemed to be invalid, void or
+unenforceable only with respect to a particular application, such term or
+provision shall remain in full force and effect with respect to all other
+applications.
+
+<PAGE>
+13.  Successors.
+     ----------
+
+	This Agreement shall be binding upon and inure to the benefit of
+the respective parties hereto and their permitted assigns and successors in
+interest.
+
+14.  Attorneys' Fees.
+     ---------------
+
+	If it shall become necessary for any party hereto to engage
+attorneys to institute legal action for the purpose of enforcing their
+respective rights hereunder or for the purpose of defending legal action
+brought by the other party hereto, the party or parties prevailing in such
+litigation shall be entitled to receive all costs, expenses and fees (including
+reasonable attorneys' fees) incurred by it in such litigation (including
+appeals).
+
+15.  Counterparts.
+     ------------
+
+	This Agreement may be executed in one or more counterparts,
+each of which shall be deemed an original, but all of which together shall
+constitute one and the same instrument.
+
+16.  Scope of Property Manager Responsibility.
+     ----------------------------------------
+
+	The duties, obligations and liability of each property manager
+identified herein shall extend only so far as to relate to the Property for
+which such property manager is managing located in the domicile state of
+such property manager, as more specifically described on Exhibit A
+hereto, and no individual property manager hereunder shall be liable for
+the acts or omissions of any other property manager hereunder.  Each
+property manager shall use its best efforts to assist Owner in fulfilling
+Owner's obligations arising under any loan to Owner that is secured by the
+Property, including but not limited to preparing and providing financial
+and accounting reports, and maintaining the Property.  Each property
+manager agrees that it will perform its obligations hereunder according to
+reasonable industry standards, in good faith, and in a commercially
+reasonable manner.  U-Haul agrees that, in discharging its duties
+hereunder, it will not have any relationship with any of its affiliates that
+would be less favorable to Owner than would reasonably be available in a
+transaction with an unaffiliated party.
+
+
+[Rest of page intentionally left blank]
+
+<PAGE>
+	IN WITNESS WHEREOF, the parties hereto execute this
+Agreement as of the date first above written.
+
+"Owner"
+
+Twelve SAC Self-Storage Corporation,
+a Nevada corporation
+
+By: /S/ BRUCE BROCKHAGEN
+    ___________________________
+    Bruce Brockhagen, Secretary
+
+
+U-Haul Co. of Arizona
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+U-Haul Co. of New York
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+U-Haul Co. of Louisiana
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+U-Haul Co. of California
+
+By: /S/ DON MURNEY
+    ___________________________
+
+U-Haul Co. of Texas
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+U-Haul Co. of Florida
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+U-Haul Co. of Massachusetts
+
+By: /S/ DON MURNEY
+    ___________________________
+
+
+(PAGE>
+                                  EXHIBIT A
+
+- ----------------------------------------------------------------
+Number             Name                   City      State  Owner
+- ----------------------------------------------------------------
+710022  U-HAUL CENTER VACAVILLE     VACAVILLE        CA   12 SAC
+713059  U-HAUL CTR COVINA           COVINA           CA   12 SAC
+723031  U-HAUL CENTER HAYDEN        SCOTTSDALE       AZ   12 SAC
+744023  U-HAUL CENTER GRISSOM ROAD  SAN ANTONIO      TX   12 SAC
+745045  U-HAUL CENTER I-10 WEST     HOUSTON NORTH    TX   12 SAC
+747055  U-HAUL CTR TULANE           NEW ORLEANS      LA   12 SAC
+788052  U-HAUL CTR BROWARD          FORT LAUDERDALE  FL   12 SAC
+806070  U-HAUL CENTER ROCKVILLE     ROCKVILLE        NY   12 SAC
+837078  U-HAUL OF MEDFORD           MEDFORD          MA   12 SAC
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>MANAGEMENT AGREEMENT WITH THIRTEEN SAC
+<TEXT>
+
+<PAGE>
+                         PROPERTY MANAGEMENT AGREEMENT
+                         -----------------------------
+
+	THIS PROPERTY MANAGEMENT AGREEMENT (this "Agreement") is entered
+into as of June 30, 2000 among Thirteen SAC Self-Storage Corporation,
+a Nevada corporation, with its principal place of business at
+715 South Country Club Drive, Mesa, AZ 85210 ("Owner"), and the property
+managers identified on Exhibit A attached hereto and incorporated by
+                       ---------
+reference (each such property manager is respectively referred to herein
+as "U-Haul").
+
+                                   RECITALS
+                                   --------
+
+	A.  Owner owns the leasehold estate in the real property and self-
+storage related improvements thereon located at the street addresses
+identified on Exhibit A hereto (hereinafter, collectively the "Property").
+
+	B.  Owner intends that the Property be rented on a space-by-space
+retail basis to corporations, partnerships, individuals and/or other entities
+for use as self-storage facilities.
+
+	C.  Owner desires that U-Haul manage the Property and U-Haul
+desires to act as the property manager for the Property, all in accordance
+with the terms and conditions of this Agreement and as more specifically
+designated on Exhibit A hereto.
+
+	NOW, THEREFORE, in consideration of the mutual covenants
+herein contained, Owner and U-Haul hereby agree as follows.
+
+1.  Employment.
+    ----------
+
+	(a) Owner hereby retains U-Haul, and U-Haul agrees to act as
+manager of the Property upon the terms and conditions hereinafter set
+forth.
+
+	(b) Owner acknowledges that U-Haul, and/or U-Haul affiliates, is
+in the business of managing self-storage facilities, both for its own account
+and for the account of others.  It is hereby expressly agreed that
+notwithstanding this Agreement, U-Haul and such affiliates may continue
+to engage in such activities, may manage facilities other than those
+presently managed by U-Haul and its affiliates (whether or not such other
+facilities may be in direct or indirect competition with Owner) and may in
+the future engage in other business which may compete directly or
+indirectly with activities of Owner.
+
+        (c) In the performance of their respective duties under
+this Agreement, each U-Haul property manager shall occupy the
+position of an independent contractor with respect to Owner.
+Nothing contained herein shall be construed as making the parties
+
+<PAGE>
+hereto (or any of them) partners or joint venturors, nor (except as expressly
+otherwise provided for herein) construed as making U-Haul an agent or employee
+of Owner or of any other U-Haul property manager hereunder.
+
+2.  Duties and Authority of U-Haul.
+    ------------------------------
+
+        (a) GENERAL DUTIES AND AUTHORITY.  Subject only to the
+restrictions and limitations provided in paragraphs (o) and (p) of this
+Section 2  and the right of Owner to terminate this Agreement as provided
+in Section 6 hereof, U-Haul shall have the sole and exclusive authority to
+fully manage the Property and supervise and direct the business and affairs
+associated or related to the daily operation thereof, and, to that end on
+behalf of Owner, to execute such documents and instruments as, in the
+sole judgment of U-Haul, are reasonably necessary or advisable under the
+circumstances in order to fulfill U-Haul's duties hereunder.  Such duties
+and authority shall include, without limitation, those set forth below.
+
+        (b) RENTING OF THE PROPERTY.  U-Haul shall establish policies and
+procedures for the marketing activities for the Property, and may advertise
+the Property through such media as U-Haul deems advisable, including,
+without limitation, advertising with the Yellow Pages.  U-Haul shall have
+the sole discretion, which discretion shall be exercised in good faith, to
+establish the terms and conditions of occupancy by the tenants of the
+Property, and U-Haul is hereby authorized to enter into rental agreements
+on behalf and for the account of Owner with such tenants and to collect
+rent from such tenants. U-Haul may jointly advertise the Property with
+other properties owned or managed by U-Haul, and in that event, U-Haul
+shall reasonably allocate the cost of such advertising among such
+properties.
+
+        (c) REPAIR, MAINTENANCE AND IMPROVEMENTS.  U-Haul shall
+make, execute, supervise and have control over the making and executing
+of all decisions concerning the acquisition of furniture, fixtures and
+supplies for the Property, and may purchase, lease or otherwise acquire the
+same on behalf of Owner.  U-Haul shall make and execute, or supervise
+and have control over the making and executing of all decisions
+concerning the maintenance, repair, and landscaping of the Property. U-
+Haul shall, on behalf of Owner, negotiate and contract for and supervise
+the installation of all capital improvements related to the Property;
+provided, however, that U-Haul agrees to secure the prior written approval
+of Owner on all such expenditures in excess of $5,000.00 for any one item,
+except monthly or recurring operating charges and/or emergency repairs if
+in the opinion of U-Haul such emergency-related expenditures are
+necessary to protect the Property from damage or to maintain services to
+the tenants as called for in their respective leases.
+
+        (d) PERSONNEL.  U-Haul shall select all vendors, suppliers,
+contractors, subcontractors and employees with respect to the
+Property and shall hire, discharge and
+
+<PAGE>
+supervise all labor and employees required for the operation and maintenance
+of the Property.  Any employees so hired shall be employees of U-Haul, and
+shall be carried on the payroll of U-Haul.  Employees may include, but will
+not be limited to, on-site resident managers, on-site assistant managers,
+and relief managers located, rendering services, or performing activities
+on the Property in connection with its operation and management.  The cost
+of employing such persons shall not exceed prevailing rates for comparable
+persons performing the same or similar services with respect to real estate
+similar to the Property.
+
+        (e) AGREEMENTS.  U-Haul shall negotiate and execute on behalf of
+Owner such agreements which U-Haul deems necessary or advisable for
+the furnishing of utilities, services, concessions and supplies, for the
+maintenance, repair and operation of the Property and such other
+agreements which may benefit the Property or be incidental to the matters
+for which U-Haul is responsible hereunder.
+
+        (f) OTHER DECISIONS.  U-Haul shall make all decisions in
+connection with the daily operation of the Property.
+
+        (g) REGULATIONS AND PERMITS.  U-Haul shall comply in all material
+respects with any statute, ordinance, law, rule, regulation or order of any
+governmental or regulatory body, having jurisdiction over the Property,
+respecting the use of the Property or the maintenance or operation thereof.
+ U-Haul shall apply for and attempt to obtain and maintain, on behalf of
+Owner, all licenses and permits required or advisable (in the sole judgment
+of U-Haul) in connection with the management and operation of the
+Property.
+
+        (h) RECORDS AND REPORTS OF DISBURSEMENTS AND COLLECTIONS.  U-
+Haul shall establish, supervise, direct and maintain the operation of a
+system of record keeping and bookkeeping with respect to all receipts and
+disbursements in connection with the management and operation of the
+Property.  The books, records and accounts shall be maintained at the U-
+Haul office or at such other location as U-Haul shall determine, and shall
+be available and open to examination and audit quarterly by Owner, its
+representatives, any mortgagee of the Property, and such mortgagee's
+representative.  On or before thirty (30) days after the close of each
+quarter, U-Haul shall cause to be prepared and delivered to Owner, a
+monthly statement of receipts, expenses and charges, together with a
+statement of the disbursements made by U-Haul during such period on
+Owner's behalf.
+
+	(i) [Reserved].
+
+        (j) COLLECTION.  U-Haul shall be responsible for the billing and
+collection of all accounts receivable and for payment of all accounts
+payable with respect to the Property
+
+<PAGE>
+and shall be responsible for establishing policies and procedures to minimize
+the amount of bad debts.
+
+        (k) LEGAL ACTIONS.  U-Haul shall cause to be instituted, on behalf
+and in the name of Owner, any and all legal actions or proceedings U-Haul
+deems necessary or advisable to collect charges, rent or other income due
+to Owner with respect to the Property and to oust or dispossess tenants or
+other persons unlawfully in possession under any lease, license concession
+agreement or otherwise, and to collect damages for breach thereof or
+default thereunder by such tenant, licensee, concessionaire or occupant.
+
+        (l) INSURANCE.  U-Haul shall use its best efforts to assure that there
+is obtained and maintained in force, fire, comprehensive liability and other
+insurance policies in amounts generally carried with respect to similar
+facilities. U-Haul may in its discretion obtain employee theft or similar
+insurance in amounts and with such deductibles as U-Haul deems
+appropriate.  U-Haul shall promptly provide Owner with such certificates
+of insurance as Owner may reasonably request in writing, evidencing such
+insurance coverage.
+
+        (m) TAXES.  During the term of this Agreement, U-Haul shall pay
+from Owner's funds, prior to delinquency, all real estate taxes, personal
+property taxes, and all other taxes assessed to, or levied upon, the
+Property.  If required by the holder of any note secured by the Property, U-
+Haul will set aside, from Owner's funds, a reserve from each month's rent
+and other income collected, in an amount required by said holder for
+purposes of payment of real property taxes.
+
+        (n) [Reserved]
+
+        (o) LIMITATIONS ON U-HAUL AUTHROITY.  Notwithstanding anything
+to the contrary set forth in this Section 2, U-Haul shall not, without
+obtaining the prior written consent of Owner, (i) rent storage space in the
+Property by written lease or agreement for a stated term in excess of one
+year, (ii) alter the building or other structures of the Property in any
+material manner; (iii) make any other agreements which exceed a term of
+one year and are not terminable on thirty day's notice at the will of Owner,
+without penalty, payment or surcharge; (iv) act in violation of any law; or
+(v) act in violation of any duty or responsibility of Owner under any
+mortgage loan secured by the Property.
+
+        (p) SHARED EXPENSES.  Owner acknowledges that certain economies may
+be achieved with respect to certain expenses to be incurred by U-Haul on
+behalf of Owner hereunder if materials, supplies, insurance or services
+are purchased by U-Haul in quantity for use not only in connection with
+the Property but in connection with other properties owned or managed
+by U-Haul or its affiliates.  U-Haul shall have the right to purchase such
+materials, supplies, insurance and/or services in its own name and charge
+
+<PAGE>
+Owner a pro rata allocable share of the cost of the foregoing; provided,
+however, that the pro rata cost of such purchase to Owner shall not result
+in expenses greater than would otherwise be incurred at competitive prices
+and terms available in the area where the Property is located; and provided
+further, U-Haul shall give Owner access to records so Owner may review any
+such expenses incurred.
+
+        (q) DEPOSIT OF GROSS REVENUES.   All Gross Revenues (as hereinafter
+defined) shall be deposited into a "lock box account" maintained by
+U-Haul International, Inc., parent company of U-Haul, in accordance with the
+terms of a certain Cash Management Agreement dated as of the date hereof
+among Owner, Wells Fargo Bank, National Association (as lender and agent) and
+U-Haul (the "CMA").  Borrower and U-Haul each hereby covenant and agree that
+they shall comply with the terms and provisions of the CMA.
+
+3.  Duties of Owner.
+    ---------------
+
+	Owner hereby agrees to cooperate with U-Haul in the performance
+of U-Haul's duties under this Agreement and to that end, upon the request
+of U-Haul, to provide, at such rental charges, if any, as are deemed
+appropriate, reasonable office space for U-Haul employees on the
+premises of the Property and to give U-Haul access to all files, books and
+records of Owner relevant to the Property.  Owner shall not unreasonably
+withhold or delay any consent or authorization to U-Haul required or
+appropriate under this Agreement.
+
+4.  Compensation of U-Haul.
+    ----------------------
+
+        (a) MANAGEMENT FEE. Owner shall pay to U-Haul as the full amount
+due for the services herein provided a fee (the "Management Fee") equal
+to six percent (6%) of the "Gross Revenue" derived from or connected with
+the Property so managed by U-Haul hereunder.  The term "Gross Revenue"
+shall mean all receipts (excluding security deposits unless and until
+Owner recognizes the same as income) of Owner (whether or not received by
+U-Haul on behalf or for the account of Owner) arising from the operation
+of the Property, including without limitation, rental payments of lessees
+of space in the Property, vending machine or concessionaire revenues,
+maintenance charges, if any, paid by the tenants of the Property in addition
+to basic rent, parking fees, if any, and all monies whether or not otherwise
+described herein paid for the use of the Property.  "Gross  Revenue" shall
+be determined on a cash basis.  The Management Fee shall be paid promptly
+at the end of each calendar quarter and shall be calculated on the basis of
+
+<PAGE>
+the "Gross Revenue" of such preceding quarter.  The Management Fee shall be
+paid to each U-Haul property manager herein identified based on the Gross
+Revenue of each respective Property for which such property manager is
+responsible as set forth on Exhibit A hereto.  Each property manager agrees
+                            ---------
+that its monthly Management Fee shall be subordinate to that month's principal
+balance and interest payment on any first lien position mortgage loan on the
+Property.
+
+	It is understood and agreed that the Management Fee will not be
+reduced by the cost to Owner of those employees and independent
+contractors engaged by or for Owner, including but not limited to the
+categories of personnel specifically referred to in Section 2(d).  Except as
+provided in this Section 4, it is further understood and agreed that U-Haul
+shall not be entitled to additional compensation of any kind in connection
+with the performance by it of its duties under this Agreement.
+
+        (b) REIMBURSEMENT OF CERTAIN EXPENSES.  In addition to the Management
+Fee described above, U-Haul shall be entitled to reimbursement from Owner, on
+a quarterly basis, for all out-of-pocket expenses incurred by U-Haul hereunder
+in connection with the management and operation of the Property, including,
+without limitation, taxes, insurance, operational expenses, overhead,
+litigation and dispute resolution related expenses, capital improvement
+expenses, and costs of sales.
+
+5.  Use of Trademarks, Service Marks and Related Items.
+    --------------------------------------------------
+
+	Owner acknowledges the significant value of the "U-Haul" name
+in the operations of Owner's property and it is therefore understood and
+agreed that the name,  trademark and service mark, "U-Haul", and related
+marks, slogans, caricatures, designs and other trade or service items shall
+be utilized for the non-exclusive benefit of Owner in the rental and
+operation of the Property, and in comparable operations elsewhere.  It is
+further understood and agreed that this name and all such marks, slogans,
+caricatures, designs and other trade or service items shall remain and
+be at all times the property of U-Haul and its affiliates, and that,
+except during the term hereof and as expressly provided herein, Owner
+shall have no right whatsoever therein.  Owner agrees that during the
+term of this agreement the sign faces at the property will have the
+name "U-Haul."  The U-Haul sign faces will be paid for by Owner.  Upon
+termination of this agreement at any time for any reason, all such use
+by and for the benefit of Owner of any such name, mark, slogan, caricature,
+design or other trade or service item in connection with the Property
+shall, in any event, be terminated and any signs bearing any of the foregoing
+shall be removed from view and no longer used by Owner.  In addition,
+upon termination of this Agreement at any time for any reason, Owner shall
+not enter into any new leases of Property using the U-Haul lease form
+or use other forms prepared by U-Haul.  It is understood and agreed that
+U-Haul will use and shall be unrestricted in its use of such name, mark,
+slogan, caricature, design or other trade or service item in the management
+
+<PAGE>
+and operation of other storage facilities both during and after
+the expiration or termination of the term of this Agreement.
+
+6.  Termination.
+    -----------
+
+	Owner or U-Haul may terminate this Agreement with or without
+cause by giving not less than sixty days' written notice to the other party
+pursuant to Section 11 hereof.  In addition, if Owner fails to pay U-Haul
+any amounts owed under this Agreement when due, U-Haul may terminate
+this Agreement by giving Owner not less than ten days written notice
+pursuant to Section 11 hereof.  Notwithstanding the foregoing, however,
+U-Haul shall not resign as property manager of the Property until a
+nationally recognized and reputable successor property manager is
+available and prepared to assume property management responsibilities
+with respect to the Property in question  Upon termination of this
+Agreement, U-Haul shall promptly return to Owner all monies, books,
+records and other materials held by U-Haul for or on behalf of Owner.  In
+addition, if U-Haul has contracted to advertise the Property in the Yellow
+Pages, Owner shall, at the option of U-Haul, continue to be responsible for
+the cost of such advertisement and shall either (i) pay U-Haul the
+remaining amount due under such contract in a lump sum; or (ii) pay U-
+Haul monthly for the amount due under such contract.
+
+7.  Indemnification.
+    ---------------
+
+	Owner hereby agrees to indemnify and hold each of U-Haul, all
+persons and companies affiliated with U-Haul, and all officers,
+shareholders, directors, employees and agents of U-Haul and of any
+affiliated companies or persons (collectively, the "Indemnified Persons")
+harmless from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages, and claims in connection with the management of
+the Property (including the loss of use thereof following any damage,
+injury or destruction), arising from any cause except for the willful
+misconduct or gross negligence on the part of the Indemnified Persons.  In
+addition, no Indemnified Person shall be liable for any error of judgment
+or for any mistake of fact or law, or for anything which it may do or
+refrain from doing hereafter, except in cases of willful misconduct or gross
+negligence.  U-Haul hereby agrees to indemnify and hold Owner harmless
+from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages and claims in connection with the management of the
+Property arising from the willful misconduct of, gross negligence of, or
+breach of this Agreement by the Indemnified Persons.  In addition, U-Haul
+shall not be liable to Owner for the acts or omissions of U-Haul's officers,
+shareholders, directors, employees, and agents except for U-Haul's own
+gross negligence or willful misconduct.
+
+<PAGE>
+8.  Assignment.
+    ----------
+
+	This Agreement may be assigned by Owner in connection with any
+mortgage loan on the Property, whether pursuant to a conditional or
+unconditional, absolute assignment.  U-Haul shall have the right to assign
+this Agreement to an affiliate or a wholly or majority owned subsidiary;
+provided, however, any such assignee must assume all obligations of U-
+Haul hereunder, Owner's rights hereunder will be enforceable against any
+such assignee and U-Haul shall not be released from its liabilities
+hereunder unless Owner shall expressly agree thereto in writing.
+
+9.  Headings.
+    --------
+
+	The headings contained herein are for convenience of reference
+only and are not intended to define, limit or describe the scope or intent of
+any provision of this Agreement.
+
+10.  Governing Law.
+     -------------
+
+	The validity of this Agreement, the construction of its terms and
+the interpretation of the rights and duties of the parties shall be governed
+by the internal laws of the State of Arizona.
+
+11.  Notices.
+     -------
+
+	Any notice required or permitted herein shall be in writing and
+shall be personally delivered or mailed first class postage prepaid or
+delivered by an overnight delivery service to the respective addresses of
+the parties set forth below their signatures on the signature page thereof, or
+to such other address as any party may give  to the other in writing.  Any
+notice required by this Agreement will be deemed to have been given
+when personally served or one day after delivery to an overnight delivery
+service or five days after deposit in the first class mail.
+
+12.  Severability.
+     ------------
+
+	Should any term or provision hereof be deemed invalid, void or
+unenforceable either in its entirety or in a particular application, the
+remainder of this Agreement shall nonetheless remain in full force and
+effect and, if the subject term or provision is deemed to be invalid, void or
+unenforceable only with respect to a particular application, such term or
+provision shall remain in full force and effect with respect to all other
+applications.
+
+<PAGE>
+13.  Successors.
+     ----------
+
+	This Agreement shall be binding upon and inure to the benefit of
+the respective parties hereto and their permitted assigns and successors in
+interest.
+
+14.  Attorneys' Fees.
+     ---------------
+
+	If it shall become necessary for any party hereto to engage
+attorneys to institute legal action for the purpose of enforcing their
+respective rights hereunder or for the purpose of defending legal action
+brought by the other party hereto, the party or parties prevailing in such
+litigation shall be entitled to receive all costs, expenses and fees (including
+reasonable attorneys' fees) incurred by it in such litigation (including
+appeals).
+
+15.  Counterparts.
+     ------------
+
+	This Agreement may be executed in one or more counterparts,
+each of which shall be deemed an original, but all of which together shall
+constitute one and the same instrument.
+
+16.  Scope of Property Manager Responsibility.
+     ----------------------------------------
+
+	The duties, obligations and liability of each property manager
+identified herein shall extend only so far as to relate to the Property for
+which such property manager is managing located in the domicile state of
+such property manager, as more specifically described on Exhibit A
+hereto, and no individual property manager hereunder shall be liable for
+the acts or omissions of any other property manager hereunder.  Each
+property manager shall use its best efforts to assist Owner in fulfilling
+Owner's obligations arising under any loan to Owner that is secured by the
+Property, including but not limited to preparing and providing financial
+and accounting reports, and maintaining the Property.  Each property
+manager agrees that it will perform its obligations hereunder according to
+reasonable industry standards, in good faith, and in a commercially
+reasonable manner.  U-Haul agrees that, in discharging its duties
+hereunder, it will not have any relationship with any of its affiliates that
+would be less favorable to Owner than would reasonably be available in a
+transaction with an unaffiliated party.
+
+
+[Rest of page intentionally left blank]
+
+<PAGE>
+	IN WITNESS WHEREOF, the parties hereto execute this
+Agreement as of the date first above written.
+
+"Owner"
+
+Thirteen SAC Self-Storage Corporation,
+a Nevada corporation
+
+By:  /S/ BRUCE BROCKHAGEN
+     ___________________________
+     Bruce Brockhagen, Secretary
+
+
+U-Haul Co. of Georgia
+
+     /S/ DON MURNEY
+     ________________________
+
+
+U-Haul Co. of California
+
+     /S/ DON MURNEY
+     ________________________
+
+
+U-Haul Co. of Kansas
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Louisiana
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Texas
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Florida
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Massachusetts
+
+     /S/ DON MURNEY
+     ________________________
+
+<PAGE>
+U-Haul Co. of Missouri
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Oregon
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Pennsylvania
+
+     /S/ DON MURNEY
+     ________________________
+
+U-Haul Co. of Virginia
+
+     /S/ DON MURNEY
+     ________________________
+
+<PAGE>
+                                  EXHIBIT A
+
+
+- --------------------------------------------------------------
+Number             Name                  City     State  Owner
+- --------------------------------------------------------------
+
+704027  U-HAUL CT OF TIGARD          TIGARD         OR  13 SAC
+715059  U-HAUL LAMBERT ROAD          LA HABRA       CA  13 SAC
+734025  U-HAUL CENTER OF OLATHE      OLATHE         KS  13 SAC
+736055  U-HAUL KINGSHIGHWAY          SAINT LOUIS    MO  13 SAC
+737024  U-HAUL CENTER OF ROUND ROCK  ROUND ROCK     TX  13 SAC
+746071  U-HAUL CTR BEAUMONT          BEAUMONT       TX  13 SAC
+747073  U-HAUL GAUSE BLVD            SLIDELL        LA  13 SAC
+779069  U-HAUL CTR SAVANNAH          SAVANNAH       GA  13 SAC
+785053  U-HAUL CENTER GOLDENROD      ORLANDO        FL  13 SAC
+791031  U-HAUL WORCESTER             WORCESTER      MA  13 SAC
+796067  U-HAUL OF HYANNIS            HYANNIS        MA  13 SAC
+811055  U-HAUL MECHANICSBRG          MECHANICSBURG  PA  13 SAC
+825053  U-HAUL CTR DOWNTOWN          NORFOLK        VA  13 SAC
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>0004.txt
+<DESCRIPTION>MANAGEMENT AGREEMENT WITH FOURTEEN SAC
+<TEXT>
+
+<PAGE>
+                        PROPERTY MANAGEMENT AGREEMENT
+                        -----------------------------
+
+        THIS PROPERTY MANAGEMENT AGREEMENT (this "Agreement") is entered
+into as of June 30, 2000 among Fourteen SAC Self-Storage Corporation, a
+Nevada corporation, with its principal place of business at
+715 South Country Club Drive, Mesa, AZ 85210 ("Owner"), and the property
+managers identified on Exhibit A attached hereto and incorportated herein
+                       ---------
+by reference (each such property manager is respectively referred to herein
+as "U-Haul").
+
+                                   RECITALS
+                                   --------
+
+	A.  Owner owns the leasehold estate in the real property and self-
+storage related improvements thereon located at the street addresses
+identified on Exhibit A hereto (hereinafter, collectively the "Property").
+
+	B.  Owner intends that the Property be rented on a space-by-space
+retail basis to corporations, partnerships, individuals and/or other entities
+for use as self-storage facilities.
+
+	C.  Owner desires that U-Haul manage the Property and U-Haul
+desires to act as the property manager for the Property, all in accordance
+with the terms and conditions of this Agreement and as more specifically
+designated on Exhibit A hereto.
+
+	NOW, THEREFORE, in consideration of the mutual covenants herein
+contained, Owner and U-Haul hereby agree as follows.
+
+1.  Employment.
+    ----------
+
+	(a) Owner hereby retains U-Haul, and U-Haul agrees to act as
+manager of the Property upon the terms and conditions hereinafter set
+forth.
+
+	(b) Owner acknowledges that U-Haul, and/or U-Haul affiliates, is
+in the business of managing self-storage facilities, both for its own account
+and for the account of others.  It is hereby expressly agreed that
+notwithstanding this Agreement, U-Haul and such affiliates may continue
+to engage in such activities, may manage facilities other than those
+presently managed by U-Haul and its affiliates (whether or not such other
+facilities may be in direct or indirect competition with Owner) and may in
+the future engage in other business which may compete directly or
+indirectly with activities of Owner.
+
+	(c) In the performance of their respective duties under
+this Agreement, each U-Haul property manager shall occupy the
+position of an independent contractor with respect to Owner.
+Nothing contained herein shall be construed as making the parties
+
+<PAGE>
+hereto (or any of them) partners or joint venturors, nor (except as
+expressly otherwise provided for herein) construed as making U-Haul an
+agent or employee of Owner or of any other U-Haul property manager hereunder.
+
+2.  Duties and Authority of U-Haul.
+    ------------------------------
+
+        (a) GENERAL DUTIES AND AUTHORITY.  Subject only to the restrictions
+and limitations provided in paragraphs (o) and (p) of this Section 2  and
+the right of Owner to terminate this Agreement as provided in Section 6
+hereof, U-Haul shall have the sole and exclusive authority to fully manage
+the Property and supervise and direct the business and affairs associated or
+related to the daily operation thereof, and, to that end on behalf of Owner,
+to execute such documents and instruments as, in the sole judgment of U-Haul,
+are reasonably necessary or advisable under the circumstances in order to
+fulfill U-Haul's duties hereunder.  Such duties and authority shall include,
+without limitation, those set forth below.
+
+        (b) RENTING OF THE PROPERTY.  U-Haul shall establish policies and
+procedures for the marketing activities for the Property, and may advertise
+the Property through such media as U-Haul deems advisable, including,
+without limitation, advertising with the Yellow Pages.  U-Haul shall have
+the sole discretion, which discretion shall be exercised in good faith, to
+establish the terms and conditions of occupancy by the tenants of the
+Property, and U-Haul is hereby authorized to enter into rental agreements
+on behalf and for the account of Owner with such tenants and to collect
+rent from such tenants. U-Haul may jointly advertise the Property with
+other properties owned or managed by U-Haul, and in that event, U-Haul
+shall reasonably allocate the cost of such advertising among such
+properties.
+
+        (c) REPAIR, MAINTENANCE AND IMPROVEMENTS.  U-Haul shall make,
+execute, supervise and have control over the making and executing of all
+decisions concerning the acquisition of furniture, fixtures and supplies
+for the Property, and may purchase, lease or otherwise acquire the same
+on behalf of Owner.  U-Haul shall make and execute, or supervise and have
+control over the making and executing of all decisions concerning the
+maintenance, repair, and landscaping of the Property. U-Haul shall, on
+behalf of Owner, negotiate and contract for and supervise the installation
+of all capital improvements related to the Property; provided, however, that
+U-Haul agrees to secure the prior written approval of Owner on all such
+expenditures in excess of $5,000.00 for any one item, except monthly or
+recurring operating charges and/or emergency repairs if in the opinion of
+U-Haul such emergency-related expenditures are necessary to protect the
+Property from damage or to maintain services to the tenants as called for
+in their respective leases.
+
+        (d) PERSONNEL.  U-Haul shall select all vendors, suppliers,
+contractors, subcontractors and employees with respect to the Property
+and shall hire, discharge and
+
+<PAGE>
+supervise all labor and employees required for the operation and maintenance
+of the Property.  Any employees so hired shall be employees of U-Haul, and
+shall be carried on the payroll of U-Haul.  Employees may include, but
+will not be limited to, on-site resident managers, on-site assistant
+managers, and relief managers located, rendering services, or performing
+activities on the Property in connection with its operation and management.
+The cost of employing such persons shall not exceed prevailing rates for
+comparable persons performing the same or similar services with respect to
+real estate similar to the Property.
+
+        (e) AGREEMENTS.  U-Haul shall negotiate and execute on behalf of
+Owner such agreements which U-Haul deems necessary or advisable for
+the furnishing of utilities, services, concessions and supplies, for the
+maintenance, repair and operation of the Property and such other
+agreements which may benefit the Property or be incidental to the matters
+for which U-Haul is responsible hereunder.
+
+        (f) OTHER DECISIONS.  U-Haul shall make all decisions in
+connection with the daily operation of the Property.
+
+        (g) REGULATIONS AND PERMITS.  U-Haul shall comply in all material
+respects with any statute, ordinance, law, rule, regulation or order of any
+governmental or regulatory body, having jurisdiction over the Property,
+respecting the use of the Property or the maintenance or operation thereof.
+ U-Haul shall apply for and attempt to obtain and maintain, on behalf of
+Owner, all licenses and permits required or advisable (in the sole judgment
+of U-Haul) in connection with the management and operation of the
+Property.
+
+        (h) RECORDS AND REPORTS OF DISBURSEMENTS AND COLLECTIONS.  U-Haul
+shall establish, supervise, direct and maintain the operation of a system of
+record keeping and bookkeeping with respect to all receipts and disbursements
+in connection with the management and operation of the Property.  The books,
+records and accounts shall be maintained at the U-Haul office or at such other
+location as U-Haul shall determine, and shall be available and open to
+examination and audit quarterly by Owner, its representatives, any mortgagee
+of the Property, and such mortgagee's representative.  On or before thirty (30)
+days after the close of each quarter, U-Haul shall cause to be prepared and
+delivered to Owner, a monthly statement of receipts, expenses and charges,
+together with a statement of the disbursements made by U-Haul during such
+period on Owner's behalf.
+
+	(i) [Reserved].
+
+        (j) COLLECTION.  U-Haul shall be responsible for the billing and
+collection of all accounts receivable and for payment of all accounts
+payable with respect to the Property
+
+<PAGE>
+and shall be responsible for establishing policies and procedures to minimize
+the amount of bad debts.
+
+        (k) LEGAL ACTIONS.  U-Haul shall cause to be instituted, on behalf
+and in the name of Owner, any and all legal actions or proceedings U-Haul
+deems necessary or advisable to collect charges, rent or other income due
+to Owner with respect to the Property and to oust or dispossess tenants or
+other persons unlawfully in possession under any lease, license concession
+agreement or otherwise, and to collect damages for breach thereof or
+default thereunder by such tenant, licensee, concessionaire or occupant.
+
+        (l) INSURANCE.  U-Haul shall use its best efforts to assure that there
+is obtained and maintained in force, fire, comprehensive liability and other
+insurance policies in amounts generally carried with respect to similar
+facilities. U-Haul may in its discretion obtain employee theft or similar
+insurance in amounts and with such deductibles as U-Haul deems
+appropriate.  U-Haul shall promptly provide Owner with such certificates
+of insurance as Owner may reasonably request in writing, evidencing such
+insurance coverage.
+
+        (m) TAXES.  During the term of this Agreement, U-Haul shall pay
+from Owner's funds, prior to delinquency, all real estate taxes, personal
+property taxes, and all other taxes assessed to, or levied upon, the
+Property.  If required by the holder of any note secured by the Property, U-
+Haul will set aside, from Owner's funds, a reserve from each month's rent
+and other income collected, in an amount required by said holder for
+purposes of payment of real property taxes.
+
+        (n) [Reserved]
+
+        (o) LIMITATIONS ON U-HAUL AUTHORITY.  Notwithstanding anything
+to the contrary set forth in this Section 2, U-Haul shall not, without
+obtaining the prior written consent of Owner, (i) rent storage space in the
+Property by written lease or agreement for a stated term in excess of one
+year, (ii) alter the building or other structures of the Property in any
+material manner; (iii) make any other agreements which exceed a term of
+one year and are not terminable on thirty day's notice at the will of Owner,
+without penalty, payment or surcharge; (iv) act in violation of any law; or
+(v) act in violation of any duty or responsibility of Owner under any
+mortgage loan secured by the Property.
+
+        (p) SHARED EXPENSES.  Owner acknowledges that certain economies
+may be achieved with respect to certain expenses to be incurred by U-Haul
+on behalf of Owner hereunder if materials, supplies, insurance or services
+are purchased by U-Haul in quantity for use not only in connection with
+the Property but in connection with other properties owned or managed by
+U-Haul or its affiliates.  U-Haul shall have the right to purchase such
+materials, supplies, insurance and/or services in its own name and charge
+
+<PAGE>
+Owner a pro rata allocable share of the cost of the foregoing; provided,
+however, that the pro rata cost of such purchase to Owner shall not result
+in expenses greater than would otherwise be incurred at competitive prices
+and terms available in the area where the Property is located; and provided
+further, U-Haul shall give Owner access to records so Owner may review any
+such expenses incurred.
+
+        (q) DEPOSIT OF GROSS REVENUES.   All Gross Revenues (as
+hereinafter defined) shall be deposited into a "lock box account"
+maintained by U-Haul International, Inc., parent company of U-Haul, in
+accordance with the terms of a certain Cash Management Agreement
+dated as of the date hereof among Owner, Wells Fargo Bank, National
+Association (as lender and agent) and U-Haul (the "CMA").  Borrower
+and U-Haul each hereby covenant and agree that they shall comply with
+the terms and provisions of the CMA.
+
+3.  Duties of Owner.
+    ---------------
+
+	Owner hereby agrees to cooperate with U-Haul in the performance
+of U-Haul's duties under this Agreement and to that end, upon the request
+of U-Haul, to provide, at such rental charges, if any, as are deemed
+appropriate, reasonable office space for U-Haul employees on the
+premises of the Property and to give U-Haul access to all files, books and
+records of Owner relevant to the Property.  Owner shall not unreasonably
+withhold or delay any consent or authorization to U-Haul required or
+appropriate under this Agreement.
+
+4.  Compensation of U-Haul.
+    ----------------------
+
+        (a) MANAGEMENT FEE. Owner shall pay to U-Haul as the full amount
+due for the services herein provided a fee (the "Management Fee") equal
+to six percent (6%) of the "Gross Revenue" derived from or connected with
+the Property so managed by U-Haul hereunder.  The term "Gross Revenue"
+shall mean all receipts (excluding security deposits unless and until Owner
+recognizes the same as income) of Owner (whether or not received by U-Haul
+on behalf or for the account of Owner) arising from the operation of the
+Property, including without limitation, rental payments of lessees of space
+in the Property, vending machine or concessionaire revenues, maintenance
+charges, if any, paid by the tenants of the Property in addition to basic
+rent, parking fees, if any, and all monies whether or not otherwise described
+herein paid for the use of the Property.  "Gross  Revenue" shall be
+determined on a cash basis.  The Management Fee shall be paid promptly at
+the end of each calendar quarter and shall be calculated on the basis of
+
+<PAGE>
+the "Gross Revenue" of such preceding quarter.  The Management Fee shall
+be paid to each U-Haul property manager herein identified based on the
+Gross Revenue of each respective Property for which such property manager
+is responsible as set forth on Exhibit A hereto.  Each property manager
+                               ---------
+agrees that its monthly Management Fee shall be subordinate to that month's
+principal balance and interest payment on any first lien position mortgage
+loan on the Property.
+
+	It is understood and agreed that the Management Fee will not be
+reduced by the cost to Owner of those employees and independent contractors
+engaged by or for Owner, including but not limited to the categories of
+personnel specifically referred to in Section 2(d).  Except as provided in
+this Section 4, it is further understood and agreed that U-Haul shall not
+be entitled to additional compensation of any kind in connection with the
+performance by it of its duties under this Agreement.
+
+        (b) REIMBURSEMENT OF CERTAIN EXPENSES.  In addition to the
+Management Fee described above, U-Haul shall be entitled to reimbursement
+from Owner, on a quarterly basis, for all out-of-pocket expenses incurred
+by U-Haul hereunder in connection with the management and operation of the
+Property, including, without limitation, taxes, insurance, operational
+expenses, overhead, litigation and dispute resolution related expenses,
+capital improvement expenses, and costs of sales.
+
+5.  Use of Trademarks, Service Marks and Related Items.
+    --------------------------------------------------
+
+        Owner acknowledges the significant value of the "U-Haul" name in
+the operations of Owner's property and it is therefore understood and
+agreed that the name,  trademark and service mark, "U-Haul", and related
+marks, slogans, caricatures, designs and other trade or service items
+shall be utilized for the non-exclusive benefit of Owner in the rental
+and operation of the Property, and in comparable operations elsewhere.
+It is further understood and agreed that this name and all such marks,
+slogans, caricatures, designs and other trade or service items shall
+remain and be at all times the property of U-Haul and its affiliates,
+and that, except during the term hereof and as expressly provided herein,
+Owner shall have no right whatsoever therein.  Owner agrees that during the
+term of this agreement the sign faces at the property will have the name
+"U-Haul."  The U-Haul sign faces will be paid for by Owner.  Upon termination
+of this agreement at any time for any reason, all such use by and for
+the benefit of Owner of any such name, mark, slogan, caricature, design
+or other trade or service item in connection with the Property shall,
+in any event, be terminated and any signs bearing any of the foregoing
+shall be removed from view and no longer used by Owner.  In addition,
+upon termination of this Agreement at any time for any reason, Owner shall
+not enter into any new leases of Property using the U-Haul lease form or
+use other forms prepared by U-Haul.  It is understood and agreed that
+U-Haul will use and shall be unrestricted in its use of such name, mark,
+slogan, caricature, design or other trade or service item in the management
+
+<PAGE>
+and operation of other storage facilities both during and after the expiration
+or termination of the term of this Agreement.
+
+6.  Termination.
+    -----------
+
+	Owner or U-Haul may terminate this Agreement with or without
+cause by giving not less than sixty days' written notice to the other party
+pursuant to Section 11 hereof.  In addition, if Owner fails to pay U-Haul
+any amounts owed under this Agreement when due, U-Haul may terminate
+this Agreement by giving Owner not less than ten days written notice
+pursuant to Section 11 hereof.  Notwithstanding the foregoing, however,
+U-Haul shall not resign as property manager of the Property until a
+nationally recognized and reputable successor property manager is
+available and prepared to assume property management responsibilities
+with respect to the Property in question  Upon termination of this
+Agreement, U-Haul shall promptly return to Owner all monies, books,
+records and other materials held by U-Haul for or on behalf of Owner.  In
+addition, if U-Haul has contracted to advertise the Property in the Yellow
+Pages, Owner shall, at the option of U-Haul, continue to be responsible for
+the cost of such advertisement and shall either (i) pay U-Haul the
+remaining amount due under such contract in a lump sum; or (ii) pay U-
+Haul monthly for the amount due under such contract.
+
+7.  Indemnification.
+    ---------------
+
+	Owner hereby agrees to indemnify and hold each of U-Haul, all
+persons and companies affiliated with U-Haul, and all officers,
+shareholders, directors, employees and agents of U-Haul and of any
+affiliated companies or persons (collectively, the "Indemnified Persons")
+harmless from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages, and claims in connection with the management of
+the Property (including the loss of use thereof following any damage,
+injury or destruction), arising from any cause except for the willful
+misconduct or gross negligence on the part of the Indemnified Persons.  In
+addition, no Indemnified Person shall be liable for any error of judgment
+or for any mistake of fact or law, or for anything which it may do or
+refrain from doing hereafter, except in cases of willful misconduct or gross
+negligence.  U-Haul hereby agrees to indemnify and hold Owner harmless
+from any and all costs, expenses, attorneys' fees, suits, liabilities,
+judgments, damages and claims in connection with the management of the
+Property arising from the willful misconduct of, gross negligence of, or
+breach of this Agreement by the Indemnified Persons.  In addition, U-Haul
+shall not be liable to Owner for the acts or omissions of U-Haul's officers,
+shareholders, directors, employees, and agents except for U-Haul's own
+gross negligence or willful misconduct.
+
+
+<PAGE>
+8.  Assignment.
+    ----------
+
+	This Agreement may be assigned by Owner in connection with any
+mortgage loan on the Property, whether pursuant to a conditional or
+unconditional, absolute assignment.  U-Haul shall have the right to assign
+this Agreement to an affiliate or a wholly or majority owned subsidiary;
+provided, however, any such assignee must assume all obligations of U-
+Haul hereunder, Owner's rights hereunder will be enforceable against any
+such assignee and U-Haul shall not be released from its liabilities
+hereunder unless Owner shall expressly agree thereto in writing.
+
+9.  Headings.
+    --------
+
+	The headings contained herein are for convenience of reference
+only and are not intended to define, limit or describe the scope or intent of
+any provision of this Agreement.
+
+10.  Governing Law.
+     -------------
+
+	The validity of this Agreement, the construction of its terms and
+the interpretation of the rights and duties of the parties shall be governed
+by the internal laws of the State of Arizona.
+
+11.  Notices.
+     -------
+
+	Any notice required or permitted herein shall be in writing and
+shall be personally delivered or mailed first class postage prepaid or
+delivered by an overnight delivery service to the respective addresses of
+the parties set forth below their signatures on the signature page thereof, or
+to such other address as any party may give  to the other in writing.  Any
+notice required by this Agreement will be deemed to have been given
+when personally served or one day after delivery to an overnight delivery
+service or five days after deposit in the first class mail.
+
+12.  Severability.
+     ------------
+
+	Should any term or provision hereof be deemed invalid, void or
+unenforceable either in its entirety or in a particular application, the
+remainder of this Agreement shall nonetheless remain in full force and
+effect and, if the subject term or provision is deemed to be invalid, void or
+unenforceable only with respect to a particular application, such term or
+provision shall remain in full force and effect with respect to all other
+applications.
+
+<PAGE>
+13.  Successors.
+     ----------
+
+	This Agreement shall be binding upon and inure to the benefit of
+the respective parties hereto and their permitted assigns and successors in
+interest.
+
+14.  Attorneys' Fees.
+     ---------------
+
+	If it shall become necessary for any party hereto to engage
+attorneys to institute legal action for the purpose of enforcing their
+respective rights hereunder or for the purpose of defending legal action
+brought by the other party hereto, the party or parties prevailing in such
+litigation shall be entitled to receive all costs, expenses and fees (including
+reasonable attorneys' fees) incurred by it in such litigation (including
+appeals).
+
+15.  Counterparts.
+     ------------
+
+	This Agreement may be executed in one or more counterparts,
+each of which shall be deemed an original, but all of which together shall
+constitute one and the same instrument.
+
+16.  Scope of Property Manager Responsibility.
+     ----------------------------------------
+
+	The duties, obligations and liability of each property manager
+identified herein shall extend only so far as to relate to the Property for
+which such property manager is managing located in the domicile state of
+such property manager, as more specifically described on Exhibit A
+hereto, and no individual property manager hereunder shall be liable for
+the acts or omissions of any other property manager hereunder.  Each
+property manager shall use its best efforts to assist Owner in fulfilling
+Owner's obligations arising under any loan to Owner that is secured by the
+Property, including but not limited to preparing and providing financial
+and accounting reports, and maintaining the Property.  Each property
+manager agrees that it will perform its obligations hereunder according to
+reasonable industry standards, in good faith, and in a commercially
+reasonable manner.  U-Haul agrees that, in discharging its duties
+hereunder, it will not have any relationship with any of its affiliates that
+would be less favorable to Owner than would reasonably be available in a
+transaction with an unaffiliated party.
+
+
+[Rest of page intentionally left blank]
+
+<PAGE>
+	IN WITNESS WHEREOF, the parties hereto execute this
+Agreement as of the date first above written.
+
+"Owner"
+
+Fourteen SAC Self-Storage Corporation,
+a Nevada corporation
+
+By:  /S/ BRUCE BROCKHAGEN
+     ___________________________
+     Bruce Brockhagen, Secretary
+
+
+U-Haul Co. of New York
+
+     /S/ DON MURNEY
+     __________________________
+
+
+U-Haul Co. of Texas
+
+     /S/ DON MURNEY
+     __________________________
+
+
+U-Haul Co. of Nevada
+
+     /S/ DON MURNEY
+     __________________________
+
+
+U-Haul Co. of Illinois
+
+     /S/ DON MURNEY
+     __________________________
+
+
+<PAGE>
+                                  EXHIBIT A
+
+
+
+- ------------------------------------------------------------
+Number           Name               City      State  Owner
+____________________________________________________________
+
+758059  U-HAUL CENTER NEW-TOWN  CHICAGO NORTH  IL    14 SAC
+800057  U-HAUL CTR ALBANY       ALBANY         NY    14 SAC
+803079  U-HAUL KINGS BRIDGE     BRONX          NY    14 SAC
+806056  U-HAUL FIVE TOWNS       INWOOD         NY    14 SAC
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<FILENAME>0005.txt
+<DESCRIPTION>FDS 09/30/00
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM
+FORM 10-Q SEPTEMBER 30, 2000 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE
+TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          MAR-31-2001
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                          26,408
+<SECURITIES>                                         0
+<RECEIVABLES>                                  579,977<F1>
+<ALLOWANCES>                                         0
+<INVENTORY>                                     83,671
+<CURRENT-ASSETS>                                     0<F2>
+<PP&E>                                       2,477,522
+<DEPRECIATION>                               1,143,096
+<TOTAL-ASSETS>                               3,235,093
+<CURRENT-LIABILITIES>                                0
+<BONDS>                                      1,096,240
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        10,563
+<OTHER-SE>                                     670,295
+<TOTAL-LIABILITY-AND-EQUITY>                 3,235,093
+<SALES>                                        113,961
+<TOTAL-REVENUES>                               963,343
+<CGS>                                           65,974
+<TOTAL-COSTS>                                  728,181
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                 2,052
+<INTEREST-EXPENSE>                              44,052
+<INCOME-PRETAX>                                122,084
+<INCOME-TAX>                                    43,239
+<INCOME-CONTINUING>                             78,845
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    78,845
+<EPS-BASIC>                                       3.35
+<EPS-DILUTED>                                     3.35
+<FN>
+<F1>THE VALUE FOR RECEIVABLES REPRESENTS THEIR AMOUNT NET OF THEIR ALLOWANCES.
+<F2>AN UNCLASSIFIED BALANCE SHEET EXISTS IN THE REGISTRANT'S FINANCIAL
+STATEMENTS.
+</FN>
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

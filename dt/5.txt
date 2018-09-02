@@ -1,0 +1,2212 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NkTVjZXlkBeVaC+00oYXD+z3ocnYhlvJtLPLg/S75trmxoLZuqd/0VmZsxq8mHd0
+ /T6iVy9QVGuuiaAggfwBVw==
+
+<SEC-DOCUMENT>0000950170-98-002278.txt : 19981126
+<SEC-HEADER>0000950170-98-002278.hdr.sgml : 19981126
+ACCESSION NUMBER:		0000950170-98-002278
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980331
+FILED AS OF DATE:		19981125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNBEAM CORP/FL/
+		CENTRAL INDEX KEY:			0000003662
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC HOUSEWARES & FANS [3634]
+		IRS NUMBER:				251638266
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-00052
+		FILM NUMBER:		98759335
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1615 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE 200
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+		BUSINESS PHONE:		5612432100
+
+	MAIL ADDRESS:	
+		STREET 1:		1615 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE 200
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNBEAM OSTER COMPANY INC /DE/
+		DATE OF NAME CHANGE:	19931210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<TEXT>
+
+
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                   FORM 10-Q/A
+
+             [X] Quarterly Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+                       For the period ended March 31, 1998
+
+                                       OR
+
+             [ ] Transition Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+            For the transition period from ___________ to ___________
+
+
+                            Commission File No. 1-52
+
+
+                               SUNBEAM CORPORATION
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+     DELAWARE                                            25-1638266
+     (STATE OR OTHER JURISDICTION OF     (I.R.S. EMPLOYER IDENTIFICATION NUMBER)
+     INCORPORATION OR ORGANIZATION)
+
+     1615 SOUTH CONGRESS AVENUE
+     SUITE 200                                              33445
+     DELRAY BEACH, FLORIDA                                (ZIP CODE)
+     (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+                                 (561) 243-2100
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                                 NOT APPLICABLE
+      (FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR, IF CHANGED SINCE
+                                  LAST REPORT)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                       Yes [ ]     No [X]
+
+     On November 4, 1998 there were 100,857,462 shares of the registrant's
+Common Stock ($.01 par value) outstanding.
+
+================================================================================
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+                                QUARTERLY REPORT
+                                 ON FORM 10-Q/A
+
+                                TABLE OF CONTENTS
+
+                                                                                          PAGE
+                                                                                          ----
+<S>      <C>                                                                              <C>
+PART I.  FINANCIAL INFORMATION
+
+         Item 1.  Financial Statements
+
+                  Condensed Consolidated Statements of Operations (Unaudited)
+                  for the three months ended March 30, 1997 and March 31, 1998............. 2
+
+                  Condensed Consolidated Balance Sheets
+                  as of December 28, 1997 and March 31, 1998 (Unaudited)................... 3
+
+                  Condensed Consolidated Statements of Cash Flows (Unaudited)
+                  for the three months ended March 30, 1997 and March 31, 1998............. 4
+
+                  Notes to Condensed Consolidated Financial Statements (Unaudited)......... 5
+
+         Item 2.  Management's Discussion and Analysis of Financial Condition
+                  and Results of Operations............................................... 10
+
+PART II. OTHER INFORMATION
+
+         Item 1.  Legal Proceedings....................................................... 14
+
+         Item 6.  Exhibits and Reports on Form 8-K ....................................... 15
+SIGNATURES ............................................................................... 16
+</TABLE>
+
+                                       1
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+PART I.    FINANCIAL INFORMATION
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+                                                               THREE MONTHS ENDED
+                                                            ------------------------
+                                                             MARCH 31,      MARCH 30,
+                                                               1998           1997
+                                                            ---------       ---------
+                                                           As restated,    As restated,
+                                                           see Note 8      see Note 8
+                                                                  (Unaudited)
+<S>                                                         <C>            <C>      
+Net sales .............................................     $ 247,601      $ 252,488
+Cost of goods sold ....................................       213,828        194,237
+Selling, general and administrative expense ...........        71,139         41,195
+                                                            ---------      ---------
+Operating (loss) earnings .............................       (37,366)        17,056
+Interest expense ......................................         5,073          1,993
+Other expense, net ....................................         3,165             77
+                                                            ---------      ---------
+(Loss) earnings from continuing operations before
+   income taxes and extraordinary charge ..............       (45,604)        14,986
+Income tax (benefit) provision:
+  Current .............................................           327         (1,052)
+  Deferred ............................................          (449)         7,011
+                                                            ---------      ---------
+                                                                 (122)         5,959
+                                                            ---------      ---------
+
+(Loss) earnings from continuing operations ............       (45,482)         9,027
+Loss from discontinued operations, net of taxes .......          --          (13,713)
+Extraordinary charge from early extinguishment of debt,
+  net of taxes (Note 3) ...............................        (8,624)          --
+                                                            ---------      ---------
+ Net loss .............................................     $ (54,106)     $  (4,686)
+                                                            =========      =========
+Earnings per share:
+  (Loss) earnings from continuing operations:
+      Basic ...........................................     $   (0.53)     $    0.11
+      Diluted .........................................         (0.53)          0.10
+  Loss from discontinued operations:
+       Basic ..........................................          --            (0.17)
+       Diluted ........................................          --            (0.15)
+  Extraordinary charge:
+        Basic .........................................         (0.10)          --
+        Diluted .......................................         (0.10)          --
+                                                            ---------      ---------
+  Net loss:
+        Basic .........................................     $   (0.63)     $   (0.06)
+                                                            =========      =========
+        Diluted .......................................     $   (0.63)     $   (0.05)
+                                                            =========      =========
+Weighted average common shares outstanding:
+        Basic .........................................        86,390         84,187
+        Dilutive ......................................        86,390         86,135
+Dividends declared per share of common stock ..........     $     .01      $     .01
+</TABLE>
+
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                       2
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                             (DOLLARS IN THOUSANDS)
+
+                                                                         MARCH 31,      DECEMBER 28,
+                                                                           1998            1997
+                                                                        -----------     -----------
+                                                                        As restated,    As restated,
+                                                                         see Note 8      see Note 8
+                                                                                (Unaudited)
+<S>                                                                     <C>             <C>        
+ASSETS
+Current assets:
+   Cash and cash equivalents .......................................    $   193,543     $    52,298
+   Receivables, net ................................................        500,671         228,460
+   Inventories .....................................................        617,091         304,900
+   Prepaid expenses, deferred income taxes and other current assets          74,855          16,584
+                                                                        -----------     -----------
+       Total current assets ........................................      1,386,160         602,242
+Property, plant and equipment, net .................................        412,096         249,524
+Trademarks, trade names, goodwill and other, net ...................      1,556,909         207,162
+                                                                        -----------     -----------
+                                                                        $ 3,355,165     $ 1,058,928
+                                                                        ===========     ===========
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+   Short-term debt and current portion of long-term debt ...........    $    62,139     $       668
+   Accounts payable ................................................        204,456         108,374
+   Other current liabilities .......................................        218,554         124,085
+                                                                        -----------     -----------
+       Total current liabilities ...................................        485,149         233,127
+Long-term debt .....................................................      1,637,820         194,580
+Other long-term liabilities ........................................        216,240         159,142
+Minority interest ..................................................         55,191            --
+
+Commitments and Contingencies (Note 10)
+
+Shareholders' equity:
+   Preferred stock (2,000,000 shares authorized, none outstanding)             --              --
+   Common stock (issued 100,824,578 and 89,984,425 shares) .........          1,008             900
+   Additional paid-in capital ......................................        966,631         479,200
+   Retained earnings ...............................................         34,829          89,801
+   Accumulated other comprehensive loss ............................        (32,878)        (33,063)
+   Other shareholders' equity ......................................         (8,825)         (1,714)
+                                                                        -----------     -----------
+                                                                            960,765         535,124
+   Treasury stock, at cost (4,454,394 shares in 1997) ..............           --           (63,045)
+                                                                        -----------     -----------
+       Total shareholders' equity ..................................        960,765         472,079
+                                                                        -----------     -----------
+                                                                        $ 3,355,165     $ 1,058,928
+                                                                        ===========     ===========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                       3
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+
+                                                                             THREE MONTHS ENDED
+                                                                           ----------------------
+                                                                           MARCH 31,     MARCH 30,
+                                                                              1998          1997
+                                                                           ---------     ---------
+                                                                          As restated,   As restated,
+                                                                           see Note 8    see Note 8
+                                                                                (Unaudited)
+<S>                                                                        <C>           <C>       
+OPERATING ACTIVITIES:
+     Net loss .........................................................    $ (54,106)    $  (4,686)
+     Adjustments to reconcile net loss to net cash
+       used in operating activities:
+         Depreciation and amortization ................................       11,940        10,813
+         Deferred income taxes ........................................         (449)        7,011
+         Extraordinary charge from early extinguishment of debt .......        8,624          --
+         Non-cash compensation charges ................................       24,290          --
+         Loss on sale of discontinued operations, net of taxes ........         --          13,713
+         Changes in working capital and other, net of acquisition .....     (125,025)      (49,449)
+                                                                           ---------     ---------
+                 Net cash used in operating activities ................     (134,726)      (22,598)
+                                                                           ---------     ---------
+INVESTING ACTIVITIES:
+     Capital expenditures .............................................      (19,480)      (10,916)
+     Acquisition of Coleman, including acquisition costs,
+       net of cash acquired ...........................................     (160,612)         --
+     Proceeds from sale of divested operations and other assets .......         --          70,404
+                                                                           ---------     ---------
+                 Net cash (used in) provided by investing activities ..     (180,092)       59,488
+                                                                           ---------     ---------
+FINANCING ACTIVITIES:
+     Issuance of convertible subordinated debentures, net of
+        financing fees ................................................      729,622          --
+     Payments of debt obligations, including prepayment penalties .....     (266,672)      (26,322)
+     Other debt financing fees ........................................      (25,075)         --
+     Proceeds from exercise of stock options ..........................       19,045         8,866
+     Other, net .......................................................         (857)         (545)
+                                                                           ---------     ---------
+                   Net cash provided by (used in) financing activities       456,063       (18,001)
+                                                                           ---------     ---------
+
+Net increase in cash and cash equivalents .............................      141,245        18,889
+Cash and cash equivalents at beginning of period ......................       52,298        11,526
+                                                                           ---------     ---------
+Cash and cash equivalents at end of period ............................    $ 193,543     $  30,415
+                                                                           =========     =========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                        4
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+1. OPERATIONS AND BASIS OF PRESENTATION
+
+ORGANIZATION
+
+     Sunbeam Corporation ("Sunbeam" or the "Company") is a leading manufacturer
+and marketer of branded consumer products. The Sunbeam(R) and Oster(R) brands
+have been household names for generations, and the Company is a market share
+leader in many of its product categories.
+
+     The Company markets its products through virtually every category of
+retailer including mass merchandisers, catalog showrooms, warehouse clubs,
+department stores, catalogs, television shopping channels, Company-owned outlet
+stores, hardware stores, home centers, drug and grocery stores, pet supply
+retailers, as well as independent distributors and the military. The Company
+also sells its products to commercial end users such as hotels and other
+institutions.
+
+     As further described in Note 2, on March 30, 1998, the Company, through a
+wholly-owned subsidiary, acquired approximately 81% of the total number of then
+outstanding shares of common stock of The Coleman Company, Inc. ("Coleman").
+Coleman is a leading manufacturer and marketer of consumer products for the
+worldwide outdoor recreation market. Its products have been sold domestically
+under the Coleman(R) brand name since the 1920's.
+
+PRESENTATION OF FISCAL PERIODS
+
+     To standardize the fiscal period ends of the Company and its acquired
+entities, as further described in Notes 2 and 10, effective with its 1998 fiscal
+year, the Company has changed its fiscal year end from the Sunday nearest
+December 31 to a calendar year. Accordingly, quarterly reporting will follow the
+calendar quarters. Excluding the impact of the Coleman acquisition which
+occurred on March 30, 1998, the impact of this change in fiscal periods on net
+sales for the first quarter of 1998 was to increase sales by approximately $4
+million and the impact on operating results for the quarter was to increase
+earnings by approximately $0.2 million.
+
+BASIS OF PRESENTATION
+
+     The Condensed Consolidated Balance Sheet of the Company as of March 31,
+1998 and the Condensed Consolidated Statements of Operations and Cash Flows for
+the three months ended March 31, 1998 and March 30, 1997 are unaudited. The
+unaudited condensed consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles for interim financial
+information and with the instructions of Form 10-Q and Rule 10-01 of Regulation
+S-X. The December 28, 1997 Condensed Consolidated Balance Sheet was derived from
+the Company's Annual Report on Form 10-K/A for the year ended December 28, 1997.
+The condensed consolidated financial statements contained herein should be read
+in conjunction with the consolidated financial statements and related notes
+contained in the Company's 1997 Annual Report on Form 10-K/A. In the opinion of
+management, the unaudited condensed consolidated financial statements furnished
+herein include all adjustments (consisting of only recurring adjustments)
+necessary for a fair presentation of the results of operations for the interim
+periods presented. These interim results of operations are not necessarily
+indicative of results for the entire year.
+
+RESTATEMENT
+
+     On June 30, 1998, the Company announced that the Audit Committee of the
+Board of Directors was initiating a review into the accuracy of prior financial
+statements. The Audit Committee's review has since been completed and, as a
+result of its findings, the Company has restated its previously issued financial
+statements for 1996, 1997 and the first quarter of 1998. (See Note 8).
+
+                                       5
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+1. OPERATIONS AND BASIS OF PRESENTATION - (CONTINUED)
+
+BASIC AND DILUTED LOSS PER COMMON SHARE
+
+     In 1997, the Company adopted SFAS No. 128, EARNINGS PER SHARE. Basic
+earnings per common share calculations are determined by dividing earnings
+available to common shareholders by the weighted average number of shares of
+common stock outstanding. Diluted earnings per share are determined by dividing
+earnings available to common shareholders by the weighted average number of
+shares of common stock and dilutive common stock equivalents outstanding (all
+related to outstanding stock options, restricted stock and the Zero Coupon
+Convertible Senior Subordinated Debentures).
+
+     For the first quarter of 1998, 4,758,565 shares related to stock options,
+(58,065) shares related to restricted stock and 13,150,000 shares related to the
+conversion feature of the Zero Coupon Convertible Senior Subordinated Debentures
+were not included in the diluted average common shares outstanding, as the
+effect would have been antidilutive. For the first quarter of 1997, the dilutive
+effect of 2,174,154 equivalent shares and (225,915) equivalent shares related to
+restricted stock were used in determining the dilutive average shares
+outstanding. SFAS No. 128 requires the use of dilutive potential common shares
+in the determination of diluted earnings per share if an entity reports earnings
+from continuing operations. Given Sunbeam's Loss from Discontinued Operations in
+the first quarter of 1997, the use of dilutive potential common shares in the
+determination of the diluted per share loss from discontinued operations and net
+loss per share is antidilutive. (See Note 10.)
+
+NEW ACCOUNTING STANDARDS
+
+     In June 1997, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards ("SFAS") No. 131, DISCLOSURES ABOUT
+SEGMENTS OF AN ENTERPRISE AND RELATED INFORMATION. SFAS No. 131 establishes
+standards for the way that public business enterprises report information about
+operating segments in annual financial statements and requires that those
+enterprises report selected information about operating segments in interim
+financial reports issued to shareholders. It also establishes standards for
+related disclosures about products and services, geographic areas, and major
+customers. SFAS No. 131 is effective for financial statements for fiscal years
+beginning after December 15, 1997 and will be presented in the Company's Annual
+Report on Form 10-K for the year ending December 31, 1998. Financial statement
+disclosures for prior periods are required to be restated. The Company is in the
+process of evaluating the disclosure requirements. The adoption of SFAS No. 131
+will have no impact on consolidated results of operations, financial position or
+cash flow.
+
+     In March 1998, the American Institute of Certified Public Accountants
+("AICPA") issued Statement of Position 98-1, ACCOUNTING FOR THE COSTS OF
+COMPUTER SOFTWARE DEVELOPED OR OBTAINED FOR INTERNAL USE ("SOP 98-1"). SOP 98-1
+requires computer software costs associated with internal use software to be
+expensed as incurred until certain capitalization criteria are met. The Company
+will adopt SOP 98-1 on January 1, 1999. Adoption of this Statement is not
+expected to have a material impact on the Company's consolidated financial
+position or results of operations, although actual charges incurred may be
+material due to Year 2000 issues.
+
+     See Note 10 for new accounting standards issued subsequent to March 31,
+1998.
+
+2. ACQUISITION
+
+     On March 30, 1998, the Company, through a wholly-owned subsidiary, acquired
+approximately 81% of the total number of then outstanding shares of common stock
+of Coleman from a subsidiary of MacAndrews & Forbes Holdings, Inc. ("M&F"), in
+exchange for 14,099,749 shares of the Company's common stock and approximately
+$160 million in cash as well as the assumption of $1,016 million in debt. The
+value of the common stock issued at the date of acquisition ($524 million) was
+derived by using the average ending stock price as reported by the New York
+Stock Exchange Composite Tape for the day before and day of the public
+announcement of the acquisition discounted by 15% due to the restrictive nature
+of the securities. (See Note 10.)
+
+                                        6
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+2. ACQUISITION - (CONTINUED)
+
+     The Coleman acquisition was accounted for under the purchase method of
+accounting; and accordingly, the results of operations of Coleman for March 30
+and March 31, 1998 are included in the accompanying Condensed Consolidated
+Statement of Operations. The purchase price of Coleman has been allocated to
+individual assets acquired and liabilities assumed based on preliminary
+estimates of fair market value at the date of acquisition. The preliminary fair
+value of tangible assets acquired was approximately $747 million (of which $27
+million was cash) and approximately $1,331 million of liabilities were assumed.
+The excess of purchase price over net tangible assets acquired of $1,270 million
+has been classified as goodwill and is being amortized on a straight-line basis
+over 40 years. The allocation of purchase price for the acquisition of Coleman
+will be revised when additional information concerning asset and liability
+valuations is obtained. Adjustments, which could be significant, will be made
+during the allocation period based on detailed reviews of the fair values of
+assets acquired and liabilities assumed and could result in a substantial change
+in goodwill and other intangible assets.
+
+     The Company expects to acquire the remaining equity interest in Coleman
+pursuant to a merger transaction in which the existing Coleman minority
+shareholders will receive .5677 shares of the Company's common stock and $6.44
+in cash for each share of Coleman common stock outstanding. In addition,
+unexercised options under Coleman's stock option plans will be cashed out at a
+price per share equal to the difference between $27.50 and the exercise price of
+such options. The Company expects to issue approximately 6.7 million shares of
+common stock and expend approximately $87 million in cash to complete the
+Coleman acquisition. Although there can be no assurance, it is anticipated the
+Coleman merger will occur in the first quarter of fiscal 1999. The acquisition
+of the remaining outstanding shares of Coleman will be accounted for under the
+purchase method of accounting on the date of consummation. Minority interest in
+the results from Coleman's operations for March 30 and 31, 1998, is reflected in
+Other Expense, net in the Condensed Consolidated Statement of Operations for the
+three months ended March 31, 1998. (See Note 10.)
+
+     The following unaudited pro forma financial information for the Company
+gives effect to the Coleman acquisition as if it had occurred at the beginning
+of 1998. These pro forma results have been prepared for informational purposes
+only and do not purport to be indicative of the results of operations which
+actually would have occurred had the acquisition been consummated on the date
+indicated, or which may result in the future. The unaudited pro forma results
+follow (in millions, except per share data):
+<TABLE>
+<CAPTION>
+
+                                                                     THREE MONTHS ENDED
+                                                                    MARCH 31,    MARCH 30,
+                                                                      1998         1997
+                                                                   ----------   ----------
+<S>                                                                <C>          <C>       
+Net sales (a) .................................................    $    477.3   $    548.0
+Loss before extraordinary charge (a), (b), (c) ................         (64.7)        (4.8)
+Basic and diluted loss per share before extraordinary items (d)         (0.65)       (0.05)
+</TABLE>
+
+
+(a)  Adjusted to remove sales of $14.8 million and loss before extraordinary
+     charge of $0.8 million from Coleman operations for March 30 and 31, 1998
+     included in Sunbeam's results.
+
+(b)  Coleman's loss before extraordinary items has been adjusted to exclude
+     the following one time after tax benefits and charges: (i) a $15.8
+     million gain from the sale of Coleman Safety and Security Products, Inc.,
+     (ii) $7.1 million of costs incurred by Coleman associated with the
+     Company's acquisition of Coleman, (iii) the write off of $2.1 million of
+     capitalized costs associated with the installation of new software which
+     will be abandoned as a result of the acquisition by the Company, (iv) $1.3
+     million of costs to terminate a license agreement with a former affiliate
+     of Coleman, and (v) the write off of $1.7 million of unrealized deferred
+     tax assets as a result of the change of control of Coleman.
+
+(c)  In 1998 and 1997, respectively, after tax interest expense was increased
+     $11.5 million and $9.8 million, and goodwill amortization, after tax, was
+     increased $5.5 million in each year to reflect the pro forma effect of the
+     acquisition occurring at the beginning of the period. In addition, the
+     minority shareholder percentage was adjusted to reflect the change in the
+     portion of Coleman held by minority shareholders following the transaction.
+     The minority interest in Coleman's losses from continuing operations was
+     adjusted by $0.6 million in 1998 and $0.4 million in 1997 to reflect both
+     the change in the proportion of the ownership of Coleman held by minority
+     shareholders and the effects of the pro forma adjustments.
+
+(d)  The shares outstanding were adjusted in each period to reflect the pro
+     forma effect of the shares issued in the Coleman acquisition being
+     outstanding from the beginning of the period.
+
+                                        7
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+3. CREDIT FACILITIES, LONG-TERM DEBT AND FINANCIAL INSTRUMENTS
+
+     In order to finance the acquisitions described in Notes 2 and 10, and
+refinance substantially all of the indebtedness of the Company and its acquired
+entities, the Company consummated: (i) an offering (the "Offering") of Zero
+Coupon Convertible Senior Subordinated Debentures due 2018 (the "Debentures") at
+a yield to maturity of 5% (approximately $2,014 million principal amount at
+maturity) in March 1998, which resulted in approximately $730 million of net
+proceeds and, (ii) entered into a revolving and term credit facility ("New
+Credit Facility"). (See Note 10.)
+
+     The Debentures are exchangeable for shares of the Company's common stock at
+an initial conversion rate of 6.575 shares for each $1,000 principal amount at
+maturity of the Debentures, subject to adjustment upon occurrence of certain
+events. (See Note 10.)
+
+     The New Credit Facility provided for an aggregate borrowings of up to $1.7
+billion pursuant to: (i) a revolving credit facility in an aggregate principal
+amount of up to $400 million, maturing March 31, 2005; (ii) an $800 million term
+loan maturing on March 31, 2005, and (iii) a $500 million term loan maturing
+September 30, 2006. Interest accrues at a rate selected at the Company's option
+of: (i) the London Interbank Offered Rate ("LIBOR") plus an agreed upon interest
+margin which varies depending upon the Company's leverage ratio, as defined, and
+other items or, (ii) the base rate of the administrative agent (generally the
+higher of the prime commercial lending rate of the administrative agent or the
+Federal Funds Rate plus 1/2 of 1%), plus an agreed upon interest margin which
+varies depending upon the Company's leverage ratio, as defined, and other items.
+The New Credit Facility contains certain covenants, including limitations on the
+ability of the Company and its subsidiaries to engage in certain transactions
+and the requirement to maintain certain financial covenants and ratios. (See
+Note 10.)
+
+     The Company selectively uses derivatives to manage interest rate and
+foreign exchange exposures that arise in the normal course of business. No
+derivatives are entered into for trading or speculative purposes. Foreign
+exchange option and forward contracts are used to hedge a portion of the
+Company's underlying exposures denominated in foreign currency. Although the
+market value of derivative contracts at any single point in time will vary with
+changes in interest and/or foreign exchange rates, the differences between the
+carrying value and fair value of such contracts at March 31, 1998 and March 30,
+1997 were not considered to be material, either individually or in the
+aggregate. The Company enters into derivative contracts with counterparties that
+it believes to be creditworthy. The Company does not enter into any leveraged
+derivative transactions. At March 31, 1998, the Company held an interest rate
+swap agreement with a notional value of $25.0 million to exchange floating rate
+interest for a fixed rate of 6.115%. (See Note 10.)
+
+     In March 1998, the Company prepaid a $75.0 million 7.85% industrial revenue
+bond related to its Hattiesburg facility originally due in 2009. In connection
+with the early extinguishment of this debt, the Company recognized an
+extraordinary charge of $8.6 million ($0.10 per share) in the first quarter of
+1998.
+
+     In December 1997, the Company entered into a receivables securitization
+program under which the Company has received approximately $34.8 million from
+the sale of trade accounts receivable in the first quarter of 1998. Costs of the
+program, which primarily consist of the purchaser's financing cost of issuing
+commercial paper backed by the receivables, totaled $0.6 million during the
+first quarter of 1998. The Company, as agent for the purchaser of the
+receivables, retains collection and administrative responsibilities for the
+purchased receivables.
+
+                                        8
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+4. COMPREHENSIVE INCOME
+
+     The Company adopted SFAS No. 130, REPORTING COMPREHENSIVE INCOME, effective
+January 1, 1998. SFAS No. 130 establishes standards for reporting and display of
+comprehensive income and its components in financial statements. The components
+of the Company's comprehensive loss are as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS ENDED
+                                                              ---------------------
+                                                              MARCH 31,    MARCH 30,
+                                                                1998         1997
+                                                              --------     --------
+<S>                                                           <C>          <C>      
+     Net loss ............................................    $(54,106)    $ (4,686)
+     Foreign currency translation adjustment, net of taxes         183         (186)
+                                                              --------     --------
+     Comprehensive loss ..................................    $(53,923)    $ (4,872)
+                                                              ========     ========
+</TABLE>
+
+5. SUPPLEMENTAL FINANCIAL STATEMENT DATA
+
+      Supplementary Balance Sheet data at the end of each period is as follows
+(in thousands):
+
+                                     MARCH 31,    DECEMBER 28,
+                                       1998          1997
+                                     ---------     ---------
+
+     Receivables:
+       Trade ....................    $ 521,755     $ 250,699
+       Sundry ...................       17,134         7,794
+                                     ---------     ---------
+                                       538,889       258,493
+       Valuation allowance ......      (38,218)      (30,033)
+                                     ---------     ---------
+                                     $ 500,671     $ 228,460
+                                     =========     =========
+     Inventories:
+       Finished goods ...........    $ 426,590     $ 193,864
+       Work in process ..........       52,728        25,679
+       Raw materials and supplies      137,773        85,357
+                                     ---------     ---------
+                                     $ 617,091     $ 304,900
+                                     =========     =========
+
+     (See Note 10 regarding asset valuation/impairment in the remainder of
+1998.)
+
+     The Supplementary Statement of Cash Flows data is as follows (in
+ thousands):
+
+                                                           THREE MONTHS ENDED
+                                                           --------------------
+                                                           MARCH 31,   MARCH 30,
+                                                             1998        1997
+                                                           --------    --------
+
+     Cash paid during the period for:
+       Interest .......................................    $  5,442    $  1,103
+                                                           ========    ========
+
+       Income taxes (refunds) .........................    $    381    $(11,920)
+                                                           ========    ========
+
+                                       9
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+6. RESTRUCTURING AND ASSET IMPAIRMENT
+
+     At December 28, 1997, the Company, before consideration of the Coleman
+acquisition, had $5.2 million in liabilities accrued related to a 1996
+restructuring plan. The majority of these liabilities related to facility
+closures and related exit costs. In the first quarter of 1998, this liability
+was reduced by $0.5 million as a result of cash expenditures.
+
+     The restated restructuring reserve details and activity as of and for the
+quarter ended March 30, 1997 are as follows (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                            RESERVE BALANCE                             ACCRUAL BALANCE
+                                             AT DECEMBER 29,     CASH      NON-CASH       AT MARCH 30,
+                                                 1996          REDUCTIONS  REDUCTIONS        1997
+                                            ---------------    ----------  ----------   ---------------
+<S>                                            <C>              <C>         <C>             <C>    
+Severance and other employee costs ....        $  19.1          $  3.2      $  --           $  15.9
+Closure and consolidation of facilities
+ and related exit costs ...............           32.6             1.4         1.3             29.9
+                                                 -----            ----        ----            -----
+    Total .............................           51.7          $  4.6      $  1.3          $  45.8
+                                                 =====            ====        ====            =====
+</TABLE>
+
+
+7. DISCONTINUED OPERATIONS
+
+     The Company's discontinued furniture business, which was sold in March
+1997, had revenues of $51.6 million in the first quarter of 1997 prior to the
+sale and nominal earnings. As a result of the sale of the Company's furniture
+business assets (primarily inventory, property, plant and equipment), the
+Company received $69.0 million in cash, retained approximately $50.0 million in
+accounts receivable and retained certain liabilities. The final purchase price
+for the furniture business was subject to a post-closing adjustment based on the
+terms of the Asset Purchase Agreement and in the first quarter of 1997, after
+completion of the sale, the Company recorded an additional loss on disposal of
+$22.5 million pre-tax.
+
+                                       10
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+8. RESTATEMENT
+
+     Subsequent to the issuance of the Company's condensed consolidated
+financial statements for the three months ended March 31, 1998, it was
+determined that for the years ended December 29, 1996 and December 28, 1997 and
+the three months ended March 31, 1998, certain revenue was improperly recognized
+(principally "bill and hold" and guaranteed sales transactions), certain costs
+and allowances were not accrued or were improperly recorded (principally
+allowances for returns, cooperative advertising, and customer charge-backs as
+well as deductions and reserves for product liability and warranty expense) and
+certain costs were inappropriately included in, and subsequently charged to,
+restructuring, asset impairment and other costs within the Consolidated
+Statements of Operations. As a result, the consolidated financial statements as
+of December 28, 1997 and December 29, 1996 and for the years then ended were
+restated and a Form 10-K/A was filed with the Securities and Exchange Commission
+on November 12, 1998. The accompanying condensed consolidated financial
+statements as of March 31, 1998 and March 30, 1997 and for the three months then
+ended, present restated results.
+
+      A summary of the effects of the restatement for the three months ended
+March 31, 1998 and March 30, 1997 follows (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                                 Condensed Consolidated Statements of Operations
+
+                                                                                  (Unaudited)
+
+                                                                                THREE MONTHS ENDED
+                                                           -----------------------------------------------------------
+                                                                 MARCH 31, 1998                   MARCH 30, 1997
+                                                           --------------------------       --------------------------
+                                                           As Previously       As           As Previously       As
+                                                             Reported       Restated           Reported      Restated
+<S>                                                          <C>            <C>               <C>            <C>      
+Net sales ..............................................     $ 244,296      $ 247,601         $ 253,450      $ 252,488
+Cost of goods sold .....................................       211,459        213,828           185,698        194,237
+Selling, general and administrative expense ............        68,841         71,139            33,009         41,195
+                                                             ---------      ---------         ---------      ---------
+Operating (loss) earnings ..............................       (36,004)       (37,366)           34,743         17,056
+Interest expense .......................................         5,072          5,073             1,993          1,993
+Other expense, net .....................................         2,367          3,165               113             77
+                                                             ---------      ---------         ---------      ---------
+(Loss) earnings from continuing operations before income
+   taxes and  extraordinary charge .....................       (43,443)       (45,604)           32,637         14,986
+Income tax (benefit) provision .........................        (4,458)          (122)           12,076          5,959
+                                                             ---------      ---------         ---------      ---------
+(Loss) earnings from continuing operations .............       (38,985)       (45,482)           20,561          9,027
+Loss from discontinued operations, net of taxes ........          --             --             (13,713)       (13,713)
+Extraordinary charge from early extinguishment of debt .        (5,608)        (8,624)             --             --
+                                                             ---------      ---------         ---------      ---------
+Net (loss) earnings ....................................     $ (44,593)     $ (54,106)        $   6,848      $  (4,686)
+                                                             =========      =========         =========      =========
+Earnings per share:
+
+    (Loss) earnings from continuing operations:
+          Basic ........................................     $   (0.45)     $   (0.53)        $    0.24      $    0.11
+          Diluted ......................................         (0.45)         (0.53)             0.24           0.10
+    Loss from discontinued operations:
+          Basic ........................................          --             --               (0.16)         (0.17)
+          Diluted ......................................          --             --               (0.16)         (0.15)
+    Extraordinary item:
+          Basic ........................................         (0.07)         (0.10)             --             --
+          Diluted ......................................         (0.07)         (0.10)             --             --
+                                                             ---------      ---------         ---------      ---------
+     Net (loss) earning:
+          Basic ........................................     $   (0.52)     $   (0.63)        $    0.08      $   (0.06)
+                                                             =========      =========         =========      =========
+          Diluted ......................................     $   (0.52)     $   (0.63)        $    0.08      $   (0.05)
+                                                             =========      =========         =========      =========
+</TABLE>
+                                       11
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+8.  RESTATEMENT -  (CONTINUED)
+
+<TABLE>
+<CAPTION>
+                                                                          Condensed Consolidated Balance Sheets
+                                                                                     (Unaudited)
+
+                                                                       AS OF                             AS OF
+                                                                    MARCH 31, 1998                   MARCH 30, 1997
+                                                            ---------------------------        ---------------------------
+                                                            As Previously         As           As Previously         As
+                                                               Reported        Restated           Reported        Restated
+<S>                                                          <C>             <C>                <C>             <C>        
+    ASSETS
+    Cash and cash equivalents ...........................    $   193,543     $   193,543        $    30,415     $    30,415
+    Receivables, net ....................................        562,294         500,671            296,716         289,509
+    Inventories .........................................        575,109         617,091            148,011         148,011
+    Prepaid expenses, deferred income taxes and other
+      current assets ....................................        107,692          74,855            134,512         128,359
+                                                             -----------     -----------        -----------     -----------
+         Total current assets ...........................      1,438,638       1,386,160            609,654         596,294
+    Property, plant and equipment, net ..................        403,179         412,096            217,453         226,627
+    Trademarks, trade names, goodwill and other, net ....      1,601,605       1,556,909            226,048         226,048
+                                                             -----------     -----------        -----------     -----------
+         Total assets ...................................    $ 3,443,422     $ 3,355,165        $ 1,053,155     $ 1,048,969
+                                                             ===========     ===========        ===========     ===========
+
+    LIABILITIES AND SHAREHOLDERS' EQUITY
+    Short-term debt and current portion of long-term debt    $    62,139     $    62,139        $       848     $       848
+    Accounts payable ....................................        205,217         204,456            100,648          98,262
+    Other current liabilities ...........................        179,373         218,554            158,658         145,614
+                                                             -----------     -----------        -----------     -----------
+         Total current liabilities ......................        446,729         485,149            260,154         244,724
+    Long-term debt ......................................      1,637,820       1,637,820            175,235         175,235
+    Other long-term liabilities .........................        269,334         216,240            204,606         207,603
+    Minority interest ...................................         55,191          55,191               --              --
+    Shareholders' equity:
+      Common stock ......................................          1,008           1,008                892             892
+      Additional paid-in capital ........................        975,778         966,631            458,690         458,690
+      Retained earnings .................................         95,675          34,829             41,125          49,372
+      Accumulated other comprehensive loss ..............        (29,288)        (32,878)           (18,460)        (18,460)
+      Other shareholders' equity ........................         (8,825)         (8,825)           ( 5,699)        ( 5,699)
+      Treasury stock ....................................           --              --              (63,388)        (63,388)
+                                                             -----------     -----------        -----------     -----------
+         Total shareholders' equity .....................      1,034,348         960,765            413,160         421,407
+                                                             -----------     -----------        -----------     -----------
+         Total liabilities and shareholders' equity .....    $ 3,443,422     $ 3,355,165        $ 1,053,155     $ 1,048,969
+                                                             ===========     ===========        ===========     ===========
+</TABLE>
+
+                                       12
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+9. NEW EMPLOYMENT AGREEMENTS
+
+     On February 20, 1998 the Company entered into new three-year employment
+agreements with its then Chairman and Chief Executive Officer and two other
+senior officers of the Company. These agreements replaced previous employment
+agreements entered into in July 1996 that were scheduled to expire in July 1999.
+
+     The new employment agreement for the Company's then Chairman provided for,
+among other items, the acceleration of vesting of 200,000 shares of restricted
+stock and the forfeiture of the remaining 133,333 shares of unvested restricted
+stock granted under the July 1996 agreement, a new equity grant of 300,000
+shares of unrestricted stock, a new grant of a ten-year option to purchase
+3,750,000 shares of the Company's common stock with an exercise price equal to
+the fair market value of the stock at the date of grant and exercisable in three
+equal annual installments beginning on the date of grant and the acceleration of
+vesting of 833,333 outstanding stock options granted under the July 1996
+agreement. In addition, the new employment agreement with the then Chairman and
+Chief Executive Officer provided for income tax gross-ups with respect to any
+tax assessed on the equity grant and acceleration of vesting of restricted
+stock.
+
+     The new employment agreements with the two other then senior officers
+provided for, among other items, the grant of a total of 180,000 shares of
+restricted stock that vest in four equal annual installments beginning the date
+of grant, the acceleration of vesting of 44,000 shares of restricted stock and
+the forfeiture of the remaining 29,332 shares of unvested restricted stock
+granted under the July 1996 agreements, new grants of ten-year options to
+purchase a total of 1,875,000 shares of the Company's common stock with an
+exercise price equal to the fair market value of the stock at the date of grant
+and exercisable in four equal annual installments beginning on the date of grant
+and the acceleration of vesting of 383,334 outstanding stock options granted
+under the July 1996 agreements. In addition, the new employment agreements
+provided for income tax gross-ups with respect to any tax assessed on the
+restricted stock grants and acceleration of vesting of restricted stock.
+
+     Compensation expense attributed to the equity grant, the acceleration of
+vesting of restricted stock and the related income tax gross-ups was recognized
+in the first quarter of 1998 and compensation expense related to the new
+restricted stock grants and related tax gross-ups was amortized to expense
+beginning in the first quarter of 1998 with amortization to continue over the
+period in which the restrictions lapse. Total compensation expense recognized in
+the first quarter of 1998 related to these items was approximately $31 million.
+(See Note 10.)
+
+10. SUBSEQUENT EVENTS
+
+SENIOR MANAGEMENT CHANGES
+
+     On June 15, 1998, the Company's Board of Directors announced the removal of
+the then Chairman and Chief Executive Officer and subsequently announced the
+removal or resignation of other senior officers, including the Company's then
+Chief Financial Officer. In connection with the removal or resignation of the
+senior officers and the termination of their restricted stock grants, the
+unamortized portion of the deferred compensation expense attributable to the
+restricted stock grants will be reversed and compensation expense of
+approximately $0.9 million recognized in the first quarter of 1998 for unvested
+restricted stock grants will be reversed into income in the second and third
+quarters of 1998. Other costs related to the resignations and terminations will
+be recognized, as appropriate, in 1998. The Company and certain of its former
+officers are in disagreement as to the Company's obligations to these
+individuals under prior employment agreements and arising from their
+terminations. The Board of Directors has installed a new Chief Executive Officer
+and senior management team.
+
+
+                                       13
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+10. SUBSEQUENT EVENTS - (CONTINUED)
+
+COLEMAN ACQUISITION
+
+     On August 12, 1998, the Company announced that, following investigation and
+negotiation conducted by a Special Committee of the Board consisting of four
+outside directors not affiliated with M&F, the Company had entered into a
+settlement agreement with a subsidiary of M&F pursuant to which the Company was
+released from certain threatened claims of M&F and its affiliates arising from
+the Coleman acquisition and M&F agreed to provide certain management personnel
+and assistance to the Company in exchange for the issuance to the M&F subsidiary
+of five-year warrants to purchase up to 23 million shares of the Company's
+common stock at an exercise price of $7.00 per share, subject to anti-dilution
+provisions. The financial statement impact of the settlement, which will be
+material in amount, will be recorded in the third quarter of 1998. (See
+Litigation, below.)
+
+OTHER ACQUISITIONS
+
+     On April 6, 1998, the Company completed the cash acquisitions of First
+Alert, Inc. ("First Alert"), a leading manufacturer of smoke and carbon monoxide
+detectors, and Signature Brands USA, Inc. ("Signature Brands"), a leading
+manufacturer of a comprehensive line of consumer and professional products. The
+First Alert and the Signature Brands acquisitions were valued at approximately
+$178 million and $253 million, respectively, including the assumption of debt.
+These acquisitions will be accounted for by the purchase method of accounting
+and the results of operations of the acquired entities will be included in the
+Company's Consolidated Statement of Operations from the respective acquisition
+dates.
+
+DEBENTURES, NEW CREDIT FACILITY AND FINANCIAL INSTRUMENTS
+
+      The Company was required to file a registration statement with the
+Securities and Exchange Commission to register the Debentures by June 23, 1998,
+which registration statement has not been filed. From June 23, 1998 until the
+day on which the registration statement is filed and declared effective, the
+Company is required to pay to the Debenture holders cash liquidated damages
+accruing, for each day during such period, at a rate per annum equal to 0.25%
+during the first 90 days and 0.50% thereafter multiplied by the total of the
+issue price of the Debentures plus the original issue discount thereon on such
+day. The Company made its first payment of approximately $525,000 to the
+Debenture holders on September 25, 1998.
+
+     At June 30, 1998, the Company was not in compliance with the financial
+covenants and ratios required under the New Credit Facility. The Company and its
+lenders entered into an agreement dated June 30, 1998, which provided that
+compliance with the covenants would be waived through December 31, 1998.
+Borrowings under the New Credit Facility are secured by certain of the Company's
+assets, including its stock interest in Coleman and certain other subsidiaries
+and certain of the Company's tangible and intangible personal property. Pursuant
+to an amendment dated October 19, 1998, the Company is not required to comply
+with the original financial covenants and ratios under the New Credit Facility
+until April 10, 1999, but will be required to comply with an earnings before
+interest, taxes, depreciation and amortization covenant, the amounts of which
+are to be determined, beginning February 1999. Concurrent with each of these
+amendments, interest margin was increased. The margin continues to increase
+monthly through March 1999 to a maximum of 400 basis points over LIBOR. At
+September 30, 1998, following the scheduled repayment of a portion of the term
+loan, the New Credit Facility was reduced to $1,698 million in total, of which
+approximately $1,453 million was outstanding and approximately $245 million was
+available. In addition, the Company's cash balance available for debt repayment
+at September 30, 1998 was approximately $43 million.
+
+                                       14
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+10. SUBSEQUENT EVENTS - (CONTINUED)
+
+     The Company is working closely with its bank lenders and hopes to reach
+agreement with the bank lenders on a further amendment to the New Credit
+Facility containing revised financial covenants which the bank lenders and the
+Company find mutually acceptable. There can be no assurance that such an
+amendment, or a further waiver of the existing financial covenants, will be
+entered into with the bank lenders by April 10, 1999. The failure to obtain such
+an amendment or further waiver would result in violation of the existing
+covenants, which would permit the bank lenders to accelerate the maturity of all
+outstanding borrowing under the New Credit Facility.
+
+     The Company selectively uses derivatives to manage interest rate and
+foreign exchange exposures that arise in the normal course of business. In the
+second quarter of 1998, the Company entered into two swap transactions in a
+notional amount of $150 million each, in connection with the New Credit
+Facility. The swap agreements are contracts to exchange floating rate for fixed
+interest payments periodically over the life of the agreements without the
+exchange of the underlying notional principal amounts. The swaps expire in June
+2001 and 2003 and have strike rates of 5.75% and 5.58%, respectively. The
+notional amounts of the agreements do not represent the amount of exposure to
+credit loss.
+
+      As a result of repayment of certain indebtedness assumed in the Coleman
+acquisition, the Company will recognize an extraordinary charge of approximately
+$104 million in the second quarter of 1998.
+
+SEC INVESTIGATION
+
+     By letter dated June 17, 1998, the staff of the Division of Enforcement of
+the SEC advised the Company that it was conducting an informal inquiry into the
+Company's accounting policies and procedures and requested that the Company
+produce certain documents. On July 2, 1998, the SEC issued a Formal Order of
+Private Investigation, designating officers to take testimony and pursuant to
+which a subpoena duces tecum was served on the Company requiring the production
+of certain documents. On November 4, 1998, another SEC subpoena duces tecum
+requiring the production of further documents was received by the Company. The
+Company has provided numerous documents to the SEC staff and continues to
+cooperate fully with the SEC staff. The Company cannot predict the term of such
+investigation or its potential outcome.
+
+LITIGATION
+
+     On April 23, 1998, two class action lawsuits were filed on behalf of
+purchasers of the Company's common stock in the U. S. District Court for the
+Southern District of Florida against the Company and certain of its present and
+former officers and directors alleging violations of the federal securities laws
+as discussed below (the "Consolidated Federal Actions"). Since that date,
+approximately fifteen similar class actions have been filed in the same Court.
+One of the lawsuits also names as defendant Arthur Andersen LLP, the Company's
+independent accountants for the period covered by the lawsuit.
+
+                                       15
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+10. SUBSEQUENT EVENTS - (CONTINUED)
+
+     The complaints in the Consolidated Federal Actions allege to varying
+degrees that the defendants (i) failed to disclose that the Company pre-sold
+approximately $50 million of products pursuant to its "early buy" marketing
+program in an effort to boost its 1997 sales and net income figures and (ii)
+made material misrepresentations regarding the Company's business operations,
+future prospects and anticipated earnings per share, in an effort to
+artificially inflate the price of the Company stock long enough for the Company
+to complete a $2 billion debt financing (supported with stock incentives)
+necessary to complete the acquisitions of Coleman, Signature Brands and First
+Alert, and for the individual defendants to enter into lucrative long-term
+employment agreements with the Company. Each complaint alleges two counts of
+securities fraud; one count against all defendants and one count against the
+individual defendants.
+
+      On June 16, 1998, the Court entered an Order consolidating all such filed
+and all such subsequently filed class actions and providing time periods for the
+filing of a Consolidated Amended Complaint and defendants' response thereto. On
+June 22, 1998, two groups of plaintiffs made motions to be appointed lead
+plaintiffs and to have their selection of counsel approved as lead counsel. On
+July 20, 1998, the Court entered an Order appointing lead plaintiffs and lead
+counsel (the "Smith Plaintiffs' Group"). This Order also stated that it "shall
+apply to all subsequently filed actions which are consolidated herewith". On
+August 28, 1998, plaintiffs in one of the subsequently filed actions filed an
+objection to having their action consolidated pursuant to the June 16, 1998
+Order, arguing that the class period in their action differs from the class
+periods in the originally filed consolidated actions. On September 29, 1998, the
+Smith Plaintiffs' Group filed its memorandum in opposition to this objection.
+
+     On April 7, 1998, a purported derivative action was filed in the Circuit
+Court for the Fifteenth Judicial Circuit in and for Palm Beach County, Florida
+against the Company and certain of its present and former officers and
+directors. The action alleged that the individual defendants breached their
+fiduciary duties and wasted corporate assets when the Company granted stock
+options to three of its officers and directors on or about February 2, 1998 at
+an exercise price of $36.85. On June 25, 1998, all defendants filed a motion to
+dismiss the complaint for failure to make a presuit demand on the board of
+directors of the Company. On October 22, 1998, the plaintiff amended the
+complaint against all but one of the defendants named in the original complaint.
+The amended complaint no longer challenges the stock options, but instead
+alleges that the individual defendants breached their fiduciary duties by
+failing to have in place adequate accounting and sales controls, which failure
+caused the inaccurate reporting of financial information to the public, thereby
+causing an artificial inflation of the Company's financial statements and stock
+price.
+
+     On June 25, 1998, four purported class actions were filed in the Court of
+Chancery of the State of Delaware in New Castle County by minority shareholders
+of Coleman against the Company and certain of the Company's present and former
+officers and directors. An additional class action was filed on August 10, 1998,
+against the same parties. All of the plaintiffs are represented by the same
+Delaware counsel and have agreed to consolidate the class actions. These actions
+allege, in essence, that the existing exchange ratio for the proposed merger
+between the Company and Coleman is no longer fair to Coleman shareholders as a
+result of the recent decline in the market value of the Company stock. On
+October 21, 1998, the Company announced that it had entered into a Memorandum of
+Understanding to settle, subject to court approval, certain class actions
+brought by shareholders of Coleman challenging the proposed Coleman Merger.
+Under the terms of the proposed settlement, the Company will issue to the
+Coleman public shareholders five-year warrants to purchase 4.98 million shares
+of the Company's common stock at $7.00 per share. These warrants will generally
+have the same terms as the warrants previously issued to a subsidiary of M&F and
+will be issued when the Coleman Merger is consummated, which is now expected to
+be in the first quarter of 1999. There can be no assurance that the Court will
+approve the settlement as proposed.
+
+                                       16
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+10. SUBSEQUENT EVENTS - (CONTINUED)
+
+     During the months of August and October 1998, purported class and
+derivative actions were filed in the Court of Chancery of the State of Delaware
+in New Castle County and in the U. S. District Court for the Southern District
+of Florida by shareholders of the Company against the Company, M&F and certain
+of the Company's present and former directors. These complaints allege that the
+defendants breached their fiduciary duties when the Company entered into a
+settlement agreement with M&F whereby M&F released the Company from any claims
+it may have had arising out of the Company's acquisition of its interest in
+Coleman and agreed to provide management support to the Company (the "Settlement
+Agreement"). Pursuant to the Settlement Agreement, M&F was granted five-year
+warrants to purchase an additional 23 million shares of the Company's common
+stock at an exercise price of $7.00 per share. These complaints also allege that
+the rights of the public shareholders have been compromised, as the settlement
+would normally require shareholder approval under the rules and regulations of
+the New York Stock Exchange ("NYSE"). The Audit Committee of the Company's board
+determined that obtaining such shareholder approval would have seriously
+jeopardized the financial viability of the Company which is an allowable
+exception to the NYSE shareholder approval requirements.
+
+     On September 16, 1998, an action was filed in the 56th Judicial District
+Court of Galveston County, Texas alleging various claims in violation of the
+Texas Securities Act and Texas Business and Commercial Code as well as common
+law fraud as a result of the Company's alleged misstatements and omissions
+regarding the Company's financial condition and prospects during a period
+beginning May 1, 1998 and ending June 16, 1998, in which the plaintiffs engaged
+in transactions in the Company's stock. The Company is the only named defendant
+in this action. The complaint requests recovery of compensatory damages,
+punitive damages and expenses in an unspecified amount. This action has been
+removed to the U.S. District Court for the Southern District of Texas and the
+Company has filed a motion to transfer this case to the Southern District of
+Florida, the forum for the Consolidated Federal Actions. Plaintiffs have moved
+to remand the case to Texas state court.
+
+     On October 30, 1998, a class action lawsuit was filed on behalf of certain
+purchasers of the Company's Debentures in the U.S. District Court of the
+Southern District of Florida against the Company and its prior Chief Executive
+Officer and Chief Financial Officer, alleging violations of the federal
+securities laws and common law fraud. The complaint alleges that the Company's
+offering memorandum used for the marketing of the Debentures contained false and
+misleading information regarding the Company's financial position and that the
+defendants engaged in a plan to inflate the Company's earnings for the purpose
+of defrauding the plaintiffs and others. The Company is seeking to consolidate
+this lawsuit with the other Consolidated Federal Actions.
+
+     The Company intends to vigorously defend each of the foregoing lawsuits,
+but cannot predict the outcome and is not currently able to evaluate the
+likelihood of the Company's success in each case or the range of potential loss.
+However, if the foregoing actions were determined adversely to the Company, such
+judgments would likely have a material adverse effect on the Company's financial
+position, results of operations and cash flows.
+
+     On July 2, 1998, the American Insurance Company ("American") filed suit
+against the Company in the U.S. District Court for the Southern District of New
+York requesting a declaratory judgment of the court that the directors' and
+officers' liability insurance policy for excess coverage issued by American was
+invalid and/or had been properly cancelled by American. The Company has moved to
+transfer such action to the federal district court in which the Consolidated
+Federal Actions are currently pending; American is opposing such motion. On
+October 20, 1998, an action was filed by Federal Insurance Company in the U.S.
+District Court for the Middle District of Florida requesting the same relief as
+that requested by American in the previously filed action as to additional
+coverage levels under the Company's directors' and officers' liability insurance
+policy. The Company intends to pursue recovery from all of its insurers if
+damages are awarded against the Company or its indemnified officers and/or
+directors under any of the foregoing actions. The Company's failure to obtain
+such insurance recoveries following an adverse judgement against the Company in
+any of the foregoing actions could have a material adverse impact on the
+Company's financial position, results of operations and cash flow.
+
+                                       17
+
+<PAGE>
+
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+
+10. SUBSEQUENT EVENTS - (CONTINUED)
+
+     The Company and its subsidiaries are also involved in various lawsuits
+arising from time to time which the Company considers to be ordinary routine
+litigation incidental to its business. In the opinion of the Company, the
+resolution of these routine matters, and of certain matters relating to prior
+operations of the Predecessor, individually or in the aggregate, will not have a
+material adverse effect upon the financial position or results of operations of
+the Company.
+
+ASSET IMPAIRMENT, INVENTORY RESERVES AND RELATED LIABILITIES
+
+     In 1998, as a result of decisions to outsource a substantial number of
+products previously made by the Company, certain facilities and equipment will
+either no longer be used or will be used in a significantly different manner.
+Accordingly, certain assets recorded at March 31, 1998 will be written down in
+future periods to reflect the fair market value of items held for disposition or
+to reflect impairment for items where the future utility is altered by the
+sourcing change. Personnel at the Mexico City manufacturing plant were notified
+in the second quarter of 1998 that the plant is scheduled for closure at
+year-end 1998. Accordingly, a liability related to plant closure will be
+recorded in the second quarter. As certain inventories built in 1997 and the
+first quarter of 1998 in anticipation of 1998 sales volumes exceed the actual
+requirements, it will be necessary to dispose of some portions of excess
+inventories at amounts less than cost. The Company is also in the process of
+assessing the expected future performance of its business operations and the
+impact of this assessment on the valuation of assets in the business. This
+assessment is expected to be completed in the fourth quarter.
+
+NEW ACCOUNTING STANDARDS
+
+     In April 1998, the AICPA issued Statement of Position 98-5, REPORTING ON
+THE COSTS OF START-UP ACTIVITIES ("SOP 98-5"). SOP 98-5 requires all costs
+associated with pre-opening, pre-operating and organization activities to be
+expensed as incurred. The Company will adopt SOP 98-5 beginning January 1, 1999.
+Adoption of the Statement is not expected to have a material impact on the
+Company's consolidated financial position or results of operations.
+
+     In June 1998, the FASB issued SFAS No. 133, ACCOUNTING FOR DERIVATIVE
+INSTRUMENTS AND HEDGING ACTIVITIES for fiscal years beginning after June 15,
+1999. SFAS No. 133 requires the recognition of all derivatives in the
+Consolidated Balance Sheet as either assets or liabilities measured at fair
+value. The Company will adopt SFAS No. 133 effective for the 2000 calendar year
+end. The Company has not yet determined the impact SFAS No. 133 will have on its
+financial position or results of operations when such statement is adopted.
+
+                                       18
+
+<PAGE>
+
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+     On June 30, 1998, the Company announced that the Audit Committee of the
+Board of Directors was initiating a review into the accuracy of prior financial
+statements. The Audit Committee's review has since been completed and, as a
+result of its findings, the Company has restated its previously issued
+consolidated financial statements for 1996 and 1997 and the first quarters of
+1998 and 1997 (see Note 8 to the accompanying condensed consolidated financial
+statements and the Company's Annual Report on Form 10-K/A for the year ended
+December 28, 1997). The following discussion should be read in conjunction with
+the accompanying condensed consolidated financial statements as of and for the
+three months ended March 31, 1998 and March 30, 1997.
+
+OVERVIEW
+
+     On March 30, 1998, the Company, through a wholly-owned subsidiary, acquired
+approximately 81% of the total number of then outstanding shares of common stock
+of The Coleman Company, Inc. ("Coleman"), in exchange for 14,099,749 shares of
+the Company's common stock and approximately $160 million in cash as well as the
+assumption of $1,016 million in debt. The Company expects to acquire the
+remaining equity interest in Coleman pursuant to a merger transaction in which
+the existing Coleman minority shareholders will receive approximately 6.7
+million shares of common stock and approximately $87 million in cash. Although
+there can be no assurance, it is anticipated the Coleman merger will occur in
+the first quarter of fiscal 1999. (See Note 10 to the condensed consolidated
+financial statements and Part II, Item 1. "Legal Proceedings"). Coleman is a
+leading manufacturer and marketer of consumer products for the worldwide outdoor
+recreation market. Its products have been sold domestically under the Coleman
+/registered trademark/ brand name since the 1920's.
+
+      The Coleman acquisition was recorded under the purchase method of
+accounting; and accordingly, the results of operations of Coleman for March 30
+and 31, 1998 are included in the accompanying Condensed Consolidated Statement
+of Operations. The purchase price of Coleman has been allocated to individual
+assets acquired and liabilities assumed based on preliminary estimates of fair
+market value at the date of acquisition. The allocation of purchase price for
+the acquisition of Coleman will be revised when additional information
+concerning asset and liability valuations is obtained. Adjustments, which could
+be significant, will be made during the allocation period based on detailed
+reviews of the fair values of assets acquired and liabilities assumed and could
+result in a substantial change in goodwill and other intangible assets.
+
+     To standardize the fiscal period ends of the Company, Coleman and two
+companies acquired after March 31, 1998, effective with its 1998 fiscal year,
+the Company has changed its fiscal year end from the Sunday nearest December 31
+to a calendar year. (See Notes 1 and 10 to the condensed consolidated financial
+statements.)
+
+THREE MONTHS ENDED MARCH 31, 1998 COMPARED TO THREE MONTHS ENDED MARCH 30, 1997
+
+     Net sales is comprised of gross sales less provisions for estimated
+customer returns, discounts, promotional allowances, cooperative advertising
+allowances and costs incurred by the Company to ship product to customers. Net
+sales for the three months ended March 31, 1998 were $247.6 million, a decrease
+of $4.9 million or 2% versus the three months ended March 30, 1997. After
+excluding: (i) $14.8 million of Coleman's sales for March 30 and 31, 1998, (ii)
+approximately $4 million in 1998 sales resulting from the change in year end
+described above, (iii) $4.2 million from 1997 sales relating to divested product
+lines which are not classified as discontinued operations (time and temperature
+products and Counselor /registered trademark/ and Borg /registered trademark/
+branded scales), and (iv) $13.7 million from 1997 sales of discontinued
+inventory which resulted primarily from the reduction of SKU's as part of the
+1996 restructuring plan and for which the inventory carrying value was
+substantially equivalent to the sales value, net sales on an adjusted basis
+("Adjusted Sales") reflected a 2% decrease from the first quarter of 1997.
+Overall, product sales were adversely impacted by price discounting and
+approximately $13 million of higher provisions for estimated returns, costs to
+ship products to customers, rebates and other customer allowances.
+
+     Domestic Adjusted Sales declined approximately $10 million from the first
+quarter of 1997. Outdoor Cooking category sales accounted for the majority of
+this decline. During 1997, the Company lost a significant portion of its Outdoor
+Cooking products distribution, including the majority of its grill accessory
+products distribution. As compared with the first quarter of 1997, the Outdoor
+Cooking products sales decline was also attributed to a lower than anticipated
+retail sell-through during the early stages of the 1998 retail selling season.
+Based on the sales levels achieved in the first quarter of 1998, distribution
+losses and retail inventory levels for Outdoor Cooking products, and a
+significant sales decline experienced subsequent to the first quarter as
+compared with the same period in the prior year, sales for the remainder of 1998
+will be significantly lower as compared to the prior year. Adjusted Sales for
+Appliance category products increased approximately $7 million but were offset
+by declines in other product categories, primarily Away From Home products.
+
+      International sales, which represented 26% of Adjusted Sales in the first
+quarter of 1998, grew approximately 16% over the first quarter of 1997's
+Adjusted Sales. This sales growth was attributed to improved distribution, new
+product sales and increased retail inventory levels in Latin America, including
+Mexico and Venezuela, offset by declines in sales of Outdoor Cooking products in
+Europe and Canada.
+
+     Excluding $4.1 million of gross margin generated from the inclusion of the
+Coleman operations for two days in the first quarter of 1998 and approximately
+$0.6 million in gross margin from the change in the fiscal period, gross margin
+declined to $29.1 million, or 12.7% of Adjusted Sales in 1998 versus $58.3
+million, or 24.8% of Adjusted Sales for the same period a year ago. The margin
+erosion was due to lower price realization and higher costs of customer
+allowances, rebates and similar incentives in 1998, coupled with a higher
+product return reserve and an adverse product sales mix in 1998. The adverse
+product sales mix was due in part to the loss of a majority of the grill
+accessory products distribution. Accessories generate significantly better
+margins than the average margins on sales of grills. During the first quarter of
+each year, grill and grill accessory sales are traditionally a higher portion of
+overall sales in the period than during other quarters of the year.
+
+                                       19
+
+<PAGE>
+
+
+     Due to the level of Outdoor Cooking products sales in the first quarter and
+the levels of retail inventories for these products, the Company began the
+season-end ramp down of production at the Neosho Outdoor Cooking products
+facility earlier than previously planned. As a result, operating results for the
+1998 grill season will be adversely impacted due to unabsorbed fixed factory
+overhead during the second and third quarters and higher inventory carrying
+costs.
+
+      Excluding the effect of: (i) $3.7 million of selling, general and
+administrative ("SG&A") charges from Coleman, (ii) approximately $0.8 million of
+SG&A expenses in 1998 from the change in the fiscal period, (iii) a $3.0 million
+benefit in the first quarter of 1998 and a $0.5 million benefit in the first
+quarter of 1997 from the reversal of reserves no longer required, (iv) $31.2
+million of charges recorded in 1998 related to compensation for former
+executives, and (v) $4.1 million of restructuring related charges recorded in
+1997, SG&A expenses were 2% higher in 1998 than 1997. Higher distribution and
+warehousing costs due to increased levels of inventory were primarily
+responsible for the increase in costs between years.
+
+     Operating results for the first quarters of 1998 and 1997, on a comparable
+basis as described above, were a loss of $9.4 million in 1998 and a profit of
+$20.7 million in 1997. On the same basis, operating margins as a percent of
+Adjusted Sales decreased to a loss of 4.1% from a profit of 8.8% in the prior
+year. This change resulted from the factors discussed above.
+
+     Interest expense increased from $2.0 million in the first quarter of 1997
+to $5.1 million in the first quarter of 1998 primarily related to higher
+borrowing levels in 1998 for the acquisitions and increased working capital.
+(See Note 3 to the condensed consolidated financial statements.)
+
+     Other expense, net of $3.2 million in 1998 and $0.1 million in 1997
+primarily represents foreign exchange losses. Losses in both years arose from
+Sunbeam's operations in Mexico. In addition, the 1998 losses were impacted by
+Sunbeam's operations in Venezuela and Coleman's operations in Japan.
+
+     The effective income tax rate was 0.3% in the first quarter of 1998, as
+compared to 39.8% in the first quarter of 1997. The 1998 rate is lower than the
+statutory federal rate principally as a result of a valuation allowance for
+deferred tax assets provided in 1998. The 1997 rate was higher than the federal
+statutory income tax rate primarily due to state and local taxes plus the effect
+of foreign earnings taxed at other rates.
+
+     The Company's loss per share from continuing operations in the first
+quarter of 1998, excluding: (i) Coleman's results for March 30 and 31, 1998,
+(ii) the effect of the change in fiscal periods, (iii) the reversals of reserves
+no longer required in each year's first quarter, (iv) the restructuring related
+charges in 1997, and (v) the 1998 charge related to management compensation was
+a loss of $0.20 per share versus earnings per share from continuing operations
+in the first quarter of 1997 of $0.13 per share. Due to increased inventory
+positions at certain customers from sales in 1997 and the first quarter of 1998,
+as well as increased inventory positions at the Company, sales and operating
+income will be materially affected during the remainder of 1998. In addition,
+1998 results will be impacted materially by charges related to, among other
+items, a change in management, changes in business operations resulting in part
+from acquisitions in 1998, interest costs associated with higher debt levels,
+costs associated with litigation and asset impairment costs, as well as costs
+related to Year 2000 issues. (See "Liquidity and Capital Resources", below, and
+Note 10 to the condensed consolidated financial statements.)
+
+     In March 1998, the Company prepaid a $75.0 million 7.85% industrial revenue
+bond related to its Hattiesburg facility originally due in 2009. In connection
+with the early extinguishment of this debt, the Company recognized an
+extraordinary charge of $8.6 million ($0.10 per share) in the first quarter of
+1998.
+
+     The Company's discontinued furniture business, which was sold in March
+1997, had revenues of $51.6 million in the first quarter of 1997 prior to the
+sale and nominal earnings. As a result of the sale of the Company's furniture
+business assets (primarily inventory, property, plant and equipment), the
+Company received $69.0 million in cash, retained approximately $50.0 million in
+accounts receivable and retained certain liabilities. The final purchase price
+for the furniture business was subject to a post-closing adjustment based on the
+terms of the Asset Purchase Agreement and in the first quarter of 1997, after
+completion of the sale, the Company recorded an additional loss on disposal of
+$22.5 million pre-tax.
+
+FOREIGN OPERATIONS
+
+
+     Approximately 90% of the Company's business is conducted in U.S. dollars
+(including both domestic sales, U.S. dollar denominated export sales, primarily
+to certain Latin American markets, Asian sales and the majority of European
+sales). The Company's exposure to market risk from changes in foreign currency
+and interest rates is generally insignificant. The Company's non-U.S. dollar
+denominated sales are made principally by subsidiaries in Mexico, Venezuela and
+Canada. Venezuela is considered a hyperinflationary economy for accounting
+purposes for 1998 and 1997 and Mexico reverted to a hyperinflationary status for
+accounting purposes in 1997; therefore, translation adjustments related to
+Venezuelan and Mexican net monetary assets are included as a component of net
+earnings. Mexico is not expected to be hyperinflationary at some point in 1998.
+
+     While Sunbeam's revenues generated in Asia have traditionally not been
+significant, economic instability in this region is expected to have a negative
+effect on Coleman's earnings. It is anticipated that sales in and exports to
+this region will continue to decline so long as the economic environment remains
+unsettled. It is not anticipated that this impact will be materially adverse to
+the Company's results of operations taken as a whole.
+
+     On a limited basis, the Company selectively uses derivatives (foreign
+exchange option and forward contracts) to manage foreign exchange exposures that
+arise in the normal course of business. No derivative contracts are entered into
+for trading or speculative purposes. The use of derivatives did not have a
+material impact on the Company's financial results in 1998 and 1997. (See Note 3
+to the condensed consolidated financial statements.)
+
+
+                                       20
+
+<PAGE>
+
+SEASONALITY
+
+     On a consolidated basis, the Company's sales have not traditionally
+exhibited substantial seasonality; however, sales have been strongest during the
+fourth quarter of the calendar year. Additionally, sales of Outdoor Cooking
+products are strongest in the first half of the year, while sales of Appliances
+and Personal Care and Comfort products are strongest in the second half of the
+year. Furthermore, sales of a number of the Company's traditional products,
+including warming blankets, vaporizers, humidifiers and grills may be impacted
+by unseasonable weather conditions. After considering the seasonality of the
+acquired entities, the Company's consolidated sales are not expected to exhibit
+substantial seasonality; however, sales are expected to be strongest during the
+second quarter of the calendar year. Additionally, sales of many products sold
+by Coleman may be impacted by unseasonable weather conditions.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     In order to finance the acquisition of Coleman in the first quarter of 1998
+and the anticipated acquisitions of First Alert, Inc. ("First Alert") and
+Signature Brands USA, Inc. ("Signature Brands") and to refinance substantially
+all of the indebtedness of the Company and the acquired entities, the Company
+consummated: (i) an offering (the "Offering") of Zero Coupon Convertible Senior
+Subordinated Debentures due 2018 (the "Debentures") at a yield to maturity of 5%
+(approximately $2,014 million principal amount at maturity) in March 1998, which
+resulted in approximately $730 million of net proceeds and, (ii) entered into a
+revolving and term credit facility ("New Credit Facility"). (See Note 10.)
+
+     The New Credit Facility provided for an aggregate borrowings of up to $1.7
+billion pursuant to: (i) a revolving credit facility in an aggregate principal
+amount of up to $400 million, maturing March 31, 2005; (ii) an $800 million term
+loan maturing on March 31, 2005, and (iii) a $500 million term loan maturing
+September 30, 2006. Interest accrues at a rate selected at the Company's option
+of: (i) the London Interbank Offered Rate ("LIBOR") plus an agreed upon interest
+margin which varies depending upon the Company's leverage ratio, as defined, and
+other items or, (ii) the base rate of the administrative agent (generally the
+higher of the prime commercial lending rate of the administrative agent or the
+Federal Funds Rate plus 1/2 of 1%), plus an agreed upon interest margin which
+varies depending upon the Company's leverage ratio, as defined, and other items.
+(See Notes 3 and 10 to the condensed consolidated financial statements.)
+
+     As of March 31, 1998, the Company had cash and cash equivalents of $193.5
+million, working capital excluding cash and cash equivalents of $707.5 million
+and total debt of $1.7 billion. Cash used in operating activities during the
+first quarter of 1998 was $134.7 million compared to $22.6 million in the first
+quarter of 1997. This increase is primarily attributable to lower earnings
+before non-cash charges and an increased investment in working capital. The
+majority of the increase in working capital is a result of higher inventory and
+receivables levels in 1998. Inventories increased $312.2 million from December
+28, 1997, of which $246.3 million related to Coleman and $65.9 million related
+to Sunbeam's household and grill products. Receivables increased $272.2 million
+from December 28, 1997, with $215.1 million due to the Coleman acquisition and
+$57.1 million from Sunbeam's historical operating units. Extended dating terms
+contributed to the increase in Sunbeam's receivables. Cash used in operating
+activities for the 1998 first quarter reflects proceeds of $34.8 million from
+the Company's revolving trade accounts receivable securitization program entered
+into in December 1997. The Company expects to continue to use the securitization
+program to finance a portion of its accounts receivable. The Company anticipates
+that cash used in operating activities will increase in the second and third
+quarters of 1998, principally from losses incurred in operations and increases
+in inventory. As certain inventories built in 1997 and the first quarter of 1998
+in anticipation of 1998 sales volumes exceed the actual requirements, it will be
+necessary to dispose of some portions of excess inventories at amounts less than
+cost.
+
+     Cash used in investing activities in the first quarter of 1998 reflects
+$160.6 million for the acquisition of approximately 81% of Coleman. In the first
+quarter of 1997, cash provided by investing activities reflected $70.4 million
+in proceeds from the sales of divested operations. Capital spending totaled
+$19.5 million in 1998 and was primarily for capacity expansion initiatives
+primarily at the Neosho grill manufacturing facility, and equipment and tooling
+for new products. Capital spending in 1997 was $10.9 million and was primarily
+attributable to manufacturing capacity expansion and equipment to manufacture
+new products. The new product capital spending in 1998 principally related to
+the Appliance category and included costs related to water and air filtration
+products, blenders, standmixers and irons. The Company anticipates 1998 capital
+spending to be approximately 5% of sales, primarily related to new product
+introductions, capacity additions and certain facility rationalization
+initiatives.
+
+     Cash provided by financing activities totaled $456.1 million in the first
+quarter of 1998 and reflects net proceeds from the Debentures of $729.6 million,
+the cancellation and repayment of all outstanding balances under the Company's
+$250 million September 1996 revolving credit facility, the repayment of certain
+Coleman debt and the early extinguishment of the $75.0 million Hattiesburg bond.
+In addition, cash provided by financing activities is net of $25.1 million of
+financing fees related to the Company's $1.7 billion New Credit Facility and
+$19.0 million of proceeds from the exercise of stock options. (See Note 3 to the
+condensed consolidated financial statements.)
+
+     In April 1998, the Company drew from the term loans under the New Credit
+Facility to fund the acquisitions of Signature Brands and First Alert as further
+described in Note 10 to the condensed consolidated financial statements and to
+refinance certain debt of the acquired companies. The Company drew an additional
+$550 million of term loans and $50 million of revolving loans in May 1998 to
+finance the prepayment of certain debt assumed in connection with the Coleman
+acquisition. In connection with these debt refinancings, the Company expects to
+record an extraordinary charge of approximately $104 million in the second
+quarter of 1998.
+
+     At June 30, 1998, the Company was not in compliance with the covenants and
+ratios under the New Credit Facility. The Company and its lenders entered into
+an agreement dated June 30, 1998, which provided that compliance with the
+covenants would be waived through December 31, 1998. Subsequently, pursuant to
+an amendment dated October 19, 1998, the Company is not required to comply with
+the original financial covenants and ratios under the New Credit Facility until
+April 10, 1999, but will be required to comply with an earnings before interest,
+taxes, depreciation and amortization covenant, the amounts of which are to be
+determined, beginning February 1999. At September 30, 1998, following the
+scheduled repayment of a portion of the term loan, the New Credit Facility was
+reduced to $1,698 million in total, of which approximately $1,453 million was
+outstanding and approximately $245 million was available. In addition, the
+Company's cash balance available for debt repayment at September 30, 1998 was
+approximately $43 million.
+
+                                       21
+
+<PAGE>
+
+
+     The Company is working closely with its bank lenders and hopes to reach
+agreement with the bank lenders on a further amendment to the New Credit
+Facility containing revised financial covenants which the bank lenders and the
+Company find mutually acceptable. There can be no assurance that such an
+amendment, or a further waiver of the existing financial covenants, will be
+entered into with the bank lenders by April 10, 1999. The failure to obtain such
+an amendment or further waiver would result in violation of the existing
+covenants, which would permit the bank lenders to accelerate the maturity of all
+outstanding borrowing under the New Credit Facility.
+
+     The Company expects to acquire the remaining equity interest in Coleman
+pursuant to a merger transaction in which the existing Coleman minority
+shareholders will receive approximately 6.7 million shares of common stock and
+approximately $87 million in cash. In addition, as a result of litigation
+related to the merger consideration, the Company has entered into a memorandum
+of understanding (subject to court approval) pursuant to which the holders of
+the remaining equity interest in Coleman will also receive five-year warrants to
+purchase 4.98 million shares of Sunbeam common stock at $7.00 per share. There
+can be no assurance that the court will approve the settlement as proposed.
+Although there can be no assurance, it is anticipated the Coleman merger will
+occur in the first quarter of fiscal 1999. (See Note 10 to the condensed
+consolidated financial statements.)
+
+     The Company believes its borrowing capacity under the New Credit Agreement,
+cash flow from the combined operations of the Company and its acquired
+companies, existing cash and cash equivalent balances, and its receivable
+securitization program will be sufficient to support working capital needs,
+capital spending, and debt service for the foreseeable future. However, if the
+Company is unable to satisfactorily amend the financial covenants and ratio
+requirements of the New Credit Facility or obtain a further waiver of the
+existing covenants and ratio requirements prior to April 10, 1999, the Company
+expects it would, at that time, be in default of the requirements under the New
+Credit Facility and, as noted above, the lenders could then require the
+repayment of all amounts then outstanding under the New Credit Facility.
+
+NEW ACCOUNTING STANDARDS
+
+     See Notes 1 and 10 to the Company's condensed consolidated financial
+statements for a discussion of Statement of Financial Accounting Standards
+("SFAS") No. 131, DISCLOSURES ABOUT SEGMENTS OF AN ENTERPRISE AND RELATED
+INFORMATION, SFAS No. 133, ACCOUNTING FOR DERIVATIVE INSTRUMENTS AND HEDGING
+ACTIVITIES, Statement of Position ("SOP") 98-1, ACCOUNTING FOR THE COSTS OF
+COMPUTER SOFTWARE DEVELOPED OR OBTAINED FOR INTERNAL USE and SOP 98-5, REPORTING
+ON THE COSTS OF START-UP ACTIVITIES, which are required to be adopted for
+periods beginning after December 15, 1997. The adoption of these standards is
+not expected to have a material effect on the Company's consolidated results of
+operations, financial position, or cash flows, although actual charges incurred
+may be material due to Year 2000 issues, as discussed below.
+
+YEAR 2000
+
+     The Company is in the process of assessing the impact of the Year 2000 on
+its operations, including the Coleman, First Alert and Signature Brands
+companies which were acquired by the Company in the spring of 1998. The Company
+established a Year 2000 Program Management Office in the third quarter of 1998
+to conduct such assessment with assistance from three consulting firms. The
+Company's assessment encompasses the Company's information technology functions
+along with the impact of the effects of noncompliance by its vendors, service
+providers, customers, and financial institutions. Additionally, the Company is
+assessing the impact of noncompliance of embedded microprocessors in its
+products as well as equipment, such as security and telephone systems and
+controls for lighting, heating/ventilation, and facility access.
+
+     The Company relies on its information technology functions to perform many
+tasks that are critical to its operations. Significant transactions that could
+be impacted by Year 2000 noncompliance include, among others, purchases of
+materials, production management, order entry and fulfillment, and payroll
+processing. Systems and applications that have been identified by the Company to
+date as not currently Year 2000 compliant and which are critical to the
+Company's operations include its financial software systems, which process the
+order entry, purchasing, production management, general ledger, accounts
+receivable, and accounts payable functions, and critical applications in the
+Company's manufacturing and distribution facilities, such as the warehouse
+management application. The Company plans to complete corrective work with
+respect to the Company's systems by the second quarter of 1999 with final
+testing and implementation of such systems occurring in the third quarter of
+1999. Management believes that, although there are significant systems that will
+need to be modified or replaced, the Company's information systems environment
+will be made Year 2000 compliant prior to January 1, 2000. The Company's failure
+to timely complete such corrective work could have a material adverse impact on
+the Company. The Company is not able to estimate possible lost profits arising
+from such failure.
+
+                                       22
+<PAGE>
+
+
+     The Company is in the process of contacting its vendors and suppliers of
+products and services to determine their Year 2000 readiness and plans. This
+review includes third party providers to whom the Company has outsourced the
+processing of its cash receipt and cash disbursement transactions. The Company
+plans to complete this review during the fourth quarter of 1998. The failure of
+certain of these third party suppliers to become Year 2000 compliant could have
+a material adverse impact on the Company.
+
+     The Company's preliminary assessment of the total costs to address and
+remedy Year 2000 issues, including costs for the acquired companies, is at least
+$50 million. This estimate includes the costs of software and hardware
+modifications and replacements and fees to third party consultants, but excludes
+internal resources. The Company expects these expenditures to be financed
+through operating cash flows or borrowings, as applicable. Through March 31,
+1998, the Company had expended less than $1 million related to new systems and
+remediation to address Year 2000 issues, of which the majority was for software
+licenses and was therefore recorded as capital expenditures. Of the remaining
+estimated expenditures, it is anticipated that approximately 25% will be
+incurred by year-end 1998, with the remainder in 1999. A significant portion of
+these expenditures will enhance the Company's operating systems in addition to
+resolving the Year 2000 issues. As the Company completes its assessment of the
+Year 2000 issues, the actual expenditures incurred or to be incurred may differ
+materially from the amounts shown above.
+
+     After completing the assessment of the Year 2000 on its operations, the
+Company plans to establish a contingency plan for addressing any effects of the
+Year 2000 on its operations, whether due to noncompliance of the Company's
+systems or those of third parties. The Company expects to complete such
+contingency plan by September 30, 1999; such contingency plan will address
+alternative processes, such as manual procedures to replace those processed by
+noncompliant systems, potential alternative service providers, and plans to
+address compliance issues as they arise. Subject to the nature of the systems
+and applications which are not made Year 2000 compliant, the impact of such
+non-compliance on the Company's operations could be material if appropriate
+contingency plans cannot be developed prior to January 1, 2000.
+
+
+SUBSEQUENT EVENTS
+
+     See Note 10 of Notes to the condensed consolidated financial statements for
+information relating to, among other matters, a change in management, litigation
+and anticipated asset impairment, inventory reserves and related liabilities.
+
+RESTATEMENT OF RESULTS OF OPERATIONS FOR THE THREE MONTHS ENDED MARCH 30, 1997
+COMPARED TO THE THREE MONTHS ENDED MARCH 31, 1996
+
+     The results of operations previously reported for the three months ended
+March 30, 1997 as compared with the three months ended March 31, 1996 generally
+understated the level of expenses incurred in 1997. Gross margin was previously
+reported to have improved 5.8 percentage points from the level achieved in 1996.
+After restatement, the gross margin improvement was 2.2 percentage points.
+Operating income was previously reported to have improved $19.2 million or
+123.9% from 1996's first quarter to the first quarter of 1997. After reflecting
+the results of the restatement, operating earnings were $17.1 million for the
+first quarter of 1997, an improvement of $1.5 million or 9.9% from the prior
+year. On November 12, 1998, the Company filed a Form 10-K/A setting forth its
+restated financial statements for December 28, 1997 and December 29, 1996, and
+the fiscal years then ended. Management's Discussion and Analysis of Financial
+Condition and Results of Operations for the fiscal years 1997 and 1998 as well
+as 1996 and 1995 are contained therein. (See Note 8 to the condensed
+consolidated financial statements.)
+
+                                       23
+<PAGE>
+
+CAUTIONARY STATEMENTS
+
+     Certain statements in this Quarterly Report on Form 10-Q/A may constitute
+"forward-looking" statements within the meaning of the Private Securities
+Litigation Reform Act of 1995, as the same may be amended from time to time
+(herein the "Act") and in releases made by the Securities and Exchange
+Commission ("SEC") from time to time. Such forward-looking statements involve
+known and unknown risks, uncertainties and other factors which may cause the
+actual results, performance, or achievements of the Company to be materially
+different from any future results, performance, or achievements expressed or
+implied by such forward-looking statements. When used in this Quarterly Report
+on Form 10-Q/A, the word "estimate," "project," "intend," "expect" and similar
+expressions, when used in connection with the Company, including its management,
+are intended to identify forward-looking statements. These forward-looking
+statements were based on various factors and were derived utilizing numerous
+important assumptions and other important factors that could cause actual
+results to differ materially from those in the forward-looking statements. These
+Cautionary Statements are being made pursuant to the Act, with the intention of
+obtaining the benefits of the "Safe Harbor" provisions of the Act. The Company
+cautions investors that any forward-looking statements made by the Company are
+not guarantees of future performance. Important assumptions and other important
+factors that could cause actual results to differ materially from those in the
+forward-looking statements with respect to the Company include, but are not
+limited to risks associated with (i) high leverage, (ii) Sunbeam's ability to
+enter into an amendment to its credit agreement containing financial covenants
+which it and its bank lenders find mutually acceptable, or to continue to obtain
+waivers from its bank lenders with respect to its compliance with the existing
+covenants contained in such agreement, and to continue to have access to its
+revolving credit facility, (iii) Sunbeam's ability to integrate the recently
+acquired Coleman, Signature Brands and First Alert companies and expenses
+associated with such integration, (iv) Sunbeam's sourcing of products from
+international vendors, including the ability to select reliable vendors and to
+avoid delays in shipments, (v) Sunbeam's ability to maintain and increase market
+share for its products at anticipated margins, (vi) Sunbeam's ability to
+successfully introduce new products and to provide on-time delivery and a
+satisfactory level of customer service, (vii) changes in laws and regulations,
+including changes in tax rates, accounting standards, environmental laws,
+occupational, health and safety laws, (viii) access to foreign markets together
+with foreign economic conditions, including currency fluctuations, (ix)
+uncertainty as to the effect of competition in existing and potential future
+lines of business, (x) fluctuations in the cost and availability of raw
+materials and/or products, (xi) changes in the availability and relative costs
+of labor, (xii) effectiveness of advertising and marketing programs, (xiii)
+economic uncertainty in Japan, Korea and other Asian countries, as well as in
+Mexico, Venezuela, and other Latin American countries, (xiv) product quality,
+including excess warranty costs, product liability expenses and costs of product
+recalls, (xv) weather conditions which can have an unfavorable impact upon sales
+of Sunbeam's products, (xvi) the numerous lawsuits against the Company and the
+SEC investigation into the Company's accounting practices and policies, and
+uncertainty regarding the Company's available coverage on its directors' and
+officers' liability insurance, (xvii) the possibility of a recession in the
+United States or other countries resulting in a decrease in consumer demands for
+the Company's products, and (xviii) failure of the Company and/or its suppliers
+of goods or services to timely complete the remediation of computer systems to
+effectively process Year 2000 information. Other factors and assumptions not
+included in the foregoing may cause the Company's actual results to materially
+differ from those projected. The Company assumes no obligation to update any
+forward-looking statements or these Cautionary Statements to reflect actual
+results or changes in other factors affecting such forward-looking statements.
+
+                                       24
+
+<PAGE>
+
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     On April 23, 1998, two class action lawsuits were filed on behalf of
+purchasers of the Company's common stock in the U. S. District Court for the
+Southern District of Florida against the Company and certain of its present and
+former officers and directors alleging violations of the federal securities laws
+as discussed below (the "Consolidated Federal Actions"). Since that date,
+approximately fifteen similar class actions have been filed in the same Court.
+One of the lawsuits also names as defendant Arthur Andersen LLP, the Company's
+independent accountants.
+
+     The complaints in the Consolidated Federal Actions allege to varying
+degrees that the defendants (i) failed to disclose that the Company pre-sold
+approximately $50 million of products pursuant to its "early buy" marketing
+program in an effort to boost its 1997 sales and net income figures and (ii)
+made material misrepresentations regarding the Company's business operations,
+future prospects and anticipated earnings per share, in an effort to
+artificially inflate the price of the Company stock long enough for the Company
+to complete a $2 billion debt financing (supported with stock incentives)
+necessary to complete the acquisitions of Coleman, Signature Brands and First
+Alert, and for the individual defendants to enter into lucrative long-term
+employment agreements with the Company. Each complaint alleges two counts of
+securities fraud; one count against all defendants and one count against the
+individual defendants.
+
+     On June 16, 1998, the Court entered an Order consolidating all such filed
+and all such subsequently filed class actions and providing time periods for the
+filing of a Consolidated Amended Complaint and defendants' response thereto. On
+June 22, 1998, two groups of plaintiffs made motions to be appointed lead
+plaintiffs and to have their selection of counsel approved as lead counsel. On
+July 20, 1998, the Court entered an Order appointing lead plaintiffs and lead
+counsel (the "Smith Plaintiffs' Group"). This Order also stated that it "shall
+apply to all subsequently filed actions which are consolidated herewith". On
+August 28, 1998, plaintiffs in one of the subsequently filed actions filed an
+objection to having their action consolidated pursuant to the June 16, 1998
+Order, arguing that the class period in their action differs from the class
+periods in the originally filed consolidated actions. On September 29, 1998, the
+Smith Plaintiffs' Group filed its memorandum in opposition to this objection.
+
+     On April 7, 1998, a purported derivative action was filed in the Circuit
+Court for the Fifteenth Judicial Circuit in and for Palm Beach County, Florida
+against the Company and certain of its present and former officers and
+directors. The action alleged that the individual defendants breached their
+fiduciary duties and wasted corporate assets when the Company granted stock
+options to three of its officers and directors on or about February 2, 1998 at
+an exercise price of $36.85. On June 25, 1998, all defendants filed a motion to
+dismiss the complaint for failure to make a presuit demand on the board of
+directors of the Company. On October 22, 1998, plaintiff filed an amended
+complaint against all but one of the defendants named in the original complaint.
+The amended complaint no longer challenges the stock options, but instead
+alleges that the individual defendants breached their fiduciary duties by
+failing to have in place adequate accounting and sales controls, which failure
+caused the inaccurate reporting of financial information to the public, thereby
+causing an artificial inflation of the Company's financial statements and stock
+price.
+
+     On June 25, 1998, four purported class actions were filed in the Court of
+Chancery of the State of Delaware in New Castle County by minority shareholders
+of Coleman against the Company and certain of the Company's present and former
+officers and directors. An additional class action was filed on August 10, 1998,
+against the same parties. All of the plaintiffs are represented by the same
+Delaware counsel and have agreed to consolidate the class actions. These actions
+allege, in essence, that the existing exchange ratio for the proposed merger
+between the Company and Coleman is no longer fair to Coleman shareholders as a
+result of the recent decline in the market value of the Company stock. On or
+about October 21, 1998, the parties signed a memorandum of understanding to
+settle these class actions, subject to court approval.
+
+     During the months of August and October 1998, purported class and
+derivative actions were filed in the Court of Chancery of the State of Delaware
+in New Castle County and in the U. S. District Court for the Southern District
+of Florida by shareholders of the Company against the Company, M&F and certain
+of the Company's present and former directors. These complaints allege that the
+defendants breached their fiduciary duties when the Company entered into a
+settlement agreement whereby M&F released the Company from any claims it may
+have had arising out of the Company's acquisition of its interest in Coleman and
+agreed to provide management support to the Company (the "Settlement
+Agreement"). Pursuant to the Settlement Agreement, a M&F subsidiary was granted
+five-year warrants to purchase up to an additional 23 million shares of the
+Company's common stock at an exercise price of $7.00 per share. These complaints
+also allege that the rights of the public shareholders have been compromised, as
+the settlement would normally require shareholder approval under the rules and
+regulations of the New York Stock Exchange ("NYSE"). The Audit Committee of the
+Company's board determined that obtaining such shareholder approval would have
+seriously jeopardized the financial viability of the Company which is an
+allowable exception to the NYSE shareholder approval requirement. An amended
+complaint has been filed on this action.
+
+     On September 16, 1998, an action was filed in the 56th Judicial District
+Court of Galveston County, Texas alleging various claims in violation of the
+Texas Securities Act and Texas Business and Commercial Code as well as common
+law fraud as a result of the Company's alleged misstatements and omissions
+regarding the Company's financial condition and prospects during a period
+beginning May 1, 1998 and ending June 16, 1998, in which the plaintiffs engaged
+in transactions in the Company's stock. The Company is the only named defendant
+in this action. The complaint requests recovery of compensatory damages,
+punitive damages and expenses in an unspecified amount. This action has been
+removed to the U.S. District Court for the Southern District of Texas and the
+Company has filed a motion to transfer this case to the Southern District of
+Florida, the forum for the Consolidated Federal Actions. Plaintiffs have moved
+to remand the case to Texas state court.
+
+     On October 30, 1998, a class action lawsuit was filed on behalf of certain
+purchasers of the Company's Debentures in the U.S. District Court of the
+Southern District of Florida against the Company and its prior Chief Executive
+Officer and Chief Financial Officer, alleging violations of the federal
+securities laws and common law fraud. The complaint alleges that the Company's
+offering memorandum used for the marketing of the Debentures
+
+                                       25
+
+<PAGE>
+
+
+contained false and misleading information regarding the Company's financial
+position and that the defendants engaged in a plan to inflate the Company's
+earnings for the purpose of defrauding the plaintiffs and others. The Company is
+seeking to consolidate this lawsuit with the other Consolidated Federal Actions.
+
+     The Company intends to vigorously defend each of the foregoing lawsuits,
+but cannot predict the outcome and is not currently able to evaluate the
+likelihood of the Company's success in each case or the range of potential loss.
+However, if the foregoing actions were determined adversely to the Company, such
+judgments would likely have a material adverse effect on the Company's financial
+position, results of operations and cash flow.
+
+     On July 2, 1998, the American Insurance Company ("American") filed suit
+against the Company in the U.S. District Court for the Southern District of New
+York requesting a declaratory judgment of the court that the directors' and
+officers' liability insurance policy for excess coverage issued by American was
+invalid and/or had been properly cancelled by American. The Company has moved to
+transfer such action to the federal district court in which the Consolidated
+Federal Actions are currently pending; American is opposing such motion. On
+October 20, 1998, an action was filed by Federal Insurance Company in the U.S.
+District Court for the Middle District of Florida requesting the same relief as
+that requested by American in the previously filed action as to additional
+coverage levels under the Company's directors' and officers' liability insurance
+policy. The Company intends to pursue recovery from all of its insurers if
+damages are awarded against the Company or its indemnified officers and/or
+directors under any of the foregoing actions. The Company's failure to obtain
+such insurance recoveries following an adverse judgement against the Company in
+any of the lawsuits referred to above could have a material adverse effect on
+the Company's financial position, results of operations and cash flow.
+
+     The Company and its subsidiaries are also involved in various lawsuits
+arising from time to time which the Company considers to be ordinary routine
+litigation incidental to its business. In the opinion of the Company, the
+resolution of these routine matters, and of certain matters relating to prior
+operations of the Company's predecessor, individually or in the aggregate, will
+not have a material adverse effect upon the financial position or results of
+operations of the Company.
+
+                                       26
+
+<PAGE>
+
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+(a)      Exhibits*
+
+3        Bylaws of Sunbeam Corporation, as amended.
+10.a     Credit Agreement dated as of March 30, 1998, among Sunbeam Corporation,
+         the Subsidiary Borrowers referred to therein, the Lenders party
+         thereto, Morgan Stanley Senior Funding, Inc., Bank America National
+         Trust and Savings Association and First Union National Bank.
+10.b     First Amendment to Credit Agreement dated as of May 8, 1998, among
+         Sunbeam Corporation, the Subsidiary Borrowers referred to therein, the
+         Lenders party thereto, Morgan Stanley Senior Funding, Inc., Bank
+         America National Trust and Savings Association and First Union National
+         Bank.
+10.c     Indenture, dated as of March 25, 1998, by and among the Company and
+         Bank of New York, as Trustee, with respect to the Zero Coupon
+         Convertible Senior Subordinated Debentures due 2018.
+10.d     Registration Rights Agreement dated March 25, 1998, by and among the
+         Company and Morgan Stanley & Co., Inc., with respect to the Zero Coupon
+         Convertible Senior Subordinated Debentures due 2018.
+27       Financial Data Schedule, submitted electronically to the Securities and
+         Exchange Commission for information only and not filed. 
+99.a     Press Release dated May 11, 1998, regarding first quarter 1998 earning
+         and restructure of the Sunbeam acquired companies.
+
+* All of the foregoing Exhibits were filed with the Company's report on Form
+10-Q for the first quarter of 1998.
+
+(b)      Reports on Form 8-K
+
+The Company filed Reports on Form 8-K on April 13, 1998 as amended by Form 8-K/A
+filed on May 11, 1998.
+
+                                       27
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                               SUNBEAM CORPORATION
+
+
+
+                               BY: /S/ BOBBY G. JENKINS
+                               ------------------------
+                               Bobby G. Jenkins
+                               Executive Vice President, and
+                               Chief Financial Officer
+                               (Principal Financial Officer)
+
+                               Dated: November 25, 1998
+
+                                       28
+
+<PAGE>
+
+
+                                 EXHIBIT INDEX
+
+
+EXHIBIT                  DESCRIPTION
+
+  27                Financial Data Schedule
+
+
+
+                                       29
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE SUNBEAM
+CORPORATION FINANCIAL STATEMENTS FOR THE PERIODS ENDED MARCH 31, 1998 AND MARCH
+30, 1997 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1998             DEC-28-1997
+<PERIOD-START>                             DEC-29-1997             DEC-30-1996
+<PERIOD-END>                               MAR-31-1998             MAR-30-1997
+<CASH>                                         193,543                  30,415
+<SECURITIES>                                         0                       0
+<RECEIVABLES>                                  538,889                 317,215
+<ALLOWANCES>                                    38,218                  27,706
+<INVENTORY>                                    617,091                 148,011
+<CURRENT-ASSETS>                             1,386,160                 596,294
+<PP&E>                                         516,382                 444,000
+<DEPRECIATION>                                 104,286                 217,370
+<TOTAL-ASSETS>                               3,355,165               1,048,969
+<CURRENT-LIABILITIES>                          485,149                 244,724
+<BONDS>                                      1,637,820                 175,235
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                         1,008                     892
+<OTHER-SE>                                     959,757                 420,515
+<TOTAL-LIABILITY-AND-EQUITY>                 3,355,165               1,048,969
+<SALES>                                        247,601                 252,488
+<TOTAL-REVENUES>                               247,601                 252,488
+<CGS>                                          213,828                 194,237
+<TOTAL-COSTS>                                  213,828                 194,237
+<OTHER-EXPENSES>                                 3,165                      77
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                               5,073                   1,993
+<INCOME-PRETAX>                               (45,604)                  14,986
+<INCOME-TAX>                                     (122)                   5,959
+<INCOME-CONTINUING>                           (45,482)                   9,027
+<DISCONTINUED>                                       0                (13,713)
+<EXTRAORDINARY>                                (8,624)                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                  (54,106)                 (4,686)
+<EPS-PRIMARY>                                   (0.63)                  (0.06)
+<EPS-DILUTED>                                   (0.63)                  (0.05)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

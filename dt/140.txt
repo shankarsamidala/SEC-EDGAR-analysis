@@ -1,0 +1,1032 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CjdqtK7HzjQ2TP43QMX7W8tyThcca8Taz1ZQZRrJDH+xdRaqwACfjIfsOsxzpBAh
+ ryoYTft0pr/xdK0TaKg59w==
+
+<SEC-DOCUMENT>0000011860-99-000035.txt : 19990806
+<SEC-HEADER>0000011860-99-000035.hdr.sgml : 19990806
+ACCESSION NUMBER:		0000011860-99-000035
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990630
+FILED AS OF DATE:		19990805
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETHLEHEM STEEL CORP /DE/
+		CENTRAL INDEX KEY:			0000011860
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				240526133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01941
+		FILM NUMBER:		99678250
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+		BUSINESS PHONE:		6106942424
+
+	MAIL ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>SECOND QUARTER 1999 10-Q
+<TEXT>
+
+<PAGE> 1
+
+                                   FORM 10-Q
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+               Quarterly Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+
+                        For Quarter Ended June 30, 1999
+                         Commission file number 1-1941
+
+
+                          BETHLEHEM STEEL CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+
+
+        DELAWARE                                  24-0526133
+(State of incorporation)                       (I.R.S. Employer
+                                                Identification No.)
+
+1170 Eighth Avenue                                   18016-7699
+BETHLEHEM, PENNSYLVANIA                              (Zip Code)
+(Address of principal
+executive offices)
+
+
+Registrant's telephone number, including area code:  (610) 694-2424
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+                                     Yes   X       No
+                                          ----        ----
+
+
+Number of Shares of Common Stock Outstanding as of July 30, 1999:
+     130,839,939
+     -----------
+
+
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+         BETHLEHEM STEEL CORPORATION AND CONSOLIDATED SUBSIDIARIES
+
+
+
+
+                                   INDEX
+
+                                                         Page No.
+                                                         --------
+
+PART I.  Financial Information
+
+Consolidated Statements of Income-
+   Three Months and Six Months Ended
+   June 30, 1999 and 1998 (unaudited). . . . . . . . . .    2
+
+Consolidated Balance Sheets-
+   June 30, 1999 (unaudited), December 31, 1998
+   and June 30, 1998 (unaudited) . . . . . . . . . . . .    3
+
+Consolidated Statements of Cash Flows-
+   Six Months Ended June 30, 1999
+   and 1998 (unaudited). . . . . . . . . . . . . . . . .    4
+
+Notes to Consolidated Financial Statements (unaudited) .    5
+
+Management's Discussion and Analysis of Results of
+   Operations and Financial Condition. . . . . . . . . .    6
+
+
+PART II.  Other Information
+
+   Item 1.  Legal Proceedings . . . . . . . . . . . . . .   11
+
+   Item 6.  Exhibits and Reports on Form 8-K  . . . . . .   11
+
+
+Signatures  . . . . . . . . . . . . . . . . . . . . . . .   12
+
+
+
+                             - 1 -
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+
+                          Bethlehem Steel Corporation
+
+                     CONSOLIDATED  STATEMENTS  OF  INCOME
+            (dollars and shares in millions, except per share data)
+                                  (unaudited)
+<TABLE>
+<CAPTION>
+
+
+     Three Months                                                              Six Months
+     Ended June 30                                                           Ended June 30
+  -------------------                                                      -----------------
+   1999         1998                                                        1999         1998
+   ----         ----                                                        ----         ----
+<S>          <C>           <C>                                              <C>         <C>
+
+ $  984.8     $1,189.7     Net Sales                                       $1,944.3     $2,322.2
+ ---------    ---------                                                    ---------    ---------
+                           Costs and Expenses:
+    915.5      1,008.8         Cost of sales                                1,803.9      1,965.8
+     63.5         63.4         Depreciation and amortization                  124.7        123.2
+                               Selling, administration
+     31.8         28.7           and general expense                           61.2         54.0
+                  35.0         Estimated loss on exiting businesses               -         35.0
+ ---------    ---------                                                    ---------    ---------
+  1,010.8      1,135.9     Total Costs and Expenses                         1,989.8      2,178.0
+ ---------    ---------                                                    ---------    ---------
+    (26.0)        53.8     Income (Loss) from Operations                      (45.5)       144.2
+
+                           Financing Income (Expense):
+    (12.1)       (12.1)        Interest and other financing costs             (26.0)       (23.7)
+      1.9          3.6         Interest and other income                        4.2          6.9
+ ---------    ---------                                                    ---------    ---------
+    (36.2)        45.3     Income (Loss) before Income Taxes                  (67.3)       127.4
+      6.5         (7.7)    Benefit (Provision) for Income Taxes                12.0        (21.2)
+ ---------    ---------                                                    ---------    ---------
+    (29.7)        37.6     Net Income (Loss)                                  (55.3)       106.2
+
+
+     10.3         10.5     Dividends on Preferred and Preference Stock         20.6         21.0
+ ---------    ---------                                                    ---------    ---------
+ $  (40.0)    $   27.1     Net Income (Loss) Applicable to Common Stock    $  (75.9)    $   85.2
+ =========    =========                                                    =========    =========
+                           Net Income (Loss) per Common Share:
+ $  (0.31)    $   0.23         Basic                                       $  (0.58)    $   0.73
+ $  (0.31)    $   0.23         Diluted                                     $  (0.58)    $   0.72
+
+                           Average Shares Outstanding:
+    129.9        118.8         Basic                                          129.8        116.0
+    129.9        120.2         Diluted                                        129.8        119.1
+
+
+                                         Additional Data
+
+    2,103        2,357     Steel products shipped (thousands of net tons)     4,106        4,578
+    2,272        2,552     Raw steel produced (thousands of net tons)         4,801        5,039
+
+
+</TABLE>
+
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                - 2 -
+
+
+
+<PAGE> 4
+
+                         Bethlehem  Steel  Corporation
+
+                         CONSOLIDATED  BALANCE  SHEETS
+                             (dollars in millions)
+
+                                    ASSETS
+<TABLE>
+<CAPTION>
+
+                                               June 30                    June 30
+                                                 1999     December 31      1998
+                                             (unaudited)    1998        (unaudited)
+                                             -----------  -----------   -----------
+<S>                                          <C>         <C>           <C>
+
+Current Assets:
+  Cash and cash equivalents                  $   84.6    $   137.8     $  159.8
+  Receivables, less allowances                  289.7        307.2        374.5
+  Inventories:
+    Raw materials                               286.4        319.9        329.4
+    Finished and semifinished                   694.0        720.7        665.1
+                                             ---------    ---------    ---------
+                                                980.4      1,040.6        994.5
+  Other current assets                            6.1          9.2         11.7
+                                             ---------    ---------    ---------
+Total Current Assets                          1,360.8      1,494.8      1,540.5
+Investments and Miscellaneous Assets             97.0         98.0         99.4
+Property, Plant and Equipment,
+  less accumulated depreciation of
+  $4,220.3, $4,119.4, and $4,099.0            2,748.3      2,655.7      2,595.7
+Deferred Income Tax Asset - net                 937.0        920.0        920.0
+Net Assets of Discontinued Stainless
+  Operations (Note 3)                            15.0        100.0        310.0
+Goodwill, less accumulated amortization of
+  $13.0, $7.0, and $1.0 (Note 3)                347.0        353.0        359.0
+                                             ---------    ---------    ---------
+Total Assets                                 $5,505.1     $5,621.5     $5,824.6
+                                             =========    =========    =========
+
+                     LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Accounts payable                           $  384.9     $  417.9     $  438.1
+  Accrued employment costs                      278.2        307.7        304.5
+  Accrued taxes                                  52.6         53.4         49.0
+  Debt and capital lease obligations             69.5         44.4        244.4
+  Other current liabilities                     161.4        161.8        213.3
+                                             ---------    ---------    ---------
+
+Total Current Liabilities                       946.6        985.2      1,249.3
+
+Pension Liability                               415.0        415.0        469.5
+Postretirement Benefits Other Than Pensions   1,653.5      1,630.0      1,630.8
+Long-term Debt and Capital Lease Obligations    614.9        627.7        647.6
+Deferred Gain on Sales                          126.7        136.0          -
+Other Long-term Liabilities                     328.5        338.1        340.4
+
+Stockholders' Equity:
+  Preferred Stock                                11.6         11.6         11.6
+  Preference Stock                                2.2          2.2          2.4
+  Common Stock                                  132.9        132.2        131.4
+  Common Stock held in treasury at cost         (60.5)       (60.3)       (60.1)
+  Additional paid-in capital                  1,976.8      1,991.6      2,003.4
+  Accumulated deficit                          (643.1)      (587.8)      (601.7)
+                                             ---------    ---------    ---------
+Total Stockholders' Equity                    1,419.9      1,489.5      1,487.0
+                                             ---------    ---------    ---------
+Total Liabilities and Stockholders' Equity   $5,505.1     $5,621.5     $5,824.6
+                                             =========    =========    =========
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+
+</TABLE>
+                                      -3-
+
+<PAGE> 5
+                         Bethlehem  Steel  Corporation
+
+                   CONSOLIDATED  STATEMENTS  OF  CASH  FLOWS
+                             (dollars in millions)
+                                  (unaudited)
+
+                                                          Six Months Ended
+                                                               June 30
+                                                        ---------------------
+                                                          1999         1998
+                                                        ---------    ---------
+<TABLE>
+<CAPTION>
+<S>                                                     <C>          <C>
+Operating Activities:
+     Net income (loss)                                  $  (55.3)    $  106.2
+
+     Adjustments for items not affecting
+     cash from operating activities:
+        Depreciation and amortization                      124.7        123.2
+        Estimated loss on exiting businesses                   -         35.0
+        Deferred income taxes                              (12.0)        20.0
+        Other - net                                         (1.6)         6.8
+
+     Working capital (excluding financing and
+     investing activities):
+        Receivables - operating                            (50.3)        (2.9)
+        Receivables - sold                                  70.0            -
+        Inventories                                         60.2        (13.0)
+        Accounts payable                                   (31.9)         7.1
+        Employment costs and other                          (4.5)       (15.3)
+                                                        ---------    ---------
+Cash Provided from Operations before Pension Activities     99.3        267.1
+
+Pension Activities:
+     Pension expense                                        20.0         42.0
+     Pension funding                                       (20.0)       (50.0)
+                                                        ---------    ---------
+Cash Provided from Continuing Operating Activities          99.3        259.1
+                                                        ---------    ---------
+Cash Provided from Operating Activities of
+      Discontinued Stainless Operations (Note 3)            11.4          8.3
+                                                        ---------    ---------
+Investing Activities:
+     Capital expenditures                                 (227.4)      (114.4)
+     Purchase of Lukens (Note 3):
+        Paid to Lukens stockholders, net of
+          cash acquired                                        -       (327.8)
+        Transaction and other related payments              (6.6)        (7.5)
+     Cash proceeds from asset sales and other               87.0          5.4
+                                                        ---------    ---------
+Cash Used for Investing Activities                        (147.0)      (444.3)
+                                                        ---------    ---------
+Financing Activities:
+     Borrowings                                             32.3        201.1
+     Debt payments                                         (24.1)       (70.0)
+     Cash dividends paid                                   (20.2)       (20.2)
+     Other payments                                         (4.9)       (26.6)
+                                                        ---------    ---------
+Cash Provided by (Used for) Financing Activities           (16.9)        84.3
+                                                        ---------    ---------
+Net Decrease in Cash and Cash Equivalents                  (53.2)       (92.6)
+Cash and Cash Equivalents - Beginning of Period            137.8        252.4
+                                                        ---------    ---------
+                          - End of Period               $   84.6     $  159.8
+                                                        =========    =========
+Supplemental Cash Flow Information:
+     Interest paid, net of amount capitalized           $   25.1     $   20.3
+     Income taxes paid (received)                       $   (0.3)    $    8.2
+     Capital lease obligations incurred                 $    4.7     $      -
+</TABLE>
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                     - 4 -
+
+
+<PAGE> 6
+
+       NOTES   TO   CONSOLIDATED   FINANCIAL   STATEMENTS   (UNAUDITED)
+
+1.  The Consolidated Financial Statements as of and for the three month and six
+month periods ended June 30, 1999 and 1998 were not audited.  However, in
+Management's opinion, the information reflects all adjustments necessary for a
+fair statement of the results for the periods presented.  Management believes
+all adjustments were of a normal and recurring nature.
+
+2.  These Consolidated Financial Statements should be read together with the
+1998 audited financial statements in Bethlehem's Annual Report on Form 10-K
+filed with the Securities and Exchange Commission.
+
+3.  On May 29, 1998, Bethlehem acquired all of the outstanding capital stock of
+Lukens Inc.  The aggregate purchase price of $560.6 million comprises cash of
+$327.8 million, the issuance of 15.1 million shares of Bethlehem common stock
+valued at $184.8 million, and transaction related costs of $48.0 million.
+Bethlehem paid $6.6 million of the transaction related costs during the first
+six months of 1999.  The transaction was accounted for as a purchase and,
+accordingly, Lukens' results are included in the Consolidated Financial
+Statements from the date of acquisition.
+
+    The fair value (in millions) of the assets acquired and the liabilities
+assumed is as follows:
+
+     Current assets                                        $ 187.8
+     Property, plant and equipment                           265.1
+     Net assets of discontinued stainless opertions          310.0
+     Deferred tax asset, other                                75.4
+     Goodwill                                                360.0
+     Current liabilities                                    (105.0)
+     Pension and other postretirement benefit liabilities   (230.0)
+     Debt                                                   (268.5)
+     Other long-term liabilities                             (34.2)
+                                                           --------
+     Purchase price, net of cash acquired                  $ 560.6
+                                                           ========
+
+    In February 1999, Bethlehem completed the sale of the stainless
+distribution business, Washington Specialty Metals Corporation for about $70
+million.  In April 1999, Bethlehem signed an agreement to sell the stainless
+sheet operations in Massillon, Ohio and Washington, Pennsylvania.  Negotiations
+continue and are contingent on the prospective owner reaching a labor agreement
+with the USWA.  The stainless and distribution businesses were acquired with
+the purchase of Lukens Inc.  and are being accounted for as discontinued
+operations.  Income or losses from these operations are not included in
+Bethlehem's operating results.  Since the date of acquisition, these operations
+have incurred operating losses of about $33 million.  The net assets of these
+operations are shown separately on the balance sheet and consist primarily of
+property, plant and equipment and working capital.
+
+    Bethlehem will finalize all purchase accounting adjustments upon completion
+of the sale of the stainless sheet operations described above.  Any future
+adjustments are not expected to materially affect the recorded values of the
+assets acquired or liabilities assumed, including the recorded amount of
+goodwill.
+
+    The unaudited pro forma combined results (excluding stainless) for the
+first six months of 1998 as if Lukens had been acquired at the beginning of
+1998 are estimated to be (dollars in millions, except per share data):
+
+        Net Sales                 $ 2,561.9
+        Income from Operations        154.5
+        Net Income                    107.3
+
+        Net Income per Share:
+        Basic                     $     .68
+        Diluted                         .67
+
+
+4.  On April 23, 1999 Bethlehem entered into a construction financing
+arrangement for the coversion of a continuous slab casting strand at Sparrows
+Point to a wide slab casting strand.  The financing is for a maximum of $50
+million with an interest rate of about 8% and a term of 16 months.  As of June
+30, 1999, Bethlehem had borrowed about $11 million under the financing.  On
+July 21, 1999, Bethlehem entered into a loan arrangement for $60 million at an
+interest rate of about 7-1/4% and a term of 18 months to finance a portion of
+the cold rolling complex at Sparrows Point.  Bethlehem will replace these
+construction financings with permanent financings upon the completion of the
+projects.
+
+    On June 17, 1999, Bethlehem amended its existing non-reducing credit
+facility.  The amendment increases the size of the facility from $600 million
+to $660 million by increasing the inventory credit agreement from $260 million
+to $320 million.  The size of the receivables purchase agreement remains at
+$340 million and the maturity of the facility remains June 19, 2003.
+
+                                     - 5 -
+<PAGE> 7
+                          MANAGEMENT'S DISCUSSION AND
+           ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+
+REVIEW OF RESULTS:
+
+SECOND QUARTER AND FIRST SIX MONTHS 1999
+SECOND QUARTER AND FIRST SIX MONTHS 1998
+
+         We reported a net loss of $30 million (($.31) per diluted share) for
+the second quarter of 1999 compared with net income of $38 million ($.23 per
+diluted share) for the second quarter of 1998.  Results for the second quarter
+of 1999 include about $20 million ($17 million after-tax) of additional
+operating costs that were incurred in connection with the reline of our blast
+furnace at Sparrows Point.  Results for the second quarter of 1998 include a
+$35 million ($29 million after-tax) estimated loss related to the closing
+of our Sparrows Point plate mill.  Excluding this item, net income for the
+second quarter of 1998 would have been $67 million ($.45 per diluted share).
+Sales for the second quarter of 1999 were $985 million compared with $1.19
+billion for the second quarter of 1998.
+
+
+OPERATING RESULTS
+
+         Our loss from operations was $26 million for the second quarter of
+1999 compared with income from operations of $89 million (excluding the $35
+million estimated loss) for the second quarter of 1998.  Second quarter
+1999 operating results declined from a year ago due to significantly lower
+realized prices and lower shipments, and the approximately $20 million of
+higher operating costs that were incurred in connection with the reline of our
+"L" blast furnace at Sparrows Point.  Blast furnace production was discontinued
+on June 5 and is expected to resume in mid August 1999.
+
+         Steel shipments of about 2.1 million net tons for the second quarter
+of 1999 were less than the 2.4 million net tons shipped in the second quarter
+of 1998 as lower shipments at Burns Harbor, Sparrows Point, and Pennsylvania
+Steel Technologies, Inc. more than offset additional plate shipments
+resulting from our acquisition of Lukens in May 1998.
+
+         Our loss from operations for the first six months of 1999 was $46
+million compared with income from operations of $179 million (excluding the
+estimated loss) for the first six months of 1998.  Results declined
+primarily due to significantly lower realized prices and lower shipments.
+
+         Second quarter 1999 operating results were slightly worse than the $20
+million loss experienced in the first quarter of 1999.  This was primarily due
+to lower realized prices, especially for plate products.  This adverse effect
+of lower realized prices was partially offset by increased shipments and lower
+costs, primarily for raw materials, despite the
+
+                                     - 6 -
+
+
+
+
+
+
+
+
+<PAGE> 8
+
+additional costs that were incurred in connection with the blast furnace reline
+at Sparrows Point.
+
+
+LIQUIDITY AND CAPITAL STRUCTURE
+
+         At June 30, 1999, total liquidity, comprising cash, cash equivalents,
+and funds available under our bank credit arrangements, totaled $405 million
+compared with $479 million at December 31, 1998 and $602 million at June 30,
+1998.
+
+         For the first six months of 1999, cash provided from operations before
+pension activities was $99 million, including the sale of $70 million of
+receivables, compared with $267 million for the first six months of 1998.
+Principal uses of cash during the first six months of 1999 included capital
+expenditures of $227 million, debt repayments of $24 million, and pension
+funding of $20 million.
+
+         Capital expenditures and investments are currently expected to be
+about $550 million in 1999.  Major capital expenditures for 1999 include the
+previously announced construction of a new continuous cold mill complex, reline
+of the "L" blast furnace, and conversion of a continuous slab casting strand to
+a wide slab casting strand at Sparrows Point.  It also includes construction
+and other spending related to a hot dip coating line joint venture with LTV
+that was previously announced.  We recently began preliminary work on the
+caster conversion at Sparrows Point to coincide with the reline of the blast
+furnace to minimize production losses during the final stages of the conversion
+scheduled for second quarter 2000.  We are also using the opportunity of the
+current production outage related to the blast furnace reline to complete
+various other modernization projects at Sparrows Point that will enhance the
+division's competitiveness.
+
+         In addition to capital expenditures, other major uses of cash during
+the year are expected to include debt repayments and pension funding.
+
+         We expect to maintain an adequate level of liquidity during 1999 with
+cash provided from operations, reductions in working capital, asset sales,
+project financings, and available funds under our credit arrangements.
+
+         In June, we increased the size of our non-reducing credit arrangement
+from $600 million to $660 million by increasing the inventory credit agreement
+from $260 million to $320 million.  The size of the receivables purchase
+agreement remains at $340 million, and the maturity date of the arrangement
+remains June 19, 2003.  Two banks were added to our bank group, increasing the
+total to 15 domestic and international institutions.
+
+         During the second half of this year, we anticipate that our working
+capital will be reduced by about $150 million, primarily from lower
+inventories.  As previously reported, we also expect to complete certain agreed
+upon improvements that will enhance the performance of the facilities at
+Bethlehem Lukens Plate that will be used to provide conversion services to
+Allegheny Teledyne and to receive payment from them for a $70
+
+                                     - 7 -
+
+
+
+
+
+
+
+
+<PAGE> 9
+
+million note which will then be payable.
+
+         With respect to financings, in April, we entered into a $50 million
+construction financing arrangement for the wide slab casting strand project at
+Sparrows Point.  We will replace the construction financing with a permanent
+financing upon the completion of the project in the third quarter of 2000.
+Additionally, in July we entered into a $60 million short- term loan
+arrangement with RZB Finance, LLC relating to a portion of our cold mill
+capital expenditures at Sparrows Point.  We are also working jointly with LTV
+to arrange both construction and permanent financing for the hot dip coating
+line joint venture, which we expect to complete in the third quarter of this
+year.
+
+
+INTERNATIONAL STEEL TRADE
+
+         The steel trade crisis continues to adversely affect our performance.
+Shipments have been reduced and prices depressed.  Average domestic steel
+industry prices for all products in 1999 are down 7% from average 1998 prices.
+This is the largest aggregate decline in nearly 20 years.  Current industry
+market prices for hot rolled, cold rolled, and plate have declined 10%, 9%, and
+15%, respectively, from a year ago.
+
+         We will continue to take all appropriate legal actions and have
+pending hot rolled, cold rolled, and plate cases.  Our public affairs
+activities are advancing with the Stand Up for Steel Campaign in coordination
+with the USWA, other leading steel companies, and others.  Our government
+affairs actions are centered on working closely with the Administration and the
+Congress to bring about much needed trade law reform.  We believe that all of
+these actions will in due course help to restore fair trade in steel.
+
+
+LABOR CONTRACT
+
+         Bethlehem and the USWA have reached a tentative labor agreement which
+is subject to ratification by the USWA membership.  We believe the tentative
+long-term, five-year, labor agreement is a fair and reasonable contract that
+provides stability to our customers, suppliers, employees, and stockholders.
+The new labor agreement will provide Bethlehem with a sound basis to advance
+our objective of creating partnerships among employees, and to improve our
+productivity and overall competitiveness.
+
+
+YEAR 2000
+
+         Problems created by the once common programming practice of storing
+date information using only the last two digits to indicate the year will
+impact all businesses and government organizations as we approach the year
+2000.  The scope of our Year 2000 Program involves many areas including our
+business and manufacturing computing systems, the associated personal
+computing, communications and
+
+                                           - 8 -
+
+
+
+
+
+<PAGE> 10
+
+infrastructure elements, and the Year 2000 readiness of our key suppliers and
+customers.  The major elements of our program are inventory, risk assessment,
+remediation, testing, and contingency planning.
+
+         We have been actively working on resolving the Year 2000 problem
+for over four years.  The effort was initiated with a large pilot project in
+late 1994 during which five percent of our business applications were converted
+to be Year 2000 compliant.  The pilot allowed us to develop a methodology for
+solving our Year 2000 problem as well as a structure for effective management
+and timely correction of the problem within our systems.  In late 1997, we
+conducted a 45-day test of converted business applications for Business Unit
+and Corporate systems as well as all operating system software in a full
+simulation of the Year 2000.  We reset the system clock for various dates and
+tested the processing of date information before and after December 31, 1999,
+as well as processing of the Year 2000 as a leap year.  This test was completed
+successfully and validated our processes and methods for addressing the Year
+2000 problem.   Additional full-scale tests were conducted in December 1998,
+January 1999, and March 1999.  The results of these additional tests were
+positive and reinforced our approach for addressing the Year 2000 problem.
+
+         We continue to evaluate the readiness of our key suppliers and
+customers.  Starting in April 1998, we surveyed key suppliers, transportation
+providers, financial partners, and electronic data interchange trading
+partners.  To date, responses have been received from 95% of those surveyed and
+we are currently confirming their compliance.  Additionally, we have received
+correspondence from over 700 key customers regarding their Year 2000 readiness,
+and we will continue to review their readiness.
+
+         We have completed the Year 2000 remediation of all critical
+functions.  We have replaced, repaired, or re-engineered all systems that could
+significantly impact our ability to process orders, produce goods, provide
+services, ensure product quality, and perform other critical functions.  Our
+focus is now on contingency planning and the final testing and verification of
+systems.  Year 2000 business continuity planning and contingency planning are
+underway at all of our facilities and offices.  We have prioritized critical
+business processes, developed probable and worst case failure scenarios,
+assessed the business impact of these potential failures, and developed risk
+management strategies to mitigate these risks.  Our risk management strategies
+include operating, staffing, contingency, and triage plans.  Our plans address
+both internal and external risks.  Strategies for mitigating risk include the
+development of (1) operating and staffing plans for the Year 2000 rollover, (2)
+backup and/or alternate procedures, and (3) inventory requirements based on
+customer and supplier assessments.  We are developing alternate plans for those
+business partners who may not be Year 2000 ready in significant areas and
+preparing contact lists and plans for working with key business partners during
+the rollover period to ensure a swift resolution to any problem.  We plan to
+complete the contingency planning and remediate the few remaining non-critical
+systems by the end of the third quarter.
+
+                                       - 9 -
+
+
+
+
+
+<PAGE> 11
+
+         The costs associated with our Year 2000 Program continue to be at
+planned levels.  The costs will be charged to normal operating expenses.  The
+total estimated incremental cost of this activity is approximately $7 million.
+We do not expect to incur any extraordinary charges associated with the effort,
+and no major computer projects have been deferred because of our Year 2000
+Program.
+
+         We believe that we have taken all reasonable steps to ensure our
+Year 2000 readiness.  The success of our Year 2000 program now depends, to a
+large extent, on the Year 2000 readiness of our key business partners and, if
+necessary, the implementation of contingency plans.  These and other
+unanticipated Year 2000 issues could have a material adverse effect on our
+results of operations or financial condition.
+
+
+DIVIDENDS
+
+         On July 28, 1999, our Board of Directors declared dividends of $1.25
+per share on Bethlehem's $5.00 Cumulative Convertible Preferred Stock, $0.625
+per share on Bethlehem's $2.50 Cumulative Convertible Preferred Stock and
+$0.875 per share on Bethlehem's $3.50 Cumulative Convertible Preferred Stock,
+each payable September 10, 1999, to holders of record on August 10, 1999.  No
+dividend was declared on Bethlehem's Common Stock.
+
+
+OUTLOOK
+
+         The domestic economy continues on a course of moderate growth and
+inflation remains relatively low.  Competition remains intense in all of our
+markets due to unfairly traded imports, excess global steel capacity, new
+domestic supply, and continuing high levels of plate inventories in the
+marketplace.
+
+         The reline of our "L" blast furnace at Sparrows Point is on schedule,
+and we expect the furnace to resume production in mid August 1999.  The
+reline had an adverse impact on our costs of about $20 million during the
+second quarter and will also adversely affect costs in the third quarter by
+about the same amount.  The tentative labor agreement reached with the USWA
+will be voted on by August 6, 1999, and we hope that it will be ratified by the
+membership.  Our automotive customers are currently in active negotiations with
+their labor unions, and we also hope they will reach a mutually satisfactory
+agreement.
+
+         While current business conditions remain difficult, we will continue
+our strategy of concentrating on steel and rebuilding our financial strength,
+and we are taking all necessary actions to reduce costs and improve our overall
+competitiveness.
+
+                                      - 10 -
+
+
+
+
+
+<PAGE> 12
+
+FORWARD-LOOKING STATEMENTS
+
+         This release contains forward-looking statements.  Our use of the
+words "expect", "believe", "intent", "should", "plan" and similar words are
+intended to identify these statements as forward-looking.  In accordance with
+the provisions of the Private Securities Litigation Reform Act of 1995,
+reference is made to "Item 1 - Business - Forward-Looking Statements" of
+Bethlehem's 1998 Annual Report on Form 10-K and to "Cautionary Statement" of
+Bethlehem's Registration Statement on Form S-4 filed with the Securities and
+Exchange Commission on April 24, 1998 for other important factors that could
+cause actual results to differ materially from those projected.
+
+
+PART II.  OTHER INFORMATION
+
+
+Item 1.  LEGAL PROCEEDINGS.
+
+         Bethlehem, in the ordinary course of its business, is the subject of
+various pending or threatened legal actions involving governmental agencies or
+private interests.  Bethlehem believes that any ultimate liability arising from
+these actions should not have a material adverse effect on its consolidated
+financial position at June 30, 1999.
+
+         Bethlehem does not have any material developments in legal proceedings
+to report for the second quarter of 1999.
+
+
+Item 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+        (a)  EXHIBITS.
+
+              The following is an index of the exhibits included in
+         this Report on Form 10-Q:
+
+                11.     Statement Regarding Computation of Earnings Per Share.
+
+                27.     Financial Data Schedule.
+
+        (b)  REPORTS ON FORM 8-K.
+
+              No reports on Form 8-K were filed during the second
+         quarter of 1999.
+
+
+
+                                     - 11 -
+
+
+
+
+
+
+
+
+
+<PAGE> 13
+                                  SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+Bethlehem Steel Corporation has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+
+                                      Bethlehem Steel Corporation
+                                            (Registrant)
+                                      by
+
+
+
+                                      /s/ L. A. Arnett
+                                      ------------------------------
+                                      L. A. Arnett
+                                      Vice President and Controller
+                                      (principal accounting officer)
+
+Date:   August 5, 1999
+
+
+
+                                         - 12 -
+
+
+
+
+
+
+
+
+
+<PAGE> 14
+
+                                 EXHIBIT INDEX
+
+        The following is an index of the exhibits included in this Report:
+
+
+
+                                    Exhibit
+                                    -------
+
+
+11     Statement Regarding Computation of Earnings Per Share
+
+
+27     Financial Data Schedule
+
+
+                                    - 13-
+
+
+
+
+
+
+
+
+
+<PAGE> 15
+
+
+                                                             EXHIBIT (11)
+
+                          Bethlehem Steel Corporation
+
+             Statement Regarding Computation of Earnings Per Share
+
+     (dollars in millions and shares in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+   Three Months                                                          Six Months
+   Ended June 30                                                       Ended June 30
+- -------------------                                                    -----------------
+  1999       1998         Basic Earnings Per Share                      1999       1998
+  ----       ----         ------------------------                      ----       ----
+<S>          <C>      <C>                                              <C>        <C>
+ ($29.7)     $37.6    Net Income (Loss)                                ($55.3)    $106.2
+                      Less Dividend Requirements:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                         (5.0)      (5.0)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                         (6.2)      (6.2)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                         (9.0)      (9.0)
+   (0.2)      (0.4)     5% Preference Dividend                           (0.4)      (0.9)
+- --------   --------                                                   --------   --------
+  (10.3)     (10.5)         Total Preferred and Preference Dividends    (20.6)     (21.1)
+- --------   --------                                                   --------   --------
+ ($40.0)     $27.1    Net Income (Loss) Applicable to Common Stock     ($75.9)     $85.1
+========   ========                                                   ========   ========
+
+129,946    118,768    Average Shares of Common Stock                  129,808    115,957
+
+
+ ($0.31)     $0.23    Basic Earnings (Loss) Per Share                  ($0.58)     $0.73
+========   ========                                                   ========   ========
+
+                         Diluted Earnings Per Share
+                         --------------------------
+ ($29.7)     $37.6    Net Income (Loss)                                ($55.3)    $106.2
+                      Less Dividend Requirements:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                         (5.0)      (5.0)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                         (6.3)      (6.2)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                         (9.0)      (9.0)
+   (0.2)      (0.4)     5% Preference Dividend                           (0.4)       -
+- --------   --------                                                   --------   --------
+ ($40.0)     $27.1    Net Income (Loss) Applicable to Common Stock     ($75.9)     $86.0
+========   ========                                                   ========   ========
+                      Average Shares of Common Stock and
+                      Other Potentially Dilutive Securities Outstanding:
+129,946    118,768      Common Stock                                  129,808    115,957
+   *         1,432      Stock Options                                    *           784
+   *          *         $2.50 Preferred Stock                            *          *
+   *          *         $5.00 Preferred Stock                            *          *
+   *          *         $3.50 Preferred Stock                            *          *
+   *          *         5% Preference Stock                              *         2,366
+- --------   --------                                                   --------   --------
+129,946    120,200              Total                                 129,808    119,107
+========   ========                                                   ========   ========
+ ($0.31)     $0.23    Diluted Earnings (Loss) Per Share                ($0.58)     $0.72
+========   ========                                                   ========   ========
+
+</TABLE>
+
+
+
+
+*  Antidilutive
+
+
+
+
+
+
+<PAGE> 16
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+
+<ARTICLE> 5
+<MULTIPLIER> 1000000
+
+<S>                           <C>
+<PERIOD-TYPE>                 6-MOS
+<FISCAL-YEAR-END>             DEC-31-1999
+<PERIOD-END>                  JUN-30-1999
+<CASH>                                 85
+<SECURITIES>                            0
+<RECEIVABLES>                         310
+<ALLOWANCES>                           21
+<INVENTORY>                           980
+<CURRENT-ASSETS>                        6
+<PP&E>                               6968
+<DEPRECIATION>                       4220
+<TOTAL-ASSETS>                       5505
+<CURRENT-LIABILITIES>                 946
+<BONDS>                               615
+<PREFERRED-MANDATORY>                   0
+<PREFERRED>                            14
+<COMMON>                              133
+<OTHER-SE>                           1273
+<TOTAL-LIABILITY-AND-EQUITY>         5505
+<SALES>                              1944
+<TOTAL-REVENUES>                     1944
+<CGS>                                1803
+<TOTAL-COSTS>                        1990
+<OTHER-EXPENSES>                        0
+<LOSS-PROVISION>                        0
+<INTEREST-EXPENSE>                     26
+<INCOME-PRETAX>                       (67)
+<INCOME-TAX>                           12
+<INCOME-CONTINUING>                   (55)
+<DISCONTINUED>                          0
+<EXTRAORDINARY>                         0
+<CHANGES>                               0
+<NET-INCOME>                          (76)
+<EPS-BASIC>                       (0.58)
+<EPS-DILUTED>                       (0.58)
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

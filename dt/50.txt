@@ -1,0 +1,233 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RC+f85GnzJjAqaL8pPRjFEmX49sCgiprSxyR7jQRpqBFvpEy/qnG9NVYjZNceL/W
+ E8uUgDiHUQtrdxgkUiO7eQ==
+
+<SEC-DOCUMENT>0000004457-01-500060.txt : 20010710
+<SEC-HEADER>0000004457-01-500060.hdr.sgml : 20010710
+ACCESSION NUMBER:		0000004457-01-500060
+CONFORMED SUBMISSION TYPE:	NT 10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010331
+FILED AS OF DATE:		20010702
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERCO /NV/
+		CENTRAL INDEX KEY:			0000004457
+		STANDARD INDUSTRIAL CLASSIFICATION:	7510
+		IRS NUMBER:				880106815
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		NT 10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11255
+		FILM NUMBER:		1673430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WY STE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+		BUSINESS PHONE:		7756886300
+
+	MAIL ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WAY
+		STREET 2:		SUITE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERCO
+		DATE OF NAME CHANGE:	19770926
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-K
+<SEQUENCE>1
+<FILENAME>a12b25.txt
+<DESCRIPTION>FILING EXTENTION
+<TEXT>
+
+<PAGE>
+                                               -----------------------------
+                                               COMMISSION FILE NO.:  1-11255
+                                               -----------------------------
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 12b-25
+
+                           NOTIFICATION OF LATE FILING
+
+(Check One):  |X| Form 10-K    |_| Form 11-K     |_| Form 20-F
+              | | Form 10-Q    |_| Form N-SAR
+
+For  Period  Ended: March 31, 2001
+[ ]  Transition Report on Form 10-K
+[ ]  Transition Report on Form 20-F
+[ ]  Transition Report on Form 11-K
+[ ]  Transition Report on Form 10-Q
+[ ]  Transition Report on Form N-SAR
+For the Transition Period Ended:
+
+  ----------------------------------------------------------------------------
+  Read Instruction (on back page) Before Preparing Form. Please Print or Type.
+    Nothing in this form shall be construed to imply that the Commission has
+                   verified any information contained herein.
+  ---------------------------------------------------------------------------
+
+If the notification relates to a portion of the filing checked above, identify
+the Item(s) to which the notification relates:
+
+                         PART I - REGISTRANT INFORMATION
+
+     AMERCO
+  ----------------------------------------------------------------------------
+  Full Name of Registrant
+
+
+  ----------------------------------------------------------------------------
+  Former Name if Applicable
+
+     1325 Airmotive Way, Suite 100
+  ---------------------------------------------------------------------------
+  Address of Principal Executive Office (Street and Number)
+
+     Reno, Nevada  89502
+  -----------------------------------------------------------------------------
+  City, State and Zip Code
+
+                       PART II - RULES 12b-25 (b) AND (c)
+
+If the subject report could not be filed without  unreasonable effort or expense
+and the registrant seeks relief pursuant to Rule 12b-25(b), the following should
+be completed. (Check box if appropriate)
+
+|X|      (a)  The reasons described in reasonable detail in Part III of this
+              form could not be eliminated without unreasonable effort or
+              expense;
+
+|X|      (b)  The subject annual report, semi-annual report or transition
+              report on Form 10-K, Form 20-F, 11-K, Form N-SAR, or portion
+              thereof, will be filed on or before the fifteenth calendar day
+              following the prescribed due date; or the subject quarterly report
+              or transition report on Form 10-Q, or portion thereof will be
+              filed on or before the fifth calendar day following the prescribed
+              due date; and
+
+|_|      (c)  The accountant's statement or other exhibit required by Rule
+              12b-25(c) has been attached if applicable.
+<PAGE>  2
+
+                              PART III - NARRATIVE
+
+State below in reasonable detail the reasons why the Form 10-K, 11-K, 10-Q,
+N-SAR, or the transition report or portion thereof, could not be filed within
+the prescribed time period. (Attach Extra Sheets if Needed)
+
+The preparation of the financial statements of AMERCO and Consolidated
+Subidiaries (the "Registrant") will not be completed by June 29, 2001 the last
+day for a timely filing of its Annual Report of form 10-K for the fiscal year
+ended March 31, 2001 pursuant to Rule O-2 of the General Rules and Regulations
+under the Securities Exchange Act of 1934.
+
+The delay is due to management and the accountants requiring
+additional time to internally verify data from the company's books and
+records and from third parties for financial statements.
+
+
+<PAGE>  3
+
+                           PART IV - OTHER INFORMATION
+
+(1)      Name and telephone number of person to contact in regard to this
+         notification
+            Sandra J. Vasseur     (602)              263-6790
+         ----------------------------------------------------------------------
+              (Name)           (Area Code)      (Telephone Number)
+
+(2)      Have all other periodic reports required under Section 13 or 15(d) of
+         the Securities Exchange Act of 1934 or Section 30 of the Investment
+         Company Act of 1940 during the preceding 12 months (or for such
+         shorter) period that the registrant was required to file such reports)
+         been filed?  If answer is no, identify report(s)   |X| Yes   |_| No
+
+         ----------------------------------------------------------------------
+
+(3)      Is it anticipated that any significant change in results of operations
+         from the corresponding period for the last fiscal year will be
+         reflected by the earnings statements to be included in the subject
+         report or portion thereof?                        |_| Yes   |X| No
+
+         ----------------------------------------------------------------------
+
+
+         If so, attach an explanation of the anticipated change, both
+         narratively and quantitatively, and, if appropriate, state the reasons
+         why a reasonable estimate of the results cannot be made.
+
+
+  -----------------------------------------------------------------------------
+
+                                  AMERCO
+                  --------------------------------------------
+                  (Name of Registrant as Specified in Charter)
+
+has caused this notification to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+
+Date     June 29, 2001            By  /S/ Gary B. Horton
+       ------------------             -----------------------------------------
+                                      Gary B. Horton, Treasurer
+
+
+
+INSTRUCTION: The form may be signed by an executive officer of the registrant or
+by any other duly  authorized  representative.  The name and title of the person
+signing  the form  shall  be typed or  printed  beneath  the  signature.  If the
+statement is signed on behalf of the registrant by an authorized  representative
+(other than an executive officer), evidence of the representative's authority to
+sign on behalf of the registrant shall be filed with the form.
+
+                                    ATTENTION
+  -----------------------------------------------------------------------------
+            Intentional misstatements or omissions of fact constitute
+               Federal Criminal Violations (See 18 U.S.C. 1001).
+  -----------------------------------------------------------------------------
+
+                              GENERAL INSTRUCTIONS
+
+1.   This form is required by Rule 12b-25 (17 CFR 240.12b-25) of the General
+     Rules and Regulations under the Securities Exchange Act of 1934.
+
+2.   One signed  original and four conformed  copies of this form and amendments
+     thereto  must be  completed  and filed  with the  Securities  and  Exchange
+     Commission,  Washington,  D.C.  20549,  in accordance  with Rule 0-3 of the
+     General Rules and Regulations  under the Act. The information  contained in
+     or filed  with  the form  will be made a matter  of  public  record  in the
+     Commission files.
+
+3.   A manually  signed copy of the form and  amendments  thereto shall be filed
+     with each national  securities exchange on which any class of securities of
+     the registrant is registered.
+
+4.   Amendments to the notifications must also be filed on form 12b-25 but need
+     not restate information that has been correctly  furnished.  The form shall
+     be clearly identified as an amended notification.
+
+</TEXT>
+</DOCUMENT>
+
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

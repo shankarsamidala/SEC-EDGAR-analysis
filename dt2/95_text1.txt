@@ -1,0 +1,1218 @@
+<c>
+
+part i:         financial information
+
+     item 1.        consolidated condensed statements of operations                                     3
+                       for the thirteen weeks ended april 29, 2000 and
+                       may 1, 1999
+
+                    consolidated condensed balance sheets as of                                         4
+                       april 29, 2000, january 30, 1999, and may 1,
+                       1999
+
+                    consolidated condensed statements of cash flows                                     5
+                       for the thirteen weeks ended april 29, 2000
+                       and may 1, 1999
+
+                    notes to consolidated condensed financial statements                                6
+
+     item 2.        management's discussion and analysis of financial  10
+                       condition and results of operations
+
+     item 3.        quantitative and qualitative disclosures about market risk                          12
+
+
+part ii:        other information
+
+     item 1.        legal proceedings                                                                   13
+
+     item 4.        submission of matters to a vote of security holders                                 13
+
+     item 6.        exhibits and reports on form 8-k                                                    13
+</c>-----begin privacy-enhanced message-----
+proc-type: 2001,mic-clear
+originator-name: webmaster@www.sec.gov
+originator-key-asymmetric:
+ mfgwcgyevqgbaqicaf8dsgawrwjaw2snkk9avtbzyzmr6agjlwyk3xmzv3dtinen
+ twsm7vrzladbmyqaionwg5sdw3p6oam5d3tdezxmm7z1t+b+twidaqab
+mic-info: rsa-md5,rsa,
+ vvszi3rdzwsnkp9z868mzc4b+wjt8jfdu6yyhgx/ikzb/3lkchvz2tlesjo3dtyu
+ ljk+diz0em0joqbrn8uafw==
+
+<sec-document>/in/edgar/work/20000613/0000006071-00-000011/0000006071-00-000011.txt : 20000919
+<sec-header>0000006071-00-000011.hdr.sgml : 20000919
+accession number:		0000006071-00-000011
+conformed submission type:	10-q
+public document count:		2
+conformed period of report:	20000429
+filed as of date:		20000613
+
+filer:
+
+	company data:	
+		company conformed name:			ames department stores inc
+		central index key:			0000006071
+		standard industrial classification:	 [5331
+]		irs number:				042269444
+		state of incorporation:			de
+		fiscal year end:			0125
+</sec-header></sec-document>
+
+		filing values:
+			form type:		10-q
+			sec act:		
+			sec file number:	001-05380
+			film number:		653790
+
+
+			business address:	
+				street 1:		2418 main st
+				city:			rocky hill
+				state:			ct
+				zip:			06067
+				business phone:		8602572000
+
+
+				mail address:	
+					street 1:		2418 main street
+					city:			rocky hill
+					state:			ct
+					zip:			06067
+
+
+
+<document>
+<type>10-q
+<sequence>1
+<filename>0001.txt
+<text>
+
+
+                       securities and exchange commission
+                             washington, d.c. 20549
+
+
+                                   form 10-q
+
+
+
+[ x ]      quarterly report pursuant to section 13 or 15 (d) of the securities
+           exchange act of 1934
+
+
+for the quarterly period ended    april 29, 2000
+
+
+[   ]      transition report pursuant to section 13 or 15 (d) of the securities
+           exchange act of 1934
+
+for the transition period from                     to
+
+                         commission file number 1-05380
+
+                          ames department stores, inc.
+             (exact name of registrant as specified in its charter)
+
+
+               delaware                             4-2269444
+               --------                             ---------
+(state or other jurisdiction of         (i.r.s. employer identification number)
+ incorporation or organization)
+
+
+2418 main street, rocky hill, connecticut                       06067
+- -----------------------------------------                       -----
+(address of principal executive offices)                      (zip code)
+
+
+registrant's telephone number including area code:        (860) 257-2000
+
+
+
+     indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by section 13 or 15(d) of the  securities  exchange  act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                                 yes   x     no
+
+
+
+
+       29,404,587 shares of common stock were outstanding on may 26, 2000.
+
+
+                            exhibit index on page 13
+
+                        page 1 of 17 (including exhibits)
+
+<page>
+
+                  ames department stores, inc. and subsidiaries
+
+                                    form 10-q
+
+                      for the quarter ended april 29, 2000
+
+
+
+
+<table>
+
+                                    i n d e x
+
+
+
+                                                                                                       page
+<s> <c> <c>
+
+part i:         financial information
+
+     item 1.        consolidated condensed statements of operations                                     3
+                       for the thirteen weeks ended april 29, 2000 and
+                       may 1, 1999
+
+                    consolidated condensed balance sheets as of                                         4
+                       april 29, 2000, january 30, 1999, and may 1,
+                       1999
+
+                    consolidated condensed statements of cash flows                                     5
+                       for the thirteen weeks ended april 29, 2000
+                       and may 1, 1999
+
+                    notes to consolidated condensed financial statements                                6
+
+     item 2.        management's discussion and analysis of financial  10
+                       condition and results of operations
+
+     item 3.        quantitative and qualitative disclosures about market risk                          12
+
+
+part ii:        other information
+
+     item 1.        legal proceedings                                                                   13
+
+     item 4.        submission of matters to a vote of security holders                                 13
+
+     item 6.        exhibits and reports on form 8-k                                                    13
+</c></c></s></table>
+<page>
+
+                                     part i
+item 1.
+                              financial information
+
+<table>
+
+                                             ames department stores, inc. and subsidiaries
+                                            consolidated condensed statements of operations
+                                               (in thousands, except per share amounts)
+                                                              (unaudited)
+
+                                                                                           for the thirteen
+                                                                                             weeks ended
+                                                                                 -------------------------------------
+                                                                                 ---------------- ---- ---------------
+
+<s> <c> <c>
+
+                                                                                    april 29,              may 1,
+                                                                                      2000                  1999
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+
+ames net sales                                                                          $830,657             $567,217
+hills net sales                                                                           -                   248,942
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+     total net sales                                                                     830,657              816,159
+     leased department and other income                                                    9,259                8,400
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+total revenue                                                                            839,916              824,559
+
+costs and expenses:
+     ames cost of merchandise sold                                                       602,924              409,250
+     hills cost of merchandise sold                                                       -                   168,323
+     ames selling, general and administrative expenses                                   247,415              176,171
+     hills operating expenses and agency fees                                             -                    89,257
+     depreciation and amortization expense, net                                           17,697               14,383
+     interest and debt expense, net                                                       18,792               11,922
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+
+loss before income taxes                                                                (46,912)             (44,747)
+income tax benefit                                                                        17,827               16,108
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+loss before cumulative effect of accounting change                                      (29,085)             (28,639)
+cumulative effect of accounting change, net of tax of $614                              -                     (1,107)
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+
+net loss                                                                               ($29,085)            ($29,746)
+                                                                                 ================      ===============
+                                                                                 ================      ===============
+
+basic and diluted net loss per share:
+     before cumulative effect of accounting change                                       ($0.99)              ($1.19)
+     cumulative effect of accounting change, net of tax                                    -                   (0.05)
+                                                                                 ----------------      ---------------
+                                                                                 ----------------      ---------------
+     net loss                                                                            ($0.99)              ($1.24)
+                                                                                 ================      ===============
+                                                                                 ================      ===============
+
+weighted average number of common shares outstanding                                      29,336               23,990
+                                                                                 ================      ===============
+</c></c></s></table>
+
+(the  accompanying  notes  are  an  integral  part  of  these  consolidated
+condensed financial statements.)
+
+<page>
+<table>
+
+                                             ames department stores, inc. and subsidiaries
+                                                 consolidated condensed balance sheets
+                                               (in thousands, except per share amounts)
+                                                              (unaudited)
+
+<s> <c> <c> <c>
+
+                                                                                   april 29,       january 29,         may 1,
+                                                                                     2000             2000              1999
+                                                                                  ------------    --------------    -------------
+                                            assets
+current assets:
+     cash and short-term investments                                                  $44,045           $30,612          $46,315
+     receivables                                                                       26,911            25,302           33,987
+     merchandise inventories                                                          987,919           831,387          702,288
+     deferred taxes, net                                                               46,681            28,854           16,108
+     prepaid expenses and other current assets                                         32,367            36,772           26,333
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+          total current assets                                                      1,137,923           952,927          825,031
+
+fixed assets                                                                          669,316           629,979          471,916
+     less - accumulated depreciation and amortization                               (147,884)         (128,229)         (80,016)
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+          net fixed assets                                                            521,432           501,750          391,900
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+
+other assets and deferred charges                                                      62,557            57,256           48,973
+deferred taxes, net                                                                   346,055           346,055          102,406
+beneficial lease rights, net                                                           55,589            56,280           58,195
+goodwill, net                                                                          60,388            61,026          228,142
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+                                                                                   $2,183,944        $1,975,294       $1,654,647
+                                                                                  ============    ==============    =============
+                             liabilities and stockholders' equity
+current liabilities:
+     accounts payable:
+          trade                                                                      $328,441          $325,356         $275,552
+          other                                                                        86,113            96,224           75,767
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+               total accounts payable                                                 414,554           421,580          351,319
+                                                                                  ------------    --------------    -------------
+current portion of capital lease and financing
+     obligations                                                                       22,057            22,086           17,799
+self-insurance reserves                                                                26,489            29,827           29,176
+accrued expenses and other current liabilities                                        136,405           133,110          256,011
+store closing reserves                                                                 54,303            55,468           58,789
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+     total current liabilities                                                        653,808           662,071          713,094
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+
+long-term debt                                                                        673,782           421,769          333,486
+capital lease and financing obligations                                               176,020           180,404          184,901
+other long-term liabilities                                                            56,708            57,916          105,844
+excess of revalued net assets over equity under fresh start reporting                  16,329            17,868           22,483
+commitments and contingencies (see note 8)                                               -                 -                -
+stockholders' equity:
+     preferred stock (3,000,000 shares authorized; no shares issued or
+     outstanding at april 29, 2000, january 29, 2000 and may 1, 1999;
+     par value per share $.01)                                                           -                 -                -
+     common stock (40,000,000 shares authorized; 29,403,987; 29,233,650
+     and 24,013,454 shares outstanding at april 29, 2000, january 29, 2000
+     and may 1, 1999, respectively; par value per share $.01)                             296               293              240
+     additional paid-in capital                                                       531,857           530,744          237,243
+     retained earnings                                                                 76,058           105,143           58,270
+     treasury stock, at cost                                                            (914)             (914)            (914)
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+          total stockholders' equity                                                  607,297           635,266          294,839
+                                                                                  ------------    --------------    -------------
+                                                                                  ------------    --------------    -------------
+                                                                                   $2,183,944        $1,975,294       $1,654,647
+                                                                                  ============    ==============    =============
+</c></c></c></s></table>
+
+(the  accompanying  notes  are  an  integral  part  of  these  consolidated
+condensed financial statements.)
+
+<page>
+<table>
+
+                                             ames department stores, inc. and subsidiaries
+                                            consolidated condensed statements of cash flows
+                                                            (in thousands)
+                                                              (unaudited)
+
+
+                                                                                    for the thirteen
+                                                                                       weeks ended
+                                                                         ----------------------------------------
+                                                                         ----------------------------------------
+                                                                             april 29,             may 1,
+                                                                               2000                 1999
+                                                                         ------------------  --------------------
+<s> <c> <c>
+
+                                                                         ------------------  --------------------
+cash flows from operating activities:
+      net loss                                                                   ($29,085)             ($29,746)
+      expenses not requiring the outlay of cash:
+           income tax benefit                                                     (17,827)              (16,724)
+           depreciation and amortization of fixed and other assets                  19,640                16,183
+           amortization of debt discounts and deferred financing costs               1,200                   969
+                                                                         ------------------  --------------------
+cash used by operations before changes in working capital and
+store closing activities                                                          (26,072)              (29,318)
+changes in working capital:
+      increase in receivables                                                      (1,609)               (3,743)
+      increase in merchandise inventories                                        (156,532)              (80,779)
+      decrease in accounts payable                                                 (7,026)              (49,438)
+      increase in accrued expenses and other current liabilities                     3,295                30,722
+       decrease (increase) in other working capital and other, net                   1,094              (19,072)
+changes due to store closing activities:
+      payments of store closing costs                                              (1,165)                 (979)
+                                                                         ------------------  --------------------
+                                                                         ------------------  --------------------
+net cash used for operating activities                                           (188,015)             (152,607)
+                                                                         ------------------  --------------------
+cash flows from investing activities:
+      purchases of fixed assets                                                   (40,249)              (34,205)
+      purchases of leases                                                          (7,019)              (27,822)
+                                                                         ------------------  --------------------
+                                                                         ------------------  --------------------
+net cash used for investing activities                                            (47,268)              (62,027)
+                                                                         ------------------  --------------------
+cash flows from financing activities:
+       borrowings under the revolving credit facility, net                         254,751                37,676
+       payments on debt and capital lease obligations                              (4,413)               (7,003)
+       repurchase of hills senior notes                                             (2,738)                    -
+       proceeds from the issuance of senior notes                                        -               200,000
+       deferred financing costs                                                          -               (6,044)
+       proceeds from the exercise of options and warrants                            1,116                   576
+                                                                         ------------------  --------------------
+                                                                         ------------------  --------------------
+net cash provided by financing activities                                          248,716               225,205
+                                                                         ------------------  --------------------
+                                                                         ------------------  --------------------
+increase in cash and short-term investments                                         13,433                10,571
+cash and short-term investments, beginning of period                                30,612                35,744
+                                                                         ------------------  --------------------
+                                                                         ------------------  --------------------
+cash and short-term investments, end of period                                     $44,045               $46,315
+                                                                         ==================  ====================
+
+supplemental disclosure of cash flow information:
+       cash paid during the period for:
+           interest and debt fees not capitalized                                  $20,206                $8,271
+           income taxes                                                              1,234                   355
+</c></c></s></table>
+
+(the  accompanying  notes  are  an  integral  part  of  these  consolidated
+condensed financial statements.)
+<page>
+
+                  ames department stores, inc. and subsidiaries
+              notes to consolidated condensed financial statements
+
+                                   (unaudited)
+
+
+1.       basis of presentation :
+
+     in the  opinion of  management,  the  accompanying  unaudited  consolidated
+condensed  financial  statements  of ames  department  stores,  inc. (a delaware
+corporation) and subsidiaries (collectively "ames" or the "company") contain all
+adjustments  (consisting of normal recurring  adjustments)  necessary for a fair
+presentation of such financial  statements for the interim  periods.  due to the
+seasonality of the company's  operations,  the results of its operations for the
+interim  period ended april 29, 2000 may not be  indicative of total results for
+the full year. certain information and footnote disclosures normally included in
+financial  statements  prepared in accordance with generally accepted accounting
+principles have been condensed or omitted  pursuant to the rules and regulations
+promulgated by the securities and exchange commission (the "sec"). certain prior
+year amounts have been  reclassified to conform to the presentation used for the
+current  year.  pursuant to the  indenture  governing  the ames senior notes (as
+defined  in note 5),  all of  ames'  subsidiaries  have  jointly  and  severally
+guaranteed  the ames senior notes on a full and  unconditional  basis.  separate
+financial statements of those subsidiaries have not been included herein because
+management  has  determined  that  they  are  not  material  to  investors.
+
+     the consolidated  condensed  balance sheet at january 29, 2000 was obtained
+from audited financial statements previously filed with the sec in the company's
+annual report on form 10-k for the fiscal year ended january 29, 2000 (the "1999
+form  10-k").  the  accompanying   unaudited  consolidated  condensed  financial
+statements should be read in conjunction with the financial statements and notes
+thereto included in the 1999 form 10-k.
+
+     in the fourth  quarter of the year ended january 29, 2000 ("fiscal  1999"),
+the  company  adopted  staff  accounting   bulletin  ("sab")  no.  101  "revenue
+recognition" as promulgated by the staff of the sec effective  retroactively  to
+the  first  quarter  of  fiscal  1999.  therefore,  the  consolidated  condensed
+financial statements for the thirteen weeks ended may 1, 1999 have been adjusted
+accordingly.  reference  can be  made  to the  1999  form  10-k  for  additional
+discussion of the adoption of sab no. 101 by the company.
+
+2.       acquisition and agency agreement:
+
+     acquisition of hills stores company
+
+     on december  31,  1998,  hsc  acquisition  corp.  ("hsc"),  a wholly  owned
+subsidiary of the company,  acquired in excess of 80% of the outstanding  voting
+stock of hills stores company ("hills") and approximately 74% of the outstanding
+hills 12.5% senior notes.  subsequently,  hills was merged with hsc and became a
+wholly owned subsidiary of ames department stores, inc. in april 1999, hills was
+merged with and into ames  department  stores,  inc.  the  acquisition  has been
+recorded under the purchase method of accounting.
+
+     total cash  consideration  for the  acquisition  of hills was $129 million.
+reference can be made to the 1999 form 10-k for further  discussion of the hills
+acquisition.
+
+     at the time of the  acquisition  hills  operated  155  discount  department
+stores. during 1999, the company remodeled and converted 151 of the hills stores
+to ames  stores.  the four  remaining  hills  stores along with seven other ames
+stores were closed,  because they were in locations that were either competitive
+with or were  under-performing  other hills or ames stores.  the  remodeling and
+conversion  process  was  conducted  in  three  stages,   each  stage  involving
+approximately  one third of the hills  stores.  the first stage was completed in
+late april 1999; the second stage was completed in late july 1999; and the third
+stage was completed in late september 1999.
+
+     concurrent  with  the  hills  acquisition,   the  company  entered  into  a
+transition and agency  agreement (the "agency  agreement")  with gordon brothers
+retail partners, llc and the nassi group, llc (collectively the "agent"),  which
+provided  that the  agent  serve  for a  period  of time to  operate  all of the
+acquired  hills  stores and to conduct  inventory  liquidation  sales at each of
+those stores prior to its scheduled  remodeling or final  closure.  accordingly,
+the agent managed the sale of the inventory acquired in the hills acquisition as
+well as certain other inventory  identified in the agency agreement.  the agency
+agreement  entitled  the company to receive  out of the sale  proceeds a minimum
+amount equal to 40% of the initial retail value or ticketed selling price of the
+merchandise (the "guaranteed return"),  with the possibility of a greater return
+if the sale proceeds exceeded a target percentage of initial retail value.
+&gt;
+
+     the results of operations of hills for the thirteen weeks ended may 1, 1999
+have  been  included  in  the  accompanying   consolidated  condensed  financial
+statements.  during  the  thirteen  weeks  ended  may  1,  1999,  the  following
+accounting  treatment  has been  applied to  recognize  the results of the hills
+stores prior to their  conversion to ames stores  during fiscal 1999.  hills net
+sales have been recorded as "hills net sales" and  represent net sales  achieved
+by the hills stores  prior to their  conversion  to ames stores.  "hills cost of
+merchandise sold" represents the cost of merchandise sold in connection with the
+above referenced sales as adjusted for the guaranteed  return.  "hills operating
+expenses and agency fees" include the following:  the associated  store expenses
+incurred  while  operating  the hills stores prior to their  conversion  to ames
+stores,  which are  reimbursable  to the  company  out of the  proceeds of hills
+merchandise sales per the agency agreement;  the agency fee due to the agent for
+the period  presented;  and other expenses (e.g.  non-store  payroll,  non-store
+rent,  etc.)  associated  with  supporting  the  hills  stores  prior  to  their
+conversion  to  ames  stores,  which  are  not  reimbursable  under  the  agency
+agreement.
+
+     acquisition of goldblatt's leases
+
+     in april 2000, the company consummated its purchase of the leases for seven
+stores from  goldblatt's  department  stores,  inc. for a cash purchase price of
+$7.6 million.
+
+     reference  can  be  made  to the  fiscal  1999  form  10-k  for  additional
+discussion of the hills and goldblatt's acquisitions.
+
+3.       net income (loss) per common share:
+
+     net  income  (loss) per share was  determined  using the  weighted  average
+number of common  shares  outstanding.  diluted  net loss per share was equal to
+basic net loss per share  because  inclusion of common stock  equivalents  would
+have been  anti-dilutive.  during the  quarter  ended  april 29,  2000,  139,382
+options were exercised and 100,000 series b warrants were converted.  during the
+quarter ended may 1, 1999,  103,981  options were exercised and no warrants were
+converted.
+
+4.       inventories:
+
+     inventories are valued at the lower of cost, using the first-in,  first-out
+(fifo) method, or market and include the  capitalization  of transportation  and
+distribution center costs.
+
+5.       debt:
+
+     credit agreement
+
+     on december 31, 1998, in connection with the acquisition of hills,  certain
+of the company's subsidiaries entered into an agreement (the "credit agreement")
+with a syndicate of banks and  financial  institutions  for whom bank of america
+nt&amp;sa; is serving as agent. the credit agreement provides for a secured revolving
+credit facility of up to $650 million.
+
+     the credit  agreement  is in effect  until june 30,  2002 and is secured by
+substantially  all of the assets of the  company.  reference  can be made to the
+1999  form  10-k for  additional  discussion  of the  credit  agreement  and for
+descriptions of the company's other obligations not discussed herein.
+
+     as of april 29, 2000,  borrowings of $429.3 million were outstanding  under
+the credit  agreement.  these  borrowings  are included in long-term debt in the
+accompanying  consolidated  condensed  balance  sheet as of april 29,  2000.  in
+addition,  $21.5 and $4.2  million  of  standby  and trade  letters  of  credit,
+respectively,  were outstanding under the credit agreement. the weighted average
+interest rate on the  borrowings for the thirteen weeks ended april 29, 2000 was
+7.8%.  the peak  borrowing  level through april 29, 2000 was $429.3  million and
+occurred in april 2000.
+
+     senior notes due 2006
+
+     on april 27, 1999,  the company  completed  the sale of $200 million of its
+10% seven-year senior notes (the "ames senior notes"). the net proceeds from the
+sale of the ames senior notes, approximately $193.4 million, were used to reduce
+outstanding  borrowings  under the credit  agreement.  the ames senior notes pay
+interest semi-annually in april and october and mature april 2006.
+
+
+     senior notes due 2003
+
+     the 12.5% senior notes due 2003 (the "hills  senior  notes")  were,  at the
+time of the acquisition of hills, an unsecured obligation of hills.
+
+     the hills  senior  notes pay  interest  in january and june and mature july
+2003.  during the quarter  ended april 29, 2000 the company  repurchased  on the
+open market approximately $2.7 million face value of these notes.
+
+     reference  can  be  made  to the  fiscal  1999  form  10-k  for  additional
+discussion of the ames senior notes and hills senior notes.
+
+6.       stock options:
+
+     the company has three stock  option plans (the  "option  plans"):  the 1994
+management  stock  option  plan,  the  1998  stock  incentive  plan and the 1994
+non-employee directors stock option plan.
+
+     in october 1995,  the financial  accounting  standard board issued sfas no.
+123  "accounting  for stock  based  compensation."  sfas no. 123  established  a
+fair-value based method of accounting for stock-based compensation;  however, it
+allowed  entities to continue  accounting for employee stock based  compensation
+under the  intrinsic  value method  prescribed by  accounting  principles  board
+opinion no. 25,  "accounting for stock issued to employees." the company elected
+to account  for the option  plans  under apb  opinion  no.  25,  under  which no
+compensation cost has been recognized and adopt sfas no. 123 through disclosure.
+
+     if the company had elected to  recognize  compensation  cost for the option
+plans based on the fair value at the grant dates for awards  under those  plans,
+consistent  with the method  prescribed  by sfas no. 123, net loss and basic net
+loss per common share would have  approximated  the pro forma amounts  indicated
+below:
+
+<table>
+
+                                                                               for the thirteen weeks ended
+                                                                           -------------------------------------
+                                                                           -------------- ------ ---------------
+                                  (in thousands)                             april 29,               may 1,
+                                                                               2000                   1999
+                                                                           --------------        ---------------
+<s> <c> <c>
+
+                                                                           --------------        ---------------
+                net loss:
+                as reported                                                    ($29,085)              ($29,746)
+                pro forma                                                      ($31,482)              ($31,329)
+
+                basic net loss per common share: (a)
+                as reported                                                      ($0.99)                ($1.24)
+                pro forma                                                        ($1.07)                ($1.31)
+</c></c></s></table>
+[fn]
+(a) common  stock  equivalent  shares  have not been  included  because the
+    effect would be anti-dilutive.
+</page></page></page></page></page></text></filename></sequence></type></document>
+
+
+     the fair value of stock  options  used to compute  pro forma net income and
+net income per diluted  common share is the  estimated  present  value as of the
+grant  date using the  black-scholes  option-pricing  model  with the  following
+weighted average assumptions: no dividend yield, expected option volatilities, a
+risk-free interest rate equal to u.s. treasury  securities with a maturity equal
+to the expected life of the option and an expected life from date of grant until
+option expiration date.
+
+7.       income taxes:
+
+     the company's  estimated annual effective income tax rate for each year was
+applied to the loss before  income taxes for the thirteen  weeks ended april 29,
+2000 and may 1, 1999 to compute a non-cash  income tax  benefit.  the income tax
+benefit is included in other  current  assets in the  accompanying  consolidated
+condensed balance sheet as of april 29, 2000 and may 1, 1999.
+
+8.       commitments and contingencies:
+
+     reference  can be made to the 1999 form 10-k  (item 3 - legal  proceedings)
+for various litigation  involving the company,  for which there were no material
+changes since the filing date of the 1999 form 10-k.
+
+
+9.       recently issued accounting pronouncements:
+
+     in june 1998, the financial  accounting  standard board issued statement of
+financial  accounting  standards  (sfas) no.  133,  "accounting  for  derivative
+instruments and hedging activities." this statement  establishes  accounting and
+reporting  standards  requiring  that  every  derivative  instrument  (including
+certain derivative  instruments  embedded in other contracts) be recorded in the
+balance  sheet as either an asset or liability  measured at its fair value.  the
+statement also requires that changes in a derivative's  fair value be recognized
+currently in earnings  unless specific hedge  accounting  criteria are met. sfas
+no. 133 is effective, prospectively, for all fiscal quarters of all fiscal years
+beginning  after june 15,  2000,  with early  adoption at the  beginning  of any
+fiscal quarter being permitted.  management is currently analyzing the impact of
+this new  pronouncement  on the  company's  financial  position  and  results of
+operations.
+
+
+
+
+item 2.
+                     management's discussion and analysis of
+                  financial condition and results of operations
+
+
+
+     the following  discussion and analysis  should be read in conjunction  with
+the  consolidated  condensed  financial  statements and notes  presented in this
+report.
+
+results of operations
+
+     the  consolidated  results of operations  for the quarter ended may 1, 1999
+include  the  results of the former  hills  stores  during the period  they were
+operated by gordon brothers and the nassi group under an agency agreement. these
+firms were  engaged to operate  the hills  stores  until  their  closure  and to
+liquidate the merchandise inventories.
+
+     during the quarter ended may 1, 1999,  gordon  brothers and the nassi group
+completed the  merchandise  liquidation  sales in 52 of the former hills stores.
+subsequent to the liquidation  sales,  the company  remodeled 50 of these stores
+during an eight-week  period and, on april 19, 1999,  the company  re-opened the
+remodeled  stores as ames  stores.  in addition,  gordon  brothers and the nassi
+group  initiated the  liquidation  sales in 55 former hills stores in late march
+and the final liquidation sales in 48 former hills stores in early may.
+
+     the following  table  illustrates  the results of ames'  operations for the
+quarter ended april 29, 2000, as compared to the separate contributions of ames'
+and hills'  operations and the other costs described  below to the  consolidated
+results of operations for the quarter ended may 1, 1999.
+
+<table>
+
+                                                                    ------------------------------------------------
+                                                                           for the thirteen weeks ended may 1, 1999
+                                                                    ------------------------------------------------
+                                                       for the      ------------------------------------------------
+                                                      thirteen
+                 (in thousands)                      weeks ended
+                                                   april 29, 2000       ames       hills      other       total
+                                                   --------------       ----       -----      -----       -----
+
+<s> <c> <c> <c> <c> <c>
+
+
+net sales                                                  $830,657     $567,217   $248,942     -          $816,159
+leased department and other income                            9,259        6,374      2,026     -             8,400
+                                                  ------------------------------------------------------------------
+total revenue                                              $839,916     $573,591   $250,968     -          $824,559
+cost and expenses:
+cost of merchandise sold                                    602,924      409,250    168,323     -           577,573
+selling, general and administrative expenses                247,415      159,599     89,257     16,572      265,428
+depreciation and amortization expenses, net                  17,697        5,917      6,580      1,886       14,383
+interest and debt expense, net                               18,792        7,978      2,774      1,170       11,922
+                                                  ------------------------------------------------------------------
+
+loss before income taxes and cumulative effect             (46,912)      (9,153)   (15,966)   (19,628)     (44,747)
+income tax benefit                                           17,827        3,295      5,747      7,066       16,108
+                                                  ------------------------------------------------------------------
+loss before cumulative effect of accounting
+change                                                     (29,085)      (5,858)   (10,219)   (12,562)     (28,639)
+
+cumulative effect of accounting change, net of
+tax                                                           -          -           -         (1,107)      (1,107)
+                                                  ------------------------------------------------------------------
+
+net loss                                                  ($29,085)     ($5,858)  ($10,219)  ($13,669)    ($29,746)
+                                                  ==================================================================
+</c></c></c></c></c></s></table>
+
+     the ames column  represents (a) the results of the ames store base, (b) the
+results of the converted hills stores after their  re-opening as ames stores and
+(c)  certain  expenses  associated  with the  acquisition  of  hills,  including
+interest  expense on the acquired hills senior notes and a pro rata share of the
+amortization of goodwill recorded in connection with the acquisition.
+
+     the hills column  represents  (a) the results of  operations  for the hills
+stores during the period that these stores were operated  pursuant to the gordon
+brothers/nassi  agency  agreement,  including  depreciation and interest expense
+directly  associated with such stores and (b) hills corporate overhead expenses,
+principally the canton, ma facility.
+
+     the other  column  represents  the expenses  incurred  during the period of
+remodeling the hills stores (for example,  pre-opening  expenses incurred during
+the conversion or "dark" period) as well as certain other expenses.
+
+     the unique  circumstances  under which  hills'  operations  were  conducted
+through  the quarter  ended may 1, 1999  distort  any direct  comparison  of the
+principal  components of ames' consolidated results for the quarters ended april
+29, 2000 and may 1, 1999. in the discussion that follows, ames' net sales, gross
+margin, and selling,  general and administrative  expenses for the quarter ended
+april 29, 2000 are  compared to the ames'  results for the quarter  ended may 1,
+1999,  exclusive of the hills  results and other  expenses.  the  comparison  of
+depreciation and amortization expense and interest and debt expense will be on a
+consolidated basis.
+
+     ames' net sales  increased  $263.4  million or 46% in the first  quarter of
+2000  compared to the prior year's first  quarter.  this increase is primarily a
+result of the  inclusion  of all 151 of the  converted  hills stores in the ames
+store  base for the  entire  quarter  compared  to only 51 stores  for two weeks
+during the quarter  ended may 1, 1999.  comparable  store sales  increased  1.2%
+during the first quarter.
+
+     gross margin  increased  $69.8  million or 44% in the first quarter of 2000
+from the first quarter of 1999. the increase is a result of the increased number
+of ames stores, as previously  discussed.  gross margin as a percentage of sales
+declined  slightly  from 27.8% to 27.4%.  the  decrease was mainly the result of
+slightly higher markdowns and changes in merchandise mix.
+
+     selling, general and administrative expenses increased $87.8 million or 55%
+as a result of the expanded  ames store base.  expenses as a percentage of sales
+increased  from 27.8% to 29.5%  primarily as a result of sales  falling short of
+planned levels.
+
+     depreciation  and amortization  expense  increased $3.3 million or 23%. the
+increase  resulted  primarily from a full quarter of additional  depreciation on
+the  remodeling  expenditures  associated  with  conversion  of the former hills
+stores.
+
+     interest  expense  increased  $6.9  million or 58%.  the increase is mainly
+attributed to a higher level of borrowings  under our revolving  credit facility
+as well as a full quarter's interest expense for the ames senior notes issued in
+april of 1999.
+
+     our estimated annual effective income tax rate for each year was applied to
+the loss before  income  taxes for each period to compute a non-cash  income tax
+benefit.  the income tax benefits are included in current  assets in the balance
+sheet as of april 29, 2000 and may 1, 1999.
+
+liquidity and capital resources
+
+     our principal sources of liquidity are our revolving credit facility,  cash
+from operations and cash on hand. our revolving credit  facility,  which expires
+june 20,  2002,  provides  credit of up to $650  million.  borrowings  under the
+revolving  credit facility are secured by  substantially  all of our assets.  in
+addition,   we  are  required  to  meet  certain  financial   covenants  if  our
+availability under the credit facility falls below a specified level. during the
+first  quarter we increased  our drawings on the credit  facility  approximately
+$254.8 million but our  availability did not fall below the specified level. our
+peak borrowing  level under the facility during the quarter ended april 29, 2000
+was $429.3  million.  we believe we will have  sufficient  liquidity to meet our
+financial obligations for the foreseeable future.
+
+     merchandise  inventories increased $156.5 million from january 29, 2000 due
+primarily  to an  unexpected  sales  shortfall  during the first  quarter  and a
+seasonal merchandise build up. merchandise  inventories increased $285.6 million
+from may 1, 1999  primarily as a result of fully  stocking the  converted  hills
+stores and changing  inventory  valuation in  approximately  two-thirds of those
+stores from liquidation value to cost.
+
+
+     trade accounts payable decreased  approximately $7 million from january 29,
+2000 primarily as a result of a slowdown in merchandise purchases in response to
+the first  quarter sales  shortfall.  trade  accounts  payable  increased  $63.2
+million  from  may 1,  1999  due  to the  increase  in  merchandise  inventories
+referenced above.
+
+     capital  expenditures  for the thirteen  weeks ended april 29, 2000 totaled
+$40.2 million and for the balance of the year are estimated to be  approximately
+$80.0 million. we adjust our plans for making such expenditures depending on the
+amount of internally generated funds.
+
+     net fixed assets  increased  $19.7 million from january 29, 2000  primarily
+due to  $40.2  million  in  capital  expenditures  offset  by $19.7  million  in
+depreciation expense.
+
+     in april 2000, the company consummated its purchase of the leases for seven
+stores from  goldblatt's  department  stores,  inc. for a cash purchase price of
+$7.6 million.  six of the stores are located in chicago,  illinois and one is in
+gary, indiana.
+
+     beneficial  lease rights  represent  the excess of the fair market value of
+the acquired hills leases over contract value of those leases. we are amortizing
+this amount over the terms of the related leases (which average approximately 25
+years) using the straight-line method. goodwill is being amortized over 25 years
+using the straight-line method.
+
+     long-term debt as of april 29, 2000 consisted of borrowings  under our bank
+credit  facility of $429.3  million,  $200.0  million of the ames  senior  notes
+issued in april 1999 and $44.5  million of the hills senior notes that  remained
+outstanding  after  the  acquisition.  the  hills  senior  notes  became  direct
+obligations of ames as a result of the merger of hills into ames.
+
+     capital lease and financing obligations decreased $4.4 million from january
+29,  2000 to april 29, 2000 due  primarily  to  payments  made on capital  lease
+obligations. capital lease and financing obligations decreased $4.6 million from
+may 1, 1999 to april 29, 2000 primarily as result of payments slightly exceeding
+new capital lease commitments.
+
+     the net operating loss carryovers  remaining after fiscal 1999,  subject to
+any limitations  pursuant to internal revenue code sec 382, should offset income
+on which taxes would otherwise be payable in the next several years.
+
+note concerning forward-looking statements
+
+     statements,  other than  those  based on  historical  facts  which  address
+activities,  events, or developments that the company expects or anticipates may
+occur in the future are forward-looking statements which are based upon a number
+of assumptions  concerning  further  conditions that may ultimately  prove to be
+inaccurate.  actual events and results may  materially  differ from  anticipated
+results described in any  forward-looking  statements.  the company's ability to
+achieve   such   results  is  subject  to  certain   risks  and   uncertainties.
+consequently,  these cautionary  statements  qualify all of the  forward-looking
+statements  and there  can be no  assurance  that the  results  or  developments
+anticipated  by the company will be realized or that they will have the expected
+effects on the company or its business or operations.
+
+item 3.  quantitative and qualitative disclosures about market risk
+
+     we have exposure to interest rate volatility primarily relating to interest
+rate changes applicable to revolving loans under our bank credit facility. these
+loans bear interest at rates which vary with changes in (i) the london interbank
+offered  rate (libor) or (ii) a rate of interest  announced  publicly by bank of
+america nt &amp; sa.
+
+     we do not speculate on the future  direction of interest rates. as of april
+29, 2000,  approximately  $429.3  million of our debt bore  interest at variable
+rates.  we believe that the effect,  if any, of  reasonably  possible  near-term
+changes in interest rates on our  consolidated  financial  position,  results of
+operations or cash flows would not be significant.
+<page>
+
+
+                                     part ii
+                                other information
+
+
+item 1.           legal proceedings.
+
+     reference  can be  made  to  item 3 -  legal  proceedings  included  in the
+company's  most recent form 10-k for various  litigation  involving the company,
+for which there were no material changes since the filing date of the form 10-k.
+
+item 4.           submission of matters to a vote of security holders.
+
+     on may 15,  2000,  the  company  sent a notice of the annual  meeting and a
+proxy statement to its  stockholders.  the notice of meeting  announced that the
+annual  meeting of  stockholders  would be held  wednesday,  june 21,  2000,  to
+consider  and act  upon  the  following  matters:  (a) the  election  of six (6)
+directors for a term of one year or until their  successor(s)  have been elected
+and qualified; (b) the ratification and approval of the associate stock purchase
+plan;  (c) the  ratification  and  approval  of the amended  and  restated  1998
+management  stock  incentive  plan;  (d) the  ratification  and  approval of the
+appointment of arthur andersen llp as independent  certified public  accountants
+and auditors for the company for the fiscal year ending  february 03, 2001;  and
+(e) the  transaction  of such other  business  as may  properly  come before the
+meeting or any adjournment(s) thereof.
+
+     the results of the meeting will be reported in the quarterly report for the
+company's fiscal quarter ending july 29, 2000.
+
+item 6.           exhibits and reports on form 8-k.
+
+(a)      index to exhibits
+<table>
+<s> <c> <c> <c>
+
+
+                 exhibit no.          exhibit                                                             page no.
+                 -----------          -------                                                             --------
+
+                 11                   schedule of computation of basic and diluted net income (loss) per share    15
+
+                 12                   ratio of earnings to fixed charges                                          16
+
+                 21                   subsidiaries of the registrant                                              17
+
+(b)      reports on form 8-k
+
+                 date of report         date of filing      item no.        description
+                 --------------         --------------      --------        -----------
+
+                 may 19, 2000           may 19, 2000             5          disclosure of the  employment  agreement
+                                                                            dated  february  28, 2000  between  ames
+                                                                            department   stores,   inc.   and  grant
+                                                                            sanborn.
+</c></c></c></s></table>
+<page>
+
+                                   signatures
+
+
+
+     pursuant to the  requirements  of the securities  exchange act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+<table>
+<s> <c> <c>
+
+                                                                            ames department stores, inc.
+                                                                                    (registrant)
+
+
+
+dated:               june 12, 2000                                /s/ joseph r. ettore
+                                                                 ----------------------------------------------------
+                                                                 joseph r. ettore, chairman, chief executive
+                                                                 officer, and director
+
+dated:               june 12, 2000                                /s/ rolando de aguiar
+                                                                 ----------------------------------------------------
+                                                                 rolando de aguiar, senior executive vice president,
+                                                                 chief financial and administrative officer
+</c></c></s></table>
+<page>
+<table>
+
+
+                                                                                                                         exhibit 11
+
+                                             ames department stores, inc. and subsidiaries
+                                    schedule of computation of basic and diluted earnings per share
+                                               (in thousands, except per share amounts)
+
+
+
+<s> <c> <c> <c>
+
+                                                                               for the thirteen weeks ended
+                                                                               ----------------------------
+                                                                          april 29, 2000           may 1, 1999
+                                                                          --------------           -----------
+
+loss before cumulative effect adjustment                                     ($29,085)              ($28,639)
+cumulative effect adjustment, net of tax                                         -                   (1,107)
+                                                                        --------------------    -------------------
+                                                                        --------------------    -------------------
+     net loss                                                                (29,085)                (29,746)
+                                                                        ====================    ===================
+                                                                        ====================    ===================
+for basic earnings per share:
+- -----------------------------
+weighted average number of common shares
+   outstanding during the period                                            29,336 (b)              23,990 (b)
+basic net loss per share:
+basic net loss per share before cumulative effect adjustment                 ($0.99)                 ($1.19)
+cumulative effect adjustment, net of tax                                         -                    (0.05)
+                                                                        --------------------    -------------------
+                                                                        --------------------    -------------------
+     basic net loss per share                                                 ($0.99)                ($1.24)
+                                                                        ====================    ===================
+                                                                        ====================    ===================
+for diluted earnings per share:
+- -------------------------------
+weighted average number of common shares
+   outstanding during the period                                            29,336 (b)                23,990
+add common stock equivalent shares represented by:
+     series b warrants                                                          (a)                    (a)
+     series c warrants                                                          (a)                    (a)
+     options under 1994 management stock option plan and 1998
+        stock incentive plan                                                    (a)                    (a)
+     options under 1994 non-employee director stock
+        option plan                                                             (a)                    (a)
+                                                                        --------------------    -------------------
+                                                                        --------------------    -------------------
+weighted average number of common and common equivalent shares               29,336                  23,990
+                                                                        ====================    ===================
+                                                                        ====================    ===================
+diluted net loss per share before cumulative effect adjustment                ($0.99)                ($1.19)
+cumulative effect adjustment, net of tax                                         -                    (0.05)
+                                                                        --------------------    -------------------
+                                                                        --------------------    -------------------
+     diluted net loss per share                                               ($0.99)                ($1.24)
+                                                                        ====================    ===================
+                                                                        ====================    ===================
+</c></c></c></s></table>
+[fn]
+(a) common stock  equivalents  have not been  included,  because the effect
+    would be  anti-dilutive.
+(b) the  weighted  average  number  of  common  shares outstanding is net of
+    treasury stock.
+</page></page></page>
+<page>
+<table>
+
+                                                                                                                         exhibit 12
+
+                                             ames department stores, inc. and subsidiaries
+                                                  ratio of earnings to fixed charges
+                                                   (in thousands, except ratio data)
+
+
+<s> <c> <c> <c> <c> <c> <c>
+
+                                quarter
+                                 ended                                  fiscal year ended
+                              -------------  -------------------------------------------------------------------------
+                              -------------  -------------------------------------------------------------------------
+
+
+                               april 29,     january 29,    january 30,    january 31,     january 25,    january 27,
+                                  2000          2000           1999            1998           1997           1996
+                              -------------  ------------   ------------   -------------   ------------   ------------
+                              -------------  ------------   ------------   -------------   ------------   ------------
+
+income (loss) before income
+    taxes, extraordinary
+    item and cumulative
+    effect adjustment             (46,912)      (31,355)         52,605          53,633         26,804        (1,618)
+
+add:
+    interest expense                18,792        60,843         15,253          11,600         19,043         24,116
+    interest component of
+       rental expense                9,493        29,253         21,121          18,409         16,541         16,208
+                              -------------  ------------   ------------   -------------   ------------   ------------
+                              -------------  ------------   ------------   -------------   ------------   ------------
+
+earnings available for fixed
+   charges                        (18,627)        58,741         88,979          83,642         62,388         38,706
+
+fixed charges:
+    interest expense                18,792        60,843         15,253          11,600         19,043         24,116
+    interest component of
+       rental expense                9,493        29,253         21,121          18,409         16,541         16,208
+                              -------------  ------------   ------------   -------------   ------------   ------------
+                              -------------  ------------   ------------   -------------   ------------   ------------
+
+total fixed charges                 28,285        90,096         36,374          30,009         35,584         40,324
+
+ratio of earnings to fixed
+   charges                          (0.7x)          0.7x           2.4x            2.8x           1.8x           1.0x
+
+</c></c></c></c></c></c></s></table>
+
+     for the purpose of  calculating  the ratio of  earnings  to fixed  charges,
+earnings  consist  of  income  before  income  taxes,   extraordinary  item  and
+cumulative effect  adjustment plus fixed charges (net of capitalized  interest).
+fixed charges consist of interest  expense on all  indebtedness  and capitalized
+interest,  amortized  premiums,  discounts and capitalized  expenses  related to
+indebtedness,  and  one-third of rent expense on operating  leases  representing
+that portion of rent expense deemed by us to be  attributable  to interest.  for
+the quarter ended april 29, 2000 and the fiscal year ended january 29, 2000, the
+amount of  additional  earnings  that would have been  required  to cover  fixed
+charges for these periods was $46.9 million and $31.4 million, respectively.
+<page>
+<table>
+
+                                                                                                                         exhibit 21
+
+
+
+                                            ames department stores, inc. and subsidiaries
+                                                    subsidiaries of the registrant
+
+
+     as of april 29, 2000, the subsidiaries of the company were as follows:
+
+
+<s> <c>
+
+                 name                                                             state of incorporation
+                 ----                                                             ----------------------
+
+
+amesplace.com, inc. (f/k/a amesmarketplace.com, inc.)                                   delaware
+
+ames transportation systems, inc.                                                       delaware
+
+ames realty ii, inc.                                                                    delaware
+
+ames fs, inc.                                                                           delaware
+
+     amd, inc., a subsidiary of ames fs, inc.                                           delaware
+
+                  ames merchandising corporation,  a subsidiary of amd, inc.            delaware
+</c></s></table>
+</page></page>
+
+<document>
+<type>ex-27
+<sequence>2
+<filename>0002.txt
+<description>fds --
+<text>
+<table> <s> <c>
+<article>                     5
+<multiplier>                                   1,000
+
+<s> <c>
+<period-type>                                   3-mos
+<fiscal-year-end>                              feb-03-2001
+<period-end>                                   jan-30-2000
+<cash>                                         44,045
+<securities>                                   0
+<receivables>                                  26,911
+<allowances>                                   0
+<inventory>                                    987,919
+<current-assets>                               1,137,923
+<pp&e>                                         669,316
+<depreciation>                                 147,884
+<total-assets>                                 2,183,944
+<current-liabilities>                          653,808
+<bonds>                                        244,487
+<preferred-mandatory>                          0
+<preferred>                                    0
+<common>                                       296
+<other-se>                                     607,001
+<total-liability-and-equity>                   2,183,944
+<sales>                                        830,657
+<total-revenues>                               839,916
+<cgs>                                          602,924
+<total-costs>                                  602,924
+<other-expenses>                               265,112
+<loss-provision>                               0
+<interest-expense>                             18,792
+<income-pretax>                                (46,912)
+<income-tax>                                   17,827
+<income-continuing>                            (29,085)
+<discontinued>                                 0
+<extraordinary>                                0
+<changes>                                      0
+<net-income>                                   (29,085)
+<eps-basic>                                    (0.99)
+<eps-diluted>                                  (0.99)
+
+
+
+</eps-diluted></eps-basic></net-income></changes></extraordinary></discontinued></income-continuing></income-tax></income-pretax></interest-expense></loss-provision></other-expenses></total-costs></cgs></total-revenues></sales></total-liability-and-equity></other-se></common></preferred></preferred-mandatory></bonds></current-liabilities></total-assets></depreciation></pp&e></current-assets></inventory></allowances></receivables></securities></cash></period-end></fiscal-year-end></period-type></c></s></multiplier></article></c></s></table>
+</text>
+</description></filename></sequence></type></document>
+
+-----end privacy-enhanced message-----

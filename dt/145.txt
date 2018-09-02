@@ -1,0 +1,996 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RxqTnXbMbAgFfene0L1fUcoRufMxDWS28iAu81SzHhN6sO9MOjcXzINmwqublVUZ
+ krAjjCZV3MZulmfxUJEl2w==
+
+<SEC-DOCUMENT>/in/edgar/work/20000726/0000011860-00-000028/0000011860-00-000028.txt : 20000921
+<SEC-HEADER>0000011860-00-000028.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000011860-00-000028
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000726
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETHLEHEM STEEL CORP /DE/
+		CENTRAL INDEX KEY:			0000011860
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3312
+]		IRS NUMBER:				240526133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-01941
+			FILM NUMBER:		679270
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		1170 EIGHTH AVE
+				CITY:			BETHLEHEM
+				STATE:			PA
+				ZIP:			18016-7699
+				BUSINESS PHONE:		6106942424
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		1170 EIGHTH AVE
+					CITY:			BETHLEHEM
+					STATE:			PA
+					ZIP:			18016-7699
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>SECOND QUARTER 2000 10-Q
+<TEXT>
+
+
+<PAGE> 1
+
+                                   FORM 10-Q
+
+
+
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+
+               Quarterly Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+
+
+                        For Quarter Ended June 30, 2000
+                         Commission file number 1-1941
+
+
+
+                          BETHLEHEM STEEL CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+
+        DELAWARE                                  24-0526133
+(State of incorporation)                       (I.R.S. Employer
+                                                Identification No.)
+
+1170 Eighth Avenue                                   18016-7699
+BETHLEHEM, PENNSYLVANIA                              (Zip Code)
+(Address of principal
+executive offices)
+
+
+Registrant's telephone number, including area code:  (610) 694-2424
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+                                     Yes   X       No
+                                          ----        ----
+
+
+Number of Shares of Common Stock Outstanding as of July 21, 2000:
+     132,317,819
+     -----------
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+         BETHLEHEM STEEL CORPORATION AND CONSOLIDATED SUBSIDIARIES
+
+
+
+
+                                   INDEX
+
+                                                         Page No.
+                                                         --------
+
+PART I.  Financial Information
+
+Consolidated Statements of Income-
+   Three Months and Six Months Ended
+   June 30, 2000 and 1999 (unaudited). . . . . . . . . .    2
+
+Consolidated Balance Sheets-
+   June 30, 2000 (unaudited), December 31, 1999
+   and June 30, 1999 (unaudited) . . . . . . . . . . . .    3
+
+Consolidated Statements of Cash Flows-
+   Six Months Ended June 30, 2000
+   and 1999 (unaudited). . . . . . . . . . . . . . . . .    4
+
+Notes to Consolidated Financial Statements (unaudited) .    5
+
+Management's Discussion and Analysis of Results of
+   Operations and Financial Condition. . . . . . . . . .    6
+
+
+PART II.  Other Information
+
+   Item 1.  Legal Proceedings . . . . . . . . . . . . . .   9
+
+   Item 6.  Exhibits and Reports on Form 8-K  . . . . . .   9
+
+
+Signatures  . . . . . . . . . . . . . . . . . . . . . . .   10
+
+
+
+                             - 1 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+
+                          Bethlehem Steel Corporation
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+            (dollars and shares in millions, except per share data)
+                                  (unaudited)
+<TABLE>
+<CAPTION>
+<S>            <C>            <C>                                              <C>             <C>
+
+    Three Months Ended                                                              Six Months Ended
+          June 30                                                                       June 30
+   --------------------                                                           --------------------
+   2000            1999                                                           2000            1999
+   ----            ----                                                           ----            ----
+
+$1,059.3       $   984.8      Net Sales                                        $2,166.1        $1,944.3
+- ---------      ---------                                                       ---------       --------
+
+                              Costs and Expenses
+   937.1           917.2        Cost of sales                                   1,925.5         1,805.7
+    66.8            63.5        Depreciation                                      138.5           124.7
+    30.2            30.1        Selling, administration and general expense        58.0            59.4
+   (26.9)             -         Unusual gains (Note 4)                            (26.9)             -
+- ---------      ----------                                                      ---------       ---------
+
+
+ 1,007.2         1,010.8      Total Costs and Expenses                          2,095.1         1,989.8
+- ---------      ----------                                                      ---------       ---------
+    52.1           (26.0)     Income (Loss) from Operations                        71.0           (45.5)
+
+                              Financing Income (Expense):
+   (15.9)          (12.1)       Interest and other financing costs                (32.4)          (26.0)
+     2.1             1.9        Interest and other income                           3.3             4.2
+- ---------      ----------                                                      ---------       ---------
+    38.3           (36.2)     Income (Loss) before Income Taxes                    41.9           (67.3)
+
+    (6.7)            6.5      Benefit (Provision) for Income Taxes                 (7.3)           12.0
+- ---------      ----------                                                      ---------       ---------
+
+    31.6           (29.7)     Net Income (Loss)                                    34.6           (55.3)
+
+    10.2            10.3      Dividends on Preferred and Preference Stock          20.5            20.6
+- ---------      ----------                                                      ---------       ---------
+$   21.4       $   (40.0)     Net Income (Loss) Applicable to Common Stock     $   14.1        $  (75.9)
+=========      ==========                                                      =========       =========
+
+
+                              Net Income (Loss) per Common Share:
+$   0.16       $   (0.31)       Basic and Diluted                              $   0.11        $  (0.58)
+
+                              Average Shares Outstanding:
+   131.7           129.9        Basic and Diluted                                 131.4           129.8
+
+
+                                           Additional Data
+
+  2,239           2,109         Steel products shipped (thousands of net tons)    4,623           4,120
+  2,569           2,272         Raw steel produced (thousands of net tons)        5,232           4,801
+
+
+
+</TABLE>
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                     - 2 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 4
+                          Bethlehem Steel Corporation
+
+                          CONSOLIDATED BALANCE SHEETS
+                             (dollars in millions)
+
+                                    ASSETS
+
+<TABLE>
+<CAPTION>
+<S>                                                       <C>         <C>
+
+                                                         June 30      December 31     June 30
+                                                           2000          1999           1999
+                                                        (unaudited)                  (unaudited)
+                                                        -----------   ------------   -----------
+Current Assets:
+   Cash and cash equivalents                              $   130.2   $    99.4       $    84.6
+   Receivables, less allowances                               229.1       235.0           289.7
+   Inventories:
+     Raw materials                                            262.0       292.3           286.4
+     Finished and semifinished                                574.6       572.5           694.0
+                                                          ----------  ----------      ----------
+                                                              836.6       864.8           980.4
+   Other current assets                                         7.3        10.2             6.1
+                                                          ----------  ----------      ----------
+Total Current Assets                                        1,203.2     1,209.4         1,360.8
+Investments and Miscellaneous Assets                          129.4       123.1            97.0
+Property, Plant and Equipment, less accumulated
+   depreciation of $4,359.1, $4,263.6 and $4,220.3          2,883.2     2,899.7         2,748.3
+Deferred Income Tax Asset - net                               952.7       960.0           937.0
+Net Assets of Discontinued Stainless Operations (Note 3)         -          3.0            15.0
+Goodwill, less accumulated amortization of $25.0,
+    $22.0 and $13.0                                           335.0       341.0           347.0
+                                                          ----------  ----------      ----------
+Total Assets                                              $ 5,503.5   $ 5,536.2       $ 5,505.1
+                                                          ==========  ==========      ==========
+
+                                 LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+   Accounts payable                                       $   403.6   $   427.6      $    384.9
+   Accrued employment costs                                   302.2       292.2           278.2
+   Accrued taxes                                               55.7        56.4            52.6
+   Debt and capital lease obligations                         135.3       110.0            69.5
+   Other current liabilities                                  141.6       147.2           161.4
+                                                          ----------  ----------      ----------
+Total Current Liabilities                                   1,038.4     1,033.4           946.6
+
+Pension Liability                                             421.8       410.0           415.0
+Postretirement Benefits Other Than Pensions                 1,690.7     1,645.0         1,653.5
+Long-term Debt and Capital Lease Obligations                  657.7       754.1           614.9
+Deferred Gain on Sales                                        108.1       117.4           126.7
+Other Long-term Liabilities                                   290.6       299.2           328.5
+
+Stockholders' Equity:
+   Preferred Stock                                             11.6        11.6            11.6
+   Preference Stock                                             2.1         2.0             2.2
+   Common Stock                                               134.4       133.6           132.9
+   Common Stock held in treasury at cost                      (60.8)      (60.6)          (60.5)
+   Additional paid-in capital                               1,945.3     1,961.5         1,976.8
+   Accumulated deficit                                       (736.4)     (771.0)         (643.1)
+                                                          ----------  ----------      ----------
+Total Stockholders' Equity                                  1,296.2     1,277.1         1,419.9
+                                                          ----------  ----------      ----------
+Total Liabilities and Stockholders' Equity                $ 5,503.5   $ 5,536.2       $ 5,505.1
+                                                          ==========  ==========      ==========
+
+</TABLE>
+
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                     - 3 -
+
+
+
+<PAGE> 5
+                          Bethlehem Steel Corporation
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (dollars in millions)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+<S>                                                                          <C>         <C>
+                                                                               Six Months Ended
+                                                                                    June 30
+                                                                               ----------------
+                                                                               2000        1999
+                                                                               ----        ----
+Operating Activities:
+  Net income (loss)                                                          $  34.6     $ (55.3)
+
+  Adjustments for items not affecting cash from operating activities:
+    Depreciation and amortization                                              138.5       124.7
+    Unusual gains (Note 4)                                                     (26.9)         -
+    Deferred income taxes                                                        7.3       (12.0)
+    Other - net                                                                 (4.5)       (1.6)
+
+  Working capital (excluding financing and investing activities):
+    Receivables - operating                                                      5.1       (50.3)
+    Receivables - sold                                                            -         70.0
+    Inventories                                                                 28.3        60.2
+    Accounts payable                                                           (24.0)      (31.9)
+    Employment costs and other                                                  13.0        (4.5)
+                                                                             --------     -------
+Cash Provided from Operations Before Funding Postretirement Benefits           171.4        99.3
+
+Funding Postretirement Benefits:
+  Pension funding less than expense                                             11.8          -
+  Retiree healthcare and life insurance benefit payments less than expense      45.7        13.5
+                                                                             --------     -------
+Cash Provided from Continuing Operating Activities                             228.9       112.8
+                                                                             --------     -------
+Cash Provided from Operating Activities of Discontinued
+  Stainless Operations (Note 3)                                                   -         11.4
+                                                                             --------     -------
+Investing Activities:
+  Capital expenditures                                                        (122.4)     (227.4)
+  Payments related to the purchase of Lukens (Note 3)                             -         (6.6)
+  Cash proceeds from sales of businesses and assets                             33.5        87.0
+                                                                             --------     -------
+Cash Used for Investing Activities                                             (88.9)     (147.0)
+                                                                             --------     -------
+Financing Activities:
+  Borrowings                                                                    12.4        32.3
+  Debt and capital lease payments                                              (88.8)      (24.1)
+  Cash dividends paid                                                          (20.2)      (20.2)
+  Other payments                                                               (12.6)      (18.4)
+                                                                             --------     -------
+Cash Used for Financing Activities                                            (109.2)      (30.4)
+                                                                             --------     -------
+
+Net Increase (Decrease) in Cash and Cash Equivalents                            30.8       (53.2)
+Cash and Cash Equivalents - Beginning of Period                                 99.4       137.8
+                                                                             --------     -------
+                          - End of Period                                    $ 130.2      $ 84.6
+                                                                             ========     =======
+Supplemental Cash Payment Information:
+  Interest, net of amount capitalized                                        $  26.7      $ 25.1
+  Income taxes paid (received)                                                   1.2        (0.3)
+  Capital lease obligations incurred                                             5.3         4.7
+
+</TABLE>
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                     - 4 -
+
+
+<PAGE> 6
+
+                          Bethlehem Steel Corporation
+
+                         NOTES TO FINANCIAL STATEMENTS
+                                  (unaudited)
+
+1.  The Consolidated Financial Statements as of and for the three month and six
+month periods ended June 30, 2000 and 1999 were not audited.  However, in
+Management's opinion, the information reflects all adjustments necessary for a
+fair statement of the results for the periods presented.  Management believes
+all adjustments were of a normal and recurring nature.
+
+2.  These Consolidated Financial Statements should be read together with the
+1999 audited financial statements in Bethlehem's Annual Report on Form 10-K
+filed with the Securities and Exchange Commission.  Presentation of certain
+amounts in the prior year have been revised to be consistent with the current
+year.
+
+3.  On May 29, 1998, Bethlehem acquired all of the outstanding capital stock of
+Lukens Inc.  Transaction related costs of $6.6 million were paid during the
+first half of 1999.  The stainless and distribution businesses acquired in the
+Lukens purchase were accounted for as discontinued operations.  Income or
+losses from these businesses were not included in Bethlehem's operating
+results.  In the first quarter of 2000, Bethlehem completed the divestiture of
+these businesses.  The net assets of these operations are shown separately on
+the balance sheet and consist primarily of property, plant and equipment and
+working capital.
+
+4.  During the second quarter of 2000, Bethlehem recognized unusual gains of
+$26.9 million ($22.2 million after-tax or $.17 per diluted share). Metropolitan
+Life Insurance Company converted from a mutual company owned by its
+policyowners to a stock company.  As a policyholder, Bethlehem received $17.9
+million in cash in relation to this conversion.  We sold our equity interest in
+Presque Isle Corporation for $10.0 million and recognized a gain of $9.0
+million. Presque Isle operates a limestone quarry in Michigan.  Bethlehem will
+continue to purchase limestone from Presque Isle at market prices.
+
+                                     - 5 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 7
+
+           ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+
+Review of Results:
+
+Second Quarter and First Six Months 2000
+Second Quarter and First Six Months 1999
+
+         We reported net income for the second quarter of 2000 of $32 million
+($.16 per diluted common share).  Included in the second quarter results were
+unusual pre-tax gains of $27 million, or $22 million after-tax ($.17 per
+diluted common share).  Excluding these unusual gains, our net income for the
+second quarter of 2000 was $10 million, which is a loss of $.01 per diluted
+common share.  This compares with a net loss of $30 million, or a loss of $.31
+per diluted common share, for the second quarter of 1999.  Sales for the second
+quarter of 2000 were $1.1 billion compared with $1.0 billion for the second
+quarter of 1999.
+
+         For the first six months of 2000, our net income was $35 million.
+Excluding unusual gains, net income for the first six months was $12 million,
+which is a loss of $.06 per diluted common share, compared with a loss of $55
+million, or a loss $.58 per diluted common share, in the first six months of
+1999.  Sales for the first half of 2000 were $2.2 billion compared with $1.9
+billion for the first half of 1999.
+
+         The $27 million of pre-tax unusual gains recorded in the second
+quarter of 2000 resulted from Metropolitan Life Insurance Company's conversion
+from a mutual company owned by its policyholders to a publicly held company and
+from the sale of our equity interest in Presque Isle Corporation.  As a
+policyholder with Metropolitan Life, we received $18 million from this
+conversion, all of which was recognized as a gain.  We also recognized a gain
+of $9 million from the sale of our equity interest in Presque Isle Corporation,
+which operates a limestone quarry in Michigan.
+
+
+Operating Results
+
+         Our income from operations was $52 million for the second quarter of
+2000.  Excluding the unusual gains discussed above, income from operations was
+$25 million compared with a loss from operations of $26 million for the second
+quarter of 1999.  Our second quarter 2000 operating results improved from a
+year ago primarily because of lower costs and slightly higher shipments and
+steel prices.  Our costs were lower than last year because of continued
+emphasis on cost controls, higher productivity, and the absence of costs
+incurred in the second quarter of 1999 in connection with the reline of
+Sparrows Point's "L" blast furnace.  Our costs were lower than a year ago
+despite higher steelworker wages and benefits, rising energy costs, especially
+natural gas, higher scrap costs and increases in other post retirement benefits
+expense.
+
+                                     - 6 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 8
+
+         Income from operations for the first six months of 2000, excluding
+unusual gains, was $44 million, an improvement of about $90 million from a loss
+of $46 million in the first six months of 1999.  This improvement was largely
+due to the same reasons cited above.
+
+         Our income from operations for the second quarter of 2000 improved
+from the first quarter as lower shipments were offset by lower costs, higher
+steel prices, and a slightly better product mix.  Our costs were lower despite
+significantly higher natural gas costs and several planned modernization and
+repair outages at key production facilities at Sparrows Point.
+
+
+Liquidity and Capital Structure
+
+         At June 30, 2000, our total liquidity, comprising cash, cash
+equivalents and funds available under our bank credit arrangements, totaled
+$451 million compared with $334 million at December 31, 1999.
+
+         For the first six months of 2000, cash provided from continuing
+operating activities was $229 million, an improvement of $116 million over the
+first six months of 1999.  This improvement is primarily because of higher
+income.  We expect to maintain an adequate level of liquidity during 2000 with
+cash provided from operations, available funds under our bank credit
+arrangements, reductions in working capital, primarily inventory, and asset
+sales.
+
+         Major uses of cash for 2000 are expected to be capital expenditures of
+about $250 million, debt payments, and pension funding.  During the second
+quarter, we repaid $60 million of borrowings under our bank credit
+arrangements, thereby increasing our availability to about $320 million.
+
+
+Strategic Initiatives
+
+         We have essentially completed the extensive modernization of our
+Sparrows Point Division.  This modernization involved eight very important
+strategic projects, the last three of which were successfully completed this
+past quarter, including a new cold mill complex, wide-slab caster, and
+pulverized coal injection facility.  As a result, during the balance of this
+year, we expect to start achieving the benefits of this modernization program
+as these new facilities move toward reaching their full production capability.
+
+         We also continue to develop our e-Business platform.  In addition to
+our equity position in MetalSite, we recently acquired an equity interest in
+OneBuild, a company dedicated to improving the efficiency and effectiveness of
+procurement in the commercial construction market.  Additionally, we have
+partnered with Ariba, Inc.  for its e-Procurement initiatives.
+
+                                     - 7 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 9
+
+Dividends
+
+         On July 26, 2000, our Board of Directors declared dividends of $1.25
+per share on our $5.00 Cumulative Convertible Preferred Stock, $0.625 per share
+on our $2.50 Cumulative Convertible Preferred Stock and $0.875 per share on our
+$3.50 Cumulative Convertible Preferred Stock, each payable September 10, 2000,
+to holders of record on August 10, 2000.  No dividend was declared on our
+Common Stock.
+
+
+Outlook
+
+         The U.S.  economy remains strong but evidence of some slowing is
+appearing in certain of our markets.  Steel consumption in the United States
+has been very strong this year, but we expect it to decline slightly in the
+second half of 2000 because of higher interest rates and a moderation in
+consumer spending.  Globally, steel demand continues to improve, but imports
+into the U.S.  remain a concern.  Additionally, customer inventories are being
+reduced and some new domestic capacity has entered the marketplace.  As a
+result, competition remains intense.
+
+         We are continuing to implement our strategy of concentrating on steel,
+rebuilding our financial strength, and improving continuously in everything
+that we do.  In doing so, we will take all necessary actions to accelerate our
+cost reduction initiatives and advance our growth initiatives through
+improvements in the use of existing assets, new business development, and
+e-Business activities.
+
+
+Forward-looking Statements
+
+         This release contains forward-looking statements.  Our use of the
+words "expects", "believe", "intent", "should", "plan" and similar words are
+intended to identify these statements as forward-looking.  In accordance with
+the provisions of the Private Securities Litigation Reform Act of 1995,
+reference is made to "Item 1 - Business - Forward-Looking Statements" of
+Bethlehem's 1999 Annual Report on Form 10-K and to "Cautionary Statement" of
+Bethlehem's Registration Statement on Form S-4 filed with the Securities and
+Exchange Commission on April 24, 1998 for important factors that could cause
+actual results to differ materially from those projected.
+
+                                     - 8 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 10
+
+PART II.  OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings.
+
+         We, in the ordinary course of our business, are the subject of various
+pending or threatened legal actions involving governmental agencies or private
+interests.  We believe that any ultimate liability arising from these actions
+should not have a material adverse effect on our consolidated financial
+position at June 30, 2000.
+
+         We do not have any material developments in legal proceedings to
+report for the second quarter of 2000.
+
+
+Item 6.  Exhibits and Reports on Form 8-K.
+
+        (a)  Exhibits.
+
+                The following is an index of the exhibits included in this
+         Report on Form 10-Q:
+
+                10.  Amendment dated June 28, 2000 to 1998 Stock Incentive Plan
+                     of Bethlehem Steel Corporation.
+
+                11.  Statement Regarding Computation of Earnings Per Share.
+
+                27.  Financial Data Schedule.
+
+        (b)  Reports on Form 8-K.
+
+                No reports on Form 8-K were filed during the second quarter of
+                2000.
+
+
+                                     - 9 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 11
+
+SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+Bethlehem Steel Corporation has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+
+                                 Bethlehem Steel Corporation
+                                       (Registrant)
+                                 by
+
+
+
+
+                                 /s/ L. A. Arnett
+                                 ------------------------------
+                                 L. A. Arnett
+                                 Vice President and Controller
+                                 (principal accounting officer)
+
+Date:  July 26, 2000
+
+
+                                    - 10 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 12
+
+
+                                 EXHIBIT INDEX
+
+         The following is an index of the exhibits included in this Report:
+
+
+
+                                    Exhibit
+                                    -------
+
+
+10     Amendment dated June 28, 2000 to 1998 Stock Incentive
+       Plan of Bethlehem Steel Corporation
+
+
+11     Statement Regarding Computation of Earnings Per Share
+
+
+27     Financial Data Schedule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 13
+
+
+                       Amendment dated June 28, 2000 to
+           1998 Stock Incentive Plan of Bethlehem Steel Corporation
+
+
+         WHEREAS, on December 10, 1997, the Board of Directors of Bethlehem
+Steel Corporation (Bethlehem) adopted the 1998 Stock Incentive Plan of
+Bethlehem Steel Corporation (the Plan); and
+
+         WHEREAS, the stockholders of Bethlehem approved the Plan at its 1998
+Annual Meeting; and WHEREAS, the Plan reserved for issuance an aggregate of
+5,000,000 shares of Common Stock of Bethlehem, with no more than 1,000,000 of
+such shares being available for issuance pursuant to Grants (as defined in the
+Plan); and
+
+         WHEREAS, the Board of Directors of Bethlehem desires to amend the Plan
+to change the number of shares of Common Stock that can be issued pursuant to
+Grants from 1,000,000 to 1,350,000, but not to change the total number of
+shares of Common Stock that can be issued pursuant to the Plan.
+
+         NOW, THEREFORE, the Board of Directors of Bethlehem, pursuant to
+Section 23 of the Plan, hereby amends the first sentence of Section 2 of the
+Plan, effective June 28, 2000, to read as follows:  "Subject to certain
+adjustments as set forth in Section 15 hereof, there shall be reserved for
+issuance upon the exercise or surrender of the right to exercise options to be
+granted under the Plan (Options) and pursuant to stock awards (Grants) an
+aggregate of 5,000,000 shares of the Common Stock of Bethlehem (Common Stock);
+provided, however, that the number of such shares issued pursuant to Grants
+shall not exceed 1,350,000." All other provisions of the Plan shall remain in
+full force and effect.
+
+         IN WITNESS WHEREOF, the Board of Directors of Bethlehem has authorized
+the execution of this Amendment as of June 28, 2000.
+
+                                           BETHLEHEM STEEL CORPORATION,
+                                             by
+
+
+                                           /s/ W. H. Graham
+                                           __________________________________
+                                           W. H. Graham
+                                           Secretary
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 14
+
+
+
+                                                                 EXHIBIT (11)
+
+                          Bethlehem Steel Corporation
+             Statement Regarding Computation of Earnings Per Share
+     (dollars in millions and shares in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+
+<S>           <C>       <C>                                            <C>         <C>
+      Three Months                                                           Six Months
+      Ended June 30                                                        Ended June 30
+   ------------------                                                     ----------------
+   2000         1999                  Basic Earnings Per Share            2000        1999
+   ----         ----                  ------------------------            ----        ----
+   $31.6      ($29.7)   Net Income                                       $34.6      ($55.3)
+                        Less Dividend Requirements:
+    (2.5)       (2.5)     $2.50 Preferred Dividend                        (5.0)       (5.0)
+    (3.1)       (3.1)     $5.00 Preferred Dividend                        (6.3)       (6.2)
+    (4.5)       (4.5)     $3.50 Preferred Dividend                        (9.0)       (9.0)
+    (0.1)       (0.2)     5% Preference Dividend                          (0.2)       (0.4)
+- ---------    --------                                                  --------    --------
+   (10.2)      (10.3)         Total Preferred and Preference Dividends   (20.5)      (20.6)
+- ---------    --------                                                  --------    --------
+   $21.4      ($40.0)   Net Income Applicable to Common Stock            $14.1      ($75.9)
+=========    ========                                                  ========    ========
+ 131,658     129,946    Average Shares of Common Stock                 131,426     129,808
+
+   $0.16      ($0.31)   Basic Earnings Per Share                         $0.11      ($0.58)
+=========    ========                                                  ========    ========
+                                   Diluted Earnings Per Share
+                                   --------------------------
+   $31.6      ($29.7)   Net Income                                       $34.6      ($55.3)
+                        Less Dividend Requirements:
+    (2.5)       (2.5)     $2.50 Preferred Dividend                        (5.0)       (5.0)
+    (3.1)       (3.1)     $5.00 Preferred Dividend                        (6.3)       (6.2)
+    (4.5)       (4.5)     $3.50 Preferred Dividend                        (9.0)       (9.0)
+     0.0        (0.2)     5% Preference Dividend                           0.0        (0.4)
+- ---------    --------                                                  --------    --------
+   $21.5      ($40.0)   Net Income Applicable to Common Stock            $14.3      ($75.9)
+=========    ========                                                  ========    ========
+
+                        Average Shares of Common Stock and
+                        Other Potentially Dilutive Securities Outstanding:
+ 131,658     129,946      Common Stock                                 131,426     129,808
+      -           -       Stock Options                                     -           -
+      *           *       $2.50 Preferred Stock                             *           *
+      *           *       $5.00 Preferred Stock                             *           *
+      *           *       $3.50 Preferred Stock                             *           *
+   2,121          *       5% Preference Stock                            2,121          *
+- ---------    --------                                                  --------    --------
+ 133,779     129,946              Total                                133,547     129,808
+=========    ========                                                  ========    ========
+   $0.16      ($0.31)   Diluted Earnings Per Share                       $0.11      ($0.58)
+=========    ========                                                  ========    ========
+
+</TABLE>
+*  Antidilutive
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 15
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+
+<ARTICLE>                           5
+<MULTIPLIER>                  1000000
+
+<S>                        <C>
+<PERIOD-TYPE>              6-MOS
+<FISCAL-YEAR-END>          DEC-31-2000
+<PERIOD-END>               JUN-30-2000
+<CASH>                            130
+<SECURITIES>                        0
+<RECEIVABLES>                     250
+<ALLOWANCES>                       21
+<INVENTORY>                       837
+<CURRENT-ASSETS>                 1203
+<PP&E>                           7242
+<DEPRECIATION>                   4359
+<TOTAL-ASSETS>                   5504
+<CURRENT-LIABILITIES>            1038
+<BONDS>                           658
+<PREFERRED-MANDATORY>               0
+<PREFERRED>                        14
+<COMMON>                          134
+<OTHER-SE>                       1148
+<TOTAL-LIABILITY-AND-EQUITY>     5504
+<SALES>                          2166
+<TOTAL-REVENUES>                 2166
+<CGS>                            1926
+<TOTAL-COSTS>                    2095
+<OTHER-EXPENSES>                    0
+<LOSS-PROVISION>                    0
+<INTEREST-EXPENSE>                 32
+<INCOME-PRETAX>                    42
+<INCOME-TAX>                       (7)
+<INCOME-CONTINUING>                35
+<DISCONTINUED>                      0
+<EXTRAORDINARY>                     0
+<CHANGES>                           0
+<NET-INCOME>                       35
+<EPS-BASIC>                    0.11
+<EPS-DILUTED>                    0.11
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

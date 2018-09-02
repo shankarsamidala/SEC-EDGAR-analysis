@@ -1,0 +1,1680 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TNsfo2hrkAhM326ZW8sLyNgGV8nUAfItYMGMU6araj6KIZbZ88SSbd6stV8Sy6ZZ
+ bl++T3qCyIcbHa8K7BEvEw==
+
+<SEC-DOCUMENT>0000950134-02-012682.txt : 20021018
+<SEC-HEADER>0000950134-02-012682.hdr.sgml : 20021018
+<ACCEPTANCE-DATETIME>20021018165549
+ACCESSION NUMBER:		0000950134-02-012682
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20020630
+FILED AS OF DATE:		20021018
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMR CORP
+		CENTRAL INDEX KEY:			0000006201
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				751825172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08400
+		FILM NUMBER:		02792983
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76155
+		BUSINESS PHONE:		8179631234
+
+	MAIL ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			75261-9616
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>d00440a1e10vqza.txt
+<DESCRIPTION>AMENDMENT NO. 1 TO FORM 10-Q
+<TEXT>
+<PAGE>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                FORM 10-Q/A NO. 1
+
+[X] Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+    Act of 1934
+FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2002.
+                               -------------
+
+[ ] Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+    Act of 1934
+For the Transition Period From                      to                     .
+                               --------------------    ---------------------
+
+Commission file number 1-8400.
+                       ------
+
+                                 AMR CORPORATION
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+              Delaware                                 75-1825172
+- ----------------------------------------    ------------------------------------
+    (State or other jurisdiction            (I.R.S. Employer Identification No.)
+  of incorporation or organization)
+
+         4333 Amon Carter Blvd.
+           Fort Worth, Texas                             76155
+- ----------------------------------------    ------------------------------------
+(Address of principal executive offices)               (Zip Code)
+
+Registrant's telephone number, including area code (817) 963-1234
+                                                   --------------
+
+                                 Not Applicable
+- --------------------------------------------------------------------------------
+              (Former name, former address and former fiscal year,
+                         if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes  X  No    .
+                                       ---    ---
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+Common Stock, $1 par value - 155,688,619 as of July 15, 2002.
+
+================================================================================
+<PAGE>
+
+                                EXPLANATORY NOTE
+
+                                 AMR CORPORATION
+
+The purpose of this amendment No. 1 to the AMR Corporation Quarterly Report on
+Form 10-Q for the quarterly period ended June 30, 2002 is to solely reflect a
+cumulative effect of accounting change, as a result of the adoption of Statement
+of Financial Accounting Standards No. 142, "Goodwill and Other Intangible
+Assets", effective January 1, 2002. This new accounting pronouncement allows
+companies until December 31, 2002 to quantify the impairment charge, if any, but
+requires companies to record this charge effective January 1, 2002, resulting in
+this amended Form 10-Q.
+<PAGE>
+
+                                      INDEX
+
+                                 AMR CORPORATION
+
+PART I: FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+     Consolidated Statements of Operations -- Three and six months ended June
+     30, 2002 and 2001
+
+     Condensed Consolidated Balance Sheets - June 30, 2002 and December 31, 2001
+
+     Condensed Consolidated Statements of Cash Flows -- Six months ended June
+     30, 2002 and 2001
+
+     Notes to Condensed Consolidated Financial Statements - June 30, 2002
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+
+Item 4. Controls and Procedures
+
+PART II: OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+Item 6. Exhibits and Reports on Form 8-K
+
+SIGNATURE
+
+CERTIFICATIONS
+
+<PAGE>
+                          PART I: FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+AMR CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited) (In millions, except per share amounts)
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                                         Three Months Ended          Six Months Ended
+                                                              June 30,                    June 30,
+                                                       ----------------------      ----------------------
+                                                         2002          2001          2002          2001
+                                                       --------      --------      --------      --------
+
+<S>                                                    <C>           <C>           <C>           <C>
+REVENUES
+    Passenger - American Airlines                      $  3,747      $  4,645      $  7,231      $  8,580
+              - AMR Eagle                                   344           409           649           763
+    Cargo                                                   142           190           276           366
+    Other revenues                                          246           339           459           634
+                                                       --------      --------      --------      --------
+      Total operating revenues                            4,479         5,583         8,615        10,343
+
+EXPENSES
+  Wages, salaries and benefits                            2,126         2,126         4,206         3,872
+  Aircraft fuel                                             656           842         1,183         1,549
+  Depreciation and amortization                             338           352           679           665
+  Other rentals and landing fees                            306           320           595           577
+  Maintenance, materials and repairs                        285           298           551           578
+  Aircraft rentals                                          214           226           440           374
+  Food service                                              180           218           350           402
+  Commissions to agents                                     155           260           316           484
+  Special charges                                            --           685            --           685
+  Other operating expenses                                  820         1,016         1,625         1,921
+                                                       --------      --------      --------      --------
+    Total operating expenses                              5,080         6,343         9,945        11,107
+                                                       --------      --------      --------      --------
+
+OPERATING LOSS                                             (601)         (760)       (1,330)         (764)
+
+OTHER INCOME (EXPENSE)
+  Interest income                                            18            24            36            64
+  Interest expense                                         (164)         (132)         (330)         (251)
+  Interest capitalized                                       22            38            44            79
+  Miscellaneous - net                                         5            37            (3)           22
+                                                       --------      --------      --------      --------
+                                                           (119)          (33)         (253)          (86)
+                                                       --------      --------      --------      --------
+
+LOSS BEFORE INCOME TAXES AND CUMULATIVE EFFECT OF
+   ACCOUNTING CHANGE                                       (720)         (793)       (1,583)         (850)
+Income tax benefit                                         (225)         (286)         (513)         (300)
+                                                       --------      --------      --------      --------
+LOSS BEFORE CUMULATIVE EFFECT OF ACCOUNTING CHANGE         (495)         (507)       (1,070)         (550)
+CUMULATIVE EFFECT OF ACCOUNTING CHANGE, NET OF TAX
+   BENEFIT                                                   --            --          (988)           --
+                                                       --------      --------      --------      --------
+NET LOSS                                               $   (495)     $   (507)     $ (2,058)     $   (550)
+                                                       ========      ========      ========      ========
+
+BASIC AND DILUTED LOSS PER SHARE
+Before Cumulative Effect of Accounting Change          $  (3.19)     $  (3.29)     $  (6.90)     $  (3.58)
+Cumulative Effect of Accounting Change                       --            --         (6.37)           --
+                                                       --------      --------      --------      --------
+Net Loss                                               $  (3.19)     $  (3.29)     $ (13.27)     $  (3.58)
+                                                       ========      ========      ========      ========
+</Table>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                      -1-
+<PAGE>
+
+AMR CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited) (In millions)
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                                               June 30,    December 31,
+                                                                 2002          2001
+                                                               --------    ------------
+
+<S>                                                            <C>         <C>
+ASSETS
+CURRENT ASSETS
+  Cash                                                         $    195      $    120
+  Short-term investments                                          2,368         2,872
+  Receivables, net                                                1,556         1,414
+  Inventories, net                                                  743           822
+  Deferred income taxes                                             792           790
+  Other current assets                                              194           522
+                                                               --------      --------
+    Total current assets                                          5,848         6,540
+
+EQUIPMENT AND PROPERTY
+  Flight equipment, net                                          15,556        14,980
+  Other equipment and property, net                               2,317         2,079
+  Purchase deposits for flight equipment                            686           929
+                                                               --------      --------
+                                                                 18,559        17,988
+
+EQUIPMENT AND PROPERTY UNDER CAPITAL LEASES
+  Flight equipment, net                                           1,433         1,572
+  Other equipment and property, net                                  92            95
+                                                               --------      --------
+                                                                  1,525         1,667
+
+Route acquisition costs                                             829           829
+Airport operating and gate lease rights, net                        481           496
+Other assets                                                      4,296         5,321
+                                                               --------      --------
+                                                               $ 31,538      $ 32,841
+                                                               ========      ========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+  Accounts payable                                             $  1,559      $  1,785
+  Accrued liabilities                                             2,344         2,192
+  Air traffic liability                                           3,059         2,763
+  Current maturities of long-term debt                              350           556
+  Current obligations under capital leases                          147           216
+                                                               --------      --------
+    Total current liabilities                                     7,459         7,512
+
+Long-term debt, less current maturities                           9,172         8,310
+Obligations under capital leases, less current obligations        1,444         1,524
+Deferred income taxes                                             1,577         1,627
+Postretirement benefits                                           2,611         2,538
+Other liabilities, deferred gains and deferred credits            5,868         5,957
+
+STOCKHOLDERS' EQUITY
+  Preferred stock                                                    --            --
+  Common stock                                                      182           182
+  Additional paid-in capital                                      2,812         2,865
+  Treasury stock                                                 (1,645)       (1,716)
+  Accumulated other comprehensive loss                              (72)         (146)
+  Retained earnings                                               2,130         4,188
+                                                               --------      --------
+                                                                  3,407         5,373
+                                                               --------      --------
+                                                               $ 31,538      $ 32,841
+                                                               ========      ========
+</Table>
+
+The accompanying notes are an integral part of these financial statements.
+
+                                      -2-
+<PAGE>
+
+AMR CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited) (In millions)
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                                                           Six Months Ended June 30,
+                                                                           -------------------------
+                                                                              2002         2001
+                                                                             -------      -------
+
+<S>                                                                          <C>          <C>
+NET CASH PROVIDED BY OPERATING ACTIVITIES                                    $    86      $   885
+
+CASH FLOW FROM INVESTING ACTIVITIES:
+  Capital expenditures, including purchase deposits for flight equipment      (1,113)      (2,124)
+  Acquisition of Trans World Airlines, Inc.                                       --         (742)
+  Net decrease in short-term investments                                         504          922
+  Proceeds from sale of equipment and property                                   162          206
+  Other                                                                           35           (6)
+                                                                             -------      -------
+        Net cash used for investing activities                                  (412)      (1,744)
+
+CASH FLOW FROM FINANCING ACTIVITIES:
+  Payments on long-term debt and capital lease obligations                      (468)        (586)
+  Proceeds from:
+    Issuance of long-term debt                                                   866        1,587
+    Exercise of stock options                                                      3           34
+                                                                             -------      -------
+        Net cash provided by financing activities                                401        1,035
+                                                                             -------      -------
+
+Net increase in cash                                                              75          176
+Cash at beginning of period                                                      120           89
+                                                                             -------      -------
+
+Cash at end of period                                                        $   195      $   265
+                                                                             =======      =======
+</Table>
+
+The accompanying notes are an integral part of these financial statements.
+
+                                      -3-
+<PAGE>
+
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+- --------------------------------------------------------------------------------
+
+1.   The accompanying unaudited condensed consolidated financial statements have
+     been prepared in accordance with generally accepted accounting principles
+     for interim financial information and the instructions to Form 10-Q and
+     Article 10 of Regulation S-X. Accordingly, they do not include all of the
+     information and footnotes required by generally accepted accounting
+     principles for complete financial statements. In the opinion of management,
+     these financial statements contain all adjustments, consisting of normal
+     recurring accruals and the asset impairment charge as discussed in footnote
+     8, necessary to present fairly the financial position, results of
+     operations and cash flows for the periods indicated. The Company's 2002
+     results continue to be adversely impacted by the September 11, 2001
+     terrorist attacks and the resulting effect on the economy and the air
+     transportation industry. In addition, on April 9, 2001, Trans World
+     Airlines LLC (TWA LLC, a wholly owned subsidiary of AMR Corporation)
+     purchased substantially all of the assets and assumed certain liabilities
+     of Trans World Airlines, Inc. (TWA). Accordingly, the operating results of
+     TWA LLC are included in the accompanying condensed consolidated financial
+     statements for the three and six month periods ended June 30, 2002 whereas
+     for 2001 the results of TWA LLC were included only for the period April 10,
+     2001 through June 30, 2001. When utilized in this report, all references to
+     American Airlines, Inc. include the operations of TWA LLC since April 10,
+     2001 (collectively, American). Results of operations for the periods
+     presented herein are not necessarily indicative of results of operations
+     for the entire year. For further information, refer to the consolidated
+     financial statements and footnotes thereto included in the AMR Corporation
+     (AMR or the Company) Annual Report on Form 10-K for the year ended December
+     31, 2001 ("2001 Form 10-K").
+
+2.   Accumulated depreciation of owned equipment and property at June 30, 2002
+     and December 31, 2001 was $9 billion and $8.9 billion, respectively.
+     Accumulated amortization of equipment and property under capital leases at
+     June 30, 2002 and December 31, 2001 was approximately $1.1 billion and $1.2
+     billion, respectively.
+
+3.   The following table provides unaudited pro forma consolidated results of
+     operations, assuming the acquisition of TWA had occurred as of January 1,
+     2001 (in millions, except per share amounts):
+
+<Table>
+<Caption>
+                    Six Months Ended
+                     June 30, 2001
+                    ----------------
+
+<S>                 <C>
+Operating revenues     $ 11,210
+Net loss                   (557)
+Loss per share         $  (3.62)
+</Table>
+
+     The unaudited pro forma consolidated results of operations have been
+     prepared for comparative purposes only. These amounts are not indicative of
+     the combined results that would have occurred had the transaction actually
+     been consummated on the date indicated above and are not indicative of the
+     consolidated results of operations which may occur in the future.
+
+4.   As discussed in the notes to the consolidated financial statements included
+     in the Company's 2001 Form 10-K, Miami-Dade County (the County) is
+     currently investigating and remediating various environmental conditions at
+     the Miami International Airport (MIA) and funding the remediation costs
+     through landing fees and various cost recovery methods. American and AMR
+     Eagle have been named as potentially responsible parties (PRPs) for the
+     contamination at MIA. During the second quarter of 2001, the County filed a
+     lawsuit against 17 defendants, including American, in an attempt to recover
+     its past and future cleanup costs (Miami-Dade County, Florida v. Advance
+     Cargo Services, Inc., et al. in the Florida Circuit Court). In addition to
+     the 17 defendants named in the lawsuit, 243 other agencies and companies
+     were also named as PRPs and contributors to the contamination. American's
+     and AMR Eagle's portion of the cleanup costs cannot be reasonably estimated
+     due to various factors, including the unknown extent of the remedial
+     actions that may be required, the proportion of the cost that will
+     ultimately be recovered from the responsible parties, and uncertainties
+     regarding the environmental agencies that will ultimately supervise the
+     remedial activities and the nature of that supervision.
+
+                                      -4-
+<PAGE>
+
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+- --------------------------------------------------------------------------------
+
+     In addition, the Company is subject to environmental issues at various
+     other airport and non-airport locations. Management believes, after
+     considering a number of factors, that the ultimate disposition of these
+     environmental issues is not expected to materially affect the Company's
+     consolidated financial position, results of operations or cash flows.
+     Amounts recorded for environmental issues are based on the Company's
+     current assessments of the ultimate outcome and, accordingly, could
+     increase or decrease as these assessments change.
+
+5.   As of June 30, 2002, the Company had commitments to acquire the following
+     aircraft: 47 Boeing 737-800s, 11 Boeing 777-200ERs, nine Boeing 767-300ERs,
+     109 Embraer regional jets and 20 Bombardier CRJ-700s. Deliveries of these
+     aircraft are scheduled to continue through 2008. Payments for these
+     aircraft are expected to be approximately $505 million during the remainder
+     of 2002, $1.5 billion in 2003, $1.1 billion in 2004 and an aggregate of
+     approximately $2.1 billion in 2005 through 2008.
+
+6.   During the six month period ended June 30, 2002, American and AMR Eagle
+     borrowed approximately $626 million under various debt agreements which are
+     secured by aircraft. Effective interest rates on these agreements are based
+     on London Interbank Offered Rate plus a spread and mature over various
+     periods of time through 2018.
+
+     In March 2002, the Regional Airports Improvement Corporation issued
+     facilities sublease revenue bonds at the Los Angeles International Airport
+     to provide reimbursement to American for certain facility construction
+     costs. The proceeds of approximately $225 million provided to American have
+     been recorded as long-term debt on the condensed consolidated balance
+     sheets. These obligations bear interest at fixed rates, with an average
+     rate of 7.88 percent, and mature over various periods of time, with a final
+     maturity in 2024.
+
+7.   Effective January 1, 2002, the Company adopted Statement of Financial
+     Accounting Standards No. 142, "Goodwill and Other Intangible Assets" (SFAS
+     142). SFAS 142 requires the Company to test goodwill and indefinite-lived
+     intangible assets (for AMR, route acquisition costs) for impairment rather
+     than amortize them. During the first quarter of 2002, the Company completed
+     its impairment analysis for route acquisition costs in accordance with SFAS
+     142. The analysis did not result in an impairment charge. In addition, the
+     Company completed its impairment analysis related to its $1.4 billion of
+     goodwill and determined the Company's entire goodwill balance was impaired.
+     In arriving at this conclusion, the Company's net book value was determined
+     to be in excess of the Company's fair value at January 1, 2002, using AMR
+     as the reporting unit for purposes of the fair value determination. The
+     Company determined its fair value as of January 1, 2002 using various
+     valuation methods, ultimately utilizing market capitalization as the
+     primary indicator of fair value. As a result, the Company recorded a
+     one-time, non-cash charge, effective January 1, 2002, of $988 million
+     ($6.37 per share, net of a tax benefit of $363 million) to write-off all of
+     AMR's goodwill. This charge is nonoperational in nature and is reflected as
+     a cumulative effect of accounting change in the consolidated statements of
+     operations. This charge does not affect the Company's financial covenants
+     in any of its credit agreements.
+
+     In addition, effective January 1, 2001, the Company adopted Statement of
+     Financial Accounting Standards No. 133, "Accounting for Derivative
+     Instruments and Hedging Activities", as amended (SFAS 133). SFAS 133
+     required the Company to recognize all derivatives on the balance sheet at
+     fair value. Derivatives that are not hedges are adjusted to fair value
+     through income. If the derivative is a hedge, depending on the nature of
+     the hedge, changes in the fair value of derivatives are either offset
+     against the change in fair value of the hedged assets, liabilities, or firm
+     commitments through earnings or recognized in other comprehensive income
+     until the hedged item is recognized in earnings. The ineffective portion of
+     a derivative's change in fair value is immediately recognized in earnings.
+     The adoption of SFAS 133 did not result in a cumulative effect adjustment
+     being recorded to net income for the change in accounting. However, the
+     Company recorded a transition adjustment of approximately $64 million in
+     Accumulated other comprehensive loss in the first quarter of 2001.
+
+
+                                      -5-
+<PAGE>
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+- --------------------------------------------------------------------------------
+
+     The following table provides information relating to the Company's
+     amortized intangible assets as of June 30, 2002 (in millions):
+
+<Table>
+<Caption>
+                                                Accumulated     Net Book
+                                      Cost      Amortization      Value
+                                      ----      ------------    --------
+
+<S>                                   <C>       <C>             <C>
+AMORTIZED INTANGIBLE ASSETS:
+   Airport operating rights           $516          $168          $348
+   Gate lease rights                   209            76           133
+                                      ----          ----          ----
+     Total                            $725          $244          $481
+                                      ====          ====          ====
+</Table>
+
+     Airport operating and gate lease rights are being amortized on a
+     straight-line basis over 25 years to a zero residual value. For the three
+     and six month period ended June 30, 2002, the Company recorded amortization
+     expense of approximately $6 million and $15 million, respectively, related
+     to these intangible assets. The Company expects to record annual
+     amortization expense of approximately $29 million in each of the next five
+     years related to these intangible assets.
+
+     The pro forma effect of discontinuing amortization of goodwill and route
+     acquisition costs under SFAS 142 - assuming the Company had adopted this
+     standard as of January 1, 2001 - results in an adjusted net loss of
+     approximately $494 million, or $3.21 per share, and approximately $530
+     million, or $3.45 per share, respectively, for the three and six month
+     periods ended June 30, 2001.
+
+8.   In conjunction with the acquisition of certain assets from TWA, coupled
+     with revisions to the Company's fleet plan to accelerate the retirement
+     dates of its Fokker 100, Saab 340 and ATR 42 aircraft, during the second
+     quarter of 2001 the Company determined these aircraft were impaired under
+     Statement of Financial Accounting Standards No. 121, "Accounting for the
+     Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+     of" (SFAS 121). As a result, during the second quarter of 2001, the Company
+     recorded an asset impairment charge of approximately $685 million relating
+     to the write-down of the carrying value of 71 Fokker 100 aircraft, 74 Saab
+     340 aircraft and 20 ATR 42 aircraft and related rotables to their estimated
+     fair market values which is included in Special charges on the accompanying
+     consolidated statements of operations. Management estimated the
+     undiscounted future cash flows utilizing models used by the Company in
+     making fleet and scheduling decisions. In determining the fair market value
+     of these aircraft, the Company considered outside third party appraisals
+     and recent transactions involving sales of similar aircraft. As a result of
+     the writedown of these aircraft to fair market value, as well as the
+     acceleration of the retirement dates and changes in salvage values,
+     depreciation and amortization will decrease by approximately $18 million on
+     an annualized basis.
+
+9.   The Company includes unrealized gains and losses on available-for-sale
+     securities, changes in minimum pension liabilities and changes in the fair
+     value of certain derivative financial instruments that qualify for hedge
+     accounting in comprehensive loss. For the three months ended June 30, 2002
+     and 2001, comprehensive loss was $496 million and $511 million,
+     respectively. In addition, for the six months ended June 30, 2002 and 2001,
+     comprehensive loss was $1,984 million and $480 million, respectively. The
+     difference between net loss and comprehensive loss is due primarily to the
+     accounting for the Company's derivative financial instruments under SFAS
+     133. In addition, the six month period ended June 30, 2001 includes the
+     cumulative effect of the adoption of SFAS 133.
+
+     During the second quarter of 2002, the Company discontinued entering into
+     new foreign exchange currency put option agreements. The fair value of the
+     Company's remaining foreign currency put option agreements was not material
+     as of June 30, 2002, and all of these agreements will expire by September
+     30, 2002.
+
+                                      -6-
+<PAGE>
+
+AMR CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(Unaudited)
+- --------------------------------------------------------------------------------
+
+10.  The following table sets forth the computations of basic and diluted loss
+     per share before cumulative effect of accounting change (in millions,
+     except per share data):
+
+<Table>
+<Caption>
+                                                                                     Three Months Ended         Six Months Ended
+                                                                                          June 30,                 June 30,
+                                                                                    --------------------      --------------------
+                                                                                     2002         2001         2002         2001
+                                                                                    -------      -------      -------      -------
+
+<S>                                                                                 <C>          <C>          <C>          <C>
+NUMERATOR:
+   Net loss before cumulative effect of accounting change - numerator for basic
+     and diluted loss per share                                                     $  (495)     $  (507)     $(1,070)     $  (550)
+                                                                                    =======      =======      =======      =======
+
+DENOMINATOR:
+   Denominator for basic and diluted loss per share before cumulative effect of
+     accounting change - weighted-average shares                                        155          154          155          154
+                                                                                    =======      =======      =======      =======
+
+Basic and diluted loss per share before cumulative effect of accounting change      $ (3.19)     $ (3.29)     $ (6.90)     $ (3.58)
+                                                                                    =======      =======      =======      =======
+</Table>
+
+     For the three and six months ended June 30, 2002, approximately five
+     million and seven million potential dilutive shares, respectively, were not
+     added to the denominator because inclusion of such shares would be
+     antidilutive as compared to approximately 14 million shares for the three
+     and six months ended June 30, 2001.
+
+
+                                      -7-
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+FOR THE THREE MONTHS ENDED JUNE 30, 2002 AND 2001
+
+SUMMARY AMR Corporation's (AMR or the Company) NET LOSS during the second
+quarter of 2002 was $495 million, or $3.19 per share, as compared to a net loss
+of $507 million, or $3.29 per share for the same period in 2001. AMR's OPERATING
+LOSS of $601 million decreased by $159 million compared to the same period in
+2001. The Company's 2002 results continue to be adversely impacted by the
+September 11, 2001 terrorist attacks and the resulting effect on the economy and
+the air transportation industry. On April 9, 2001, Trans World Airlines LLC (TWA
+LLC, a wholly owned subsidiary of AMR) purchased substantially all of the assets
+and assumed certain liabilities of Trans World Airlines, Inc. (TWA).
+Accordingly, the operating results of TWA LLC are included in the accompanying
+condensed consolidated financial statements for the three month period ended
+June 30, 2002 whereas for 2001 the results of TWA LLC were included only for the
+period April 10, 2001 through June 30, 2001. All references to American
+Airlines, Inc. include the operations of TWA LLC since April 10, 2001
+(collectively, American). AMR's second quarter 2001 results include: (i) a $685
+million charge ($430 million after-tax, or $2.79 per share) related to the
+writedown of the carrying value of its Fokker 100, Saab 340 and ATR-42 aircraft
+and related rotables in accordance with SFAS 121, "Accounting for the Impairment
+of Long-Lived Assets and for Long-Lived Assets to be Disposed Of" (see footnote
+8 to the condensed consolidated financial statements), and (ii) a $45 million
+gain ($29 million after-tax, or $0.19 per share) from the settlement of a legal
+matter related to the Company's 1999 labor disruption.
+
+Although traffic has continued to increase on significantly reduced capacity
+since the events of September 11, 2001, the Company's second quarter 2002
+revenues were down significantly quarter-over-quarter. In addition to the
+residual effects of September 11, the Company's revenues continue to be
+negatively impacted by the economic slowdown, seen largely in business travel
+declines, the geographic distribution of the Company's network and reduced
+fares. In total, the Company's REVENUES decreased $1,104 million, or 19.8
+percent, in the second quarter of 2002 as compared to the same period last year.
+American's PASSENGER REVENUES decreased by 19.3 percent, or $898 million in the
+second quarter of 2002 from the same period in 2001. American's domestic revenue
+per available seat mile (RASM) decreased 11.9 percent, to 8.47 cents, on a
+capacity decrease of 8 percent, to 32 billion available seat miles (ASMs).
+International RASM decreased to 8.67 cents, or 5 percent, on a capacity decrease
+of 16.2 percent. The decrease in international RASM was due to an 8.6 percent
+and 3.1 percent decrease in Latin American and European RASM, respectively,
+slightly offset by a 3.2 percent increase in Pacific RASM. The decrease in
+international capacity was driven by a 33.9 percent, 16.2 percent and 12.3
+percent reduction in Pacific, European and Latin American ASMs, respectively.
+
+AMR Eagle's PASSENGER REVENUES decreased 15.9 percent, or $65 million. AMR
+Eagle's traffic increased 2.8 percent while capacity decreased 5 percent, to
+approximately 1.6 billion ASMs. As with American, the decrease in AMR Eagle's
+revenues was due primarily to the continued impact of the September 11, 2001
+terrorist attacks and the economic slowdown.
+
+Cargo REVENUES decreased $48 million, or 25.3 percent, primarily due to the same
+reasons as noted above.
+
+OTHER REVENUES decreased 27.4 percent, or $93 million, due primarily to
+decreases in contract maintenance work that American performs for other
+airlines, and decreases in codeshare revenue and employee travel service
+charges.
+
+                                      -8-
+<PAGE>
+
+RESULTS OF OPERATIONS (CONTINUED)
+
+The Company's OPERATING EXPENSES decreased 19.9 percent, or $1,263 million.
+American's COST PER ASM increased 0.5 percent to 10.78 cents, excluding the
+impact of the second quarter 2001 asset impairment charge. WAGES, SALARIES AND
+BENEFITS remained flat quarter-over-quarter, reflecting (i) a decrease in the
+average number of equivalent employees, somewhat offset by higher salaries, and
+(ii) increases in the Company's pension and health insurance costs, the latter
+reflecting rapidly rising medical care and prescription drug costs. AIRCRAFT
+FUEL expense decreased 22.1 percent, or $186 million, due primarily to an 11.6
+percent decrease in the Company's fuel consumption and a 9.4 percent decrease in
+the Company's average price per gallon of fuel. FOOD SERVICE decreased 17.4
+percent, or $38 million, due primarily to the Company's reduced operating
+schedule and change in level of food service. COMMISSIONS TO AGENTS decreased
+40.4 percent, or $105 million, due primarily to a 19.1 percent decrease in
+passenger revenues and commission structure changes implemented in March 2002.
+SPECIAL CHARGES of $685 million related to the writedown of the carrying value
+of the Company's Fokker 100, Saab 340 and ATR-42 aircraft and related rotables
+during the second quarter of 2001 (see footnote 8 to the condensed consolidated
+financial statements). OTHER OPERATING EXPENSES decreased 19.3 percent, or $196
+million, due primarily to decreases in contract maintenance work that American
+performs for other airlines, and decreases in travel and incidental costs,
+credit card and booking fees, advertising and promotion costs, and data
+processing expenses, which were partially offset by higher insurance and
+security costs.
+
+OTHER INCOME (EXPENSE) increased $86 million due to the following: INTEREST
+INCOME decreased 25 percent, or $6 million, due primarily to decreases in
+interest rates. INTEREST EXPENSE increased $32 million, or 24.2 percent,
+resulting primarily from the increase in the Company's long-term debt. INTEREST
+CAPITALIZED decreased $16 million, or 42.1 percent, due primarily to a decrease
+in purchase deposits for flight equipment. MISCELLANEOUS-NET decreased 86.5
+percent, or $32 million, due primarily to a $45 million gain recorded during the
+second quarter of 2001 from the settlement of a legal matter related to the
+Company's 1999 labor disruption.
+
+The effective tax rate for the three months ended June 30, 2002 was impacted by
+a $30 million charge resulting from a provision in Congress' economic stimulus
+package that changes the period for carrybacks of net operating losses (NOLs).
+This change allows the Company to carry back 2001 and 2002 NOLs for five years,
+rather than two years under the existing law, allowing the Company to more
+quickly recover its NOLs. The extended NOL carryback did however, result in the
+displacement of foreign tax credits taken in prior years. These credits are now
+expected to expire before being utilized by the Company, resulting in this
+charge.
+
+                                      -9-
+<PAGE>
+
+RESULTS OF OPERATIONS (CONTINUED)
+
+<Table>
+<Caption>
+OPERATING STATISTICS                                           Three Months Ended June 30,
+                                                               ---------------------------
+                                                                   2002           2001
+                                                                  ------         ------
+
+<S>                                                               <C>            <C>
+AMERICAN AIRLINES
+    Revenue passenger miles (millions)                            31,379         35,188
+    Available seat miles (millions)                               43,958         49,044
+    Cargo ton miles (millions)                                       518            610
+    Passenger load factor                                           71.4%          71.7%
+    Breakeven load factor (*)                                       86.4%          74.0%
+    Passenger revenue yield per passenger mile (cents)             11.94          13.20
+    Passenger revenue per available seat mile (cents)               8.52           9.47
+    Cargo revenue yield per ton mile (cents)                       27.21          30.89
+    Operating expenses per available seat mile (cents) (*)         10.78          10.73
+    Fuel consumption (gallons, in millions)                          808            922
+    Fuel price per gallon (cents)                                   75.5           83.3
+    Fuel price per gallon, excluding fuel taxes (cents)             70.0           78.0
+    Operating aircraft at period-end                                 828            904
+
+AMR EAGLE
+    Revenue passenger miles (millions)                             1,059          1,030
+    Available seat miles (millions)                                1,596          1,680
+    Passenger load factor                                           66.4%          61.3%
+    Operating aircraft at period-end                                 281            271
+</Table>
+
+(*)  Excludes the impact of Special charges
+
+Operating aircraft at June 30, 2002, included:
+
+<Table>
+<S>                                      <C>           <C>                          <C>
+AMERICAN AIRLINES AIRCRAFT                             AMR EAGLE AIRCRAFT
+Airbus A300-600R                          34           ATR 42                        28
+Boeing 737-800                            77           Bombardier CRJ-700             5
+Boeing 757-200                           151           Embraer 135                   40
+Boeing 767-200                             8           Embraer 140                   30
+Boeing 767-200 Extended Range             21           Embraer 145                   56
+Boeing 767-300 Extended Range             58           Super ATR                     42
+Boeing 777-200 Extended Range             43           Saab 340B                     55
+Fokker 100                                74           Saab 340B Plus                25
+McDonnell Douglas MD-80                  362                                        ---
+                                         ---              Total                     281
+   Total                                 828                                        ===
+                                         ===
+</Table>
+
+The average aircraft age for American's aircraft is 10 years and 6.6 years for
+AMR Eagle aircraft.
+
+In addition, the following owned and leased aircraft were not operated by the
+Company as of June 30, 2002: 29 owned Boeing 727-200s, 24 operating leased
+Boeing 717-200s, 13 operating leased McDonnell Douglas DC-9s, eight owned
+McDonnell Douglas DC-10-10s, four operating leased McDonnell Douglas MD-80s, and
+15 capital leased and two owned Saab 340Bs.
+
+                                      -10-
+<PAGE>
+
+RESULTS OF OPERATIONS (CONTINUED)
+
+FOR THE SIX MONTHS ENDED JUNE 30, 2002 AND 2001
+
+SUMMARY AMR's LOSS BEFORE CUMULATIVE EFFECT OF ACCOUNTING CHANGE for the six
+months ended June 30, 2002 was $1,070 million, or $6.90 per share, as compared
+to a net loss of $550 million, or $3.58 per share, for the same period in 2001.
+AMR's OPERATING LOSS for the six months ended June 30, 2002 was $1,330 million,
+compared to an operating loss of $764 million for the same period in 2001. The
+Company's 2002 results continue to be adversely impacted by the September 11,
+2001 terrorist attacks and the resulting effect on the economy and the air
+transportation industry. On April 9, 2001, TWA LLC purchased substantially all
+of the assets and assumed certain liabilities of TWA. Accordingly, the operating
+results of TWA LLC are included in the accompanying condensed consolidated
+financial statements for the six month period ended June 30, 2002 whereas for
+2001 the results of TWA LLC were included only for the period April 10, 2001
+through June 30, 2001. In addition, the Company recorded a one-time, non-cash
+charge of $988 million (net of tax), reflected as a cumulative effect of
+accounting change, to write-off all of AMR's goodwill. AMR's 2001 results
+include: (i) a $685 million charge ($430 million after-tax, or $2.79 per share)
+related to the writedown of the carrying value of its Fokker 100, Saab 340 and
+ATR-42 aircraft and related rotables, and (ii) a $45 million gain ($29 million
+after-tax, or $0.19 per share) from the settlement of a legal matter related to
+the Company's 1999 labor disruption.
+
+Although traffic has continued to increase on significantly reduced capacity
+since the events of September 11, 2001, the Company's 2002 revenues were down
+significantly year-over-year. In addition to the residual effects of September
+11, the Company's revenues continue to be negatively impacted by the economic
+slowdown, seen largely in business travel declines, the geographic distribution
+of the Company's network and reduced fares. In total, the Company's REVENUES
+decreased $1,728 million, or 16.7 percent, in 2002 versus the same period in
+2001. American's PASSENGER REVENUES decreased by 15.7 percent, or $1,349 million
+in 2002 as compared to the same period in 2001. American's domestic RASM
+decreased 13.4 percent, to 8.58 cents, on a capacity decrease of 0.4 percent, to
+61.3 billion ASMs. International RASM decreased to 8.67 cents, or 7.7 percent,
+on a capacity decrease of 14 percent. The decrease in international RASM was due
+to a 10.2 percent and 7.9 percent decrease in Latin American and European RASM,
+respectively, slightly offset by a 5.6 percent increase in Pacific RASM. The
+decrease in international capacity was driven by a 36.4 percent, 15.2 percent
+and 8.2 percent reduction in Pacific, European and Latin American ASMs,
+respectively.
+
+AMR Eagle's PASSENGER REVENUES decreased 14.9 percent, or $114 million. AMR
+Eagle's traffic increased 4.7 percent while capacity decreased 3.2 percent, to
+approximately 3.2 billion ASMs. As with American, the decrease in AMR Eagle's
+revenues was due primarily to the continued impact of the September 11, 2001
+terrorist attacks and the economic slowdown.
+
+Cargo REVENUES decreased $90 million, or 24.6 percent, primarily due to the same
+reasons as noted above.
+
+OTHER REVENUES decreased 27.6 percent, or $175 million, due primarily to
+decreases in contract maintenance work that American performs for other
+airlines, and decreases in codeshare revenue and employee travel service
+charges.
+
+                                      -11-
+<PAGE>
+RESULTS OF OPERATIONS (CONTINUED)
+
+The Company's OPERATING EXPENSES decreased 10.5 percent, or approximately $1,162
+million. American's COST PER ASM increased by 0.5 percent to 11.03 cents,
+excluding the impact of the second quarter 2001 asset impairment charge. WAGES,
+SALARIES AND BENEFITS increased 8.6 percent, or $334 million, reflecting (i) a
+decrease in the average number of equivalent employees, somewhat offset by
+higher salaries, and (ii) increases in the Company's pension and health
+insurance costs, the latter reflecting rapidly rising medical care and
+prescription drug costs. AIRCRAFT FUEL expense decreased 23.6 percent, or $366
+million, due primarily to a 16.1 percent decrease in the Company's average price
+per gallon of fuel and a 6.1 percent decrease in the Company's fuel consumption.
+AIRCRAFT RENTALS increased $66 million, or 17.6 percent, due primarily the
+addition of TWA aircraft. FOOD SERVICE decreased 12.9 percent, or $52 million,
+due primarily to the Company's reduced operating schedule and change in level of
+food service. COMMISSIONS TO AGENTS decreased 34.7 percent, or $168 million, due
+primarily to a 15.7 percent decrease in passenger revenues and commission
+structure changes implemented in March 2002. SPECIAL CHARGES of $685 million
+related to the writedown of the carrying value of the Company's Fokker 100, Saab
+340 and ATR-42 aircraft and related rotables during the second quarter of 2001.
+OTHER OPERATING EXPENSES decreased 15.4 percent, or $296 million, due primarily
+to decreases in contract maintenance work that American performs for other
+airlines, and decreases in travel and incidental costs, credit card and booking
+fees, advertising and promotion costs, and data processing expenses, which were
+partially offset by higher insurance and security costs.
+
+OTHER INCOME (EXPENSE) increased $167 million due to the following: INTEREST
+INCOME decreased 43.8 percent, or $28 million, due primarily to decreases in
+interest rates. INTEREST EXPENSE increased $79 million, or 31.5 percent,
+resulting primarily from the increase in the Company's long-term debt. INTEREST
+CAPITALIZED decreased $35 million, or 44.3 percent, due primarily to a decrease
+in purchase deposits for flight equipment. MISCELLANEOUS-NET decreased $25
+million due primarily to a $45 million gain recorded during the second quarter
+of 2001 from the settlement of a legal matter related to the Company's 1999
+labor disruption and the write-down of certain investments held by the Company
+during the first quarter of 2001.
+
+The effective tax rate for the six months ended June 30, 2002 was impacted by a
+$57 million charge resulting from a provision in Congress' economic stimulus
+package that changes the period for carrybacks of NOLs. This change allows the
+Company to carry back 2001 and 2002 NOLs for five years, rather than two years
+under the existing law, allowing the Company to more quickly recover its NOLs.
+The extended NOL carryback did however, result in the displacement of foreign
+tax credits taken in prior years. These credits are now expected to expire
+before being utilized by the Company, resulting in this charge.
+
+                                      -12-
+<PAGE>
+RESULTS OF OPERATIONS (CONTINUED)
+
+<Table>
+<Caption>
+OPERATING STATISTICS                                            Six Months Ended June 30,
+                                                                -------------------------
+                                                                   2002           2001
+                                                                  ------         ------
+
+<S>                                                               <C>            <C>
+AMERICAN AIRLINES
+    Revenue passenger miles (millions)                            59,197         61,640
+    Available seat miles (millions)                               84,047         88,021
+    Cargo ton miles (millions)                                       981          1,159
+    Passenger load factor                                           70.4%          70.0%
+    Breakeven load factor (*)                                       86.9%          71.3%
+    Passenger revenue yield per passenger mile (cents)             12.22          13.92
+    Passenger revenue per available seat mile (cents)               8.60           9.75
+    Cargo revenue yield per ton mile (cents)                       27.93          31.27
+    Operating expenses per available seat mile (cents) (*)         11.03          10.97
+    Fuel consumption (gallons, in millions)                        1,553          1,664
+    Fuel price per gallon (cents)                                   71.5           85.2
+    Fuel price per gallon, excluding fuel taxes (cents)             66.0           79.8
+
+AMR EAGLE
+    Revenue passenger miles (millions)                             1,978          1,890
+    Available seat miles (millions)                                3,163          3,268
+    Passenger load factor                                           62.5%          57.8%
+</Table>
+
+(*)  Excludes the impact of Special charges
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES in the six month period ended June 30,
+2002 was $86 million, a decrease of $799 million over the same period in 2001,
+due primarily to an increase in the Company's net loss. Included in net cash
+provided by operating activities during the first six months of 2002 was
+approximately $658 million received by the Company as a result of the
+utilization of its 2001 NOL's. Capital expenditures for the first six months of
+2002 were $1,113 million, and included the acquisition of seven Boeing 757-200s,
+three Boeing 777-200ERs, 15 Embraer 140s and four Bombardier CRJ-700 aircraft.
+These capital expenditures were financed primarily through secured mortgage and
+debt agreements. Proceeds from the sale of equipment and property of $162
+million include the proceeds received upon delivery of three McDonnell Douglas
+MD-11 aircraft to FedEx.
+
+As of June 30, 2002, the Company had commitments to acquire the following
+aircraft: 47 Boeing 737-800s, 11 Boeing 777-200ERs, nine Boeing 767-300ERs, 109
+Embraer regional jets and 20 Bombardier CRJ-700s. Deliveries of these aircraft
+are scheduled to continue through 2008. Payments for these aircraft are expected
+to be approximately $505 million during the remainder of 2002, $1.5 billion in
+2003, $1.1 billion in 2004 and an aggregate of approximately $2.1 billion in
+2005 through 2008.
+
+In June 2002, Standard & Poor's downgraded the credit ratings of AMR and
+American, and the credit ratings of a number of other major airlines. The
+long-term credit ratings of AMR and American were removed from Standard & Poor's
+Credit Watch with negative implications and were given a negative outlook. Any
+additional reductions in AMR's or American's credit ratings could result in
+increased borrowing costs to the Company and might limit the availability of
+future financing needs.
+
+                                      -13-
+<PAGE>
+
+In addition to the Company's approximately $2.6 billion in cash and short-term
+investments as of June 30, 2002, the Company has available a variety of future
+financing sources, including, but not limited to: (i) the receipt of the
+remainder of the U.S. Government grant authorized by the Air Transportation
+Safety and System Stabilization Act (the Act), which is estimated to be in
+excess of $40 million, (ii) additional secured aircraft debt, (iii) the
+availability of the Company's $1 billion credit facility, (iv) sale-leaseback
+transactions of owned property, including aircraft and real estate, (v) the
+recovery of past federal income taxes paid as a result of a provision in the
+recently passed economic stimulus package regarding NOL carrybacks, (vi)
+tax-exempt borrowings for airport facilities, (vii) securitization of future
+operating receipts, and (viii) unsecured borrowings. No assurance can be given
+that any of these financing sources will be available on terms acceptable to the
+Company. However, the Company believes it will meet its current financing needs.
+
+Pursuant to the Act, the Government made available to air carriers, subject to
+certain conditions, up to $10 billion in federal government guarantees of
+certain loans. American did not seek such loan guarantees.
+
+OTHER INFORMATION
+
+As a result of the September 11, 2001 events, aviation insurers have
+significantly reduced the maximum amount of insurance coverage available to
+commercial air carriers for liability to persons other than employees or
+passengers for claims resulting from acts of terrorism, war or similar events
+(war-risk coverage). At the same time, they significantly increased the premiums
+for such coverage as well as for aviation insurance in general. Pursuant to
+authority granted in the Act, the Government has supplemented the commercial
+war-risk insurance until August 17, 2002 with a third party liability policy to
+cover losses to persons other than employees or passengers for renewable 60-day
+periods. In the event the insurance carriers reduce further the amount of
+insurance coverage available or the Government fails to renew war-risk
+insurance, the Company's operations and/or financial position, results of
+operations or cash flows would be adversely impacted.
+
+As discussed in the Company's 2001 Form 10-K, a provision in the current Allied
+Pilots Association (APA) contract freezes the number of ASMs and block hours
+flown on American's two letter marketing code by American's regional carrier
+partners when American pilots are on furlough (the ASM cap). As AMR Eagle
+continues to accept previously ordered regional jets, this ASM cap would be
+reached sometime in 2002, necessitating actions to insure compliance with the
+ASM cap. American is working with its regional partners to accomplish this.
+Actions currently being taken and considered by AMR Eagle to reduce its capacity
+are discussed in the Company's 2001 Form 10-K. In addition, American is removing
+its code from flights of the AmericanConnection carriers, which are independent
+carriers that provide feed to American's St. Louis hub. American believes that
+the combination of these actions will enable it to comply with this ASM cap
+through 2002 and for sometime beyond.
+
+In addition, another provision in the current APA contract limits the total
+number of regional jets with more than 44 seats flown under the American code by
+American's regional carrier partners to 67 aircraft. Similar to the above, as
+AMR Eagle continues to accept previously ordered Bombardier CRJ aircraft, this
+cap would be reached in early 2003. In order to ensure American remains in
+compliance with this provision, AMR Eagle has reached an agreement in principle
+to dispose of 14 Embraer 145 aircraft. Ultimately, these airplanes will be
+acquired by Trans States Airlines, an AmericanConnection carrier. Trans States
+Airlines will operate these aircraft under its two letter airline code and
+expects to deploy these aircraft at its St. Louis hub where it feeds American.
+The potential transaction still requires the consent of certain third parties,
+including the companies financing these aircraft, and is subject to the
+negotiation of final documentation.
+
+                                      -14-
+
+<PAGE>
+
+OUTLOOK
+
+Capacity for American is expected to be down approximately two percent in the
+third quarter of 2002 compared to last year's third quarter levels. AMR Eagle's
+third quarter capacity will be down about one percent from last year's levels.
+For the third quarter of 2002, the Company expects traffic to be about flat as
+compared to last year's third quarter levels. Pressure to reduce costs will
+continue, although the Company will continue to see higher benefit and security
+costs, increased insurance premiums, and greater interest expense. However, the
+Company expects to see a slight decrease in fuel prices as compared to the third
+quarter of 2001 and the continued decline in commission expense due to the
+commission changes implemented earlier in 2002. In total, American's unit costs,
+excluding special charges, for the third quarter of 2002 are expected to be down
+approximately 3.5 percent from last year's third quarter level. Notwithstanding
+the expected decrease in unit costs however, given the revenue pressures seen in
+the first half of the year and expected to continue into the third quarter, the
+Company expects to incur a sizable loss in the third quarter and a significant
+loss for 2002.
+
+In response to these financial challenges, the Company has undertaken a
+comprehensive review of its business to better align its cost structure with the
+current revenue environment, aimed at improving productivity, simplifying
+operations and reducing costs. The Company has begun to implement certain of
+these changes, including a fleet simplification program, adjustments to its
+operating schedule and increased airport automation, and will continue to refine
+its business throughout the coming months.
+
+FORWARD-LOOKING INFORMATION
+
+Statements in this report contain various forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+21E of the Securities Exchange Act of 1934, as amended, which represent the
+Company's expectations or beliefs concerning future events. When used in this
+document and in documents incorporated herein by reference, the words "expects,"
+"plans," "anticipates," "believes," and similar expressions are intended to
+identify forward-looking statements. Other forward-looking statements include
+statements which do not relate solely to historical facts, such as, without
+limitation, statements which discuss the possible future effects of current
+known trends or uncertainties, or which indicate that the future effects of
+known trends or uncertainties cannot be predicted, guaranteed or assured. All
+forward-looking statements in this report are based upon information available
+to the Company on the date of this report. The Company undertakes no obligation
+to publicly update or revise any forward-looking statement, whether as a result
+of new information, future events or otherwise. Forward-looking statements are
+subject to a number of factors that could cause actual results to differ
+materially from our expectations. Additional information concerning these and
+other factors is contained in the Company's Securities and Exchange Commission
+filings, including but not limited to the 2001 Form 10-K.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+There have been no material changes in market risk from the information provided
+in Item 7A. Quantitative and Qualitative Disclosures About Market Risk of the
+2001 Form 10-K.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+An evaluation was performed under the supervision and with the participation of
+the Company's management, including the Chief Executive Officer (CEO) and Chief
+Financial Officer (CFO), of the effectiveness of the design and operation of the
+Company's disclosure controls and procedures within 90 days before the filing
+date of this quarterly report (October 18, 2002). Based on that evaluation, the
+Company's management, including the CEO and CFO, concluded that the Company's
+disclosure controls and procedures were effective. There have been no
+significant changes in the Company's internal controls or in other factors that
+could significantly affect internal controls subsequent to their evaluation.
+
+                                      -15-
+<PAGE>
+
+PART II: OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+On July 26, 1999, a class action lawsuit was filed, and in November 1999 an
+amended complaint was filed, against AMR Corporation, American Airlines, Inc.,
+AMR Eagle Holding Corporation, Airlines Reporting Corporation, and the Sabre
+Group Holdings, Inc. in the United States District Court for the Central
+District of California, Western Division (Westways World Travel, Inc. v. AMR
+Corp., et al.). The lawsuit alleges that requiring travel agencies to pay debit
+memos to American for violations of American's fare rules (by customers of the
+agencies) (1) breaches the Agent Reporting Agreement between American and AMR
+Eagle and the plaintiffs, (2) constitutes unjust enrichment, and (3) violates
+the Racketeer Influenced and Corrupt Organizations Act of 1970 (RICO). The as
+yet uncertified class includes all travel agencies who have been or will be
+required to pay monies to American for debit memos for fare rules violations
+from July 26, 1995 to the present. The plaintiffs seek to enjoin American from
+enforcing the pricing rules in question and to recover the amounts paid for
+debit memos, plus treble damages, attorneys' fees, and costs. The Company
+intends to vigorously defend the lawsuit. Although the Company believes that the
+litigation is without merit, an adverse court decision could impose restrictions
+on the Company's relationships with travel agencies which restrictions could
+have an adverse impact on the Company.
+
+On May 13, 1999, the United States (through the Antitrust Division of the
+Department of Justice) sued AMR Corporation, American Airlines, Inc., and AMR
+Eagle Holding Corporation in federal court in Wichita, Kansas. The lawsuit
+alleges that American unlawfully monopolized or attempted to monopolize airline
+passenger service to and from Dallas/Fort Worth International Airport (DFW) by
+increasing service when new competitors began flying to DFW, and by matching
+these new competitors' fares. The Department of Justice seeks to enjoin American
+from engaging in the alleged improper conduct and to impose restraints on
+American to remedy the alleged effects of its past conduct. On April 27, 2001,
+the U.S. District Court for the District of Kansas granted American's motion for
+summary judgment. On June 26, 2001, the U.S. Department of Justice appealed the
+granting of American's motion for summary judgment. The parties have submitted
+briefs to the 10th Circuit Court of Appeals, which has scheduled the case for
+oral argument on September 23, 2002. The Company intends to defend the lawsuit
+vigorously. A final adverse court decision imposing restrictions on the
+Company's ability to respond to competitors would have an adverse impact on the
+Company.
+
+Between May 14, 1999 and June 7, 1999, seven class action lawsuits were filed
+against AMR Corporation, American Airlines, Inc., and AMR Eagle Holding
+Corporation in the United States District Court in Wichita, Kansas seeking
+treble damages under federal and state antitrust laws, as well as injunctive
+relief and attorneys' fees (King v. AMR Corp., et al.; Smith v. AMR Corp., et
+al.; Team Electric v. AMR Corp., et al.; Warren v. AMR Corp., et al.; Whittier
+v. AMR Corp., et al.; Wright v. AMR Corp., et al.; and Youngdahl v. AMR Corp.,
+et al.). Collectively, these lawsuits allege that American unlawfully
+monopolized or attempted to monopolize airline passenger service to and from DFW
+by increasing service when new competitors began flying to DFW, and by matching
+these new competitors' fares. Two of the suits (Smith and Wright) also allege
+that American unlawfully monopolized or attempted to monopolize airline
+passenger service to and from DFW by offering discounted fares to corporate
+purchasers, by offering a frequent flyer program, by imposing certain conditions
+on the use and availability of certain fares, and by offering override
+commissions to travel agents. The suits propose to certify several classes of
+consumers, the broadest of which is all persons who purchased tickets for air
+travel on American into or out of DFW from 1995 to the present. On November 10,
+1999, the District Court stayed all of these actions pending developments in the
+case brought by the Department of Justice. As a result, to date no class has
+been certified. The Company intends to defend these lawsuits vigorously. One or
+more final adverse court decisions imposing restrictions on the Company's
+ability to respond to competitors or awarding substantial money damages would
+have an adverse impact on the Company.
+
+On May 17, 2002, the named plaintiffs in Hall, et al. v. United Airlines, et
+al., No. 7:00 CV 123-BR(1), pending in the United States District Court for the
+Eastern District of North Carolina, filed an amended complaint alleging that
+between 1995 and the present, American and the other defendant airlines
+conspired to reduce commissions paid to U.S.-based travel agents in violation of
+Section 1 of the Sherman Act. The named plaintiffs seek to certify a nationwide
+class of travel agents, but no class has yet been certified. American is
+vigorously defending the lawsuit. Trial is set for April 29, 2003. A final
+adverse court decision awarding substantial money damages or placing
+restrictions on the Company's commission policies or practices would have an
+adverse impact on the Company.
+
+                                      -16-
+<PAGE>
+
+ITEM 1. LEGAL PROCEEDINGS (CONTINUED)
+
+On April 26, 2002, six travel agencies filed an action in the United States
+District Court for the Central District of California against American, United
+Air Lines, Delta Air Lines, and Orbitz, LLC, alleging that American and the
+other defendants: (i) conspired to prevent travel agents from acting as
+effective competitors in the distribution of airline tickets to passengers in
+violation of Section 1 of the Sherman Act; and (ii) conspired to monopolize the
+distribution of common carrier air travel between airports in the United States
+in violation of Section 2 of the Sherman Act. The named plaintiffs seek to
+certify a nationwide class of travel agents, but no class has yet been
+certified. American is vigorously defending the lawsuit, which is styled Albany
+Travel Co., et al. v. Orbitz, LLC, et al., No. 02-3459 (ER) (AJW)x. A final
+adverse court decision awarding substantial money damages or placing
+restrictions on the Company's distribution practices would have an adverse
+impact on the Company.
+
+On May 13, 2002, the named plaintiffs in Always Travel, et. al. v. Air Canada,
+et. al., No. T757-027, pending in the Federal Court of Canada, Trial Division,
+Montreal, filed a statement of claim alleging that between 1995 and the present,
+American, the other defendant airlines, and the International Air Transport
+Association conspired to reduce commissions paid to Canada-based travel agents
+in violation of Section 45 of the Competition Act of Canada. The named
+plaintiffs seek to certify a nationwide class of travel agents, but no class has
+yet been certified. American is vigorously defending the lawsuit. A final
+adverse court decision awarding substantial money damages or placing
+restrictions on the Company's commission policies would have an adverse impact
+on the Company.
+
+Miami-Dade County (the County) is currently investigating and remediating
+various environmental conditions at the Miami International Airport (MIA) and
+funding the remediation costs through landing fees and various cost recovery
+methods. American Airlines, Inc. and AMR Eagle have been named as potentially
+responsible parties (PRPs) for the contamination at MIA. During the second
+quarter of 2001, the County filed a lawsuit against 17 defendants, including
+American Airlines, Inc., in an attempt to recover its past and future cleanup
+costs (Miami-Dade County, Florida v. Advance Cargo Services, Inc., et al. in the
+Florida Circuit Court). In addition to the 17 defendants named in the lawsuit,
+243 other agencies and companies were also named as PRPs and contributors to the
+contamination. American's and AMR Eagle's portion of the cleanup costs cannot be
+reasonably estimated due to various factors, including the unknown extent of the
+remedial actions that may be required, the proportion of the cost that will
+ultimately be recovered from the responsible parties, and uncertainties
+regarding the environmental agencies that will ultimately supervise the remedial
+activities and the nature of that supervision. The Company is vigorously
+defending the lawsuit.
+
+                                      -17-
+<PAGE>
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+The owners of 138,215,811 shares of common stock, or 89 percent of shares
+outstanding, were represented at the annual meeting of stockholders on May 15,
+2002 at the American Airlines Training & Conference Center, Flagship Auditorium,
+4501 Highway 360 South, Fort Worth, Texas.
+
+Elected as directors of the Corporation, each receiving a minimum of 135,637,573
+votes were:
+
+John W. Bachmann                       Ann McLaughlin Korologos
+David L. Boren                         Michael A. Miles
+Edward A. Brennan                      Philip J. Purcell
+Donald J. Carty                        Joe M. Rodgers
+Armando M. Codina                      Judith Rodin
+Earl G. Graves                         Roger T. Staubach
+
+Stockholders ratified the appointment of Ernst & Young LLP as independent
+auditors for the Corporation for 2002. The vote was 132,769,970 in favor;
+4,927,896 against; and 517,945 abstaining.
+
+A stockholder proposal to recommend that the Company affirm its political
+non-partisanship - submitted by Mrs. Evelyn Y. Davis - was defeated. The vote
+was 18,069,575 in favor; 95,602,793 against; 2,449,216 abstaining; and
+22,094,227 non-voting.
+
+A stockholder proposal relating to increasing the Board of Directors
+independence by nominating only independent directors to key board committees -
+submitted by Mr. John Chevedden - was defeated. The vote was 11,207,257 in
+favor; 102,829,057 against; 2,085,270 abstaining; and 22,094,227 non-voting.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+The following exhibits are included herein:
+
+3.1       Bylaws of AMR Corporation, amended as of April 2, 2002. For document
+          description, see AMR Corporation Quarterly Report on Form 10-Q for the
+          quarterly period ended June 30, 2002, as filed on July 19, 2002.
+
+10.1      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and Roger T. Staubach. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+10.2      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and Edward A. Brennan. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+10.3      Deferred Compensation Agreement, dated as of January 14, 2002 between
+          AMR and Joe M. Rodgers. For document description, see AMR Corporation
+          Quarterly Report on Form 10-Q for the quarterly period ended June 30,
+          2002, as filed on July 19, 2002.
+
+10.4      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and Judith Rodin. For document description, see AMR Corporation
+          Quarterly Report on Form 10-Q for the quarterly period ended June 30,
+          2002, as filed on July 19, 2002.
+
+10.5      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and John W. Bachmann. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+10.6      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and Armando M. Codina. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+
+                                      -18-
+<PAGE>
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K (CONTINUED)
+
+10.7      Deferred Compensation Agreement, dated as of December 18, 2001 between
+          AMR and Philip J. Purcell. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+10.8      American Airlines, Inc. 2002 Employee Profit Sharing Plan. For
+          document description, see AMR Corporation Quarterly Report on Form
+          10-Q for the quarterly period ended June 30, 2002, as filed on July
+          19, 2002.
+
+10.9      American Airlines, Inc. 2002 Incentive Compensation Plan for Officers
+          and Key Employees. For document description, see AMR Corporation
+          Quarterly Report on Form 10-Q for the quarterly period ended June 30,
+          2002, as filed on July 19, 2002.
+
+10.10     AMR Corporation 2002 - 2004 Performance Share Plan for Officers and
+          Key Employees under the 1998 Long-Term Incentive Plan, as amended. For
+          document description, see AMR Corporation Quarterly Report on Form
+          10-Q for the quarterly period ended June 30, 2002, as filed on July
+          19, 2002.
+
+10.11     AMR Corporation 2002 - 2004 Performance Share Program Deferred Stock
+          Award Agreement under the 1998 Long-Term Incentive Plan, as amended.
+          For document description, see AMR Corporation Quarterly Report on Form
+          10-Q for the quarterly period ended June 30, 2002, as filed on July
+          19, 2002.
+
+10.12     Current form of Stock Option Agreement under the 1998 Long-Term
+          Incentive Plan, as amended. For document description, see AMR
+          Corporation Quarterly Report on Form 10-Q for the quarterly period
+          ended June 30, 2002, as filed on July 19, 2002.
+
+12        Computation of ratio of earnings to fixed charges for the three and
+          six months ended June 30, 2002 and 2001.
+
+99        Certification pursuant to section 906 of the Sarbanes-Oxley Act of
+          2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18,
+          United States Code).
+
+Form 8-Ks filed under Item 5 - Other Events
+
+     On June 13, 2002, AMR filed a report on Form 8-K relating to a press
+release issued by American to announce the appointment of Jeffrey C. Campbell as
+Senior Vice President and Chief Financial Officer of the Company.
+
+     On June 19, 2002, AMR filed a report on Form 8-K to provide updated monthly
+guidance on unit cost, fuel, traffic and capacity for the months of May through
+August 2002.
+
+Form 8-Ks furnished under Item 9 - Regulation FD Disclosure
+
+     On April 4, 2002, AMR furnished a report on Form 8-K to announce AMR's
+intent to host a conference call on April 17, 2002 with the financial community
+relating to its first quarter 2002 earnings.
+
+     On May 31, 2002, AMR furnished a report on Form 8-K to provide updated
+monthly guidance on unit cost, fuel, traffic and capacity for the months of
+March through July 2002.
+
+     On June 5, 2002, AMR furnished a report on Form 8-K to provide information
+regarding a presentation by Don Carty, Chairman and CEO of AMR, at the Merrill
+Lynch Global Transportation Conference.
+
+                                      -19-
+<PAGE>
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amended report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                           AMR CORPORATION
+
+Date: October 18, 2002     BY: /s/ Jeffrey C. Campbell
+                               -------------------------------------------------
+                               Jeffrey C. Campbell
+                               Senior Vice President and Chief Financial Officer
+
+                                      -20-
+<PAGE>
+
+CERTIFICATIONS
+
+I, Donald J. Carty, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q/A No. 1 of AMR
+     Corporation;
+
+2.   Based on my knowledge, this quarterly report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this quarterly report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this quarterly report, fairly present in all
+     material respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the periods presented in this
+     quarterly report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a)   designed such disclosure controls and procedures to ensure that material
+     information relating to the registrant, including its consolidated
+     subsidiaries, is made known to us by others within those entities,
+     particularly during the period in which this quarterly report is being
+     prepared;
+
+b)   evaluated the effectiveness of the registrant's disclosure controls and
+     procedures as of a date within 90 days prior to the filing date of this
+     quarterly report (the "Evaluation Date"); and
+
+c)   presented in this quarterly report our conclusions about the effectiveness
+     of the disclosure controls and procedures based on our evaluation as of the
+     Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+a)   all significant deficiencies in the design or operation of internal
+     controls which could adversely affect the registrant's ability to record,
+     process, summarize and report financial data and have identified for the
+     registrant's auditors any material weaknesses in internal controls; and
+
+b)   any fraud, whether or not material, that involves management or other
+     employees who have a significant role in the registrant's internal
+     controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     quarterly report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date: October 18, 2002                 /s/ Donald J. Carty
+                                       -----------------------------------------
+                                       Donald J. Carty
+                                       Chairman and Chief Executive Officer
+
+
+
+                                      -21-
+<PAGE>
+
+CERTIFICATIONS (CONTINUED)
+
+I, Jeffrey C. Campbell, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q/A No. 1 of AMR
+     Corporation;
+
+2.   Based on my knowledge, this quarterly report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this quarterly report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this quarterly report, fairly present in all
+     material respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the periods presented in this
+     quarterly report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a)   designed such disclosure controls and procedures to ensure that material
+     information relating to the registrant, including its consolidated
+     subsidiaries, is made known to us by others within those entities,
+     particularly during the period in which this quarterly report is being
+     prepared;
+
+b)   evaluated the effectiveness of the registrant's disclosure controls and
+     procedures as of a date within 90 days prior to the filing date of this
+     quarterly report (the "Evaluation Date"); and
+
+c)   presented in this quarterly report our conclusions about the effectiveness
+     of the disclosure controls and procedures based on our evaluation as of the
+     Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+a)   all significant deficiencies in the design or operation of internal
+     controls which could adversely affect the registrant's ability to record,
+     process, summarize and report financial data and have identified for the
+     registrant's auditors any material weaknesses in internal controls; and
+
+b)   any fraud, whether or not material, that involves management or other
+     employees who have a significant role in the registrant's internal
+     controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     quarterly report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date: October 18, 2002                 /s/ Jeffrey C. Campbell
+                                       -----------------------------------------
+                                       Jeffrey C. Campbell
+                                       Senior Vice President and Chief Financial
+                                       Officer
+
+
+
+                                      -22-
+<PAGE>
+
+                               INDEX TO EXHIBITS
+
+<Table>
+<Caption>
+EXHIBIT
+NUMBER          DESCRIPTION
+- -------         -----------
+
+<S>             <C>
+  12            Computation of ratio of earnings to fixed charges for the three and
+                six months ended June 30, 2002 and 2001.
+
+  99            Certification pursuant to section 906 of the Sarbanes-Oxley Act
+                of 2002 (subsections (a) and (b) of section 1350, chapter 63 of
+                title 18, United States Code).
+
+</Table>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>3
+<FILENAME>d00440a1exv12.txt
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+<TEXT>
+<PAGE>
+                                                                      EXHIBIT 12
+
+                                 AMR CORPORATION
+                COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+                                  (IN MILLIONS)
+
+<Table>
+<Caption>
+                                                                Three Months Ended         Six Months Ended
+                                                                     June 30,                 June 30,
+                                                               --------------------      --------------------
+                                                                2002         2001         2002         2001
+                                                               -------      -------      -------      -------
+
+<S>                                                            <C>          <C>          <C>          <C>
+Earnings:
+  Loss before income taxes and cumulative effect of
+     accounting change                                         $  (720)     $  (793)     $(1,583)     $  (850)
+   Add: Total fixed charges (per below)                            435          423          875          754
+   Less: Interest capitalized                                       22           38           44           79
+                                                               -------      -------      -------      -------
+      Total loss before income taxes and cumulative
+        effect of accounting change                            $  (307)     $  (408)     $  (752)     $  (175)
+                                                               =======      =======      =======      =======
+
+Fixed charges:
+   Interest, including interest capitalized                    $   156      $   126      $   316      $   240
+   Portion of rental expense representative of the
+     interest factor                                               270          290          542          502
+   Amortization of debt expense                                      9            7           17           12
+                                                               -------      -------      -------      -------
+      Total fixed charges                                      $   435      $   423      $   875      $   754
+                                                               =======      =======      =======      =======
+Coverage deficiency                                            $   742      $   831      $ 1,627      $   929
+                                                               =======      =======      =======      =======
+</Table>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>d00440a1exv99.txt
+<DESCRIPTION>CERTIFICATION PURSUANT TO SECTION 906
+<TEXT>
+<PAGE>
+                                                                      EXHIBIT 99
+                                 AMR CORPORATION
+                                  CERTIFICATION
+            PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+        (SUBSECTIONS (a) AND (b) OF SECTION 1350, CHAPTER 63 OF TITLE 18,
+                               UNITED STATES CODE)
+
+
+Pursuant to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and
+(b) of section 1350, chapter 63 of title 18, United States Code), each of the
+undersigned officers of AMR Corporation, a Delaware corporation (the Company),
+does hereby certify, to such officer's knowledge, that:
+
+The Quarterly Report on Form 10-Q/A No. 1 for the quarter ended June 30, 2002
+(the Form 10-Q/A) of the Company fully complies with the requirements of section
+13(a) or 15(d) of the Securities Exchange Act of 1934 and information contained
+in the Form 10-Q/A fairly presents, in all material respects, the financial
+condition and results of operations of the Company.
+
+Date: October 18, 2002                 /s/ Donald J. Carty
+                                       -----------------------------------------
+                                       Donald J. Carty
+                                       Chairman and Chief Executive Officer
+
+Date: October 18, 2002                 /s/ Jeffrey C. Campbell
+                                       -----------------------------------------
+                                       Jeffrey C. Campbell
+                                       Senior Vice President and Chief Financial
+                                       Officer
+
+
+
+The foregoing certification is being furnished solely pursuant to section 906 of
+the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter
+63 of title 18, United States Code) and is not being filed as part of the Form
+10-Q/A or as a separate disclosure document.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

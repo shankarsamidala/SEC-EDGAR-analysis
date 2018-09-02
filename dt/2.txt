@@ -1,0 +1,205 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DUJG+UQUdSem5QVQS4L2BIse7qEP+a5QTqAwEcpg5tPvAmnrrko2UKgNR0lTEm+q
+ 7q8Xfjborw/9LUXvuZjNRA==
+
+<SEC-DOCUMENT>0000950172-98-000783.txt : 19980814
+<SEC-HEADER>0000950172-98-000783.hdr.sgml : 19980814
+ACCESSION NUMBER:		0000950172-98-000783
+CONFORMED SUBMISSION TYPE:	NT 10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980630
+FILED AS OF DATE:		19980813
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNBEAM CORP/FL/
+		CENTRAL INDEX KEY:			0000003662
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC HOUSEWARES & FANS [3634]
+		IRS NUMBER:				251638266
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		NT 10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-00052
+		FILM NUMBER:		98685363
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1615 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE 200
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+		BUSINESS PHONE:		5612432100
+
+	MAIL ADDRESS:	
+		STREET 1:		1615 SOUTH CONGRESS AVENUE
+		STREET 2:		SUITE 200
+		CITY:			DELRAY BEACH
+		STATE:			FL
+		ZIP:			33445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNBEAM OSTER COMPANY INC /DE/
+		DATE OF NAME CHANGE:	19931210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+                     SECURITIES AND EXCHANGE COMMISSION 
+                          WASHINGTON, D.C.  20549 
+  
+                                FORM 12B-25 
+  
+                                        Commission File Number: 0001-000052 
+  
+                        NOTIFICATION OF LATE FILING 
+  
+ ( ) Form 10-K    ( ) Form 11-K    ( ) Form 20-F    (X) Form 10-Q   
+ ( ) Form N-SAR
+  
+      For Period Ended: June 30, 1998         
+                                
+  
+ ( ) Transition Report on Form 10-K      ( ) Transition Report on Form 10-Q 
+ ( ) Transition Report on Form 20-F      ( ) Transition Report on Form N-SAR 
+ ( ) Transition Report on Form 11-K 
+  
+      For Transition Period Ended: Not applicable.         
+    
+      Nothing in this form shall be construed to imply that the Commission
+ has verified any information contained herein. 
+  
+      If the notification relates to a portion of the filing checked above,
+ identify the item(s) to which the notification relates: Not applicable.     
+   
+  
+                                   PART I 
+                           REGISTRANT INFORMATION 
+  
+ Full name of registrant: Sunbeam Corporation       
+                                
+  
+ Former name, if applicable: Not Applicable           
+                                  
+  
+ Address of principal executive office: 
+ 1615 South Congress Avenue, Suite 200      
+                                  
+  
+ City, state and zip code: Delray Beach, Florida  33445    
+                             
+  
+  
+                                  PART II 
+                          RULE 12B-25 (B) AND (C) 
+  
+      If the subject report could not be filed without unreasonable effort
+ or expense and the registrant seeks relief pursuant to Rule 12b-25(b), the
+ following should be completed.  (Check box if appropriate.) 
+  
+      (a)  The reason described in detail in Part III of this form could not
+           be eliminated without unreasonable effort or expense; 
+      (b)  The subject annual report, semi-annual report, transition report
+           on Form 10-K, 20-F, 11-K or Form N-SAR, or portion thereof will
+           be filed on or before the 15th day following the prescribed due
+           date; or the subject 
+ ( )       quarterly report or transition report on Form 10-Q, or portion
+           thereof  will be filed on or before the fifth calendar day
+           following the prescribed due date; and 
+      (c)  The accountant's statement or other exhibit required by Rule 12b-
+           25 (c) has been attached if applicable. 
+  
+
+                                  PART III 
+                                 NARRATIVE 
+  
+      State below in reasonable detail the reasons why Form 10-K, 11-K, 20-
+ F, 10-Q, N-SAR or the transition report portion thereof could not be filed
+ within the prescribed time period. 
+  
+      As previously announced, the Audit Committee of the Board of Directors
+ of Sunbeam Corporation (the "Company") has determined that the Company will
+ be required to restate its audited financial statements for 1997 and
+ possibly 1996, as well as its unaudited financial statements for the first
+ quarter of 1998.  This conclusion was reached by the Audit Committee based
+ on information presented to it by the Company's outside auditor, Arthur
+ Andersen LLP, and the accounting firm assisting the Audit Committee,
+ Deloitte & Touche LLP. 
+  
+           The Company believes that it will be in a position to issue
+ restated financial statements by the end of September 1998.  Until that
+ time, the Company will not be in a position to report its financial results
+ for the second quarter of 1998 and, accordingly, will be unable to file its
+ second quarter Form 10-Q with the Commission.  
+  
+
+  
+                                  PART IV 
+                             OTHER INFORMATION 
+  
+      (1)  Name and telephone number of person to contact in regard to this
+ notification: 
+  
+ Janet G. Kelley                      (561)              243-2127    
+   (Name)                           (Area Code)      (Telephone Number) 
+  
+      (2)  Have all other periodic reports required under Section 13 or
+ 15(d) of the Securities Exchange Act of 1934 or Section 30 of the
+ Investment Company Act of 1940 during the preceding 12 months or for such
+ shorter period that the registrant was required to file such report (s)
+ been filed?  If the answer is no, identify report(s).    
+  
+                                                         (X)  Yes   ( )  No 
+  
+      (3)  Is it  anticipated that any significant change in results of
+ operations from the corresponding period for the last fiscal year will be
+ reflected by the earnings statements to be included in the subject report
+ or portion thereof? 
+                                                         (X)  Yes   ( )  No 
+  
+      If so: attach an explanation of the anticipated change, both
+ narratively and quantitatively, and, if appropriate, state the reasons why
+ a reasonable estimate of the results cannot be made. 
+  
+           The restatements will involve adjustments that are expected to be
+ material in the aggregate for 1997 and possibly for 1996, as well as for
+ the first quarter of 1998.  The Company is working with Arthur Andersen LLP
+ and Deloitte & Touche LLP to review the Company's financial records and
+ quantify the adjustments.  Until this review is completed, however, no
+ estimate can be made of the extent of any restatement that may be required
+ with respect to the second quarter of 1997. 
+
+
+
+                              Sunbeam Corporation
+ ---------------------------------------------------------------------------
+                (Name of Registrant as Specified in Charter) 
+  
+ Has caused this notification to be signed on its behalf by the undersigned
+ thereunto duly authorized. 
+  
+ Date:     August 13, 1998            By: /s/ Bobby Jenkins  
+                                         --------------------------------- 
+                                              Bobby Jenkins 
+                                              Executive Vice President and  
+                                              Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

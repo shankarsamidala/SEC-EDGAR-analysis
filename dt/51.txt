@@ -1,0 +1,1410 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OrAE5XnOI8CcRV1GUJETPYTGLGcKYFF6ngrVwZtHJygJrzE8lDCLRdglecrS6E9O
+ PS5Sb+0a07SXAr0CR+/Ycw==
+
+<SEC-DOCUMENT>0000004457-01-500081.txt : 20010813
+<SEC-HEADER>0000004457-01-500081.hdr.sgml : 20010813
+ACCESSION NUMBER:		0000004457-01-500081
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010630
+FILED AS OF DATE:		20010810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERCO /NV/
+		CENTRAL INDEX KEY:			0000004457
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				880106815
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11255
+		FILM NUMBER:		1704230
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WY STE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+		BUSINESS PHONE:		7756886300
+
+	MAIL ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WAY
+		STREET 2:		SUITE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERCO
+		DATE OF NAME CHANGE:	19770926
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>amqjun01.txt
+<DESCRIPTION>AMERCO 10-Q 06/30/2001
+<TEXT>
+<PAGE>  1
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+
+                  For the quarterly period ended June 30, 2001
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+        For the transition period from __________________ to __________________
+
+Commission          Registrant, State of Incorporation          I.R.S. Employer
+File Number           Address and Telephone Number            Identification No.
+________________________________________________________________________________
+
+ 1-11255            AMERCO                                        88-0106815
+                    (A Nevada Corporation)
+                    1325 Airmotive Way, Ste. 100
+                    Reno, Nevada  89502-3239
+                    Telephone (775) 688-6300
+
+
+ 2-38498            U-Haul International, Inc.                    86-0663060
+                    (A Nevada Corporation)
+                    2727 N. Central Avenue
+                    Phoenix, Arizona 85004
+                    Telephone (602) 263-6645
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+Yes [X] No [ ].
+
+21,757,437 shares of AMERCO Common Stock, $0.25 par value were outstanding at
+August 8, 2001.
+
+5,385 shares of U-Haul International, Inc. Common Stock, $0.01 par value, were
+outstanding at August 8, 2001. U-Haul International, Inc. meets the conditions
+set forth in General Instruction H(1)(a) and (b) of Form 10-Q and is therefore
+filing this form with the reduced disclosure format.
+
+<PAGE>  2
+                                TABLE OF CONTENTS
+
+
+
+PART I.  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+      a)   Condensed Consolidated Balance Sheets as of
+           June 30, 2001 (unaudited) and March 31, 2001................    4
+
+      b)   Condensed Consolidated Statements of Earnings for the
+           Quarters ended June 30, 2001 and 2000 (unaudited)...........    6
+
+      c)   Condensed Consolidated Statements of Comprehensive Income
+           for the Quarters ended June 30, 2001 and 2000 (unaudited)...    7
+
+      d)   Condensed Consolidated Statements of Cash Flows for the
+           Quarters ended June 30, 2001 and 2000 (unaudited)...........    8
+
+      e)   Notes to Consolidated Financial Statements -
+           June 30, 2001 (unaudited), March 31, 2001 and
+           June 30, 2000 (unaudited)...................................    9
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations.....................................   18
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk....   23
+
+PART II. OTHER INFORMATION
+
+Item 1.  Legal Proceedings.............................................   24
+
+Item 6.  Exhibits and Reports on Form 8-K..............................   25
+
+<PAGE>  3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 THIS PAGE LEFT
+                               INTENTIONALLY BLANK
+
+<PAGE>  4
+                         PART I.  FINANCIAL INFORMATION
+
+                          ITEM 1.  FINANCIAL STATEMENTS
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                      Condensed Consolidated Balance Sheets
+                                    (Unaudited)
+
+                                                    June 30,      March 31,
+Assets                                                2001           2001
+                                                 ---------------------------
+                                                  (Unaudited)
+                                                        (in thousands)
+
+
+Cash and cash equivalents                       $    44,067         52,778
+Inventories, net                                     78,667         84,005
+Investments, fixed maturities                       950,660        952,482
+Investments, other                                  457,199        464,958
+Other assets                                        482,841        467,197
+                                                 -------------------------
+Property, plant and equipment, at cost:
+  Buildings and improvements                        842,867        832,372
+  Rental trucks                                   1,081,395      1,037,653
+  Other property, plant and equipment               659,613        660,802
+                                                 -------------------------
+                                                  2,583,875      2,530,827
+  Less accumulated depreciation                   1,193,315      1,168,183
+                                                 -------------------------
+       Total property, plant and equipment        1,390,560      1,362,644
+                                                 -------------------------
+
+
+
+
+
+
+Total Assets                                    $ 3,403,994      3,384,064
+                                                 =========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The  accompanying  notes  are an integral part of these  consolidated  financial
+statements.
+
+<PAGE>  5
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                 Condensed Consolidated Balance Sheets, Continued
+                                  (Unaudited)
+
+                                                    June 30,      March 31,
+Liabilities and Stockholders' Equity                  2001           2001
+                                                 --------------------------
+                                                  (Unaudited)
+                                                        (in thousands)
+
+Liabilities:
+  Notes and loans payable                       $ 1,143,271      1,156,848
+  Policy benefits and losses, claims and
+    loss expenses payable                           677,915        668,830
+  Liabilities from premium deposits                 523,772        522,207
+  Other liabilities                                 411,918        420,813
+                                                 -------------------------
+         Total liabilities                        2,756,876      2,768,698
+
+Stockholders' equity:
+  Serial preferred stock -
+    Series A preferred stock                            -              -
+    Series B preferred stock                            -              -
+  Serial common stock -
+    Series A common stock                             1,441          1,441
+  Common stock                                        9,122          9,122
+  Additional paid-in capital                        312,128        312,128
+  Accumulated other comprehensive income            (30,066)       (40,709)
+  Retained earnings                                 776,937        755,174
+  Cost of common shares in treasury, net           (407,525)      (406,617)
+  Unearned ESOP shares                              (14,919)       (15,173)
+                                                 -------------------------
+         Total stockholders' equity                 647,118        615,366
+
+Contingent liabilities and commitments
+                                                 -------------------------
+Total Liabilities and Stockholders' Equity      $ 3,403,994      3,384,064
+                                                 =========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+<PAGE>  6
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                  Condensed Consolidated Statements of Earnings
+
+                             Quarters ended June 30,
+                                   (Unaudited)
+
+                                                        2001         2000
+                                                  -------------------------
+                                                    (in thousands, except
+                                                  share and per share data)
+
+Revenues
+  Rental revenue                                 $    334,543      322,748
+  Net sales                                            62,423       60,146
+  Premiums                                            100,330       54,987
+  Net investment and interest income                   22,586       21,681
+                                                  -------------------------
+       Total revenues                                 519,882      459,562
+
+Costs and expenses
+  Operating expenses                                  248,967      231,775
+  Cost of sales                                        33,768       33,197
+  Benefits and losses                                  91,432       42,235
+  Amortization of deferred acquisition costs            9,794        7,869
+  Lease expense                                        46,342       40,434
+  Depreciation, net                                    30,250       22,810
+                                                  -------------------------
+Total costs and expenses                              460,553      378,320
+
+Earnings from operations                               59,329       81,242
+
+  Interest expense                                     21,120       22,810
+                                                  -------------------------
+
+Pretax earnings                                        38,209       58,432
+
+Income tax expense                                    (13,206)     (20,820)
+                                                  -------------------------
+
+       Net earnings                              $     25,003       37,612
+                                                  =========================
+
+
+Basic and diluted earnings per common share:     $       1.02         1.58
+                                                  =========================
+
+Basic and diluted average common shares
+  outstanding:                                     21,280,361   21,718,988
+                                                  =========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The  accompanying  notes  are an integral part of these  consolidated  financial
+statements.
+
+<PAGE>  7
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+            Condensed Consolidated Statements of Comprehensive Income
+
+                             Quarters ended June 30,
+                                   (Unaudited)
+
+                                                        2001         2000
+                                                      ---------------------
+                                                          (in thousands)
+Comprehensive income:
+  Net earnings                                       $ 25,003       37,612
+    Changes in other comprehensive income:
+     Foreign currency translation                       1,497         (465)
+     Fair market value of cash flow hedge                 357           24
+     Unrealized gain (loss) on investments              8,789       (2,258)
+                                                      ---------------------
+
+     Total comprehensive income                      $ 35,646       34,913
+                                                      =====================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+<PAGE>  8
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Cash Flows
+
+                             Quarters ended June 30,
+                                   (Unaudited)
+
+                                                         2001        2000
+                                                       -------------------
+                                                          (in thousands)
+
+Net cash provided by operating activities               46,670      38,572
+                                                       -------------------
+Cash flows from investing activities:
+  Purchases of investments:
+    Property, plant and equipment                      (84,074)   (149,758)
+    Fixed maturities                                   (18,652)    (23,504)
+    Mortgage loans                                        (561)     (4,055)
+  Proceeds from sale of investments:
+    Property, plant and equipment                       25,797     122,035
+    Fixed maturities                                    31,696      24,341
+    Mortgage loans                                       3,817       6,215
+  Changes in other investments                           4,806     (36,217)
+                                                       -------------------
+Net cash used by investing activities                  (37,171)    (60,943)
+                                                       -------------------
+Cash flows from financing activities:
+  Net change in short-term borrowings                  (13,578)    (14,258)
+  Investment contract deposits                          37,477      20,495
+  Investment contract withdrawals                      (35,713)    (17,368)
+  Changes in other financing activities                 (6,396)     (5,877)
+                                                       -------------------
+Net cash used by financing activities                  (18,210)    (17,008)
+                                                       -------------------
+Decrease in cash and cash equivalents                   (8,711)    (39,379)
+
+Cash and cash equivalents at beginning of period        52,778      48,435
+                                                       -------------------
+Cash and cash equivalents at end of period           $  44,067       9,056
+                                                       ===================
+
+
+
+
+
+
+
+
+
+
+The  accompanying  notes  are an integral part of these  consolidated  financial
+statements.
+
+<PAGE>  9
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                   Notes to Consolidated Financial Statements
+
+                 June 30, 2001, March 31, 2001 and June 30, 2000
+                                   (Unaudited)
+
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION
+     AMERCO, a Nevada corporation (AMERCO), is the holding company for U-Haul
+International, Inc. (U-Haul), Amerco Real Estate Company (Real Estate), Republic
+Western Insurance Company (RepWest) and Oxford Life Insurance Company (Oxford).
+
+PRINCIPLES OF CONSOLIDATION
+     The consolidated financial statements include the accounts of the parent
+corporation, AMERCO, and its wholly-owned subsidiaries.  All material
+intercompany accounts and transactions of AMERCO and its subsidiaries have been
+eliminated.  The financial statements and notes are presented as permitted by
+Form 10-Q and do not contain certain information included in AMERCO's annual
+financial statements and notes.
+
+     The consolidated balance sheet as of June 30, 2001 and the related
+consolidated statements of earnings for the quarters ended June 30, 2001 and
+2000, and the consolidated statements of comprehensive income and cash flows for
+the quarters ended June 30, 2001 and 2000 are unaudited.  In the opinion of
+management, all adjustments necessary for a fair presentation of such financial
+statements have been included.  Such adjustments consisted only of normal
+recurring items.  Interim results are not necessarily indicative of results for
+a full year.
+
+     The operating results and financial position of AMERCO's consolidated
+insurance operations are determined on a one quarter lag.  There were no effects
+related to intervening events which would materially affect the consolidated
+financial position or results of operations for the financial statements
+presented herein.
+
+     Certain reclassifications have been made to the financial statements for
+the quarter ended June 30, 2000 and year ended March 31, 2001 to conform with
+the current year's presentation.
+
+<PAGE> 10
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+2.  INVESTMENTS
+
+     A comparison of amortized cost to market for fixed maturities is as
+follows:
+
+     March 31, 2001       Par Value               Gross       Gross    Estimated
+     --------------       or number  Amortized  unrealized  unrealized   market
+     Consolidated         of shares     cost      gains       losses      value
+     Held-to-Maturity     ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities
+       and government
+       obligations        $   4,150      3,643        194         -       3,837
+     U.S. government
+       agency mortgage-
+       backed securities  $  13,202     13,140        270         (49)   13,361
+     Corporate
+       securities         $  51,763     50,259      1,640         (97)   51,802
+     Mortgage-backed
+       securities         $  38,349     37,823        876         (77)   38,622
+     Redeemable preferred
+       stocks               114,772    114,674        219      (3,793)  111,100
+                                       ----------------------------------------
+                                       219,539      3,199      (4,016)  218,722
+                                       ----------------------------------------
+
+     March 31, 2001       Par Value               Gross       Gross    Estimated
+     --------------       or number  Amortized  unrealized  unrealized   market
+     Consolidated         of shares     cost      gains       losses      value
+     Available-for-Sale   ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities
+       and government
+       obligations        $  41,710     43,386      2,091        (100)   45,377
+     U.S. government
+       agency mortgage-
+       backed securities  $  32,157     32,588        836         (18)   33,406
+     Obligations of
+       states and
+       political
+       subdivisions       $  16,490     16,646        580        (127)   17,099
+     Corporate
+       securities         $ 565,653    558,332     17,459     (13,053)  562,738
+     Mortgage-backed
+       securities         $  32,910     32,674      1,410        (637)   33,447
+     Redeemable preferred
+       stocks                 1,280     32,283        280        (567)   31,996
+     Redeemable common
+       stocks                   633      6,554        878        (374)    7,058
+                                       ----------------------------------------
+                                       722,463     23,534     (14,876)  731,121
+                                       ----------------------------------------
+            Total                    $ 942,002     26,733     (18,892)  949,843
+                                       ========================================
+
+<PAGE> 11
+
+
+
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+3.  SUMMARIZED CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE SUBSIDIARIES
+
+     A summarized condensed consolidated balance sheet for RepWest is presented
+     below:
+
+                                                           March 31,
+                                                     -------------------
+                                                       2001        2000
+                                                     -------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 409,210     404,079
+    Receivables                                      210,051     162,398
+    Due from affiliate                                51,361      22,559
+    Other assets                                      71,169      70,230
+                                                     -------------------
+         Total assets                              $ 741,791     659,266
+                                                     ===================
+
+    Policy liabilities and accruals                $ 384,635     338,443
+    Unearned premiums                                106,203      69,713
+    Other policyholders' funds and liabilities        58,539      40,951
+                                                     -------------------
+      Total liabilities                              549,377     449,107
+
+    Stockholder's equity                             192,414     210,159
+                                                     -------------------
+         Total liabilities and
+           stockholder's equity                    $ 741,791     659,266
+                                                     ===================
+
+     A summarized condensed consolidated income statement for RepWest is
+     presented below:
+
+                                                        Quarters ended
+                                                           March 31,
+                                                      ------------------
+                                                       2001        2000
+                                                      ------------------
+                                                        (in thousands)
+
+    Premiums                                       $  62,178      30,407
+    Net investment income                              8,416       8,008
+                                                      ------------------
+      Total revenue                                   70,594      38,415
+
+    Benefits and losses                               60,267      24,582
+    Amortization of deferred
+      policy acquisition costs                         5,040       3,174
+    Operating expenses                                10,870       8,318
+                                                      ------------------
+      Total expenses                                  76,177      36,074
+
+    Income (loss) from operations                     (5,583)      2,341
+
+    Income tax benefit (expense)                       1,979        (863)
+                                                      ------------------
+    Net income (loss)                              $  (3,604)       1,478
+                                                      ===================
+
+<PAGE> 12
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+3.   SUMMARIZED  CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE  SUBSIDIARIES,
+continued
+
+     A summarized condensed consolidated balance sheet for Oxford is presented
+below:
+
+                                                           March 31,
+                                                     -------------------
+                                                       2001        2000
+                                                     -------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 541,450     483,705
+    Investments, other                               190,048     154,124
+    Receivables                                       28,200      15,283
+    Deferred policy acquisition costs                 81,231      73,911
+    Due from affiliate                               (10,079)    (10,909)
+    Other assets                                      16,189       5,084
+                                                     -------------------
+
+        Total assets                               $ 847,039     721,198
+                                                     ===================
+
+    Policy liabilities and accruals                $ 183,936     145,290
+    Premium deposits                                 523,772     464,179
+    Other policyholders' funds and liabilities        18,522      12,880
+    Deferred federal income taxes                     14,423      11,006
+                                                     -------------------
+      Total liabilities                              740,653     633,355
+
+    Stockholder's equity                             106,386      87,843
+                                                     -------------------
+        Total liabilities and
+          stockholder's equity                     $ 847,039     721,198
+                                                     ===================
+
+     A summarized condensed consolidated income statement for Oxford is
+     presented below:
+
+                                                        Quarters ended
+                                                           March 31,
+                                                     -------------------
+                                                       2001        2000
+                                                     -------------------
+                                                        (in thousands)
+
+    Premiums                                       $ 39,633       25,504
+    Net investment income                             6,208        5,829
+                                                     -------------------
+      Total revenue                                  45,841       31,333
+
+    Benefits and losses                              31,165       17,653
+    Amortization of deferred
+      policy acquisition costs                        4,754        4,695
+    Operating expenses                                7,239        5,730
+                                                     -------------------
+      Total expenses                                 43,158       28,078
+
+    Income from operations                            2,683        3,255
+
+    Income tax expense                                 (960)      (1,069)
+                                                     -------------------
+
+    Net income                                     $  1,723        2,186
+                                                     ===================
+
+<PAGE> 13
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+4.  CONTINGENT LIABILITIES AND COMMITMENTS
+
+     During the quarter ended June 30, 2001, a subsidiary of U-Haul entered into
+two transactions, whereby the subsidiary sold rental trucks and trailers, which
+were subsequently leased back.  AMERCO has guaranteed $9,139,000 of residual
+values at June 30, 2001 for these assets at the end of the respective lease
+terms.  Following are the lease commitments for the leases executed during the
+quarter ended June 30, 2001, and subsequently which have a term of more than one
+year (in thousands):
+
+                                              Net activity
+             Year ended           Lease       subsequent to
+              March 31,        Commitments      period end      Total
+             --------------------------------------------------------
+             2002              $     777            -             777
+             2003                    976            -             976
+             2004                    976            -             976
+             2005                    651            -             651
+             2006                    642            -             642
+             Thereafter            2,098            -           2,098
+                                  -----------------------------------
+                               $   6,120            -           6,120
+                                  ===================================
+
+     In the normal course of business, AMERCO is a defendant in a number of
+suits and claims.  AMERCO is also a party to several administrative proceedings
+arising from state and local provisions that regulate the removal and/or clean-
+up of underground fuel storage tanks.  It is the opinion of management that
+none of such suits, claims or proceedings involving AMERCO, individually or in
+the aggregate are expected to result in a material loss.
+
+
+5.  SUPPLEMENTAL CASH FLOWS INFORMATION
+
+     The (increase) decrease in receivables, inventories and accounts payable
+and accrued liabilities net of other operating and investing activities follows:
+
+                                                         Quarters ended
+                                                            June 30,
+                                                       2001            2000
+                                                     -----------------------
+                                                         (in thousands)
+
+        Receivables                               $  (15,178)            (46)
+                                                     =======================
+
+        Receivables from the sale of property
+          to SAC Holdings                         $      -           (98,351)
+                                                     =======================
+
+        Inventories                               $    5,338          (2,917)
+                                                     =======================
+
+        Accounts payable and accrued expenses     $  (17,231)         (2,038)
+                                                     =======================
+
+     Income taxes paid in cash amounted to $21,000 and $218,000 for the quarters
+ended June 30, 2001 and 2000, respectively.
+
+     Interest paid in cash amounted to $16,616,000 and $24,127,000 for the
+quarters ended June 30, 2001 and 2000, respectively.
+
+<PAGE> 14
+
+
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+6.  EARNINGS PER SHARE
+
+     The following table reflects the calculation of the earnings per share:
+
+                                                   Weighted Average
+                                                     Common Shares
+                                        Income        Outstanding    Per Share
+                                      (Numerator)    (Denominator)     Amount
+                                     ------------  ----------------  ---------
+                                                (in thousands, except
+                                              share and per share data)
+Quarter ended June 30, 2001:
+ Net earnings                        $   25,003
+ Less:  preferred stock dividends         3,241
+                                         ------
+ Basic and diluted earnings
+   per common share                      21,762      21,280,361    $ 1.02
+                                         ======      ==========      ====
+Quarter ended June 30, 2000:
+ Net earnings                        $   37,612
+ Less:  preferred stock dividends         3,241
+                                         ------
+ Basic and diluted earnings
+   per common share                      34,371      21,718,988    $ 1.58
+                                         ======      ==========      ====
+
+7.  RELATED PARTIES
+
+     During the quarter ended June 30, 2001, subsidiaries of AMERCO held various
+senior and junior notes issued by SAC Holding Corporation and its subsidiaries
+(SAC Holdings).  The voting common stock of SAC Holdings is held by Mark V.
+Shoen, a major stockholder of AMERCO.  AMERCO's subsidiaries received interest
+payments of $5,702,000 from SAC Holdings during the quarter ended June 30, 2001.
+The terms of the notes receivable with SAC Holdings are consistent with the
+terms of notes receivable held by U-Haul for other properties owned by unrelated
+parties and managed by U-Haul.
+
+     During the quarter ended June 30, 2001, a subsidiary of AMERCO funded
+through a note receivable the purchase of properties and construction costs for
+SAC Holdings of approximately $17,661,000.
+
+     U-Haul currently manages the properties owned by SAC Holdings pursuant to a
+management agreement, under which U-Haul receives a management fee equal to 6%
+of the gross receipts from the properties.  Management fees of $1,717,000 and
+$1,104,000 were received during the quarters ended June 30, 2001 and 2000,
+respectively.  The management fee percentage is consistent with the fees
+received by U-Haul for other properties owned by unrelated parties and managed
+by U-Haul.
+
+     In June 2000, Real Estate completed the sale of twenty-four storage
+properties to Twelve SAC Self-Storage Corporation, Thirteen SAC Self-Storage
+Corporation and Fourteen SAC Self-Storage Corporation, subsidiaries of SAC
+Holding Corporation, for $98,351,000.  Real Estate received cash and notes from
+the sale.  The gain is reflected in the Consolidated Statement of Changes in
+Stockholders' Equity.
+
+     Management believes that the foregoing transactions were consummated on
+terms equivalent to those that prevail in arm's-length transactions.
+
+<PAGE> 15
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+8.  NEW ACCOUNTING STANDARDS
+
+     In July 2001, the Financial Accounting Standards Board ("FASB") issued
+Statements of Financial Accounting Standards No. 141 (SFAS 141), "Business
+Combinations", and No. 142 (SFAS 142), "Goodwill and Other Intangible Assets".
+
+     SFAS 141 supercedes Accounting Principles Board Opinion No. 16 (APB 16),
+"Business Combinations".  The most significant changes made by SFAS 141 are:
+(1) requiring that the purchase method of accounting be used for all business
+combinations initiated after June 30, 2001, (2) establishing specific criteria
+for the recognition of intangible assets separately from goodwill, and (3)
+requiring unallocated negative goodwill to be written off immediately as an
+extraordinary gain (instead of being deferred and amortized).
+
+     SFAS 142 supercedes APB 17, "Intangible Assets".  SFAS 142 primarily
+addresses the accounting for goodwill and intangible assets subsequent to
+their acquisition (i.e., the post-acquisition accounting).  The provisions of
+SFAS 142 will be effective for fiscal years beginning after December 15, 2001.
+The most significant changes made by SFAS 142 are:  (1) goodwill and indefinite
+lived intangible assets will no longer be amortized, (2) goodwill will be
+tested for impairment at least annually at the reporting unit level, (3)
+intangible assets deemed to have an indefinite life will be tested for
+impairment at least annually, and (4) the amortization period of intangible
+assets with finite lives will no longer be limited to forty years.
+
+     We have not yet determined the effect SFAS No. 141 and 142 will have on
+our consolidated financial position or results of operation.
+
+     During the quarter ended June 30, 2000, AMERCO adopted Staff Accounting
+Bulletin No. 101 (SAB 101), "Revenue Recognition in Financial Statements",
+which provides guidance on the recognition, presentation and disclosure of
+revenue in the financial statements filed with the Securities and Exchange
+Commission.  The adoption of SAB 101 was not material to AMERCO's consolidated
+financial statements.
+
+
+<PAGE> 16
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+9. INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA
+
+     Industry Segment Data - AMERCO has four industry segments represented by
+Moving and Storage Operations (U-Haul), Real Estate (AREC), Property and
+Casualty Insurance (RepWest) and Life Insurance (Oxford).
+
+     Information concerning operations by industry segment follows:
+
+                Moving and         Property/           Adjustments
+                  Storage   Real   Casualty    Life        and
+                Operations Estate  Insurance Insurance Eliminations Consolidated
+                ----------------------------------------------------------------
+                                           (in thousands)
+
+  Quarter ended
+  June 30, 2001
+  -------------
+  Revenues:
+   Outside      $  402,513   2,415   69,485    45,469         -         519,882
+   Intersegment        -    17,329    1,109       372     (18,810)          -
+                 --------------------------------------------------------------
+   Total
+    revenues    $  402,513  19,744   70,594    45,841     (18,810)      519,882
+  Depreciation/
+   amortization $   29,951   2,815    5,286     4,794         -          42,846
+  Interest
+   expense      $   21,120  10,207      -         -       (10,207)       21,120
+  Pretax
+   earnings     $   36,501   4,608   (5,583)    2,683         -          38,209
+  Income tax    $  (12,612) (1,613)   1,979      (960)        -         (13,206)
+  Identifiable
+   assets       $1,465,077 713,085  741,791   847,039    (362,998)    3,403,994
+
+
+  Quarter ended
+  June 30, 2000
+  -------------
+  Revenues:
+   Outside      $  388,222   2,516   37,828    30,996         -         459,562
+   Intersegment        -    17,743      587       337     (18,667)          -
+                 --------------------------------------------------------------
+   Total
+    revenues    $  388,222  20,259   38,415    31,333     (18,667)      459,562
+  Depreciation/
+   amortization $   24,306   2,752    3,457     5,069         -          35,584
+  Interest
+   expense      $   22,810  11,333      -         -       (11,333)       22,810
+  Pretax
+   earnings     $   48,926   3,910    2,341     3,255         -          58,432
+  Income tax    $  (17,512) (1,376)    (863)   (1,069)        -         (20,820)
+  Identifiable
+   assets       $1,420,411 744,519  659,266   721,198    (331,713)    3,213,681
+
+<PAGE> 17
+                      AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+                                   (Unaudited)
+
+
+9. INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA, continued
+
+   Geographic Area Data                  United
+    (All amounts are in U.S. $'s)        States   Canada  Consolidated
+                                         -----------------------------
+                                                 (in thousands)
+   Quarter ended
+   June 30, 2001
+   -------------
+   Total revenues                      $   508,740  11,142     519,882
+   Depreciation/amortization           $    41,833   1,013      42,846
+   Interest expense                    $    21,068      52      21,120
+   Pretax earnings                     $    35,703   2,506      38,209
+   Income tax                          $   (13,206)     -      (13,206)
+   Identifiable assets                 $ 3,348,071  55,923   3,403,994
+
+   Quarter ended
+   June 30, 2000
+   -------------
+   Total revenues                      $   448,975  10,587     459,562
+   Depreciation/amortization           $    34,516   1,068      35,584
+   Interest expense                    $    22,804       6      22,810
+   Pretax earnings                     $    56,131   2,301      58,432
+   Income tax                          $   (20,820)    -       (20,820)
+   Identifiable assets                 $ 3,164,500  49,181   3,213,681
+
+
+10. SUBSEQUENT EVENTS
+
+     On August 7, 2001, AMERCO declared a cash dividend of $3,241,000 ($0.53125
+per preferred share) to preferred stockholders of record as of August 17, 2001.
+
+<PAGE> 18
+           ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                       CONDITION AND RESULTS OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+     This report contains forward-looking statements.  Additional written or
+oral forward-looking statements may be made by AMERCO from time to time in
+filings with the Securities and Exchange Commission or otherwise.  Management
+believes such forward-looking statements are within the meaning of the safe-
+harbor provisions.  Such statements may include, but not be limited to,
+projections of revenues, income or loss, estimates of capital expenditures,
+plans for future operations, products or services and financing needs or plans,
+as well as assumptions relating to the foregoing.  The words "believe",
+"expect", "anticipate", "estimate", "project" and similar expressions identify
+forward-looking statements, which speak only as of the date the statement was
+made.  Forward-looking statements are inherently subject to risks and
+uncertainties, some of which cannot be predicted or quantified.  Future events
+and actual results could differ materially from those set forth in, contemplated
+by or underlying the forward-looking statements.  The following disclosures, as
+well as other statements in AMERCO's report and in the Notes to AMERCO's
+Consolidated Financial Statements, describe factors, among others, that could
+contribute to or cause such differences, or that could affect AMERCO's stock
+price.
+
+GENERAL
+     Information on industry segments is incorporated by reference from "Item 1.
+Financial Statements - Notes 1, 3 and 10 of Notes to Consolidated Financial
+Statements".  The notes discuss the principles of consolidation, summarized
+consolidated financial information and industry segment and geographical area
+data, respectively.  In consolidation, all intersegment premiums are eliminated
+and the benefits, losses and expenses are retained by the insurance companies.
+
+
+RESULTS OF OPERATIONS
+
+QUARTER ENDED JUNE 30, 2001 VERSUS QUARTER ENDED JUNE 30, 2000
+
+Moving and Storage Operations
+     Revenues consist of rental revenues and net sales.  Total rental revenue
+was $335.4 million and $322.3 million for the quarters ended June 30, 2001 and
+2000, respectively.  Net revenues from the rental of moving related equipment
+increased by $10.0 million.  This increase is primarily attributable to higher
+truck rental revenues.  The growth in truck rental revenue primarily reflects
+higher truck rental inventory.  Storage revenues increased $1.0 million due to
+increases in rates and in the number of storage rooms rented.
+
+     Net sales revenues were $62.4 million and $60.1 million for the quarters
+ended June 30, 2001 and 2000, respectively.  Revenue growth resulted from a 3.9%
+increase in the sale of moving support items and a 15.7% increase in the sale of
+propane.
+
+     Cost of sales was $33.8 million and $33.2 million for the quarters ended
+June 30, 2001 and 2000, respectively.  A higher sales volume contributed to the
+increase.
+
+     Operating expenses before intercompany eliminations were $252.1 million and
+$235.6 million for the quarters ended June 30, 2001 and 2000, respectively.
+Increased expenditure levels for personnel and rental equipment maintenance, due
+to an increase in truck rental transactions and in fleet size, were primarily
+responsible.
+
+     Lease expense was $42.1 million and $37.7 million for the quarters ended
+June 30, 2001 and 2000, respectively.  This increase reflects additional leasing
+activity over the past twelve months.
+
+     Net depreciation expense was $27.0 million and $20.1 million for the
+quarters ended June 30, 2001 and 2000, respectively.  The increase reflects an
+increase in depreciation recognized on the rental truck fleet.
+
+     Operating profit before tax and intercompany elimination was $48.8 million
+and $61.4 million for the quarters ended June 30, 2001 and 2000, respectively.
+The decrease reflects increases in operating expenses over increases in
+revenues.
+
+<PAGE> 19
+Real Estate Operations
+     Rental revenue before intercompany eliminations was $17.9 million and $18.2
+million for the quarters ended June 30, 2001 and 2000, respectively.
+Intercompany revenue was $17.3 million and $17.7 million for the quarters ended
+June 30, 2001 and 2000, respectively.
+
+     Net investment and interest income was $1.9 million and $2.1 million for
+the quarters ended June 30, 2001 and 2000, respectively.  This decrease
+correlates to a reduction in Real Estate's average note and mortgage receivables
+balance outstanding.
+
+     Lease expense was $4.1 million and $2.6 million for the quarters ended
+June 30, 2001 and 2000, respectively.  The increase reflects payments under a
+synthetic lease facility being utilized to develop storage properties.  These
+expenses are reimbursed by the Moving and Storage Operations through
+intercompany rent.
+
+     Net depreciation expense was $3.2 million and $2.6 million for the quarters
+ended June 30, 2001 and 2000, respectively. The increase primarily reflects a
+$0.5 million decrease in gains from the disposition of property.
+
+     Operating profit before tax and intercompany elimination was $14.8 million
+and $15.2 million for the quarters ended June 30, 2001 and 2000, respectively.
+The decrease reflects increases in lease expenses.
+
+Property and Casualty
+     RepWest's premiums were $62.2 million and $30.4 million for the quarters
+ended March 31, 2001 and 2000, respectively.  General agency premium were $29.6
+million and $7.6 million for the quarters ended March 31, 2001 and 2000,
+respectively.  The increase from 2000 to 2001 was the result of two agency
+programs that grew significantly in the second half of 2000.  Assumed treaty
+reinsurance premium was $15.7 million and $9.8 million for the quarters ended
+March 31, 2001 and 2000, respectively.  Rental industry earnings were $8.5
+million and $7.4 million for the quarters ended March 31, 2001 and 2000,
+respectively.
+
+     Net investment income was $8.4 million and $8.0 million for the quarters
+ended March 31, 2001 and 2000, respectively.  The increase is attributed to
+increased invested assets and increased gains.
+
+     Benefits and losses incurred were  $60.3 million from $24.6 million for the
+quarters ended March 31, 2001 and 2000, respectively.  This increase is due to
+agency programs in non standard auto and transportation that grew significantly
+in the second half of 2000, as well as assumed treaty reinsurance, direct
+multiple peril business and rental industry.
+
+     The amortization of deferred acquisition costs (DAC) was $5.0 million and
+$3.2 million for the quarters ended March 31, 2001 and 2000, respectively.
+The increase from 2000 to 2001 is mainly due to the premium growth and
+resultant deferral of acquisition expenses in 2000 for the assumed treaty
+and general agency programs.
+
+     Operating expenses were $10.9 million and $8.3 million for the quarters
+ended March 31, 2001 and 2000, respectively.  The increase is a result of
+commissions on new agency business premium writings as well as assumed
+reinsurance treaties and taxes resulting from increased premium writings.
+
+     Operating (loss)/profit before tax and intercompany elimination was $(5.6)
+million and $2.3 million for the quarters ended March 31, 2001 and 2000,
+respectively.  The decrease is the result of additional incurred losses and
+operating expense, offset by an increase in earned premiums.
+
+<PAGE> 20
+Life Insurance
+     Net premiums were $39.6 million from $25.5 million for the quarters ended
+March 31, 2001 and 2000, respectively.  Oxford increased Medicare supplement
+premiums by $14.6 million through direct writings and the acquisition of
+Christian Fidelity Life Insurance Company (CFLIC).  Other business segments had
+premium decreases totaling $0.5 million.
+
+     Net investment income before intercompany eliminations increased $0.4
+million to $6.2 million from $5.8 million for the quarters ended March 31, 2001
+and 2000, respectively, due to a larger invested asset base.
+
+     Benefits incurred were $31.2 million and $17.7 million for the quarters
+ended March 31, 2001 and 2000, respectively.  This increase is primarily due to
+a greater volume of Medicare supplement business in force after the acquisition
+of CFLIC, which accounts for $13.0 million.  Credit insurance and health
+benefits increased $1.4 million from 2000 as loss ratios were higher quarter
+over quarter.  Life insurance and annuity benefits decreased $0.8 million for
+the quarter.
+
+     Amortization of DAC and the value of business acquired (VOBA) was $4.8
+million and $4.7 million for the quarters ended March 31, 2001 and 2000,
+respectively.
+
+     Operating expenses were $7.2 million and $5.7 million for the quarters
+ended March 31, 2001 and 2000, respectively.  Commissions have increased $0.6
+million from 2000 primarily due to the increase in Medicare supplement premiums.
+General and administrative expenses net of fees collected increased $1.0 million
+from 2000 primarily due to the acquisition of CFLIC.
+
+     Operating profit before tax and intercompany eliminations was $2.7 million
+and $3.3 million for the quarters ended March 31, 2001 and 2000, respectively.
+The decrease from 2000 is due primarily to loss experience in the health and
+credit insurance segments.
+
+Interest Expense
+     Interest expense was $21.1 million and $22.8 million for the quarters ended
+June 30, 2001 and 2000, respectively.  The decrease can be attributed to a
+reduction in average cost of funds.
+
+Consolidated Group
+     As a result of the foregoing, pretax earnings totaled $38.2 million and
+$58.4 million for the quarters ended June 30, 2001 and 2000, respectively.
+After providing for income taxes, net earnings were $25.0 million and $37.6
+million for the quarters ended June 30, 2001 and 2000, respectively.
+
+<PAGE> 21
+LIQUIDITY AND CAPITAL RESOURCES
+
+Moving and Storage Operations
+     To meet the needs of its customers, U-Haul must maintain a large inventory
+of fixed asset rental items.  At June 30, 2001, net property, plant and
+equipment represented approximately 63.8% of total assets from non-insurance
+operations and approximately 40.9% of consolidated assets.  In the quarters
+ended June 30, 2001 and 2000, capital expenditures were $46.5 million and $143.0
+million, respectively.  These expenditures primarily reflect the expansion of
+the rental truck fleet.
+
+     Cash provided by operating activities was $71.0 million and $21.1 million
+for the quarters ended June 30, 2001 and 2000, respectively.  The increase
+resulted primarily from a decrease in notes and mortgage receivable partially
+offset by decreases in the accounts payable and intercompany payable balances
+along with decreased earnings.
+
+     At June 30, 2001, total outstanding notes and loans payable was $1,143.3
+million as compared to $1,156.8 million at March 31, 2001.
+
+Real Estate Operations
+     Cash provided (used) by operating activities was $(20.8) million and $3.2
+million for the quarters ended June 30, 2001 and 2000, respectively.  The
+decrease mainly resulted from a decrease in the intercompany payable balance.
+
+Property and Casualty
+     Cash used by operating activities was $17.8 million and $5.8 million for
+quarters ended March 31, 2001 and 2000, respectively.  This change resulted from
+increased accounts receivable and decreased unearned premium, net income and
+funds withheld from December 2000 to March 2001, offset by an increase in loss
+and loss adjusting expense reserves and reinsurance losses payable from December
+2000 to March 2001.
+
+     RepWest's cash and cash equivalents and short-term investment portfolio
+were $4.3 million and $1.2 million at March 31, 2001 and 2000, respectively.
+The increase is a result of increased cash and cash equivalents on hand to fund
+claim payments generated by new business.
+
+     RepWest maintains a diversified securities investment portfolio, primarily
+in bonds, at varying maturity levels with 88.0% of the fixed-income securities
+consisting of investment grade securities.  The maturity distribution is
+designed to provide sufficient liquidity to meet future cash needs.  Current
+liquidity remains strong with current invested assets equal to 78.4% of total
+liabilities.
+
+     The liability for reported and unreported losses are based upon company
+historical and industry averages.  Unpaid loss adjustment expenses are based on
+historical ratios of loss adjustment expenses paid to losses paid.  Unpaid loss
+and loss expenses are not discounted.
+
+<PAGE> 22
+Life Insurance
+     Oxford's primary sources of cash are premiums, receipts from interest-
+sensitive products and investment income.  The primary uses of cash are
+operating costs and benefit payments to policyholders.  Matching the investment
+portfolio to the cash flow demands of the types of insurance being written is an
+important consideration.  Benefit and claim statistics are continually monitored
+to provide projections of future cash requirements.
+
+     Cash provided (used) by operating activities was $(5.6) million and $1.5
+million for the quarters ended March 31, 2001 and 2000, respectively.  The
+decrease in cash flows from operating activities in 2001 relates to paid loss
+experience.  Cash flows provided by financing activities were $1.8 million and
+$3.1 million for the quarters ended March 31, 2001 and 2000, respectively.  Cash
+flows from deferred annuity sales increase investment contract deposits, which
+are a component of financing activities.  The decrease in 2001 from 2000 is due
+to a higher ratio of annuity withdrawals versus deposits on our CFLIC annuity
+contracts.
+
+     In addition to cash flows from operating and financing activities, a
+substantial amount of liquid funds is available through Oxford's short-term
+portfolio.  At March 31, 2001 and 2000, short-term investments were $67.0
+million and $65.1 million, respectively.  Management believes that the overall
+sources of liquidity will continue to meet foreseeable cash needs.
+
+Consolidated Group
+     During each of the fiscal years ended March 31, 2002, 2003 and 2004, U-Haul
+estimates gross capital expenditures will average approximately $232 million
+primarily reflecting rental fleet rotation.  This level of capital expenditures,
+combined with a potential range of $77.5 - $175 million in annual long-term debt
+maturities, are expected to create annual average funding needs of approximately
+$310 - $407 million.  Management estimates that U-Haul will fund 100% of these
+requirements with leases and internally generated funds, including proceeds from
+the disposition of older trucks and other asset sales.
+
+Credit Agreements
+     AMERCO's operations are funded by various credit and financing
+arrangements, including unsecured long-term borrowings, unsecured medium-term
+notes and revolving lines of credit with domestic and foreign banks.
+Principally to finance its fleet of trucks and trailers, AMERCO routinely enters
+into sale and leaseback transactions.  As of June 30, 2001, AMERCO had $1,143.3
+million in total notes and loans payable outstanding and unutilized lines of
+credit of approximately $96.4 million.
+
+     Certain of AMERCO's credit agreements contain restrictive financial and
+other covenants, including, among others, covenants with respect to incurring
+additional indebtedness, maintaining certain financial ratios and placing
+certain additional liens on its properties and assets.  At June 30, 2001, AMERCO
+was in compliance with these covenants.
+
+     AMERCO is further restricted in the issuance of certain types of preferred
+stock.  AMERCO is prohibited from issuing shares of preferred stock that provide
+for any mandatory redemption, sinking fund payment, or mandatory prepayment, or
+that allow the holders thereof to require AMERCO or any subsidiary of AMERCO to
+repurchase such preferred stock at the option of such holders or upon the
+occurrence of any event or events without the consent of its lenders.
+
+     Reference is made to Note 5 of Notes to Consolidated Financial Statements
+in AMERCO's Annual Report on Form 10-K for the fiscal year ended March 31, 2001
+for additional information about AMERCO's credit agreements.
+
+<PAGE> 23
+       ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Reference is made to Part II, Item 7A, Quantitative and Qualitative
+Disclosure About Market Risk, in AMERCO's Annual Report on Form 10-K for the
+fiscal year ended March 31, 2001.
+
+<PAGE> 24
+                           PART II.  OTHER INFORMATION
+
+
+                           ITEM 1.  LEGAL PROCEEDINGS
+
+     In the normal course of business, AMERCO is a defendant in a number of
+suits and claims.  AMERCO is also a party to several administrative proceedings
+arising from state and local provisions that regulate the removal and/or cleanup
+of underground fuel storage tanks.  It is the opinion of management that none of
+the suits, claims or proceedings involving AMERCO, individually or in the
+aggregate, are expected to result in a material loss.
+
+     Reference is made to Part I, Item 1, Business, in AMERCO's Annual Report on
+Form 10-K for the fiscal year ended March 31, 2001 for a discussion of certain
+environmental proceedings and to Note 15 of Notes to Consolidated Financial
+Statements in AMERCO's Annual Report on Form 10-K for the fiscal year ended
+March 31, 2001 for a discussion of the California overtime litigation.
+
+<PAGE> 25
+
+                    ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits
+
+     Exhibit No.              Description
+     -----------              -----------
+          3.1     Restated Articles of Incorporation (1)
+          3.2     Restated By-Laws of AMERCO as of August 27, 1997 (2)
+
+(b) Reports on Form 8-K.
+
+          No report on Form 8-K was filed during the quarter ended June 30,
+         2001.
+
+_________________
+
+(1)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1992, file no. 1-11255.
+
+(2)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1997, file no. 1-11255.
+
+<PAGE> 26
+SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                  AMERCO
+                                  ____________________________________
+                                           (Registrant)
+
+
+Dated: August 10, 2001            By: /S/ GARY B. HORTON
+                                  ____________________________________
+                                       Gary B. Horton, Treasurer
+                                     (Principal Financial Officer)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

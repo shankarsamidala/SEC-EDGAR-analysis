@@ -1,0 +1,1007 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F39UzEI726PwRK0cJu5qQfLrXUM9qmReOcxyuI7l3HywStrOjEllXN+qmMRdto6I
+ FbfoFtn0qW30v+MuAan27A==
+
+<SEC-DOCUMENT>0000006071-98-000023.txt : 19980903
+<SEC-HEADER>0000006071-98-000023.hdr.sgml : 19980903
+ACCESSION NUMBER:		0000006071-98-000023
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980801
+FILED AS OF DATE:		19980902
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMES DEPARTMENT STORES INC
+		CENTRAL INDEX KEY:			0000006071
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				042269444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0125
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-05380
+		FILM NUMBER:		98702736
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2418 MAIN ST
+		CITY:			ROCKY HILL
+		STATE:			CT
+		ZIP:			06067
+		BUSINESS PHONE:		2032572000
+
+	MAIL ADDRESS:	
+		STREET 1:		2418 MAIN STREET
+		CITY:			ROCKY HILL
+		STATE:			CT
+		ZIP:			06067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C. 20549
+
+
+                                 FORM 10-Q
+
+
+
+
+[ X ]      QUARTERLY  REPORT  PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934
+
+
+For the quarterly period ended  August 1, 1998
+                               ---------------- 
+
+[   ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE  SECURITIES
+           EXCHANGE ACT OF 1934
+
+For the transition period from                  to
+                               ----------------    ---------------
+
+                          AMES DEPARTMENT STORES, INC.
+            ------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+
+           Delaware                                    04-2269444
+- -------------------------------          ---------------------------------------
+(State or other jurisdiction of          (I.R.S. Employer Identification Number)
+ incorporation or organization)
+
+
+    2418 Main Street, Rocky Hill, Connecticut                        06067
+    -----------------------------------------                      ----------
+    (Address of principal executive offices)                       (Zip Code)
+
+
+Registrant's telephone number including area code:  (860) 257-2000
+                                                    --------------
+
+
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+
+                            YES   X     NO
+                                -----      -----
+
+
+
+   23,113,071  shares of Common Stock were  outstanding on August 14, 1998.
+
+
+                         Exhibit Index on page 13
+
+                    Page 1 of 15 (including exhibits)
+
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+
+                                    FORM 10-Q
+
+                      FOR THE QUARTER ENDED AUGUST 1, 1998
+
+
+
+
+                                    I N D E X
+
+
+
+
+                                                                         Page
+                                                                         ----
+Part I:   Financial Information
+
+             Consolidated  Condensed  Statements  of  Operations           3
+                for the Thirteen and Twenty-six Weeks ended
+                August 1, 1998 and July
+                26, 1997
+
+             Consolidated Condensed Balance Sheets as of                   4
+                August 1, 1998, January 31, 1998, and July 26,
+                1997
+
+             Consolidated Condensed Statements of Cash Flows               5
+                for the Thirteen and Twenty-six Weeks ended
+                August 1, 1998 and July 26, 1997
+
+             Notes to Consolidated Condensed Financial Statements          6
+
+             Management's Discussion and Analysis of Financial             9
+                Condition and Results of Operations
+
+
+Part II:  Other Information
+
+             Submission of Matters to a Vote of Security Holders          12
+
+             Exhibits and Reports on Form 8-K                             13
+
+<PAGE>
+
+<TABLE>
+                                                    PART I
+                                             FINANCIAL INFORMATION
+
+
+                                 AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                                CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+                                   (In Thousands, Except Per Share Amounts)
+                                                  (Unaudited)
+
+
+
+
+<CAPTION>
+                                                             For the Thirteen             For the Twenty-six
+                                                               Weeks Ended                   Weeks Ended
+                                                          -----------------------      -------------------------
+                                                           August 1,    July 26,         August 1,     July 26,
+                                                             1998         1997             1998          1997
+                                                          ----------   ----------      ------------   ----------
+<S>                                                       <C>          <C>             <C>            <C>
+TOTAL SALES                                                $562,736     $530,059        $1,080,959     $978,634
+Less: Leased department sales                                26,439       26,492            45,614       42,466
+                                                          ----------   ----------      ------------   ----------
+NET SALES                                                   536,297      503,567         1,035,345      936,168
+
+COSTS, EXPENSES AND (INCOME):
+Cost of merchandise sold                                    379,461      356,704           740,071      670,462
+Selling, general and administrative expenses                145,103      137,190           288,739      265,934
+Leased department and other operating income                 (7,489)      (6,446)          (13,675)     (11,133)
+Depreciation and amortization expense                         4,153        3,264             7,969        6,187
+Amortization of the excess of revalued net assets
+    over equity under fresh-start reporting                  (1,539)      (1,539)           (3,077)      (3,077)
+Interest and debt expense, net                                3,192        3,208             5,246        5,600
+                                                          ------------------------------------------------------
+
+INCOME BEFORE INCOME TAXES                                   13,416       11,186            10,072        2,195
+Income tax provision                                         (5,011)      (3,808)           (3,785)        (747)
+                                                           ----------   ----------      ------------   ----------
+
+NET INCOME                                                   $8,405       $7,378            $6,287       $1,448
+                                                           ==========   ==========      ============   ==========
+
+
+
+
+BASIC NET INCOME PER COMMON SHARE
+    
+    Net income                                                $0.37        $0.34             $0.28        $0.07
+                                                          ==========   ==========      ============   ==========
+    Weighted average number of common shares outstanding     22,950       21,486            22,800       21,188
+                                                          ==========   ==========      ============   ==========
+
+DILUTED NET INCOME PER COMMON SHARE
+ 
+    Net income                                                $0.35        $0.31             $0.26        $0.06
+                                                          ==========   ==========      ============   ==========
+    Weighted average common and common equivalent shares     24,272       23,455            24,171       23,354
+                                                          ==========   ==========      ============   ==========
+
+
+
+
+<FN>
+      (The accompanying notes are an integral part of these consolidated condensed financial statements.)
+</FN>
+</TABLE>
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                      CONSOLIDATED CONDENSED BALANCE SHEETS
+                                 (In Thousands)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                August 1,          January 31,          July 26,
+                                                                  1998                1998                1997
+                                     ASSETS                    -----------         -----------         ----------
+<S>                                                            <C>                 <C>                 <C>
+Current Assets:
+   Cash and short-term investments                                $20,859             $57,828            $17,548
+   Receivables                                                     22,662              18,922             26,386
+   Merchandise inventories                                        502,157             423,836            443,827
+   Prepaid expenses and other current assets                       13,089              12,060             15,167
+                                                               -----------         -----------         ----------
+         Total current assets                                     558,767             512,646            502,928
+                                                               -----------         -----------         ----------
+
+Fixed Assets                                                      165,692             128,790            114,147
+   Less - Accumulated depreciation and amortization               (53,283)            (45,457)           (38,168)
+                                                               -----------         -----------         ----------
+         Net fixed assets                                         112,409              83,333             75,979
+                                                               -----------         -----------         ----------
+
+Other assets and deferred charges                                  13,306              14,063              8,264
+                                                               -----------         -----------         ----------
+                                                                 $684,482            $610,042           $587,171
+                                                               ===========         ===========         ==========
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+   Accounts payable:
+     Trade                                                       $176,147            $180,971           $153,403
+     Other                                                         43,060              42,185             45,884
+                                                               -----------         -----------         ----------
+         Total accounts payable                                   219,207             223,156            199,287
+Note payable - revolver                                            70,525                -                65,302
+Current portion of long-term debt and capital lease obligations     4,638               4,177              7,426
+Self-insurance reserves                                            30,187              31,657             32,647
+Accrued expenses and other current liabilities                     74,581              73,437             59,753
+Store closing reserves                                             10,301              12,050             19,007
+                                                                ----------         -----------         ----------
+         Total current liabilities                                409,439             344,477            383,422
+
+Long-term debt                                                       -                  9,340              9,251
+Capital lease obligations                                          37,378              26,393             24,731
+Other long-term liabilities                                         8,774              10,943              7,461
+
+Unfavorable lease liability                                        14,618              15,333             16,048
+Excess of revalued net assets over equity under 
+    fresh-start reporting                                          27,097              30,174             33,250
+
+Stockholders' Equity:
+   Common stock                                                       233                 225                218
+   Additional paid-in capital                                     126,470             118,971             91,702
+   Retained earnings                                               60,473              54,186             21,088
+                                                                ----------         -----------         ----------
+         Total Stockholders' Equity                               187,176             173,382            113,008
+                                                                ----------         -----------         ----------
+                                                                 $684,482            $610,042           $587,171
+                                                                ==========         ===========         ==========
+<FN>
+              (The accompanying notes are an integral part of these
+                 consolidated condensed financial statements.)
+</FN>                            
+</TABLE>
+
+<PAGE>                                                      
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                 CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+                                 (In Thousands)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                     For the Twenty-six
+                                                                                         Weeks Ended
+                                                                            --------------------------------------
+                                                                                 August 1,            July 26,
+                                                                                   1998                 1997
+                                                                            -----------------    -----------------
+<S>                                                                         <C>                  <C>  
+Cash flows from operating activities:
+   Net income                                                                     $6,287               $1,448
+   Adjustments to reconcile net income to net cash
+       used for operating activities:
+   Income tax provision                                                            3,785                   747
+   Depreciation and amortization of fixed and other assets                         8,368                 6,476
+   Amortization of the excess of revalued net assets over equity                  (3,077)               (3,077)
+   Increase in accounts receivable                                                (3,740)               (7,315)
+   Increase in merchandise inventories                                           (78,321)              (52,751)
+   Increase (decrease) in accounts payable                                        (3,949)               10,370
+   Decrease in accrued expenses and other current liabilities                       (326)               (8,132)
+   Decrease in other working capital and other, net                               (3,270)               (3,210)
+                                                                            -----------------    -----------------
+Cash used for operations before store closing items                              (74,243)              (55,444)
+Payments of store closing costs                                                   (1,355)               (5,899)
+                                                                            -----------------    -----------------
+Net cash used for operating activities                                           (75,598)              (61,343)
+                                                                            -----------------    -----------------
+Cash flows from investing activities:
+   Purchases of fixed assets                                                     (22,615)              (19,256)
+   Purchase of leases                                                                -                  (4,148)
+                                                                            -----------------    -----------------
+Net cash used for investing activities                                           (22,615)              (23,404)
+                                                                            -----------------    -----------------
+Cash flows from financing activities:
+   Payments of debt and capital lease obligations                                (13,003)              (11,753)
+   Short-term borrowings under the revolver, net                                  70,525                65,302
+   Proceeds from the excercise of options and warrants                             3,722                 2,627
+                                                                            -----------------    -----------------
+Net cash provided by financing activities                                         61,244                56,176
+                                                                            -----------------    -----------------
+Decrease in cash and short-term investments                                      (36,969)              (28,571)
+Cash and short-term investments, beginning of period                              57,828                46,119
+                                                                            -----------------    -----------------
+Cash and short-term investments, end of period                                   $20,859               $17,548
+                                                                            =================    =================
+
+
+Supplemental  disclosures of cash flow information:
+   Cash paid during the period for:
+      Interest and debt fees not capitalized                                      $4,043                $4,763
+      Income taxes                                                                     5                     2
+
+
+
+
+
+<FN>
+              (The accompanying notes are an integral part of these
+                 consolidated condensed financial statements.)
+</FN>
+</TABLE>
+
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+              NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+
+1.     Basis of Presentation:
+       ----------------------
+              In  the  opinion  of  management,   the   accompanying   unaudited
+       consolidated  condensed  financial  statements of Ames Department Stores,
+       Inc. (a Delaware  Corporation) and subsidiaries  (collectively  "Ames" or
+       the "Company")  contain all adjustments  (consisting of normal  recurring
+       adjustments)   necessary  for  a  fair  presentation  of  such  financial
+       statements  for  the  interim  periods.  Due  to the  seasonality  of the
+       Company's  operations,  the  results of its  operations  for the  interim
+       period ended August 1, 1998 may not be  indicative  of total  results for
+       the full year.  Certain  information  and footnote  disclosures  normally
+       included in financial  statements  prepared in accordance  with generally
+       accepted accounting principles have been condensed or omitted pursuant to
+       the rules and  regulations  promulgated  by the  Securities  and Exchange
+       Commission (the "SEC"). Certain prior year amounts have been reclassified
+       to  conform  to  the   presentation   used  for  the  current  year.  The
+       consolidated  condensed  balance  sheet at January 31, 1998 was  obtained
+       from audited  financial  statements  previously filed with the SEC in the
+       Company's  latest  Form 10-K.  The  accompanying  unaudited  consolidated
+       condensed  financial  statements  should be read in conjunction  with the
+       financial  statements and notes thereto  included in the Company's latest
+       Form 10-K.
+
+2.     Net Income Per Common Share:
+       ----------------------------
+              Net income per share was  determined  using the  weighted  average
+       number of  common  shares  outstanding.  190,723  warrants were converted
+       and 74,210  options  were  exercised  during  the quarter ended August 1,
+       1998.  During  the  quarter  ended  July 26, 1997,  139,789 warrants were
+       converted and 254,960 options were exercised.
+
+3.     Inventories:
+       ------------
+              Inventories  are valued at the lower of cost or market.  Effective
+       October 25, 1997, the Company changed from the retail last-in,  first-out
+       (LIFO) method of accounting for  inventories  to the first-in,  first-out
+       (FIFO) method and restated all prior  periods for the change.  The change
+       had no impact on the historical results of operations of the Company.
+
+4.     Debt:
+       ----- 
+              On December 27, 1996,  the Company  entered into an agreement with
+       BankAmerica Business Credit,  Inc., as agent, two financial  institutions
+       as co-agents  (together with the agent,  the  "Agents"),  and a syndicate
+       consisting of five other banks and financial institutions,  for a secured
+       revolving credit facility of up to $320 million,  with a sublimit of $100
+       million  for  letters  of credit  and a $20  million  term  loan  portion
+       available for capital expenditures (the "Credit Agreement").
+
+              The Credit  Agreement is in effect until June 30, 2000, is secured
+       by  substantially  all of the assets of the  Company,  and  requires  the
+       Company to meet  certain  financial  covenants.  In  addition,  each year
+       outstanding  borrowings  under the  Credit  Agreement  may not exceed any
+       balance  due  under  the term  loan  portion  plus up to $20  million  in
+       revolver loans for a consecutive  30-day period between November 15th and
+       February 15th of the following  year.  The Company is in compliance  with
+       the financial covenants through the quarter ended August 1, 1998.
+
+<PAGE>
+
+              As of August 1, 1998, borrowings of $70.5 million were outstanding
+       under the  Credit  Agreement.  In  addition,  $19.5 and $8.1  million  of
+       standby and trade letters of credit, respectively, were outstanding under
+       the  Credit  Agreement.  The  weighted  average  interest  rates  on  the
+       borrowings  for the  thirteen and  twenty-six  weeks ended August 1, 1998
+       were 8.0% and 8.1% respectively.  The peak borrowing level through August
+       1, 1998 was $70.5 million.
+
+              The  amount of  borrowing  under the  Credit  Agreement  shall not
+       exceed the sum of (i) an amount equal to 60% of inventory  not covered by
+       any  outstanding  letter  of credit  plus (ii) an amount  equal to 50% of
+       inventory covered by any outstanding  letter of credit. In addition,  the
+       Credit  Agreement  provides  for the  potential  establishment  of  other
+       reserves contingent upon the Company's financial performance. Each Agent,
+       in  addition,  reserves  the right to adjust  the total  available  to be
+       borrowed by  establishing  reserves,  making  determinations  of eligible
+       inventory,  revising  standards of eligibility or decreasing from time to
+       time the percentages set forth above. Reference can be made to the latest
+       Form  10-K for  further  descriptions  of the  Credit  Agreement  and for
+       descriptions of the Company's other obligations not discussed herein.
+
+ 5.    Stock Options:
+       --------------
+              The Company has three stock option plans (the "Option Plans"): the
+       1994 Management  Stock Option Plan, the 1998  Management  Stock Incentive
+       Plan and the 1994 Non-Employee Directors Stock Option Plan.
+
+              In  October  1995,   SFAS  No.  123  "Accounting  for  Stock-Based
+       Compensation"  was issued.  SFAS No. 123  establishes  a fair-value based
+       method of accounting for  stock-based  compensation;  however,  it allows
+       entities to continue  accounting  for employee  stock-based  compensation
+       under the intrinsic  value method  prescribed  by  Accounting  Principles
+       Board Opinion No. 25,  "Accounting  for Stock  Issued to Employees".  The
+       Company elected to account for the  Option  Plans  under APB  Opinion No.
+       25,  under which no compensation cost has been recognized, and adopt SFAS
+       No. 123 through disclosure.
+
+              If the Company had elected to recognize  compensation cost for the
+       Option  Plans based on the fair value at the grant dates for awards under
+       those plans,  consistent with the method  prescribed by SFAS No. 123, net
+       income and net income per diluted  common  share would have  approximated
+       the pro forma amounts indicated below:
+
+                                 For the Thirteen           For the Twenty-six
+                                   Weeks Ended                  Weeks Ended
+                               ---------------------       ---------------------
+                               August 1,    July 26,       August 1,    July 26,
+                                 1998         1997           1998         1997
+                               ---------------------       ---------------------
+       Net Income (in thousands)
+         As reported             $8,405      $7,378          $6,287      $1,448
+         Pro forma                7,690       7,234           5,441       1,131
+
+       Net Income per common
+         share (diluted)
+         As reported              $0.35       $0.31           $0.26       $0.06
+         Pro forma                 0.32        0.31            0.23        0.05
+
+              The fair  value of stock options used to compute the pro forma net
+       income and the net income per common share  (diluted)  is  the  estimated
+       present value at grant date using the Black-Scholes option-pricing  model
+       with  the  following  weighted  average  assumptions:  no dividend yield,
+       expected option volatilities,  a risk-free interest rate  equal  to  U.S.
+       Treasury  securities with a maturity equal to the expected  life  of  the
+       option  and  an  expected life from date of grant until option expiration
+       date.
+
+<PAGE>
+
+6.     Income Taxes:
+       -------------
+              The Company's  estimated annual effective income tax rate for each
+       year was  applied to the income  before  income  taxes for each period to
+       compute a non-cash  income tax  provision.  The income tax provisions are
+       included as  additions  to paid-in  capital on the balance  sheet for all
+       periods presented.
+
+ 7.    Litigation:
+       -----------
+              Reference  can be made to the  latest  Form  10-K  (Note 12 to the
+       Consolidated  Financial  Statements) for various litigation involving the
+       Company,  for which there were no material  changes since the filing date
+       of the Form 10-K, except as follows:
+
+              With regard to the Second  Complaint (the Austin matter),  on July
+       15, 1998, the Court approved a class action settlement (the "Settlement")
+       which had been reached by the  parties.  Notices of the  Settlement  were
+       sent to all potential  class members on August 19, 1998.  The  Settlement
+       provides that in exchange for a release of all claims against the Company
+       each class member who elects to opt-in to the  Settlement  will receive a
+       benefit,  either cash or discounts on future  purchases at an Ames store,
+       based on the  number of days  worked  for the  Company  during  the class
+       period.  Individuals  who wish to opt-in to the Settlement  must sign and
+       return a Consent  and  Release  Form on or before  October 3,  1998.  The
+       maximum cost of the  Settlement to the Company cannot exceed $1.5 million
+       in cash if all  participants  elect cash or $4.5  million in discounts on
+       purchases if all participants  elect  discounts.  The Company believes it
+       has adequately reserved for the settlement.
+
+              With  regard  to  the  Fifth  Complaint  (the  Moschelle  matter),
+       pursuant to the terms of the Settlement, the parties will jointly move to
+       dismiss this action  without  prejudice to the rights of any class member
+       who does not elect to opt-in to the Settlement by the stated deadline.
+
+<PAGE>
+
+
+                        AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                             FISCAL QUARTER ENDED AUGUST 1, 1998
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                                  AND RESULTS OF OPERATIONS
+<TABLE>
+<CAPTION>
+
+Results of Operations
+- ---------------------
+
+     The following  table sets forth the number of stores in operation as of the
+dates indicated:
+
+                                 Number of Stores in Operation
+                               -----------------------------------
+                               August 1,   January 31,    July 26,
+                                  1998         1998         1997
+                               ---------    ---------    ---------
+
+                                  299          298          296
+
+
+    The following  discussion and analysis is based on the results of operations
+for the  thirteen and  twenty-six  weeks ended August 1, 1998 and July 26, 1997.
+During the first half of 1998,  three (3) stores  were opened and two (2) stores
+were closed. In the comparable  prior-year period, seven (7) stores were opened,
+thirteen  (13) stores were closed and the Company  determined  that it would not
+re-open a store previously closed as a result of flooding.
+
+     The  following  table  sets  forth the  operating  results  expressed  as a
+percentage of net sales for the periods indicated:
+
+                                                    Thirteen                   Twenty-six
+                                                   Weeks Ended                Weeks Ended
+                                              ----------------------     -----------------------
+                                              August 1,     July 26,     August 1,      July 26,
+                                                1998         1997          1998           1997
+                                              ---------    ---------     ---------     ---------
+<S>                                           <C>          <C>           <C>           <C>
+Net sales                                        100.0%       100.0%        100.0%        100.0%
+Cost of merchandise sold                          70.8         70.8          71.5          71.6
+                                              ---------    ---------     ---------     ---------
+Gross margin                                      29.2         29.2          28.5          28.4
+Expenses and (income):
+Selling, general and administrative expenses      27.0         27.3          27.9          28.4
+Leased department and other operating income      (1.4)        (1.3)         (1.3)         (1.2)
+Depreciation and amortization expense              0.8          0.7           0.7           0.7
+Amortization of the excess of revalued net assets
+    over equity under fresh-start reporting       (0.3)        (0.3)         (0.3)         (0.3)
+Interest and debt expense, net                     0.6          0.6           0.5           0.6
+                                              ---------    ---------     ---------     ---------
+    Income before income taxes                     2.5          2.2           1.0           0.2
+Income tax provision                              (0.9)        (0.7)         (0.4)         (0.1)
+                                              ---------    ---------     ---------     ---------
+       Net income                                  1.6%         1.5%          0.6%          0.1%
+                                              =========    =========     =========     =========
+
+</TABLE>
+
+<PAGE>
+
+       Net sales for the  thirteen  weeks ended August 1, 1998  increased  $32.7
+million  or 6.5%  from the  prior-year's  second  quarter  due  primarily  to an
+increase  of 4.0% in  comparable-store  sales and the net  addition of three (3)
+stores.  Net sales for the twenty-six weeks ended August 1, 1998 increased $99.2
+million or 10.6% as compared  to the same  prior-year  period.  Comparable-store
+sales increased by 8.1% for the first twenty-six weeks.
+
+       Gross margin for the second quarter increased $10.0 million, but remained
+unchanged as a percentage of net sales,  as compared with the quarter ended July
+26, 1997.  Gross margin for the twenty-six  weeks ended August 1, 1998 increased
+$29.6  million,  or 0.1% as a  percentage  of net  sales  compared  to the  same
+prior-year  period.  The  improvement  in  year-to-date  gross  margin rates was
+primarily attributable to lower markdowns.
+
+       Selling, general and administrative expenses for the thirteen weeks ended
+August 1, 1998 increased $7.9 million,  but decreased 0.3% from the prior-year's
+second  quarter due  primarily to favorable performance in advertising and lower
+compensation related expenses. For the twenty-six week period, selling,  general
+and  administrative  expenses  increased $22.8 million,  but decreased 0.5% as a
+percentage  of net  sales as  compared  to the same  prior-year  period  due  to
+favorable performances in store and advertising expenses.
+
+       Depreciation and amortization  expense  increased by $0.9 million or 0.1%
+as a  percentage  of net sales,  in the  thirteen  weeks  ended  August 1, 1998,
+compared to the same prior-year period. For the twenty-six weeks ended August 1,
+1998,  depreciation  and  amortization  increased  $1.8  million,  but  remained
+unchanged  as a  percentage  of net  sales,  compared  with the same  prior-year
+period.  The adoption of fresh-start  reporting as of December 26, 1992 resulted
+in the write-off of all of the Company's  non-current  assets at that date,  and
+therefore  depreciation  and  amortization  expense  results  only from  capital
+additions after that date.
+
+       The  amortization  of the excess of revalued net assets over equity under
+fresh-start  reporting  remained  the same in the current  periods  presented as
+compared  to the prior  year.  The  Company is  amortizing  this  amount  over a
+ten-year period.
+
+       Interest and debt expense,  net of interest income,  was essentially flat
+in the thirteen  weeks ended August 1, 1998 as compared to the period ended July
+26,  1997.  For the  twenty-six  weeks ended  August 1, 1998,  interest and debt
+expense  decreased  $0.4 million or 0.1% as a percentage of net sales,  compared
+with the same prior-year period.  This decrease was due primarily to a reduction
+in short-term interest expense as a result of lower average outstanding balances
+under the Credit  Agreement  (from $55.6 to $36.4 million  during the twenty-six
+week period) partially offset by increased capital lease interest expense.
+
+       The Company's  estimated  annual  effective income tax rate for each year
+was  applied  to the income  before  income  taxes for each  period to compute a
+non-cash  income tax  provision.  The  income tax  provisions  are  included  as
+additions to paid-in capital on the balance sheet for all periods presented.
+
+Liquidity and Capital Resources
+- -------------------------------
+        On  December  27,  1996,  the Company  entered  into an  agreement  with
+BankAmerica  Business  Credit,  Inc., as agent,  two financial  institutions  as
+co-agents (together with the agent, the "Agents"), and a syndicate consisting of
+five other banks and  financial  institutions,  for a secured  revolving  credit
+facility of up to $320  million,  with a sublimit of $100 million for letters of
+credit (the "Credit Agreement").
+
+       The Credit Agreement is in effect until June 30, 2000. The Company was in
+compliance  with the  financial  covenants of the Credit  Agreement  through the
+quarter ended August 1, 1998.  Reference can be made to Note 4 of this Quarterly
+Report  and  the  latest  Form  10-K  for  further  descriptions  of the  Credit
+Agreement.
+
+<PAGE>
+
+       Merchandise  inventories,  increased  $58.3 million from July 26, 1997 to
+August 1, 1998 due primarily to planned  increases.  The increase in inventories
+of $78.3  million  from January 31, 1998 to August 1, 1998 was  principally  the
+result of a normal seasonal build-up of inventories and planned increases.
+
+       Trade  accounts  payable  increased  $22.7  million from July 26, 1997 to
+August 1, 1998 primarily due to planned  merchandise  inventory  increases.  The
+decrease of $4.8 million from January 31, 1998 to August 1, 1998 was principally
+the result of the seasonal dating in effect as of January 31, 1998.
+
+       Capital  expenditures  totaled $37.5 million  (including $14.9 million in
+capital leases for store automation  (POS) systems)  for  the  twenty-six  weeks
+ended  August 1,  1998  and  for  the  balance  of  the year are estimated to be
+approximately  $47 million.  The  Company  adjusts  its  plans for  making  such
+expenditures  depending  on the  amount of internally generated funds.
+
+       The net  operating  loss  carryovers  remaining  after  fiscal year 1997,
+subject to any  limitations  pursuant to Internal  Revenue Code Sec. 382, should
+offset income on which taxes would otherwise be payable in future years.
+     
+       The Company believes that available cash and expected cash flows from the
+current  fiscal  year's  operations  and  beyond,  and the  availability  of its
+financing  facilities,  will enable the Company to fund its  expected  needs for
+working capital, capital expenditures and debt service requirements.
+
+Accounting Pronouncements
+- -------------------------
+    In April 1998, the Accounting  Standards  Executive Committee (AcSEC) issued
+Statement  of  Position  (SOP)  98-5,   "Reporting  on  the  Costs  of  Start-Up
+Activities".  The SOP is effective for fiscal years beginning after December 15,
+1998 although earlier adoption is permitted. The SOP will require that the costs
+of start-up  activities be expensed as incurred.  The Company currently expenses
+costs associated with the opening of new  stores in  the  year they are  opened.
+These costs are  carried  as  prepaid  expenses  prior to the opening of the new
+stores.  The Company expects to adopt this  statement as of January 30, 1999 and
+does not anticipate the adoption will materially affect the Company's results of
+operations or financial  position.
+
+Year 2000
+- ---------
+       As previously reported, the Company has initiated a comprehensive program
+to  prepare  its  computer  systems  and  applications  for the year  2000.  The
+assessment  phase of the  Company's  remediation  program  is  complete  and the
+systems  development  and testing stages are in progress.  The Company has spent
+approximately $2.6 million on its Year 2000 initiatives to date and expects that
+full  implementation  of the program will involve an additional $2 to $3 million
+over the next two years for  conversion  and  testing of  systems.  These  costs
+include  incremental  expenses  such  software,  outside  consulting  and  other
+expenses.  Additionally, the Company has allocated systems development staff  to
+Year 2000 initiatives and estimates the non-incremental costs to  be  $3  to  $4
+million over the life of the project.
+
+      The  Company  has  formally  communicated  with  all  of its  vendors  and
+suppliers  to  determine  the extent to which the Company may be  vulnerable  to
+those third parties' failure to remediate their own Year 2000 issues.  The first
+phase, which included sending Year 2000 surveys and questionnaires,  is complete
+and the response evaluation phase is currently in progress.  The Company has not
+had  sufficient  response  from vendors to provide an estimate of the  potential
+impact of  non-compliance  on the part of such vendors.  Management is currently
+developing  contingency  plans which include,  but are not limited to,  securing
+alternative  vendors who are Year 2000 compliant,  developing manual merchandise
+ordering processes,  and evaluating alternative merchandise  assortments.  It is
+too early to determine to what  extent, if any,  these  contingency  plans  will
+have to be implemented
+
+       Although  the Company  expects to be Year 2000  compliant by mid-1999 and
+does not expect to be  materially  impacted by the  external  environment,  such
+future  events  cannot  be known  with  certainty.  Furthermore,  the  Company's
+estimates  of  future  remediation  costs  and  completion  dates  are  based on
+presently  available  information  and may be updated as additional  information
+becomes available.
+
+<PAGE>      
+                                     Part II
+
+                                OTHER INFORMATION
+
+
+Item 1.        Legal Proceedings
+               -----------------
+                      Reference  can be  made  to  Note  12 to the  Consolidated
+               Financial  Statements  included in the Company's most recent Form
+               10-K for various  litigation  involving  the  Company,  for which
+               there were no material  changes since the filing date of the Form
+               10-K, except as set forth in Note 7 of this Quarterly Report.
+
+
+Item 4.        Submission of Matters to a Vote of Security Holders
+               ---------------------------------------------------
+                      The Annual Meeting of Stockholders was held Wednesday, May
+               27, 1998, to consider and act upon the following matters:
+
+               (a)   The  shareholders  elected for  one-year  terms all persons
+                     nominated for directors as set forth in the Company's proxy
+                     statement  filed April 8, 1998.  Each  nominee for director
+                     was elected as follows:
+
+                                            For                 Withheld
+                                         ----------            -----------
+                     Francis X. Basile   19,244,965                53,033
+                     Paul Buxbaum        19,244,179                53,819
+                     Alan Cohen          12,346,191             6,951,807
+                     Joseph R. Ettore    19,249,170                48,828
+                     Richard M. Felner   19,248,139                49,859
+                     Sidney S. Pearlman  19,243,514                54,484
+                     Laurie M. Shahon    19,246,807                51,191
+
+               (b)   The  shareholders  ratified and approved the appointment of
+                     Arthur  Andersen  LLP  as  independent   certified   public
+                     accountants  and  auditors  for the  Company for the fiscal
+                     year ending January 30, 1999.
+
+                           For                 Withheld              Abstentions
+                        ----------             --------              -----------
+                        19,238,194              39,525                  20,279
+
+               (c)   The shareholders  approved the Ames Department Stores, Inc.
+                     1998  Management  Stock Incentive Plan, as described in the
+                     Company's Proxy Statement filed April 8, 1998.
+
+                           For                Withheld               Abstentions
+                        ----------           ----------              -----------
+                        14,634,586            1,342,171                 68,525
+
+               (d)   The   shareholders   approved  an  amendment  to  the  Ames
+                     Department Stores,  Inc. 1994 Non-Employee  Directors Stock
+                     Option  Plan to increase  the number of shares  included in
+                     each option grant.
+
+                           For                Withheld               Abstentions
+                        ----------           ----------              -----------
+                        18,311,049             900,659                  84,690
+
+
+Item 5.        Other Information
+               -----------------
+               Any notice of a proposal  submitted by a  stockholder  outside of
+               the  process  of Rule  14a-8  after  February  22,  1999  will be
+               considered untimely.  Therefore, the proxy solicited on behalf of
+               the  Company's  Board  of  Directors  will  confer  discretionary
+               authority to vote on any such proposal properly coming before the
+               1999 Annual Meeting.
+
+<PAGE>
+               
+               Stock  options granted to many of the Company's senior executives
+               pursuant to the 1994 Management Stock Option Plan will  expire in
+               March 1999.  The Company anticipates that in the normal course of
+               business some senior executives may  sell  some  shares  of  Ames
+               Common Stock during the fourth quarter  of  1998  and  the  first
+               quarter of 1999.
+
+       
+Item 6.        Exhibits and Reports on Form 8-K
+               --------------------------------
+
+    (a)        Index to Exhibits
+
+
+               Exhibit No.                Exhibit                       Page No.
+               -----------     --------------------------------         --------
+                   11          Schedule of computation of basic            15
+                                 and diluted earnings per share
+
+
+    (b)        Reports on Form 8-K:
+
+
+               The  following  report on Form 8-K was filed with the  Securities
+               and Exchange Commission during the second quarter:
+
+
+      Date of Report  Date of Filing    Item #             Description
+      --------------  --------------    ------   -------------------------------
+      June 30, 1998    June 30, 1998       5     Disclosure  of  the  Employment
+                                                 Agreement  dated  June 1,  1998
+                                                 between Ames Department Stores,
+                                                 Inc. and Joseph R. Ettore.
+
+<PAGE>
+
+                                   SIGNATURES
+
+
+
+
+
+        Pursuant to the requirements of the Securities  Exchange Act of 1934 the
+        registrant has duly caused this report to be signed on its behalf by the
+        undersigned thereunto duly authorized.
+
+
+
+
+                          AMES DEPARTMENT STORES, INC.
+                                  (Registrant)
+
+
+
+
+     Dated:     September 1, 1998         /s/ Joseph R. Ettore
+                                          Joseph R. Ettore, President, Director,
+                                          and Chief Executive Officer
+
+
+
+
+
+
+     Dated:     September 1, 1998         /s/ Rolando de Aguiar
+                                          Rolando de Aguiar, Executive Vice
+                                          President and Chief Financial Officer
+
+
+
+
+
+
+     Dated:     September 1, 1998         /s/ Gregory D. Lambert
+                                          Gregory D. Lambert
+                                          Senior Vice President - Finance
+
+<PAGE>
+                                                                      
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+         SCHEDULE OF COMPUTATION OF BASIC AND DILUTED EARNINGS PER SHARE
+                 (Amounts in thousands except per share amounts)
+<TABLE>
+                                                                                                                          Exhibit 11
+<CAPTION>
+
+                                                                                     For the Thirteen           For the Twenty-six
+                                                                                        Weeks Ended                Weeks Ended
+                                                                                  -----------------------    -----------------------
+                                                                                   August 1,    July 26,      August 1,     July 26,
+                                                                                     1998         1997          1998          1997
+                                                                                  ----------   ----------    ----------    ---------
+       <S>                                                                        <C>          <C>           <C>           <C>  
+       Net income                                                                   $8,405       $7,378        $6,287        $1,448
+                                                                                  ==========   ==========    ==========    =========
+
+
+
+
+
+       For Basic Net Income Per Share
+
+          Weighted average number of common shares
+                outstanding during the period                                       22,950       21,486        22,800        21,188
+                                                                                  ==========   ==========    ==========    =========
+
+               Basic net income per share                                            $0.37        $0.34         $0.28         $0.07
+                                                                                  ==========   ==========    ==========    =========
+
+
+
+
+       For Diluted Net Income Per Share
+
+          Weighted average number of common shares
+                 outstanding during the period                                      22,950       21,486        22,800        21,188
+
+          Add:   Common stock equivalent shares represented by
+                 - Series B Warrants                                                   116           67           127            64
+                 - Series C Warrants                                                   458        1,082           520         1,240
+                 - Options under 1994 Management Stock Option Plan                      68          780            63           823
+                 - Options under 1994 Non-Employee Directors
+                     Stock Option Plan                                                 680           40           661            39
+                                                                                  ----------   ----------    ----------    ---------
+          Weighted average number of common and common equivalent
+                 shares used in the calculation of diluted net income per share     24,272       23,455        24,171        23,354
+                                                                                  ==========   ==========    ==========    =========
+
+               Diluted net income per share                                          $0.35        $0.31         $0.26         $0.06
+                                                                                  ==========   ==========    ==========    =========
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<MULTIPLIER>                                    1,000
+       
+<S>                                            <C>
+<PERIOD-TYPE>                                  3-MOS
+<FISCAL-YEAR-END>                              JAN-30-1999
+<PERIOD-END>                                   AUG-01-1998
+<CASH>                                          20859
+<SECURITIES>                                       0
+<RECEIVABLES>                                   22662
+<ALLOWANCES>                                       0
+<INVENTORY>                                    502157
+<CURRENT-ASSETS>                               558767
+<PP&E>                                         165692
+<DEPRECIATION>                                  53283
+<TOTAL-ASSETS>                                 684482
+<CURRENT-LIABILITIES>                          409439
+<BONDS>                                         37378
+<PREFERRED-MANDATORY>                               0
+<PREFERRED>                                         0
+<COMMON>                                          233
+<OTHER-SE>                                     186943
+<TOTAL-LIABILITY-AND-EQUITY>                   684482
+<SALES>                                        536297
+<TOTAL-REVENUES>                               543786
+<CGS>                                          379461
+<TOTAL-COSTS>                                  379461
+<OTHER-EXPENSES>                               147717
+<LOSS-PROVISION>                                    0
+<INTEREST-EXPENSE>                               3192 
+<INCOME-PRETAX>                                 13416
+<INCOME-TAX>                                     5011
+<INCOME-CONTINUING>                              8405
+<DISCONTINUED>                                      0
+<EXTRAORDINARY>                                     0
+<CHANGES>                                           0
+<NET-INCOME>                                     8405
+<EPS-PRIMARY>                                     .37
+<EPS-DILUTED>                                     .35
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

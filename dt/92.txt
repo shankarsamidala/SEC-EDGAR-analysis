@@ -1,0 +1,2148 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RodlYrQwcKYK4UPmyZyQwvWEGKNneRQNt8SXC34WiFGKcuzQyrWCjYrSkq4sPvNG
+ HBplH4GVVAbYe9mZPP0IPQ==
+
+<SEC-DOCUMENT>0000006071-99-000015.txt : 19990915
+<SEC-HEADER>0000006071-99-000015.hdr.sgml : 19990915
+ACCESSION NUMBER:		0000006071-99-000015
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990731
+FILED AS OF DATE:		19990914
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMES DEPARTMENT STORES INC
+		CENTRAL INDEX KEY:			0000006071
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				042269444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0125
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-05380
+		FILM NUMBER:		99711227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2418 MAIN ST
+		CITY:			ROCKY HILL
+		STATE:			CT
+		ZIP:			06067
+		BUSINESS PHONE:		8602572000
+
+	MAIL ADDRESS:	
+		STREET 1:		2418 MAIN STREET
+		CITY:			ROCKY HILL
+		STATE:			CT
+		ZIP:			06067
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                    FORM 10-Q
+
+
+
+[ X ]      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934
+
+
+For the quarterly period ended                July 31, 1999
+                               ------------------------------------------------
+
+
+[   ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from                     to
+                              ------------------         ------------------
+                         Commission File Number 1-05380
+
+                          AMES DEPARTMENT STORES, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+           Delaware                                     04-2269444
+- -------------------------------          --------------------------------------
+(State or other jurisdiction of          (I.R.S. Employer Identification Number)
+ incorporation or organization)
+
+
+2418 Main Street, Rocky Hill, Connecticut                   06067
+- -----------------------------------------                 ----------
+(Address of principal executive offices)                  (Zip Code)
+
+
+Registrant's telephone number including area code:      (860) 257-2000
+                                                      ------------------
+
+
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+
+                                    YES X NO
+                                       ---  ---
+
+
+     29,170,909 shares of Common Stock were outstanding on August 17, 1999.
+
+
+                            Exhibit Index on page 16
+
+                        Page 1 of 31 (including exhibits)
+
+                                      -1-
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+
+                                    FORM 10-Q
+
+                       FOR THE QUARTER ENDED JULY 31, 1999
+
+
+
+
+                                    I N D E X
+
+
+
+
+                                                                         Page
+
+Part I:  Financial Information
+
+           Consolidated Condensed Statements of Operations                 3
+              for the Thirteen and Twenty-Six Weeks ended July 31,
+              1999 and August 1, 1998
+
+           Consolidated Condensed Balance Sheets as of                     4
+              July 31, 1999, January 30, 1999, and August 1,
+              1998
+
+          Consolidated Condensed Statements of Cash Flows                  5
+              for the Twenty-Six Weeks ended July 31, 1999
+              and August 1, 1998
+
+          Notes to Consolidated Condensed Financial Statements             6
+
+          Management's Discussion and Analysis of Financial               11
+              Condition and Results of Operations
+
+
+Part II: Other Information
+
+          Submission of Matters to a Vote of Security Holders             16
+
+          Exhibits and Reports on Form 8-K                                16
+
+                                      -2-
+
+<PAGE>
+<TABLE>
+
+
+                                     PART I
+                              FINANCIAL INFORMATION
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                 CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+                    (In Thousands, Except Per Share Amounts)
+
+
+
+                                                                             (Unaudited)                       (Unaudited)
+                                                                          For the Thirteen                  For the Twenty-Six
+                                                                             Weeks Ended                        Weeks Ended
+                                                                    ------------------------------    ------------------------------
+<CAPTION>
+                                                                     July 31,        August 1,          July 31,        August 1,
+                                                                       1999             1998              1999             1998
+                                                                    ------------    ------------      -------------   --------------
+<S>                                                                 <C>             <C>                <C>             <C>
+Ames net sales                                                         $728,023         $535,047       $1,309,625       $1,032,092
+Hills net sales                                                         128,175                -          375,642                -
+                                                                    ------------    ------------    -------------   --------------
+     Total net sales                                                    856,198          535,047        1,685,267        1,032,092
+
+Costs, expenses and (income):
+     Ames cost of merchandise sold                                      514,584          378,211          934,089          736,822
+     Hills cost of merchandise sold                                      83,762                -          251,212                -
+     Ames selling, general and administrative expenses                  221,371          145,490          397,575          290,762
+     Hills operating expenses and agency fees                            52,790                -          142,047                -
+     Leased department and other income                                 (11,590)          (7,489)         (20,012)         (13,675)
+     Depreciation and amortization expense, net                          16,304            2,257           30,687            4,178
+     Interest and debt expense, net                                      13,621            3,192           25,543            5,246
+                                                                    ------------    ------------    -------------   --------------
+
+Income (loss) before income taxes                                       (34,644)          13,386          (75,874)           8,759
+Income tax benefit (provision)                                           12,471           (5,000)          27,313           (3,316)
+                                                                    ------------    ------------    -------------   --------------
+
+Net income (loss)                                                      ($22,173)          $8,386         ($48,561)          $5,443
+                                                                    ============    =============    =============   ==============
+
+
+
+Basic net income (loss) per common share                                $ (0.80)          $ 0.37          $ (1.87)          $ 0.24
+                                                                    ============    =============    =============   ==============
+
+Weighted average number of common shares outstanding                     27,706           22,950           25,914           22,800
+                                                                    ============    =============    =============   ==============
+
+
+Diluted net income (loss) per common share                              $ (0.80)          $ 0.35          $ (1.87)          $ 0.23
+                                                                    ============    =============    =============   ==============
+
+
+Weighted average number of common and common
+     equivalent shares outstanding                                       27,706           24,272           25,914           24,171
+                                                                    ============    =============    =============   ==============
+
+<FN>
+ (The accompanying notes are an integral part of these consolidated condensed financial statements.)
+</FN>
+</TABLE>
+                                      -3-
+
+<PAGE>
+<TABLE>
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                      CONSOLIDATED CONDENSED BALANCE SHEETS
+                                 (In Thousands)
+<CAPTION>
+                                                                          (Unaudited)                         (Unaudited)
+                                                                            July 31,        January 30,        August 1,
+                                                                              1999             1999               1998
+                                                                         ---------------   --------------     -------------
+<S>                                                                      <C>               <C>                <C>
+                                                          ASSETS
+Current Assets:
+      Cash and short-term investments                                           $36,404          $35,744           $20,859
+      Receivables                                                                47,038           30,244            22,662
+      Merchandise inventories                                                   795,440          621,509           502,157
+      Prepaid expenses and other current assets                                  57,173           16,075            11,776
+                                                                         ---------------   --------------     -------------
+             Total current assets                                               936,055          703,572           557,454
+
+Fixed Assets                                                                    527,345          437,834           165,692
+      Less - Accumulated depreciation and amortization                          (95,737)         (66,205)          (53,283)
+                                                                         ---------------   --------------     -------------
+             Net fixed assets                                                   431,608          371,629           112,409
+
+Other assets and deferred charges                                                63,232           16,447             5,900
+Deferred taxes, net                                                             102,406          102,406             7,406
+Beneficial lease rights, net                                                     57,507           58,885                 -
+Goodwill, net                                                                   197,471          230,454                 -
+                                                                         ---------------   --------------     -------------
+                                                                             $1,788,279       $1,483,393          $683,169
+                                                                         ===============   ==============     =============
+
+
+
+                                           LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+      Accounts payable:
+         Trade                                                                 $343,981         $313,280          $176,147
+         Other                                                                   67,557           83,485            43,060
+                                                                         ---------------   --------------     -------------
+             Total accounts payable                                             411,538          396,765           219,207
+
+      Short-term debt                                                                 -                -            70,525
+      Current portion of long-term debt, capital lease and financing obligations 19,801           17,799             4,638
+      Self-insurance reserves                                                    29,085           29,115            14,584
+      Accrued expenses and other current liabilities                            215,638          211,827            74,581
+      Store closing reserves                                                     56,130           59,768            10,301
+                                                                         ---------------   --------------     -------------
+         Total current liabilities                                              732,192          715,274           393,836
+
+Long-term debt                                                                  257,085           95,810                 -
+Capital lease and financing obligations                                         183,559          191,904            37,378
+Other long-term liabilities                                                     130,766          132,376            38,995
+Excess of revalued net assets over equity under fresh-start reporting            20,944           24,021            27,097
+Commitments and contingencies
+
+Stockholders' Equity:
+      Preferred  stock  (3,000,000  shares  authorized;   no  shares  issued  or
+         outstanding at July 31, 1999, January 30, 1999 and August 1, 1998,
+         par value per share $.01)                                                    -                -                 -
+      Common stock (40,000,000 shares authorized; 29,166,639, 23,921,545
+         and 23,096,554 shares outstanding at July 31, 1999, January 30, 1999
+         and August 1, 1998, respectively; par value per share $.01)                292              239               233
+      Additional paid-in capital                                                424,900          236,667           126,001
+      Retained earnings                                                          39,455           88,016            59,629
+      Treasury stock (79,495 shares, at cost)                                      (914)            (914)                -
+                                                                         ---------------   --------------     -------------
+         Total stockholders' equity                                             463,733          324,008           185,863
+                                                                         ---------------   --------------     -------------
+                                                                             $1,788,279       $1,483,393          $683,169
+                                                                         ===============   ==============     =============
+
+<FN>
+ (The accompanying notes are an integral part of these consolidated condensed financial statements.)
+</FN>
+</TABLE>
+                                      -4-
+<PAGE>
+<TABLE>
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                 CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+                                 (In Thousands)
+
+
+                                                                                             (Unaudited)
+                                                                                         For the Twenty-Six
+                                                                                             Weeks Ended
+                                                                                -------------------------------------
+                                                                                   July 31,              August 1,
+                                                                                    1999                   1998
+                                                                                --------------        ---------------
+<CAPTION>
+<S>                                                                             <C>                   <C>
+Cash flows from operating activities:
+        Net income (loss)                                                            ($48,561)                $5,443
+        Adjustments to reconcile net income (loss) to net cash
+            used for operating activities:
+        Income tax (benefit) provision                                                (27,313)                 3,316
+        Depreciation and amortization of fixed and other assets                        34,618                  5,291
+        Increase in accounts receivable                                               (16,794)                (3,740)
+        Increase in merchandise inventories                                          (173,931)               (78,321)
+        Increase (decrease) in accounts payable                                        14,773                 (3,949)
+        Increase (decrease) in accrued expenses and other current liabilities           3,781                   (326)
+        Increase (decrease) in other working capital and other, net                    13,927                 (1,957)
+                                                                                --------------        ---------------
+Cash used for operations before store closing items                                  (199,500)               (74,243)
+Payments of store closing costs                                                        (3,386)                (1,355)
+                                                                                --------------        ---------------
+Net cash used for operating activities                                               (202,886)               (75,598)
+                                                                                --------------        ---------------
+Cash flows from investing activities:
+        Purchases of fixed assets                                                     (83,614)               (22,615)
+        Purchase of leases                                                            (42,835)                     -
+                                                                                --------------        ---------------
+Net cash used for investing activities                                               (126,449)               (22,615)
+                                                                                --------------        ---------------
+Cash flows from financing activities:
+        Payments of debt, capital lease and financing obligations                     (12,854)               (13,003)
+        Borrowings (payments) under the revolver, net                                 (38,725)                70,525
+        Proceeds from the issuance of senior notes                                    200,000                      -
+        Proceeds from the issuance of common stock, net                               187,484                      -
+        Payments of deferred financing costs                                           (6,712)                     -
+        Proceeds from the exercise of options and warrants                                802                  3,722
+                                                                                --------------        ---------------
+
+Net cash provided by financing activities                                             329,995                 61,244
+                                                                                --------------        ---------------
+
+Increase (decrease) in cash and short-term investments                                    660                (36,969)
+Cash and short-term investments, beginning of period                                   35,744                 57,828
+                                                                                --------------        ---------------
+Cash and short-term investments, end of period                                        $36,404                $20,859
+                                                                                ==============        ===============
+
+
+Supplemental  disclosures of cash flow information:
+   Cash paid during the period for:
+        Interest and debt fees not capitalized                                         $9,234                 $4,043
+        Income taxes                                                                    1,735                      5
+
+
+
+
+<FN>
+ (The accompanying notes are an integral part of these consolidated condensed financial statements.)
+</FN>
+</TABLE>
+                                      -5-
+
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+              NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+
+1.     Basis of Presentation:
+      -----------------------
+              In  the  opinion  of  management,   the   accompanying   unaudited
+       consolidated  condensed  financial  statements of Ames Department Stores,
+       Inc. (a Delaware  corporation) and subsidiaries  (collectively  "Ames" or
+       the "Company")  contain all adjustments  (consisting of normal  recurring
+       adjustments)   necessary  for  a  fair  presentation  of  such  financial
+       statements  for  the  interim  periods.  Due  to the  seasonality  of the
+       Company's  operations,  the  results of its  operations  for the  interim
+       period ended July 31, 1999 may not be indicative of total results for the
+       full year. Certain information and footnote disclosures normally included
+       in financial  statements  prepared in accordance with generally  accepted
+       accounting  principles  have been  condensed  or omitted  pursuant to the
+       rules  and  regulations   promulgated  by  the  Securities  and  Exchange
+       Commission (the "SEC"). Certain prior year amounts have been reclassified
+       to conform to the presentation used for the current year. Pursuant to the
+       indenture governing  the  Ames  Senior  Notes (as defined in Note 5), all
+       of Ames'  subsidiaries have  jointly and  severally  guaranteed  the Ames
+       Senior Notes on a  full  and  unconditional  basis.   Separate  financial
+       statements of those subsidiaries have not  been included  herein  because
+       management  has  determined  that they are not material to investors.
+
+              The consolidated condensed  balance  sheet at January 30, 1999 was
+       obtained from audited financial statements  previously filed with the SEC
+       in the Company's  Annual  Report on  Form 10-K for  the fiscal year ended
+       January 30,  1999  (the "1998 Form 10-K").   The  accompanying  unaudited
+       consolidated condensed financial statements should be read in conjunction
+       with the financial statements and notes thereto included in the 1998 Form
+       10-K.
+
+              In the fourth  quarter of the year ended January 30, 1999 ("Fiscal
+       1998"),  the Company adopted SOP 98-5 "Reporting on the Costs of Start-Up
+       Activities"  retroactively effective to the first quarter of Fiscal 1998.
+       Therefore,  the  consolidated  condensed  financial  statements  for  the
+       thirteen and  twenty-six  weeks ended  August 1, 1998 have been  adjusted
+       accordingly.  Reference can be made to the 1998 Form 10-K for  additional
+       discussion of the adoption of SOP 98-5 by the Company.
+
+
+2.     Acquisition and Agency Agreement:
+      ----------------------------------
+       Acquisition of Hills Stores Company
+
+              On December 31, 1998,  HSC  Acquisition  Corp.  ("HSC"),  a wholly
+       owned  subsidiary  of  the  Company,  acquired  in  excess  of 80% of the
+       outstanding   voting  stock  of  Hills  Stores   Company   ("Hills")  and
+       approximately  74%  of  the  outstanding  Hills  12  1/2%  senior  notes.
+       Subsequently,  Hills  was  merged  with  HSC and  became  a  wholly-owned
+       subsidiary  of Ames  Department  Stores,  Inc. In April  1999,  Hills was
+       merged with and into Ames Department Stores, Inc.
+
+              Total  cash  consideration for the  acquisition of  Hills was $130
+       million.   Reference can  be  made  to the  1998  Form 10-K  for  further
+       discussion of the Hills acquisition.
+
+              The  acquisition  has been recorded  under the purchase  method of
+       accounting and,  accordingly,  the results of operations of Hills for the
+       quarter ended July 31, 1999 are included in the accompanying consolidated
+       condensed  financial  statements.  The aggregate  purchase  price of $130
+       million has been  allocated to assets  acquired and  liabilities  assumed
+       based on a preliminary  determination of respective fair market values at
+       the date of acquisition  and is subject to adjustment.  The fair value of
+       tangible  assets  acquired and  liabilities  assumed was $477 million and
+       $637  million,  respectively.  The balance of the  purchase  price,  $290
+       million,  was  recorded  as two  components:  an  excess of cost over net
+       assets acquired (goodwill) of $231 million, which is being amortized over
+       25 years on a  straight-line  basis,  and beneficial  lease rights of $59
+       million,  which is being amortized over the life of the respective leases
+       (which average approximately 25 years). As of July 31, 1999, goodwill was
+       reduced by $28 million due to the  completion  of  inventory  liquidation
+       sales at the Hills store locations.
+
+              At the  time  of the  acquisition,  Hills  operated  155  discount
+       department  stores.  In 1999, the Company will remodel and convert 151 of
+       the Hills stores to Ames stores.  The four  remaining  Hills stores along
+       with seven other Ames stores will be closed because they are in locations
+       that are either competitive with, or are underperforming,  other Hills or
+       Ames stores.  The remodeling and conversion process is being conducted in
+       three stages,  each stage involving  approximately one third of the Hills
+       stores.  The first stage was  completed  in late April  1999;  the second
+       stage was  completed in late July 1999;  and the third stage is scheduled
+       to be completed in September 1999.
+
+       Agency Agreement Overview
+
+              Concurrent with the Hills acquisition,  the Company entered into a
+       transition  and agency  agreement  (the "Agency  Agreement")  with Gordon
+       Brothers Retail Partners,  LLC and The Nassi Group, LLC (collectively the
+       "Agent"),  which  provided  that the Agent  serve for a period of time to
+       operate  all of the  acquired  Hills  stores  and  to  conduct  inventory
+       liquidation  sales  at  each  of  those  stores  prior  to its  scheduled
+       remodeling or final closure.  Accordingly,  the Agent managed the sale of
+       the inventory  acquired in the Hills acquisition as well as certain other
+       inventory identified in the Agency Agreement.
+
+              The Agency  Agreement  entitled  the Company to receive out of the
+       sale proceeds a minimum  amount equal to 40% of the initial  retail value
+       or initial  ticketed  selling price of the merchandise  (the  "Guaranteed
+       Return"). Accordingly, the Company valued the acquired Hills inventory at
+       an amount equal to the Guaranteed  Return.  An additional  payment may be
+       made to the Company if proceeds of sale exceed a target percentage of the
+       initial retail value. The Agency  Agreement  further entitled the Company
+       to  reimbursement  of certain store operating  expenses  (e.g.,  payroll,
+       rent,  advertising,  etc.) out of the sale  proceeds  during  the  agency
+       period.
+
+              The Agent will be paid a fee (the  "Agency  Fee") for its services
+       pursuant to the Agency Agreement.  The Agency Fee will be an amount equal
+       to the proceeds from the sales of Hills  merchandise less a deduction for
+       the reimbursement of store operating expenses and the Guaranteed Return.
+
+       Agency Agreement Accounting
+
+              As discussed  earlier,  the results of operations of Hills for the
+       thirteen and  twenty-six  weeks ended July 31, 1999 have been included in
+       the accompanying consolidated condensed financial statements.  During the
+       thirteen  and  twenty-six  weeks  ended  July  31,  1999,  the  following
+       accounting  treatment  has been applied to  recognize  the results of the
+       Hills stores prior to their conversion to Ames stores during fiscal 1999.
+       Hills net sales have been recorded as "Hills Net Sales" and represent net
+       sales  achieved by the Hills  stores  prior to their  conversion  to Ames
+       stores.   "Hills  Cost  of  Merchandise  Sold"  represents  the  cost  of
+       merchandise  sold in  connection  with  the  above  referenced  sales  as
+       adjusted  for  the  Guaranteed  Return  amount  mentioned  above.  "Hills
+       Operating Expenses and Agency Fees" include the following: the associated
+       store expenses  incurred while  operating the Hills stores prior to their
+       conversion to Ames stores,  which are  reimbursable to the Company out of
+       the proceeds of Hills  merchandise  sales per the Agency  Agreement;  the
+       Agency Fee due to the Agent for the period presented;  and other expenses
+       (e.g.,   non-store   payroll,   non-store  rent,  etc.)  associated  with
+       supporting  the Hills  stores prior to their  conversion  to Ames stores,
+       which are not reimbursable under the Agency Agreement.
+
+              The Agency Fee recorded  for the second  quarter and first half of
+       1999 was $13.1 million and $39.3 million respectively, and was determined
+       based upon the Hills sales  results for the period,  less the  Guaranteed
+       Return, reimbursable Hills store expenses and an allocation to Ames based
+       on sale proceeds in excess of specified levels.  The Agency Fee will only
+       be  determined  after a final  accounting  for all  revenues and expenses
+       earned/incurred  during the entire agency  period.  The final  accounting
+       will be completed during the third quarter of fiscal 1999.
+
+              During the quarter ended July 31, 1999, the inventory  liquidation
+       sales at the Hills stores were completed.  Proceeds from the sales during
+       the entire  agency  period  exceeded the targeted  percentage  referenced
+       above.  The Company  will share in the excess and thereby will realize in
+       excess of the  Guaranteed  Return for the acquired Hills  inventory.  The
+       $28.3 million adjustment,  recorded as of July 31, 1999, to recognize the
+       increase  in  inventory  valuation   concurrently  reduced  the  original
+       estimate of the excess of cost over net assets acquired (goodwill).
+
+       Acquisition of Caldor Sites
+
+              During March 1999, the Company  entered into two  agreements  with
+       Caldor  Corporation to purchase seven of its stores in  Connecticut,  two
+       stores in Massachusetts and a 649,000 square foot distribution  center in
+       Westfield,  MA, for a total cash purchase price of $42.8  million.  Under
+       the terms of the agreements,  the Company assumed Caldor's leases for the
+       nine stores and the  distribution  center and  acquired  all of the store
+       fixtures  in eight of the stores and all  racking,  sorting  systems  and
+       materials handling equipment in the distribution center. During March and
+       April 1999, the United States  Bankruptcy Court for the Southern District
+       of New York approved the  Company's  right to purchase the leases for the
+       stores and the distribution center. All of the transactions  subsequently
+       closed.
+
+
+3.     Net Income (Loss) Per Common Share:
+      ---------------------------------
+              Net  income  (loss) per share was  determined  using  the weighted
+       average number of common shares outstanding.  Diluted net loss per  share
+       was equal  to basic net loss per share because inclusion  of common stock
+       equivalents would have been anti-dilutive.  During the quarter ended July
+       31, 1999, 28,690 options were exercised.  During the quarter ended August
+       1,  1998,  74,210  options  were  exercised  and  190,723  warrants  were
+       converted.
+
+
+4.     Inventories:
+      -------------
+              Inventories  are valued at the lower of cost,  using the first-in,
+       first-out  (FIFO)  method,  or market and include the  capitalization  of
+       transportation and distribution center costs.
+
+
+5.     Debt:
+      ------
+       Credit Agreement
+
+              On December 31, 1998,  in connection  with the Hills  Acquisition,
+       certain of the  Company's  subsidiaries  entered into an  agreement  (the
+       "Credit  Agreement")  with a  syndicate  of  other  banks  and  financial
+       institutions  for whom Bank of America  NT&SA is  serving  as agent.  The
+       Credit Agreement  provides for a secured  revolving credit facility of up
+       to $650  million,  with a sublimit of $150 million for letters of credit.
+       The Credit  Agreement  replaced a $320 million secured  revolving  credit
+       facility.
+
+              The  Credit  Agreement  is in effect  until  June 30,  2002 and is
+       secured by substantially all of the assets of the Company.  Reference can
+       be made to the 1998 Form 10-K for  additional  discussion  of the  Credit
+       Agreement and for  descriptions  of the Company's  other  obligations not
+       discussed herein.
+
+              As of July 31, 1999,  borrowings of $6.2 million were  outstanding
+       under the Credit  Agreement.  These  borrowings are included in long-term
+       debt in the accompanying  consolidated condensed balance sheet as of July
+       31,  1999.  In  addition,  $28.1 and $13.4  million of standby  and trade
+       letters  of  credit,  respectively,  were  outstanding  under the  Credit
+       Agreement.  The weighted  average interest rate on the borrowings for the
+       thirteen  and  twenty-six  weeks  ended July 31, 1999 were 7.9% and 7.7%,
+       respectively.  The peak borrowing  level through July 31, 1999 was $281.8
+       million and occurred in April 1999,  prior to the sale of the Ames Senior
+       Notes.
+
+       Ames Senior Notes
+
+                On  April  27,  1999,  the  Company  completed  the sale of $200
+       million of its 10% seven-year senior notes (the "Ames Senior Notes"). The
+       net proceeds from the sale of the Ames Senior Notes, approximately $193.4
+       million,  were used to reduce  outstanding  borrowings  under the  Credit
+       Agreement.
+
+              The Ames  Senior  Notes pay  interest  semi-annually  in April and
+       October and mature April 2006.  Prior to April 15, 2002,  the Company may
+       redeem up to 35% of the Ames  Senior  Notes with the  proceeds  of one or
+       more  public  equity  offerings  at a  redemption  price  of  110% of the
+       principal  amount  thereof.  On or after April 15, 2003,  the Company may
+       redeem some or all of the Ames Senior Notes  outstanding  at a redemption
+       price equal,  initially, to 105% of the principal amount thereof. In both
+       cases,  the accrued and unpaid  interest will be added to the  redemption
+       price on the applicable redemption date.
+
+           The Ames Senior Notes were issued under an indenture  among Ames, its
+       existing  subsidiaries  and  The  Chase  Manhattan  Bank.  The  financial
+       covenants in the indenture  restrict Ames' ability to: borrow money;  pay
+       dividends on or purchase  Ames' stock;  make  investments;  use assets as
+       security in other  transactions;  sell certain assets or merge with other
+       companies;  and enter into transactions  with affiliates.  If a Change of
+       Control  occurs,  each holder of the Ames  Senior  Notes has the right to
+       require  the Company to purchase  all or any part of that  holder's  Ames
+       Senior  Notes  for a  payment  in cash  equal  to  101% of the  aggregate
+       principal  amount of Ames Senior Notes  purchased plus accrued and unpaid
+       interest.
+
+
+6.     Stock Options:
+      ---------------
+              The Company has three stock option plans (the "Option Plans"): the
+       1994 Management  Stock Option Plan, the 1998 Stock Incentive Plan and the
+       1994 Non-Employee Directors Stock Option Plan.
+
+              In October 1995,  the Financial Accounting Standards Board  issued
+       SFAS  No. 123 "Accounting for  Stock-Based  Compensation."  SFAS  No. 123
+       established a  fair-value  based  method of  accounting  for  stock-based
+       compensation; however,  it allowed  entities  to continue accounting  for
+       employee  stock-based  compensation  under  the  intrinsic  value  method
+       prescribed by Accounting Principles Board Opinion No. 25, "Accounting for
+       Stock Issued to Employees." The Company elected to account for the Option
+       Plans under APB Opinion No. 25, under which no compensation cost has been
+       recognized, and adopt SFAS No. 123 through disclosure.
+
+              If the Company had elected to recognize  compensation cost for the
+       Option  Plans based on the fair value at the grant dates for awards under
+       those plans,  consistent with the method  prescribed by SFAS No. 123, net
+       income (loss) and  net income (loss) per diluted  common share would have
+       approximated the pro forma amounts indicated below:
+<TABLE>
+
+                                       For the Thirteen                 For the Twenty-Six
+                                          Weeks Ended                      Weeks Ended
+                                    July 31,         August 1,       July 31,          August 1,
+                                      1999             1998            1999              1998
+                                    --------        ----------       --------         ----------
+<CAPTION>
+<S>                                 <C>             <C>              <C>              <C>
+       Net Income (Loss) (in thousands)
+         As reported                ($22,173)         $8,386         ($48,561)          $5,443
+         Pro forma                  ($24,507)         $7,672         ($52,278)          $4,597
+
+       Diluted Net Income (Loss)
+       Per Common Share
+         As reported                 ($0.80)(a)        $0.35          ($1.87)(a)         $0.23
+         Pro forma                   ($0.88)(a)        $0.32          ($2.02)(a)         $0.19
+<FN>
+ (a) Common stock equivalent shares have not been included because the effect would be anti-dilutive.
+</FN>
+</TABLE>
+
+
+              The fair  value of  stock  options used  to  compute pro forma net
+       income and net income per diluted  common share is the estimated  present
+       value at grant date using the Black-Scholes option-pricing model with the
+       following  weighted  average  assumptions:  no dividend  yield,  expected
+       option  volatilities,  a risk-free  interest rate equal to U.S.  Treasury
+       securities  with a maturity  equal to the expected life of the option and
+       an expected life from date of grant until option expiration date.
+
+
+ 7.    Income Taxes:
+      --------------
+              The Company's  estimated annual effective income tax rate for each
+       year was applied to the loss before  income  taxes for the  thirteen  and
+       twenty-six  weeks  ended July 31,  1999 and to the income  before  income
+       taxes for the  thirteen  and  twenty-six  weeks  ended  August 1, 1998 to
+       compute a non-cash  income tax benefit in 1999 and provision in 1998. The
+       income  tax  benefit  is  included  in  other   current   assets  in  the
+       accompanying  consolidated  condensed  balance sheet as of July 31, 1999.
+       The income tax provision is included as an addition to paid-in capital in
+       the  accompanying  consolidated  condensed  balance sheet as of August 1,
+       1998.
+
+
+ 8.    Commitments and Contingencies:
+      -------------------------------
+              Reference  can be  made  to the  1998  Form  10-K  (Item 3 - Legal
+       Proceedings)  for various  litigation  involving  the Company,  for which
+       there were no  material  changes  since the filing  date of the 1998 Form
+       10-K except as follows:
+
+              With  regard  to  the  Gould  matter,  the  Court  has  entered  a
+       Preliminary  Order of Approval and set September 15, 1999 as the date for
+       a Final Settlement Hearing.
+
+
+9.       Equity Offering:
+        -----------------
+              On May 24, 1999, the Company  completed the public offering of 5.1
+       million  shares  of  Common  Stock at a  price of  $38.75 per share.  The
+       proceeds, net of underwriting discounts, of approximately $187.9 million,
+       were used to reduce borrowings under the Credit Agreement and for general
+       corporate purposes.
+
+
+10.      Subsequent Events:
+        -------------------
+              On August 2, 1999,  the Company  opened a new 649,000  square foot
+       distribution  center  in  Westfield,  MA.  The  distribution  center  was
+       purchased from Caldor during the first quarter of 1999.
+
+
+<PAGE>
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+                       FISCAL QUARTER ENDED JULY 31, 1999
+                     MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+       Results of Operations
+      -----------------------
+              On  December  31,  1998,  we  acquired  in  excess  of  80% of the
+       outstanding  voting  stock  of Hills  Stores  Company.  Accordingly,  the
+       operations of Hills and its subsidiaries  during the quarter are included
+       in our consolidated results of operations for the thirteen and twenty-six
+       weeks ended July 31,  1999.  Immediately  following  our  acquisition  of
+       Hills,  we began  implementing a series of initiatives to prepare for the
+       conversion  of 151 of the Hills stores into Ames stores and the permanent
+       closure of the four remaining Hills stores.  These  initiatives  included
+       the termination of most of Hills' corporate and administrative operations
+       and  personnel,  the  announced  closure  of seven  Ames  stores  that we
+       considered to be directly  competitive with acquired Hills stores and the
+       engagement of two experienced  liquidation firms,  Gordon Brothers Retail
+       Partners  and The Nassi  Group,  to operate the Hills  stores until their
+       closure and to liquidate Hills' merchandise inventories.
+
+              In May 1999, Gordon Brothers  and The  Nassi Group  completed  the
+       merchandise liquidation sales in 56 of the Hills stores. Of these stores,
+       2 were  closed  permanently  and 54 were  remodeled  during an eight week
+       period and were  re-opened in July 1999,  as Ames  stores.  In July 1999,
+       Gordon Brothers and The Nassi Group completed the merchandise liquidation
+       sales in the  final 47 Hills  stores,  all of which  are  expected  to be
+       re-opened as Ames stores in late September.
+
+              Under our agreement with Gordon Brothers and The Nassi  Group,  we
+       are  entitled to  retain from the  proceeds of the merchandise  inventory
+       sales, as a minimum guaranteed amount, 40% of the initial ticketed retail
+       price of the inventory being sold,  irrespective  of the  actual price at
+       which it is sold.  The remaining  sale  proceeds,  net of the expenses of
+       operating the stores, are payable to the liquidators as compensation  for
+       their  services,  subject  to  additional  allocations  to  Ames  to  the
+       extent the proceeds  exceed  specified  levels.  For financial  reporting
+       purposes,  Hills' net  sales  represent  the  actual  sale proceeds  from
+       merchandise liquidation  sales,  its cost of merchandise  sold represents
+       the  minimum  guaranteed  amount  adjusted  for  proceeds  in  excess  of
+       specified  targets, and its selling,  general and administrative expenses
+       include  the portion of  those proceeds  that are to be  paid over to the
+       liquidators.
+
+<PAGE>
+
+
+<TABLE>
+        The following table illustrates the separate contribution of Ames' and Hills' operations to various components of the
+   consolidated results of operations, as described below, for the thirteen and twenty-six weeks ended July 31, 1999, as
+   well as the impact on these consolidated results of the other costs described below:
+<CAPTION>
+
+                                                     For the Thirteen
+                                                        Weeks Ended               For the Thirteen Weeks Ended July 31, 1999
+                                                       August 1, 1998         ------------------------------------------------------
+                                                    -------------------       Ames           Hills         Other          Total
+                                                                            --------       --------      ---------       --------
+<S>                                                 <C>                     <C>            <C>           <C>             <C>
+TOTAL NET SALES                                            $535,047         $728,023       $128,175          $ -         $856,198
+
+COSTS, EXPENSES AND (INCOME):
+   Cost of merchandise sold                                 378,211          514,584         83,762            -          598,346
+   Selling, general and administrative expenses             145,490          191,271         52,790       30,100          274,161
+   Leased department and other income                        (7,489)         (10,248)        (1,342)           -          (11,590)
+   Depreciation and amortization expense, net                 2,257           10,606          3,813        1,885           16,304
+   Interest and debt expense, net                             3,192           11,439          1,388          794           13,621
+
+                                                     ---------------   --------------  -------------  -----------  ---------------
+   INCOME (LOSS) BEFORE INCOME TAXES                         13,386           10,371        (12,236)     (32,779)         (34,644)
+   Income tax benefit (provision)                            (5,000)          (3,733)         4,404       11,800           12,471
+                                                     ---------------   --------------  -------------  -----------  ---------------
+    NET INCOME (LOSS)                                        $8,386           $6,638        ($7,832)    ($20,979)        ($22,173)
+                                                     ===============   ==============  =============  ===========  ===============
+
+   Weighted average number of common shares                  22,950           27,706         27,706       27,706           27,706
+     outstanding                                     ===============   ==============  =============  ===========  ===============
+
+   Net income (loss) per share                               $ 0.37           $ 0.24         ($0.28)      ($0.76)          ($0.80)
+                                                     ===============   ==============  =============  ===========  ===============
+
+   Weighted average number of common and
+      common equivalent shares outstanding                   24,272
+                                                     ===============
+
+
+   Diluted net income per share                              $ 0.35
+                                                     ===============
+
+<CAPTION>
+
+                                                    For the Twenty-Six
+                                                        Weeks Ended           For the Twenty-Six Weeks Ended July 31, 1999
+                                                      August 1, 1998   -----------------------------------------------------------
+                                                    ------------------      Ames           Hills         Other          Total
+                                                                        --------------  -------------  -----------  ---------------
+<S>                                                 <C>                 <C>             <C>            <C>          <C>
+TOTAL NET SALES                                          $1,032,092       $1,309,625       $375,642          $ -       $1,685,267
+
+COSTS, EXPENSES AND (INCOME):
+   Cost of merchandise sold                                 736,822          934,089        251,212            -        1,185,301
+   Selling, general and administrative expenses             290,762          350,903        142,047       46,672          539,622
+   Leased department and other income                       (13,675)         (16,644)        (3,368)           -          (20,012)
+   Depreciation and amortization expense, net                 4,178           16,523         10,393        3,771           30,687
+   Interest and debt expense, net                             5,246           19,417          4,162        1,964           25,543
+
+                                                     ---------------   --------------  -------------  -----------  ---------------
+   INCOME (LOSS) BEFORE INCOME TAXES                          8,759            5,337        (28,804)     (52,407)         (75,874)
+   Income tax benefit (provision)                            (3,316)          (1,921)        10,368       18,866           27,313
+                                                     ---------------   --------------  -------------  -----------  ---------------
+    NET INCOME (LOSS)                                        $5,443           $3,416       ($18,436)    ($33,541)        ($48,561)
+                                                     ===============   ==============  =============  ===========  ===============
+
+   Weighted average number of common shares                  22,800           25,914         25,914       25,914           25,914
+     outstanding                                     ===============   ==============  =============  ===========  ===============
+
+
+   Net income (loss) per share                               $ 0.24           $ 0.13         ($0.71)      ($1.29)          ($1.87)
+                                                     ===============   ==============  =============  ===========  ===============
+
+   Weighted average number of common and
+      common equivalent shares outstanding                   24,171
+                                                     ===============
+
+
+   Diluted net income per share                              $ 0.23
+                                                     ===============
+
+
+</TABLE>
+<PAGE>
+
+              For the thirteen  and  twenty-six  weeks ended July 31, 1999,  the
+       Ames results  reflect (a) the results of the pre-Hills  acquisition  Ames
+       base, (b) the post  re-opening  results of the 104 converted Hills stores
+       and (c)  certain  expenses  associated  with the  acquisition  of  Hills,
+       including the interest  expense on the acquired  Hills senior notes and a
+       pro rata share of the amortization of the goodwill recorded in connection
+       with the  acquisition.  The Hills  results  represent  (a) the results of
+       operations  for the Hills stores during the period that these stores were
+       operated  pursuant to the  agreement  with Gordon  Brothers and The Nassi
+       Group,  including the fee due Gordon and Nassi and the  depreciation  and
+       interest  expense  directly  associated  with such  stores  and (b) Hills
+       corporate  overhead  expenses,   principally  the  Canton,  MA  corporate
+       facility.  The other costs  represent  the expenses  incurred  during the
+       period of remodeling the 54 Hills stores that re-opened as Ames stores on
+       July 19, 1999.
+
+              The unique circumstances under which Hills' operations  have  been
+       conducted  through  the  second  quarter  ended  July  31,  1999  and the
+       accounting  treatment  accorded those  operations as a consequence of our
+       agreement  with Gordon  Brothers  and The Nassi Group  distort any direct
+       comparison of the principal  components of Ames' consolidated results for
+       the thirteen and twenty-six weeks ended July 31, 1999 and August 1, 1998.
+       In the  discussion  that  follows,  Ames' net sales,  gross  margin,  and
+       selling,  general  and  administrative  expenses  for  the  thirteen  and
+       twenty-six weeks ended July 31, 1999 are presented and compared exclusive
+       of the Hills results.  The impact of the Hills acquisition is included in
+       the comparison of depreciation and amortization  expense and interest and
+       debt expense.
+
+              Ames'  net  sales for  the  thirteen  weeks  ended  July 31,  1999
+       increased $193.0 million or  36.1% from the  prior-year's  second quarter
+       and comparable-store sales increased 9.5%.  These  sales  increases  were
+       attributable, in part, to the Grand Openings of 54 converted Hills stores
+       on July 22, 1999 along with the openings of 50 converted Hills stores and
+       1 other new Ames store in April 1999.  Ames' net sales for the twenty-six
+       weeks ended July 31, 1999 increased $277.5 million or 26.9% from the same
+       prior-year period and comparable-store  sales increased 9.3%. These sales
+       increases  were  attributable,  in part, to the openings of 104 converted
+       Hills  stores and 1 other new Ames  store  during the first half of 1999.
+       Net  sales for last year have been  restated  to  reflect  the  effect of
+       recording promotional coupons issued by Ames as markdowns, which conforms
+       to the current year treatment.
+
+              Ames' gross margin  increased $56.6  million in the second quarter
+       of 1999 compared to the second quarter of 1998,  but  remained  unchanged
+       as  a  percentage  of net  sales at  29.3%.   Ames'  gross margin for the
+       twenty-six weeks ended July 31, 1999 increased $80.3 million or .07% as a
+       percentage of net sales compared to the same prior-year period. The year-
+       to-date gross margin rate benefited from a favorable purchase mark-up.
+
+              Ames' selling, general and administrative expenses increased $45.8
+       million for the thirteen  weeks ended July 31, 1999  compared to the same
+       prior-year  period, but decreased as a percentage of net sales from 27.2%
+       in  1998  to  26.3%  in  1999.  The  percentage  decrease  was  primarily
+       attributable to a reduction in store related and advertising  expenses as
+       a percentage of sales. Ames' selling, general and administrative expenses
+       increased  $60.1  million  for the  twenty-six  weeks ended July 31, 1999
+       compared to the same prior-year  period, but decreased as a percentage of
+       net sales from 28.2% in 1998 to 26.8% in 1999.  The  percentage  decrease
+       was  primarily   attributable   to  a  reduction  in  store  related  and
+       advertising expenses as a percentage of sales.
+
+              Depreciation and amortization  expense increased  by $14.0 million
+       for the thirteen weeks ended July 31,  1999  compared to the same  prior-
+       year period.  For the twenty-six weeks ended July 31, 1999,  depreciation
+       and amortization expense increased by $26.5 million  compared to the same
+       prior-year  period.  The Hills  acquisition  added $3.8 million and $10.4
+       million of  depreciation  and  amortization  expense for the thirteen and
+       twenty-six weeks ended July 31, 1999, respectively.  The increase was due
+       to the additional depreciation and amortization of the Hills fixed assets
+       and beneficial lease rights and the amortization of goodwill  relating to
+       the excess of the Hills  acquisition  cost over the value of the acquired
+       assets.
+
+              Interest expense increased by $10.4 million and $20.3  million for
+       the  thirteen  and  twenty-six  weeks ended  July 31, 1999, respectively,
+       compared  to  the  same  prior-year periods.  The  increase was primarily
+       attributable to the interest expense incurred for the Ames senior  notes,
+       the Hills senior notes, the Hills capital lease and financing obligations
+       and,  for the year-to-date period,  to the  increased  interest  on  bank
+       borrowings.
+
+              Our  estimated  annual effective income tax rate for each year was
+       applied to the loss  before  income  taxes for each  period  to compute a
+       non-cash   income tax  benefit or provision.  The income tax benefits are
+       included in other  current  assets  in the  balance  sheet as of July 31,
+       1999 and  the income tax provision is  included as an addition to paid-in
+       capital in the balance sheet as of August 1, 1998.
+
+       Liquidity and Capital Resources
+      ---------------------------------
+              Our principal  sources of liquidity are our bank credit  facility,
+       cash from  operations and cash on hand. Our current bank credit  facility
+       consists of a revolving  credit facility of up to $650.0 million,  with a
+       sublimit of $150.0 million for letters of credit,  which expires June 30,
+       2002.   Borrowings   under  the  bank  credit  facility  are  secured  by
+       substantially  all of our assets and after February 2000, we are required
+       to meet certain  financial  covenants.  In  addition,  we are required to
+       maintain a minimum  availability  of at least  $100.0  million.  Our peak
+       borrowing  level  during the quarter  ended July 31, 1999 under this bank
+       credit  facility was $88.1  million.  We believe we will have  sufficient
+       liquidity to meet our financial obligations for the foreseeable future.
+
+              On April 27, 1999,  we completed  the sale of $200 million of Ames
+       senior  notes.  The net proceeds  from the sale of the Ames senior notes,
+       approximately $193.4 million, were used to reduce outstanding  borrowings
+       under our bank  credit  facility.  The Ames  senior  notes  pay  interest
+       semi-annually in April and October and mature April 2006.
+
+              On May 24, 1999,  we completed  the public offering of 5.1 million
+       shares of Common  Stock at a price of $38.75  per  share.  The  proceeds,
+       net of underwriting discounts, of approximately $187.9  million were used
+       to reduce our  borrowings under the bank credit facility  and for general
+       corporate purposes.
+
+              Merchandise  inventories  increased  $293.3 million from August 1,
+       1998 to July 31,  1999 due to  planned  increases  for the opening of the
+       converted  Hills stores.  Our  merchandise  inventories  increased $173.9
+       million  from  January 30,  1999  to July 31,  1999  due primarily to the
+       planned  increases  for  the opening of  the  converted  Hills and Caldor
+       stores along with the normal seasonal build-up of inventories.
+
+              Trade  accounts  payable  increased  $167.8 million from August 1,
+       1998  to  July  31,  1999  primarily  due to  the  merchandise  inventory
+       increases referenced  above.  The increase of  $30.7 million from January
+       30, 1999 to July 31, 1999 was principally  the result of the  merchandise
+       inventory increases  referenced  above,  partially offset by the seasonal
+       dating of inventories in effect as of January 30, 1999.
+
+              Capital expenditures for the twenty-six weeks ended July 31,  1999
+       totaled $83.6 million and for the balance of the year are estimated to be
+       approximately  $135.0  million.  We  adjust  our plans  for  making  such
+       expenditures depending on the amount of internally generated funds.
+
+              Net fixed assets  increased by $319.2 million from  August 1, 1998
+       to July 31, 1999 due primarily to the inclusion of $226.4  million in net
+       fixed assets of Hills.  Our net fixed assets increased $60.0 million from
+       January  30,  1999  to  July  31,  1999  due  primarily  to  the  capital
+       expenditures associated with the newly converted Hills stores.
+
+              Beneficial  lease  rights  represent the excess of the fair market
+       value of the acquired Hills leases over contract  value of those  leases.
+       We are  amortizing  this  amount  over the  terms of the  related  leases
+       (which  average  approximately  25 years) using the straight-line method.
+       Goodwill is being amortized over 25 years using the straight-line method.
+
+              Long-term  debt  as of July 31, 1999 consisted of borrowings under
+       our bank   credit  facility of  $6.2 million,  $200.0 million of the Ames
+       senior notes issued in April 1999,  and $50.9 million of the Hills senior
+       notes that remained  outstanding after the acquisition.  The Hills senior
+       notes  became direct obligations of  Ames as a  result of  the  merger of
+       Hills into Ames.
+
+              Capital lease and financing obligations increased  $146.2  million
+       from  August 1, 1998 to July 31, 1999  due  primarily to the inclusion of
+       $144.5  million of  capital  lease and  financing  obligations  of Hills.
+       Capital lease and  financing  obligations  decreased by $8.4 million from
+       January 30,  1999 to  July  31,  1999 due to  payments  made  on  capital
+       lease obligations.
+
+              The net  operating  loss carryovers  remaining  after  fiscal year
+       1998, subject to any limitations  pursuant to Internal  Revenue Code Sec.
+       382, should  offset  income on which taxes would otherwise  be payable in
+       the next several years.
+
+       Year 2000 Readiness
+      ---------------------
+              In  operating  our  business,  we  are  dependent  on  information
+       technology and process control  systems that employ  computers as well as
+       embedded microprocessors. We also depend on the proper functioning of the
+       business  systems  of third  parties,  particularly  the more than  3,200
+       vendors from whom we purchase the  merchandise  sold in our stores.  Many
+       computer systems and  microprocessors can only process dates in which the
+       year is represented by two digits. As a result, some of these systems and
+       processors may interpret "00" incorrectly as the year 1900 instead of the
+       year 2000,  in which event they could  malfunction  or become  inoperable
+       after  December  31,  1999.  Systems  and  processors  that can  properly
+       recognize the year 2000 are referred to as "year 2000 compliant."
+
+              As previously reported,  we initiated a  comprehensive  program to
+       prepare our computer  systems and applications for the year 2000. We have
+       spent  approximately  $5.1 million on this program through the end of the
+       second  quarter of fiscal 1999 and expect that full implementation of the
+       program   will  involve  an  additional  $1.0  million  to $1.5  million,
+       including   expenditures    for   software   and   consulting   services.
+       Additionally,  we  estimate the  allocated  costs of  our internal system
+       development staff who are implementing  our year 2000  initiatives  to be
+       $3.5 million to $4.0 million over the life of the project.
+
+
+
+
+<PAGE>
+
+
+
+                                     Part II
+
+                                OTHER INFORMATION
+
+
+Item 1.        Legal Proceedings
+              -------------------
+                      Reference  can  be  made  to  Item 3 -  Legal  Proceedings
+               included in the 1998 Form 10-K for various  litigation  involving
+               the Company,  for which there were no material  changes since the
+               filing date of the 1998 Form 10-K except as set forth in Note 8.
+
+
+Item 4.        Submission of Matters to a Vote of Security Holders
+              -----------------------------------------------------
+                      The Annual  Meeting of  Shareholders  was held  Wednesday,
+               June 16, 1999, to consider and act upon the following matters:
+
+(a)                   The  shareholders  elected for one-year  terms all persons
+                      nominated  for  directors  as set  forth in the  Company's
+                      proxy  statement  filed May 12,  1999.  Each  nominee  for
+                      director was elected as follows:
+
+<TABLE>
+<CAPTION>
+                                                                    For                    Withheld
+                                                                ----------                 ---------
+<S>                                                             <C>                        <C>
+                         Election of Directors as a Slate       20,614,789                  55,351
+                          Francis X. Basile                     20,614,139                  56,001
+                          Paul Buxbaum                          20,613,508                  56,632
+                          Alan Cohen                            20,613,575                  56,565
+                          Joseph R. Ettore                      20,611,614                  58,526
+                          Richard M. Felner                     20,614,358                  55,782
+                          Sidney S. Pearlman                    20,613,158                  56,982
+</TABLE>
+
+(b)                   The shareholders  ratified and approved the appointment of
+                      Arthur  Andersen  LLP  as  independent   certified  public
+                      accountants  and  auditors  for the Company for the fiscal
+                      year ending January 29, 2000.
+
+                            For               Withheld             Abstentions
+                         ----------           --------            -------------
+                         20,631,638            29,393                 9,109
+
+
+Item 5.        Other Information
+              -------------------
+                      On August 31, 1999,  the Board of Directors of the Company
+               adopted Amended and Restated By-Laws, a copy of which is filed as
+               Exhibit 3.3 hereto.
+
+
+Item 6.        Exhibits and Reports on Form 8-K
+              ----------------------------------
+
+    (a)        Index to Exhibits
+              -------------------
+
+               Exhibit No.                  Exhibit                    Page No.
+              ------------     -----------------------------------    ---------
+                  3.3          Form of By-laws of Ames Department         19
+                               Stores, Inc. as amended and restated
+                               August 31, 1999
+
+                  11           Schedule of computation of basic           31
+                               and diluted net income (loss) per
+                               share
+
+    (b)        Reports on Form 8-K:
+              ---------------------
+               There were no reports on Form 8-K filed with the  Securities  and
+               Exchange Commission during the second quarter:
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+
+
+
+
+        Pursuant to the requirements of the Securities  Exchange Act of 1934 the
+        registrant has duly caused this report to be signed on its behalf by the
+        undersigned thereunto duly authorized.
+
+
+
+
+                          AMES DEPARTMENT STORES, INC.
+                                  (Registrant)
+
+
+
+
+     Dated:     September 10, 1999        /s/ Joseph R. Ettore
+                                          --------------------------------------
+                                          Joseph R. Ettore, President, Director,
+                                          and Chief Executive Officer
+
+
+
+
+
+
+     Dated:     September 10, 1999        /s/ Rolando de Aguiar
+                                          --------------------------------------
+                                          Rolando de Aguiar, Executive Vice
+                                          President and Chief Financial and
+                                          Administrative Officer
+
+<PAGE>
+
+                                                                     Exhibit 3.3
+                                                            Amended and Restated
+                                                           as of August 31, 1999
+
+
+
+                              AMENDED AND RESTATED
+
+                                     BY-LAWS
+
+                                       OF
+
+                          AMES DEPARTMENT STORES, INC.
+                     (hereinafter called the "Corporation")
+
+
+                                    ARTICLE I
+
+                                    OFFICES
+
+Section 1. Registered Office.  The registered office of the Corporation shall be
+in the City of Wilmington, County of New Castle, State of Delaware.
+
+Section 2. Other Offices.  The  Corporation  may also have offices at such other
+places both  within and without the State of Delaware as the Board of  Directors
+of the Corporation (the "Board of Directors") may from time to time determine.
+
+                                   ARTICLE II
+
+                            MEETINGS OF STOCKHOLDERS
+
+Section 1. Place of Meetings.  Meetings of the  stockholders for the election of
+directors or for any other purpose shall be held at such time and place,  either
+within or without the State of Delaware as shall be designated from time to time
+by the Board of  Directors  and stated in the notice of the meeting or in a duly
+executed waiver of notice thereof.
+
+Section 2. Annual Meetings.  The annual meeting of stockholders shall be held on
+such date and at such time as shall be designated from time to time by the Board
+of Directors.  At the Annual Meeting the stockholders shall elect by a plurality
+vote the Board of Directors, and transact such other business as may properly be
+brought before the meeting.  Written  notice of the Annual  Meeting  stating the
+place, date and hour of the meeting shall be given to each stockholder  entitled
+to vote at such  meeting  not less than 10 nor more than 60 days before the date
+of the meeting.
+
+Section  3.  Special  Meetings.  Except  as  otherwise  required  by  law or the
+Certificate of  Incorporation,  special meetings of stockholders for any purpose
+or  purposes  may be  called by the  Chairman  of the  Board of  Directors  or a
+majority of the entire Board of Directors. Only such business as is specified in
+the  notice of any  special  meeting of  stockholders  shall  come  before  such
+meeting. Written notice of a special meeting stating the place, date and hour of
+the meeting and the purpose or purposes for which the meeting is called shall be
+given not less than 10 nor more than 60 days  before the date of the  meeting to
+each stockholder entitled to vote at such meeting.
+
+Section 4. Quorum.  Except as otherwise provided by law or by the Certificate of
+Incorporation,  the  holders  of a  majority  of the  capital  stock  issued and
+outstanding  and entitled to vote thereat,  present in person or  represented by
+proxy,  shall  constitute a quorum at all meetings of the  stockholders  for the
+transaction  of  business.  If,  however,  such  quorum  shall not be present or
+represented at any meeting of the  stockholders,  the  stockholders  entitled to
+vote thereat, present in person or represented by proxy, shall have the power to
+adjourn the meeting from time to time, without notice other than announcement at
+the meeting,  until a quorum shall be present or represented.  At such adjourned
+meeting at which a quorum shall be present or  represented,  any business may be
+transacted  which  might  have been  transacted  at the  meeting  as  originally
+noticed.  If the  adjournment  is  for  more  than  30  days,  or if  after  the
+adjournment  a new record date is fixed for the adjourned  meeting,  a notice of
+the adjourned meeting shall be given to each stockholder entitled to vote at the
+meeting.
+
+Section 5. Order of Business. (a) At each meeting of stockholders,  the Chairman
+of the Board of  Directors  or, in the  absence of the  Chairman of the Board of
+Directors,  such person as shall be selected by the Board of Directors shall act
+as chairman of the meeting.  The order of business at each such meeting shall be
+as determined by the chairman of the meeting.  The chairman of the meeting shall
+have the right and authority to prescribe such rules, regulations and procedures
+and to do all such acts and things as are  necessary or desirable for the proper
+conduct of the meeting,  including,  without  limitation,  the  establishment of
+procedures  for the  maintenance  of order and safety,  limitations  on the time
+allotted  to  questions   or  comments  on  the  affairs  of  the   Corporation,
+restrictions  on  entry  to such  meeting  after  the  time  prescribed  for the
+commencement thereof, and the opening and closing of the voting polls.
+
+(b) At any annual meeting of stockholders, only such business shall be conducted
+as shall have been brought  before the annual meeting (i) by or at the direction
+of the  chairman of the  meeting,  (ii)  pursuant to the notice  provided for in
+Section  2 of this  Article  II or  (iii) by any  stockholder who is a holder of
+record at the time of the giving of such notice  provided for in this Section 5,
+who is entitled to vote at the meeting and who complies with the  procedures set
+forth in this Section 5.
+
+(c)  For  business  properly  to  be  brought  before  an  annual  meeting  by a
+stockholder,  the  stockholder  must have given timely notice  thereof in proper
+written form to the  Secretary of the  Corporation  (the  "Secretary")  and such
+business  must be a proper  matter  for  stockholder  action  under the  General
+Corporation Law of the State of Delaware.  To be timely, a stockholder's  notice
+must be delivered to or mailed and received at the principal  executive  offices
+of the  Corporation  not less  than 60 days nor more  than 90 days  prior to the
+first  anniversary  of the  preceding  year's  annual  meeting of  stockholders;
+provided,  however, that if the date of the annual meeting is advanced more than
+30 days prior to or delayed  by more than 60 days after such  anniversary  date,
+notice by the stockholder to be timely must be so delivered not earlier than the
+90th day prior to such  annual  meeting and not later than the close of business
+on the  later of the  60th day  prior  to such  annual  meeting  or the 10th day
+following  the day on which public  announcement  of the date of such meeting is
+first  made.  To be in  proper  written  form,  a  stockholder's  notice  to the
+Secretary shall set forth in writing as to each matter the stockholder  proposes
+to bring  before the annual  meeting:  (i) a brief  description  of the business
+desired to be brought  before the annual  meeting and the reasons for conducting
+such  business  at  the  annual  meeting;  (ii)  the  name  and  address  of the
+stockholder  proposing  such  business  and all  persons or  entities  acting in
+concert  with the  stockholder;  (iii)  the  class  and  number of shares of the
+Corporation  which are beneficially  owned by the stockholder and all persons or
+entities acting in concert with such stockholder; and (iv) any material interest
+of the stockholder in such business.  The foregoing notice requirements shall be
+deemed   satisfied  by  a  stockholder  if  the  stockholder  has  notified  the
+Corporation  of his or her intention to present a proposal at an annual  meeting
+and such stockholder's  proposal has been included in a proxy statement that has
+been  prepared by  management  of the  Corporation  to solicit  proxies for such
+annual meeting;  provided,  however, that if such stockholder does not appear or
+send a qualified representative to present such proposal at such annual meeting,
+the  Corporation  need not present  such  proposal  for a vote at such  meeting,
+notwithstanding  that proxies in respect of such vote may have been  received by
+the Corporation.  Notwithstanding  anything in these By-Laws to the contrary, no
+business shall be conducted at any annual meeting except in accordance  with the
+procedures set forth in this Section 5. The chairman of an annual meeting shall,
+if the facts warrant,  determine  that business was not properly  brought before
+the annual  meeting in accordance  with the provisions of this Section 5 and, if
+the chairman  should so determine,  the chairman  shall so declare to the annual
+meeting and any such  business not properly  brought  before the annual  meeting
+shall not be transacted.
+
+Section  6.  Voting.  Unless  otherwise  required  by law,  the  Certificate  of
+Incorporation  or these  By-Laws,  any  question  brought  before any meeting of
+stockholders  shall be decided by the vote of the  holders of a majority  of the
+stock represented and entitled to vote thereat. Each stockholder  represented at
+a meeting of  stockholders  shall be entitled to cast one vote for each share of
+the capital stock entitled to vote thereat held by such stockholder.  Such votes
+may be cast in person or by proxy, but no proxy shall be voted on or after three
+years from its date,  unless such proxy provides for a longer period.  The Board
+of Directors, in its discretion,  or the officer of the Corporation presiding at
+a meeting of stockholders, in his discretion, may require that any votes cast at
+such meeting shall be cast by written ballot.
+
+Section 7. Consent of Stockholders in Lieu of Meeting. Unless otherwise provided
+in the  Certificate  of  Incorporation,  any action  required or permitted to be
+taken at any annual or special meeting of stockholders of the Corporation may be
+taken  without a meeting,  without prior notice and without a vote, if a consent
+in writing  setting  forth the action so taken shall be signed by the holders of
+outstanding stock having not less than the minimum number of votes that would be
+necessary  to  authorize  or take such  action at a meeting  at which all shares
+entitled to vote thereon were present and voted.  Prompt notice of the taking of
+the corporate  action without a meeting by less than unanimous  written  consent
+shall be given to those stockholders who have not consented in writing.
+
+Section 8. List of Stockholders Entitled to Vote. The officer of the Corporation
+who has charge of the stock ledger of the Corporation shall prepare and make, at
+least 10 days  before  every  meeting of  stockholders,  a complete  list of the
+stockholders  entitled to vote at the meeting,  arranged in alphabetical  order,
+and showing the address of each stockholder and the number of shares  registered
+in the name of each  stockholder.  Such list shall be open to the examination of
+any  stockholder,  for any  purpose  germane  to the  meeting,  during  ordinary
+business hours, for a period of at least 10 days prior to the meeting, either at
+a place  within the city where the  meeting is to be held,  which place shall be
+specified in the notice of the meeting,  or, if not so  specified,  at the place
+where the meeting is to be held. The list shall also be produced and kept at the
+time and  place  of the  meeting  during  the  whole  time  thereof,  and may be
+inspected by any stockholder of the Corporation who is present.
+
+Section 9. Stock Ledger.  The stock ledger of the Corporation  shall be the only
+evidence as to who are the  stockholders  entitled to examine the stock  ledger,
+the  list  required  by  Section  8 of  this  Article  II or  the  books  of the
+Corporation, or to vote in person or by proxy at any meeting of stockholders.
+
+                                   ARTICLE III
+
+                                    DIRECTORS
+
+Section 1.  Number and  Election  of  Directors.  The Board of  Directors  shall
+consist of seven  members.  Except as  provided  in  Section 2 of this  Article,
+directors  shall be elected by a plurality of the votes cast at annual  meetings
+of  stockholders,  and each  director  so elected  shall hold  office  until his
+successor is elected and  qualified or until his earlier  death or  resignation.
+Any  director  may resign at any time upon  written  notice to the  Corporation.
+Directors need not be stockholders.
+
+Section 2.  Vacancies.  Vacancies  occurring on the Board of  Directors  for any
+reason may be filled by a majority of the directors then in office,  though less
+than a quorum,  or by a sole  remaining  director,  and the  directors so chosen
+shall hold office until the next annual election and until their  successors are
+duly elected and qualified, or until their earlier resignation or removal.
+
+Section 3.  Notification of Nomination.  Subject to the rights of the holders of
+any class or series of stock  having a  preference  over the common  stock as to
+dividends or upon liquidation,  nominations for the election of directors may be
+made by the Board of  Directors or by any  stockholder  of record at the time of
+giving  of the  notice  of  nomination  provided  for in this  Section 3 of this
+Article  III and who is  entitled to vote for the  election  of  directors.  Any
+stockholder  of record  entitled  to vote for the  election  of  directors  at a
+meeting may nominate  persons for election as directors  only if timely  written
+notice of such stockholder's  intent to make such nomination is given, by either
+personal delivery or United States mail, postage prepaid,  to the Secretary.  To
+be timely, a stockholder's notice must be delivered to or mailed and received at
+the  principal  executive  offices  of the  Corporation  (i) with  respect to an
+election to be held at an annual meeting of stockholders,  not less than 60 days
+nor more than 90 days prior to the first  anniversary  of the  preceding  year's
+annual  meeting  of  stockholders;  provided,  however,  that if the date of the
+annual meeting is advanced more than 30 days prior to or delayed by more than 60
+days after such anniversary date, notice by the stockholder to be timely must be
+so delivered not earlier than the 90th day prior to such annual  meeting and not
+later  than the  close of  business  on the  later of the 60th day prior to such
+annual meeting or the 10th day following the day on which public announcement of
+the date of such  meeting is first made and (ii) with  respect to an election to
+be held at a special meeting of stockholders for the election of directors,  not
+earlier than the 90th day prior to such  special  meeting and not later than the
+close of business on the later of the 60th day prior to such special  meeting or
+the 10th day following the day on which public announcement is first made of the
+date of the  special  meeting  and of the  nominees  proposed by the Board to be
+selected at such  meeting.  Each such notice  shall set forth:  (i) the name and
+address of the stockholder who intends to make the nomination, of all persons or
+entities acting in concert with the stockholder, and of the person or persons to
+be nominated;  (ii) a representation  that the stockholder is a holder of record
+of stock of the  Corporation  entitled  to vote at such  meeting  and intends to
+appear in person or by proxy at the  meeting to  nominate  the person or persons
+specified  in  the  notice;   (iii)  a  description  of  all   arrangements   or
+understandings  between the stockholder and each nominee and any other person or
+entity  acting in concert  with the  stockholder  (naming such person or entity)
+pursuant  to  which  the  nomination  or  nominations  are  to be  made  by  the
+stockholder;  (iv) such other information regarding each nominee proposed by the
+stockholder  as would have been  required to be  included  in a proxy  statement
+filed pursuant to the proxy rules of the Securities and Exchange  Commission had
+each  nominee  been  nominated,  or  intended to be  nominated,  by the Board of
+Directors;  (v) the class and  number  of  shares  of the  Corporation  that are
+beneficially  owned by the  stockholder  and all persons or  entities  acting in
+concert  with the  stockholder;  and (vi) the  consent of each  nominee to being
+named  in a proxy  statement  as  nominee  and to  serve  as a  director  of the
+Corporation  if so elected.  Only  persons  nominated  in  accordance  with this
+Section  shall be qualified to serve as  directors.  The chairman of the meeting
+may refuse to  acknowledge  the  nomination of any person not made in compliance
+with the foregoing procedure.  Only such persons who are nominated in accordance
+with the  procedures  set forth in this  Section 3 of this  Article III shall be
+eligible to serve as directors of the Corporation.
+
+                  Notwithstanding anything in the third sentence of this Section
+3 of Article III to the  contrary,  in the event that the number of directors to
+be elected to the Board is increased and there is no public  announcement naming
+all of the nominees for director or specifying  the size of the increased  Board
+made by the  Corporation at least 70 days prior to the first  anniversary of the
+preceding  year's  annual  meeting,  a  stockholder's  notice  required by these
+By-Laws shall also be considered  timely,  but only with respect to nominees for
+any new  positions  created by such  increase,  if it shall be  delivered to the
+Secretary at the principal  executive  offices of the Corporation not later than
+the close of  business  on the 10th day  following  the day on which such public
+announcement is first made by the Corporation.
+
+                  For purposes of the By-Laws,  "public announcement" shall mean
+disclosure in a press release reported by the Dow Jones News Service, Associated
+Press or a comparable  national news service or in a document  publicly filed by
+the Corporation with the Securities and Exchange  Commission pursuant to Section
+13, 14 or 15(d) of the Securities Exchange Act of 1934, as amended.
+
+Section 4. Duties and Powers.  The business of the Corporation  shall be managed
+by or under the direction of the Board of Directors  which may exercise all such
+powers of the  Corporation  and do all such lawful acts and things as are not by
+statute or by the Certificate of  Incorporation  or by these By-Laws directed or
+required to be exercised or done by the stockholders.
+
+Section  5.  Meetings.  The  Board  of  Directors  of the  Corporation  may hold
+meetings,  both  regular  and  special,  either  within or without  the State of
+Delaware.  Regular meetings of the Board of Directors may be held without notice
+at such  time and at such  place as may from time to time be  determined  by the
+Board of Directors.  Special Meetings of the Board of Directors may be called by
+the Chairman, if there be one, the President,  or any directors.  Notice thereof
+stating the place,  date and hour of the meeting shall be given to each director
+either  by mail  not less  than 48 hours  before  the  date of the  meeting,  by
+telephone  or telegram on 24 hours'  notice,  or on such  shorter  notice as the
+person or persons  calling such meeting may deem necessary or appropriate in the
+circumstances.  Notice of a meeting of the Board of Directors  need not be given
+to any director who submits a signed  waiver of notice  whether  before or after
+the meeting, or who attends the meeting without protesting,  prior thereto or at
+its commencement, the lack of notice to him. A notice, or waiver of notice, need
+not specify the  business to be  transacted  at or purpose of any meeting of the
+Board of Directors.
+
+Section 6. Quorum. Except as may be otherwise  specifically provided by law, the
+Certificate of Incorporation  or these By-Laws,  at all meetings of the Board of
+Directors, a majority of the entire Board of Directors shall constitute a quorum
+for the  transaction  of  business  and the act of a majority  of the  directors
+present at any meeting at which there is a quorum  shall be the act of the Board
+of  Directors.  If a quorum  shall not be present at any meeting of the Board of
+Directors,  the directors  present  thereat may adjourn the meeting from time to
+time,  without  notice other than  announcement  at the meeting,  until a quorum
+shall be present.
+
+Section 7. Actions of Board by Written Consent. Unless otherwise provided by the
+Certificate of Incorporation or these By-Laws,  any action required or permitted
+to be taken at any meeting of the Board of Directors or of any committee thereof
+may be taken without a meeting,  prior notice,  or a vote, if all the members of
+the Board of  Directors or  committee,  as the case may be,  consent  thereto in
+writing,  and the writing or writings are filed with the minutes of  proceedings
+of the Board of Directors or committee.
+
+Section 8. Meetings by Means of Conference Telephone.  Unless otherwise provided
+by the Certificate of  Incorporation  or these By-Laws,  members of the Board of
+Directors  of the  Corporation,  or any  committee  designated  by the  Board of
+Directors,  may  participate  in a  meeting  of the Board of  Directors  or such
+committee by means of a conference telephone or similar communications equipment
+by means of which all persons  participating in the meeting can hear each other,
+and  participation  in a meeting  pursuant  to this  Section 8 shall  constitute
+presence in person at such meeting.
+
+Section 9.  Committees.  The Board of Directors  may, by resolution  passed by a
+majority of the entire Board of  Directors,  designate  one or more  committees,
+each  committee to consist of one or more of the  directors of the  Corporation.
+The Board of Directors may designate one or more directors as alternate  members
+of any  committee,  who may  replace  any absent or  disqualified  member at any
+meeting of any such committee. In the absence or disqualification of a member of
+a committee, and in the absence of a designation by the Board of Directors of an
+alternate  member to replace the absent or  disqualified  member,  the member or
+members thereof present at any meeting and not disqualified from voting, whether
+or not he or they constitute a quorum, may unanimously appoint another member of
+the Board of  Directors  to act at the  meeting  in the  place of any  absent or
+disqualified member. Any committee, to the extent allowed by law and provided in
+the resolution establishing such committee,  shall have and may exercise all the
+powers and authority of the Board of Directors in the management of the business
+and affairs of the  Corporation.  Each committee  shall keep regular minutes and
+report to the Board of Directors when so requested by the Board of Directors.
+
+Section 10. Compensation.  The directors may be paid their expenses,  if any, of
+attendance at each meeting of the Board of Directors and for the  performance of
+their duties as directors  and may be paid a fixed sum,  determined by the Board
+of  Directors,  for  attendance  at each  meeting of the Board of Directors or a
+stated  salary as director.  No such payment  shall  preclude any director  from
+serving  the  Corporation  in any  other  capacity  and  receiving  compensation
+therefor.  Members  of  special  or  standing  committees  may be  allowed  like
+compensation for attending committee meetings.
+
+Section  11.  Interested  Directors.  No  contract  or  transaction  between the
+Corporation  and  one or more of its  directors  or  officers,  or  between  the
+Corporation  and any  other  corporation,  partnership,  association,  or  other
+organization  in which one or more of its directors or officers are directors or
+officers,  or have a financial  interest,  shall be void or violable  solely for
+this  reason,  or solely  because  the  director  or  officer  is  present at or
+participates in the meeting of the Board of Directors or committee  thereof that
+authorizes the contract or transaction, or solely because his or their votes are
+counted  for  such  purpose  if (i)  the  material  facts  as to  his  or  their
+relationship  or interest and as to the contract or transaction are disclosed or
+are known to the Board of Directors or the committee, and the Board of Directors
+or  committee  in good faith  authorizes  the  contract  or  transaction  by the
+affirmative votes of a majority of the disinterested directors,  even though the
+disinterested  directors be less than a quorum; or (ii) the material facts as to
+his or their  relationship or interest and as to the contract or transaction are
+disclosed or are known to the  stockholders  entitled to vote  thereon,  and the
+contract or  transaction is  specifically  approved in good faith by vote of the
+stockholders; or (iii) the contract or transaction is fair as to the Corporation
+as of  the  time  it is  authorized,  approved  or  ratified,  by the  Board  of
+Directors,  a  committee  thereof  or the  stockholders.  Common  or  interested
+directors may be counted in determining the presence of a quorum at a meeting of
+the Board of  Directors  or of a  committee  which  authorizes  the  contract or
+transaction.
+
+                                   ARTICLE IV
+
+                                    OFFICERS
+
+Section 1. General. The officers of the Corporation shall be chosen by the Board
+of Directors and shall be a President, a Secretary and a Treasurer. The Board of
+Directors,  in its  discretion,  may also  choose  a  Chairman  of the  Board of
+Directors  (who must be a director) and one or more Vice  Presidents,  Assistant
+Secretaries,  Assistant Treasurers and other officers. Any number of offices may
+be held by the same person,  unless otherwise prohibited by law, the Certificate
+of Incorporation  or these By-Laws.  The officers of the Corporation need not be
+stockholders of the  Corporation  nor, except in the case of the Chairman of the
+Board of Directors, need such officers be directors of the Corporation.
+
+Section 2. Election. The Board of Directors at its first meeting held after each
+annual meeting of  stockholders  shall elect the officers of the Corporation who
+shall  hold their  offices  for such terms and shall  exercise  such  powers and
+perform  such  duties as shall be  determined  from time to time by the Board of
+Directors;  and all  officers of the  Corporation  shall hold office until their
+successors  are chosen and  qualified,  or until their  earlier  resignation  or
+removal.  Any officer  elected by the Board of  Directors  may be removed at any
+time by the  affirmative  vote of a  majority  of the  Board of  Directors.  Any
+vacancy  occurring in any office of the Corporation shall be filled by the Board
+of Directors.  The salaries of all officers of the Corporation shall be fixed by
+the Board of Directors.
+
+Section 3.  Voting  Securities  Owned by the  Corporation.  Powers of  attorney,
+proxies,  waivers of notice of meeting,  consents and other instruments relating
+to  securities  owned by the  Corporation  may be executed in the name of and on
+behalf of the  Corporation  by the President or any Vice  President and any such
+officer  may,  in the name of and on  behalf of the  Corporation,  take all such
+action as any such  officer may deem  advisable to vote in person or by proxy at
+any meeting of security  holders of any corporation in which the Corporation may
+own  securities  and at any such meeting  shall possess and may exercise any and
+all rights and powers incident to the ownership of such securities and which, as
+the owner  thereof,  the  Corporation  might have  exercised  and  possessed  if
+present.  The Board of Directors  may, by  resolution,  from time to time confer
+like powers upon any other person or persons.
+
+Section 4.  Chairman  of the Board of  Directors.  The  Chairman of the Board of
+Directors,  if there be one,  shall preside at all meetings of the  stockholders
+and of the Board of Directors.  Unless some other person is so designated by the
+Board of Directors,  he shall be the Chief Executive Officer of the Corporation,
+and except where by law the signature of the President is required, the Chairman
+of the Board of Directors  shall possess the same power as the President to sign
+all contracts,  certificates and other  instruments of the Corporation which may
+be authorized by the Board of Directors. During the absence or disability of the
+President,  the Chairman of the Board of Directors shall exercise all the powers
+and  discharge  all the duties of the  President.  The  Chairman of the Board of
+Directors  shall also  perform  such other  duties and may  exercise  such other
+powers as from time to time may be  assigned  to him by these  By-Laws or by the
+Board of Directors.
+
+Section 5. President.  The President shall,  subject to the control of the Board
+of Directors and, if there be one, the Chairman of the Board of Directors,  have
+general  supervision of the business of the  Corporation  and shall see that all
+orders and  resolutions  of the Board of Directors  are carried into effect.  He
+shall  execute all bonds,  mortgages,  contracts  and other  instruments  of the
+Corporation  requiring a seal, under the seal of the  Corporation,  except where
+required or permitted by law to be otherwise signed and executed and except that
+the other  officers of the  Corporation  may sign and execute  documents when so
+authorized by these  By-Laws,  the Board of Directors or the  President.  In the
+absence or disability of the Chairman of the Board of Directors,  or if there be
+none, the President  shall preside at all meetings of the  stockholders  and the
+Board of  Directors.  If there be no  Chairman  of the Board of  Directors,  the
+President shall be the Chief Executive Officer of the Corporation. The President
+shall also perform such other duties and may exercise  such other powers as from
+time  to time  may be  assigned  to him by  these  By-Laws  or by the  Board  of
+Directors.
+
+Section 6. Vice Presidents. At the request of the President or in his absence or
+in the event of his  inability or refusal to act (and if there be no Chairman of
+the Board of Directors),  the Vice President or the Vice  Presidents if there is
+more than one (in the order  designated by the Board of Directors) shall perform
+the duties of the  President,  and when so acting,  shall have all the powers of
+and be subject to all the restrictions  upon the President.  Each Vice President
+shall  perform  such other  duties  and have such  other  powers as the Board of
+Directors from time to time may prescribe.  If there be no Chairman of the Board
+of Directors and no Vice  President,  the Board of Directors shall designate the
+officer of the Corporation  who, in the absence of the President or in the event
+of the inability or refusal of the President to act, shall perform the duties of
+the President,  and when so acting,  shall have all the powers of and be subject
+to all the restrictions placed upon the President.
+
+Section 7.  Secretary.  The Secretary  shall attend all meetings of the Board of
+Directors  and all  meetings  of  stockholders  and record  all the  proceedings
+thereat in a book or books to be kept for that purpose; the Secretary shall also
+perform like duties for the standing  committees  when  required.  The Secretary
+shall give, or cause to be given, notice of all meetings of the stockholders and
+special meetings of the Board of Directors,  and shall perform such other duties
+as may be  prescribed  by the  Board of  Directors  or  President,  under  whose
+supervision  he shall be. If the  Secretary  shall be unable or shall  refuse to
+cause to be  given  notice  of all  meetings  of the  stockholders  and  special
+meetings of the Board of Directors, and if there be no Assistant Secretary, then
+either the Board of Directors or the  President  may choose  another  officer to
+cause such notice to be given.  The Secretary  shall have custody of the seal of
+the Corporation and the Secretary or any Assistant  Secretary,  if there be one,
+shall have authority to affix the same to any  instrument  requiring it and when
+so affixed,  it may be  attested by the  signature  of the  Secretary  or by the
+signature  of any such  Assistant  Secretary.  The Board of  Directors  may give
+general  authority to any other officer to affix the seal of the Corporation and
+to attest the affixing by his signature. The Secretary shall see that all books,
+reports,  statements,  certificates  and other documents and records required by
+law to be kept or filed are properly kept or filed, as the case may be.
+
+Section 8.  Treasurer.  The  Treasurer  shall have the custody of the  corporate
+funds and securities  and shall keep full and accurate  accounts of receipts and
+disbursements in books belonging to the Corporation and shall deposit all moneys
+and other valuable  effects in the name and to the credit of the  Corporation in
+such depositories as may be designated by the Board of Directors.  The Treasurer
+shall  disburse the funds of the  Corporation  as may be ordered by the Board of
+Directors,  taking proper vouchers for such  disbursements,  and shall render to
+the President and the Board of Directors,  at its regular meetings,  or when the
+Board of Directors so requests,  an account of all his transactions as Treasurer
+and of the financial  condition of the Corporation.  If required by the Board of
+Directors,  the Treasurer shall give the Corporation a bond in such sum and with
+such surety or sureties as shall be  satisfactory  to the Board of Directors for
+the faithful  performance of the duties of his office and for the restoration to
+the Corporation,  in case of his death, resignation,  retirement or removal from
+office,  of all books,  papers,  vouchers,  money and other property of whatever
+kind in his possession or under his control belonging to the Corporation.
+
+Section 9. Assistant  Secretaries.  Except as may be otherwise provided in these
+By-Laws,  Assistant Secretaries,  if there be any, shall perform such duties and
+have such  powers as from time to time may be  assigned  to them by the Board of
+Directors, the President, any Vice President, if there be one, or the Secretary,
+and in the absence of the Secretary or in the event of his disability or refusal
+to act,  shall perform the duties of the  Secretary,  and when so acting,  shall
+have  all  the  powers  of and be  subject  to all  the  restrictions  upon  the
+Secretary.
+
+Section 10. Assistant Treasurers.  Assistant Treasurers,  if there be any, shall
+perform such duties and have such powers as from time to time may be assigned to
+them by the Board of Directors,  the President,  any Vice President, if there be
+one, or the  Treasurer,  and in the absence of the  Treasurer or in the event of
+his disability or refusal to act, shall perform the duties of the Treasurer, and
+when  so  acting,  shall  have  all  the  powers  of and be  subject  to all the
+restrictions  upon the  Treasurer.  If  required by the Board of  Directors,  an
+Assistant  Treasurer shall give the Corporation a bond in such sum and with such
+surety or sureties as shall be  satisfactory  to the Board of Directors  for the
+faithful  performance of the duties of his office and for the restoration to the
+Corporation,  in case of his death,  resignation,  retirement  or  removal  from
+office,  of all books,  papers,  vouchers,  money and other property of whatever
+kind in his possession or under his control belonging to the Corporation.
+
+Section 11. Other  Officers.  Such other  officers as the Board of Directors may
+choose  shall  perform such duties and have such powers as from time to time may
+be  assigned  to them by the  Board of  Directors.  The Board of  Directors  may
+delegate to any other officer of the  Corporation the power to choose such other
+officers and to prescribe their respective duties and powers.
+
+                                    ARTICLE V
+
+                                      STOCK
+
+Section 1. Form of Certificates.  Every holder of stock in the Corporation shall
+be entitled to have a certificate  signed, in the name of the Corporation (i) by
+the Chairman of the Board of Directors,  the  President or a Vice  President and
+(ii)  by  the  Treasurer  or an  Assistant  Treasurer,  or the  Secretary  or an
+Assistant Secretary of the Corporation, certifying the number of shares owned by
+him in the Corporation.
+
+Section 2.  Signatures.  Where a certificate is  countersigned by (i) a transfer
+agent other than the Corporation or its employee, or (ii) a registrar other than
+the Corporation or its employee, any other signature on the certificate may be a
+facsimile.  In case any officer,  transfer  agent or registrar who has signed or
+whose facsimile  signature has been placed upon a certificate  shall have ceased
+to be such  officer,  transfer  agent or registrar  before such  certificate  is
+issued,  it may be issued by the Corporation  with the same effect as if he were
+such officer, transfer agent or registrar at the date of issue.
+
+Section  3.  Lost  Certificates.  The  Board  of  Directors  may  direct  a  new
+certificate to be issued in place of any certificate  theretofore  issued by the
+Corporation  alleged to have been lost, stolen or destroyed,  upon the making of
+an affidavit of that fact by the person  claiming the certificate of stock to be
+lost, stolen or destroyed. When authorizing such issue of a new certificate, the
+Board of Directors may, in its  discretion  and as a condition  precedent to the
+issuance  thereof,   require  the  owner  of  such  lost,  stolen  or  destroyed
+certificate,  or his legal representative,  to advertise the same in such manner
+as the Board of Directors shall require and/or to give the Corporation a bond in
+such sum as it may  direct  as  indemnity  against  any  claim  that may be made
+against the  Corporation  with respect to the  certificate  alleged to have been
+lost, stolen or destroyed.
+
+Section  4.  Transfers.  Except as  otherwise  provided  in the  Certificate  of
+Incorporation,  stock of the  Corporation  shall be  transferable  in the manner
+prescribed by law and in these By-Laws.  Transfers of stock shall be made on the
+books of the  Corporation  only by the person named in the certificate or by his
+attorney  lawfully  constituted  in  writing  and  upon  the  surrender  of  the
+certificate therefor, which shall be cancelled before a new certificate shall be
+issued
+
+Section  5.  Record  Date.  In order  that the  Corporation  may  determine  the
+stockholders  entitled to notice of or to vote at any meeting of stockholders or
+any adjournment  thereof,  or entitled to express consent to corporate action in
+writing  without a meeting,  or entitled to receive  payment of any  dividend or
+other  distribution  or  allotment  of any rights,  or entitled to exercise  any
+rights in respect of any change,  conversion  or  exchange of stock,  or for the
+purpose of any other lawful action,  the Board of Directors may fix, in advance,
+a record date, which shall not be more than 60 days nor less than 10 days before
+the date of such  meeting,  nor more than 60 days prior to any other  action.  A
+determination  of  stockholders  of record entitled to notice of or to vote at a
+meeting of stockholders shall apply to any adjournment of the meeting; provided,
+however, that the Board of Directors may fix a new record date for the adjourned
+meeting.
+
+Section 6. Beneficial Owners. The Corporation shall be entitled to recognize the
+exclusive  right of a person  registered  on its books as the owner of shares to
+receive  dividends,  and to vote as such owner, and to hold liable for calls and
+assessments a person  registered on its books as the owner of shares,  and shall
+not be bound to  recognize  any  equitable or other claim to or interest in such
+share or shares on the part of any other  person,  whether  or not it shall have
+express or other notice thereof, except as otherwise provided by law.
+
+                                   ARTICLE VI
+
+                                    NOTICES
+
+Section 1. Notices.  Except as otherwise specifically provided herein,  whenever
+written  notice is required by law, the  Certificate of  Incorporation  or these
+By-Laws, to be given to any director, member of a committee or stockholder, such
+notice may be given by mail,  addressed to such director,  member of a committee
+or stockholder,  at his address as it appears on the records of the Corporation,
+with postage thereon prepaid, and such notice shall be deemed to be given at the
+time when the same shall be deposited in the United States mail.  Written notice
+may also be given personally or by telegram, telex or cable.
+
+Section 2.  Waivers of Notice.  Whenever  any  notice is  required  by law,  the
+Certificate  of  Incorporation  or these  By-Laws,  to be given to any director,
+member of a committee or stockholder, a waiver thereof in writing, signed by the
+person or persons  entitled  to said  notice,  whether  before or after the time
+stated therein, shall be deemed equivalent thereto.  Attendance of a stockholder
+at a meeting in person or by proxy shall  constitute  a waiver of notice of such
+meeting,  except  when such  stockholder  attends  such  meeting for the express
+purpose of objecting at the beginning of such meeting, to the transaction of any
+business on the grounds that notice of such meeting was inadequate or improperly
+given.
+
+                                  ARTICLE VII
+
+                               GENERAL PROVISIONS
+
+Section 1.  Dividends.  Dividends  upon the  capital  stock of the  Corporation,
+subject to the provisions of the  Certificate of  Incorporation,  if any, may be
+declared by the Board of Directors at any regular or special meeting, and may be
+paid in cash, in property,  or in shares of the capital stock. Before payment of
+any  dividend,  there  may be set  aside  out of any  funds  of the  Corporation
+available for dividends  such sum or sums as the Board of Directors from time to
+time, in its absolute discretion,  deems proper as a reserve or reserves to meet
+contingencies,  or for equalizing dividends, or for repairing or maintaining any
+property  of the  Corporation,  or for any  proper  purpose,  and the  Board  of
+Directors may modify or abolish any such reserve.
+
+Section 2.  Disbursements.  All  checks or  demands for  money and  notes of the
+Corporation shall be signed by such  officer or officers or such other person or
+persons as the Board of Directors may from time to time designate.
+
+Section 3.  Fiscal Year.  The fiscal year of  the  Corporation shall be fixed by
+resolution of the Board of Directors and may be changed from time to time in the
+same manner.
+
+Section 4. Corporate  Seal. The corporate seal shall have inscribed  thereon the
+name of the  Corporation,  the year of its organization and the words "Corporate
+Seal, Delaware." The seal may be used by causing it or a facsimile thereof to be
+impressed or affixed or reproduced or otherwise.
+
+                                  ARTICLE VIII
+
+                                 INDEMNIFICATION
+
+Section 1. Power to Indemnify in Actions,  Suits or Proceedings Other Than Those
+by or in the Right of the  Corporation.  Subject  to  Section 3 of this  Article
+VIII,  the  Corporation  shall  indemnify any person who was or is a party or is
+threatened to be made a party to any  threatened,  pending or completed  action,
+suit or proceeding,  whether civil,  criminal,  administrative  or investigative
+(other  than an action by or in the right of the  Corporation)  by reason of the
+fact that he is or was a director or officer of the Corporation,  or is or was a
+director or officer of the Corporation serving at the request of the Corporation
+as a director or officer, employee or agent of another corporation, partnership,
+joint  venture,  trust,  employee  benefit  plan or  other  enterprise,  against
+expenses  (including  attorneys'  fees),  judgments,  fines and amounts  paid in
+settlement  actually  and  reasonably  incurred by him in  connection  with such
+action,  suit or  proceeding  if he  acted  in good  faith  and in a  manner  he
+reasonably  believed  to be in or not  opposed  to  the  best  interests  of the
+Corporation,  and,  with respect to any criminal  action or  proceeding,  had no
+reasonable  cause to believe his conduct was unlawful.  The  termination  of any
+action, suit or proceeding by judgment, order, settlement, conviction, or upon a
+plea of nolo  contendere  or its  equivalent,  shall not,  of  itself,  create a
+presumption  that the person did not act in good faith and in a manner  which he
+reasonably  believed  to be in or not  opposed  to  the  best  interests  of the
+Corporation,  and,  with  respect  to any  criminal  action or  proceeding,  had
+reasonable cause to believe that his conduct was unlawful.
+
+Section 2. Power to  Indemnify  in Actions,  Suits or  Proceedings  by or in the
+Right of the  Corporation.  Subject  to  Section  3 of this  Article  VIII,  the
+Corporation shall indemnify any person who was or is a party or is threatened to
+be made a party to any threatened,  pending or completed action or suit by or in
+the right of the Corporation to procure a judgment in its favor by reason of the
+fact that he is or was a director or officer of the Corporation,  or is or was a
+director or officer of the Corporation serving at the request of the Corporation
+as a director,  officer, employee or agent of another corporation,  partnership,
+joint venture, trust, employee benefit plan or other enterprise against expenses
+(including   attorneys'  fees)  actually  and  reasonably  incurred  by  him  in
+connection  with the defense or settlement of such action or suit if he acted in
+good faith and in a manner he reasonably believed to be in or not opposed to the
+best interests of the Corporation;  except that no indemnification shall be made
+in respect of any claim, issue or matter as to which such person shall have been
+adjudged to be liable to the Corporation  unless and only to the extent that the
+Court of  Chancery of the State of Delaware or the court in which such action or
+suit was brought shall determine upon application that, despite the adjudication
+of liability but in view of all the  circumstances  of the case,  such person is
+fairly and reasonably entitled to indemnity for such expenses which the Court of
+Chancery or such other court shall deem proper.
+
+Section 3.  Authorization of  Indemnification.  Any  indemnification  under this
+Article VIII (unless ordered by a court) shall be made by the  Corporation  only
+as authorized in the specific case upon a determination that  indemnification of
+the  director or officer is proper in the  circumstances  because he has met the
+applicable  standard  of  conduct  set forth in  Section 1 or  Section 2 of this
+Article  VIII, as the case may be. Such  determination  shall be made (i) by the
+Board of Directors by a majority  vote of a quorum  consisting  of directors who
+were not parties to such action, suit or proceeding, or (ii) if such a quorum is
+not obtainable,  or, even if obtainable a quorum of  disinterested  directors so
+directs,  by  independent  legal counsel in a written  opinion,  or (iii) by the
+stockholders.  To the extent that a director or officer of the  Corporation  has
+been  successful  on the merits or otherwise  in defense of any action,  suit or
+proceeding described above, or in defense of any claim, issue or matter therein,
+he shall be indemnified  against expenses  (including  attorneys' fees) actually
+and reasonably incurred by him in connection therewith, without the necessity of
+authorization in the specific case.
+
+Section 4. Good Faith Defined. For purposes of any determination under Section 3
+of this  Article  VIII, a person shall be deemed to have acted in good faith and
+in a manner he reasonably believed to be in or not opposed to the best interests
+of the  Corporation,  or, with respect to any criminal action or proceeding,  to
+have had no reasonable cause to believe his conduct was unlawful,  if his action
+is based on the  records  or books of  account  of the  Corporation  or  another
+enterprise, or on information supplied to him by the officers of the Corporation
+or another  enterprise in the course of their duties,  or on the advice of legal
+counsel for the  Corporation or another  enterprise or on information or records
+given or reports made to the Corporation or another enterprise by an independent
+certified  public  accountant  or by an appraiser or other expert  selected with
+reasonable  care by the  Corporation  or another  enterprise.  The term "another
+enterprise"  as used in this Section 4 shall mean any other  corporation  or any
+partnership,  joint venture, trust, employee benefit plan or other enterprise of
+which such  person is or was  serving at the  request  of the  Corporation  as a
+director, officer, employee or agent. The provisions of this Section 4 shall not
+be deemed to be  exclusive or to limit in any way the  circumstances  in which a
+person may be deemed to have met the applicable standard of conduct set forth in
+Section 1 or 2 of this Article VIII, as the case may be.
+
+Section  5.   Indemnification   by  a  Court.   Notwithstanding   any   contrary
+determination  in the specific case under  Section 3 of this Article  VIII,  and
+notwithstanding  the absence of any  determination  thereunder,  any director or
+officer  may  apply  to any  court of  competent  jurisdiction  in the  State of
+Delaware for indemnification to the extent otherwise permissible under Section 1
+and 2 of this Article VIII. The basis of such  indemnification  by a court shall
+be a determination by such court that indemnification of the director or officer
+is proper in the  circumstances  because he has met the applicable  standards of
+conduct set forth in Section 1 or 2 of this  Article  VIII,  as the case may be.
+Neither a contrary  determination  in the specific  case under Section 3 of this
+Article VIII nor the absence of any determination  thereunder shall be a defense
+to such application or create a presumption that the director or officer seeking
+indemnification  has not met any applicable  standard of conduct.  Notice of any
+application for indemnification pursuant to this Section 5 shall be given to the
+Corporation  promptly upon the filing of such  application.  If  successful,  in
+whole or in part, the director or officer seeking  indemnification shall also be
+entitled to be paid the expense of prosecuting such application.
+
+Section 6. Expenses  Payable in Advance.  Expenses  (including  attorneys' fees)
+incurred by a director or officer in defending or  investigating a threatened or
+pending action,  suit or proceeding  shall be paid by the Corporation in advance
+of the final  disposition of such action,  suit or proceeding upon receipt of an
+undertaking  by or on behalf of such director or officer to repay such amount if
+it shall  ultimately be determined  that he is not entitled to be indemnified by
+the Corporation as authorized in this Article VIII.
+
+Section 7.  Nonexclusivity of Indemnification  and Advancement of Expenses.  The
+indemnification  and advancement of expenses  provided by or granted pursuant to
+this  Article  VIII shall not be deemed  exclusive  of any other rights to which
+those seeking  indemnification  or advancement of expenses may be entitled under
+any law,  By-Law,  agreement,  contract,  vote of stockholders or  disinterested
+directors  or pursuant to the  direction  (howsoever  embodied)  of any court of
+competent jurisdiction or otherwise,  both as to action in his official capacity
+and as to action in another  capacity  while  holding such office,  it being the
+policy of the  Corporation  that  indemnification  of the persons  specified  in
+Sections  1 and 2 of this  Article  VIII  shall  be made to the  fullest  extent
+permitted  by law.  The  provisions  of this Article VIII shall not be deemed to
+preclude the  indemnification of any person who is not specified in Section 1 or
+2 of this Article VIII but whom the  Corporation  has the power or obligation to
+indemnify  under the provisions of the General  Corporation  Law of the State of
+Delaware, or otherwise.
+
+Section 8. Insurance.  The  Corporation  may purchase and maintain  insurance on
+behalf of any person who is or was a director or officer of the Corporation,  or
+is or was a director or officer of the Corporation serving at the request of the
+Corporation as a director,  officer,  employee or agent  of another corporation,
+partnership,  joint venture,  trust,  employee  benefit plan or other enterprise
+against  any  liability  asserted  against  him and  incurred by him in any such
+capacity,  or arising out of his status as such,  whether or not the Corporation
+would have the power or the  obligation to indemnify him against such  liability
+under the provisions of this Article VIII.
+
+Section 9. Certain Definitions. For purposes of this Article VIII, references to
+"the Corporation" shall include, in addition to the resulting  corporation,  any
+constituent corporation (including any constituent of a constituent) absorbed in
+a consolidation or merger which, if its separate existence had continued,  would
+have had power and authority to indemnify its directors or officers, so that any
+person who is or was a director or officer of such constituent  corporation,  or
+is or was a director or officer of such constituent  corporation  serving at the
+request of such  constituent  corporation  as a director,  officer,  employee or
+agent of  another  corporation,  partnership,  joint  venture,  trust,  employee
+benefit plan or other  enterprise,  shall stand in the same  position  under the
+provisions  of this  Article  VIII with  respect to the  resulting  or surviving
+corporation as he would have with respect to such constituent corporation if its
+separate existence had continued.  For purposes of this Article VIII, references
+to "fines" shall  include any excise taxes  assessed on a person with respect to
+an  employee  benefit  plan;  and  references  to "serving at the request of the
+Corporation" shall include any service as a director, officer, employee or agent
+of the  Corporation  which  imposes  duties on, or  involves  services  by, such
+director or officer with respect to an employee  benefit plan, its  participants
+or  beneficiaries;  and a person  who  acted in good  faith  and in a manner  he
+reasonably  believed to be in the interest of the participants and beneficiaries
+of an  employee  benefit  plan  shall be deemed to have  acted in a manner  "not
+opposed to the best interests of the Corporation" as referred to in this Article
+VIII.
+
+Section  10.  Survival of  Indemnification  and  Advancement  of  Expenses.  The
+indemnification and advancement of expenses provided by, or granted pursuant to,
+this Article VIII shall,  unless otherwise provided when authorized or ratified,
+continue  as to a person who has ceased to be a  director  or officer  and shall
+inure to the  benefit  of the  heirs,  executors  and  administrators  of such a
+person.
+
+Section 11. Limitation of Indemnification. Notwithstanding anything contained in
+this Article VIII to the contrary,  except for  proceedings to enforce rights to
+indemnification  (which shall be governed by Section 5 hereof),  the Corporation
+shall not be obligated to indemnify any director or officer in connection with a
+proceeding (or part thereof) initiated by such person unless such proceeding (or
+part  thereof) was  authorized  or consented to by the Board of Directors of the
+Corporation.
+
+Section 12. Indemnification of Employees and Agents. The Corporation may, to the
+extent authorized from time to time by the Board of Directors, provide rights to
+indemnification  and to the  advancement  of expenses to employees and agents of
+the Corporation similar to those conferred in this Article VIII to directors and
+officers of the Corporation.
+
+                                   ARTICLE IX
+
+                                   AMENDMENTS
+
+Section 1. These  By-Laws may be altered,  amended or  repealed,  in whole or in
+part,  or new  By-Laws  may be  adopted by the  stockholders  or by the Board of
+Directors, provided, however, that notice of such alteration,  amendment, repeal
+or  adoption  of new  By-Laws  be  contained  in the  notice of such  meeting of
+stockholders or Board of Directors, as the case may be. All such amendments must
+be approved by either the holders of a majority of the outstanding capital stock
+entitled to vote thereon or by a majority of the entire Board of Directors  then
+in office.
+
+Section 2. Entire  Board of  Directors.  As used in this Article IX and in these
+By-Laws  generally,  the term "entire Board of Directors" means the total number
+of directors which the Corporation would have if there were no vacancies.
+
+<PAGE>
+<TABLE>
+
+                                                                                                                         Exhibit 11
+
+
+
+                  AMES DEPARTMENT STORES, INC. AND SUBSIDIARIES
+         SCHEDULE OF COMPUTATION OF BASIC AND DILUTED EARNINGS PER SHARE
+                 (Amounts in thousands except per share amounts)
+
+
+<CAPTION>
+                                                                        For the Thirteen                For the Twenty-Six
+                                                                          Weeks Ended                      Weeks Ended
+                                                                   ---------------------------      --------------------------
+<S>                                                                <C>              <C>               <C>           <C>
+                                                                   July 31,         August 1,         July 31,      August 1,
+                                                                     1999             1998              1999           1998
+                                                                  ------------    ------------      -----------   ------------
+
+Net income (loss)                                                   ($22,173)        $8,386          ($48,561)       $5,443
+                                                                  ============   ============       ===========   ============
+
+
+
+
+For Basic Net Income (Loss) Per Common Share
+
+   Weighted average number of common shares
+          outstanding during the period                               27,706         22,950           25,914          22,800
+                                                                   ============   ============      ===========   =============
+
+
+          Basic net income (loss) per common share                    ($0.80)         $0.37           ($1.87)          $0.24
+                                                                   ============   ============      ===========   =============
+
+
+
+
+
+For Diluted Net Income (Loss) Per Common Share
+
+   Weighted average number of common shares
+          outstanding during the period                               27,706         22,950           25,914          22,800
+
+  Add:   Common stock equivalent shares represented by
+        - Series B Warrants                                             (a)            116              (a)             127
+        - Series C Warrants                                             (a)            458              (a)             520
+        - Options under 1994 Management Stock Option Plan &
+                1998 Stock Incentive Plan                               (a)            680              (a)             661
+        - Options under 1994 Non-Employee Directors
+                Stock Option Plan                                       (a)             68              (a)              63
+                                                                   ------------   ------------      -----------   -------------
+   Weighted average number of common and common equivalent
+          shares used in the calculation of diluted net
+          income (loss) per share                                     27,706         24,272           25,914          24,171
+                                                                   ============   ============      ===========   =============
+
+          Diluted net income (loss) per common share                 ($0.80)         $0.35           ($1.87)          $0.23
+                                                                   ============   ============      ===========   =============
+
+
+
+<FN>
+          (a) Common stock equivalents have not been included because the effect would be anti-dilutive.
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+
+<CIK>                                       0000006071
+<NAME>                     AMES DEPARTMENT STORES, INC.
+<MULTIPLIER>                                1,000
+
+
+<S>                             <C>
+<PERIOD-TYPE>                               3-MOS
+<FISCAL-YEAR-END>                           JAN-29-2000
+<PERIOD-START>                              JAN-31-1999
+<PERIOD-END>                                JUL-31-1999
+
+<CASH>                                           36404
+<SECURITIES>                                       0
+<RECEIVABLES>                                    47038
+<ALLOWANCES>                                       0
+<INVENTORY>                                     795440
+<CURRENT-ASSETS>                                936055
+<PP&E>                                          527345
+<DEPRECIATION>                                   95737
+<TOTAL-ASSETS>                                 1788279
+<CURRENT-LIABILITIES>                           732192
+<BONDS>                                         250875
+<PREFERRED-MANDATORY>                              0
+<PREFERRED>                                        0
+<COMMON>                                           292
+<OTHER-SE>                                      463441
+<TOTAL-LIABILITY-AND-EQUITY>                   1788279
+<SALES>                                         856198
+<TOTAL-REVENUES>                                867788
+<CGS>                                           598346
+<TOTAL-COSTS>                                   598346
+<OTHER-EXPENSES>                                290465
+<LOSS-PROVISION>                                   0
+<INTEREST-EXPENSE>                               13621
+<INCOME-PRETAX>                                 (34644)
+<INCOME-TAX>                                     12471
+<INCOME-CONTINUING>                             (22173)
+<DISCONTINUED>                                     0
+<EXTRAORDINARY>                                    0
+<CHANGES>                                          0
+<NET-INCOME>                                    (22173)
+<EPS-BASIC>                                    (0.80)
+<EPS-DILUTED>                                    (0.80)
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

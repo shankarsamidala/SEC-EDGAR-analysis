@@ -1,0 +1,765 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ PFZ7jQGFUwDETd5yUijgVBy6A1H7+R+qnhDAPbSl164R3sn5tKF8J3Vvjm0XZdk4
+ K+5Z5hGnwwPVd6wxtB2GvQ==
+
+<IMS-DOCUMENT>0000006260-94-000016.txt : 19940513
+<IMS-HEADER>0000006260-94-000016.hdr.sgml : 19940513
+ACCESSION NUMBER:		0000006260-94-000016
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940331
+FILED AS OF DATE:		19940512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANACOMP INC
+		CENTRAL INDEX KEY:			0000006260
+		STANDARD INDUSTRIAL CLASSIFICATION:	3861
+		IRS NUMBER:				351144230
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08328
+		FILM NUMBER:		94527511
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11550 N MERIDIAN ST, SUITE 600
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178449666
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 40888
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMPUTEC INC
+		DATE OF NAME CHANGE:	19740314
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDING MARCH 31, 1994
+<TEXT>
+
+<PAGE>1
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C.  20549
+
+                                   Form 10-Q
+
+            (X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                 OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                      For the period ended March 31, 1994
+
+                                      OR
+
+            ( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                For the transition period from         to
+
+
+                         Commission File Number 1-8328
+
+
+                                 ANACOMP, INC.
+
+
+                          Indiana           35-1144230
+                          11550 North Meridian Street
+                             Post Office Box 40888
+                          Indianapolis, Indiana  46240
+
+
+                Registrant's Telephone Number is (317) 844-9666
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities and Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+
+                           YES    X      NO
+
+
+The number of shares outstanding of the Common Stock of the registrant on March
+31, 1994, the close of the period covered by this report, was 43,044,554.
+
+<PAGE> 2
+
+
+                        ANACOMP, INC. AND SUBSIDIARIES
+
+                                     Index
+<TABLE>
+<CAPTION>
+
+PART I.  	FINANCIAL INFORMATION
+                                                                        Page No.
+Item 1.	Financial Statements:
+<S>                                                                       <C>
+	  Consolidated Balance Sheets
+	  March 31, 1994 and September 30, 1993 ..................	    2
+
+	  Consolidated Statements of Operations
+	  Six Months Ended March 31, 1994 and 1993................	    3
+
+	  Consolidated Statements of Cash Flows
+	  Six Months Ended March 31, 1994 and 1993................	    4
+
+	  Consolidated Statements of Stockholders' Equity
+  	  Six Months Ended March 31, 1994 and 1993................	    5
+
+	  Notes to Consolidated Financial Statements.................	   6
+
+Item 2.  Management's Discussion and Analysis of
+	  Financial Condition and Results of Operations .............	   9
+
+
+PART II. OTHER INFORMATION                                          	
+
+Item 6.  Exhibits and Reports on Form 8-K...........................      10
+	
+
+
+SIGNATURES ............................................................	  11
+
+</TABLE>
+<PAGE> 3
+CONSOLIDATED BALANCE SHEETS
+Anacomp, Inc., and Subsidiaries
+<TABLE>
+<CAPTION>
+(Dollars in thousands,	 Mar. 31, 	Sept. 30,
+ except per share amounts)                                 	   1994   	   1993
+<S>                                                            <C>         <C>
+ASSETS	(Unaudited)
+Current assets:
+  Cash and cash equivalents . . . . . . . . . . . . . . . . .	$ 28,846 	$ 24,922
+  Accounts and notes receivable, less allowances for
+   doubtful accounts of $3,748 and $4,245, respectively  . .	 103,698 	 109,251
+  Current portion of long-term receivables  . . . . . . . . .	  14,747 	   7,489
+  Inventories . . . . . . . . . . . . . . . . . . . . . . . .	  52,971	  69,192
+  Prepaid expenses and other  . . . . . . . . . . . . . . . .	   9,505       7,157
+Total current assets  . . . . . . . . . . . . . . . . . . . .	 209,767     218,011
+
+Property and equipment, at cost less
+ accumulated depreciation and amortization  . . . . . . . . .	  59,917	  66,399
+Long-term receivables, net of current portion . . . . . . . .	  19,183	  17,619
+Excess of purchase price over net assets of businesses
+ acquired and other intangibles, net. . . . . . . . . . . . .	 279,829	 296,426
+Deferred tax asset, net of valuation allowance of $60,000 . . 	  34,000	      --
+Other assets  . . . . . . . . . . . . . . . . . . . . . . . .	  50,286      45,093
+	$652,982	$643,548
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Current portion of long-term debt . . . . . . . . . . . . .	$ 41,695  	$ 34,355
+  Accounts payable  . . . . . . . . . . . . . . . . . . . . .	  64,731  	  67,246
+  Accrued compensation, benefits and withholdings . . . . . .	  16,744  	  16,452
+  Accrued income taxes  . . . . . . . . . . . . . . . . . . .	  14,128 	  11,502
+  Accrued interest. . . . . . . . . . . . . . . . . . . . . .	  19,707	  20,089
+  Other accrued liabilities . . . . . . . . . . . . . . . . .	  35,315   	  37,438
+Total current liabilities . . . . . . . . . . . . . . . . . .	 192,320 	 187,082
+
+Long-term debt, net of current portion. . . . . . . . . . . .	 393,956 	 404,738
+Other noncurrent liabilities. . . . . . . . . . . . . . . . .	  11,723 	  13,546
+Total noncurrent liabilities. . . . . . . . . . . . . . . . . 	 405,679 	 418,284
+
+Redeemable preferred stock, $.01 par value,
+ issued and outstanding 500,000 shares
+ (aggregate preference value of $25,000). . . . . . . . . . .	  24,430      24,383
+
+Stockholders' equity:
+  Common stock, $.01 par value, authorized 100,000,000
+   shares, 43,044,554 and 40,629,524 issued, respectively . .	     430 	     406
+  Capital in excess of par value of common stock  . . . . . .	 171,540	 163,209
+  Cumulative translation adjustment . . . . . . . . . . . . .	  (6,024)	  (4,744)
+  Accumulated deficit . . . . . . . . . . . . . . . . . . . .	(135,393)  	(145,072)
+Total stockholders' equity. . . . . . . . . . . . . . . . . .	  30,553 	  13,799
+	$652,982	$643,548
+
+
+</TABLE>
+                   See notes to consolidated financial statements.
+
+<PAGE> 4
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Anacomp, Inc., and Subsidiaries
+<TABLE>
+<CAPTION>
+                                                             Three months ended    Six months ended
+(Dollars in thousands,	                                          March 31,            March 31,
+ except per share amounts)                               	   1994   	   1993     1994   	   1993
+	                                                              (Unaudited)	      (Unaudited)	
+
+<S>                                                         <C>       <C>       <C>       <C>
+
+Revenues:
+  Services provided . . . . . . . . . . . . . . . . . . . .	$ 57,725 	$ 53,486 	$112,149 	$106,427
+  Equipment and  supply sales . . . . . . . . . . . . . . .	  88,538    90,798   172,897 	 179,009
+                                                             146,263   144,284   285,046   285,436
+Operating costs and expenses:
+  Costs of services provided  . . . . . . . . . . . . . . .	  40,518	  36,268 	   77,792	   72,896
+  Costs of equipment and supplies sold. . . . . . . . . . .	  63,888 	  63,327    22,906  	 125,812
+  Selling, general and administrative expenses  . . . . . .	  23,635 	  24,379    45,483 	  46,253
+
+                                                           	 128,041 	 123,974   	 246,181 	 244,961
+
+Income from continuing operations before interest, other
+  income, income taxes, extraordinary credit, and
+  cumulative effect of accounting change. . . . . . . . . .	  18,222 	  20,310 	  38,865 	  40,475
+
+Interest income . . . . . . . . . . . . . . . . . . . . . .	     724 	     983  	   1,501	   1,592
+Interest expense and fee amortization . . . . . . . . . . .	 (16,351) 	 (16,284)  	 (32,961)	 (32,876)	
+Other income (expense). . . . . . . . . . . . . . . . . . . 	   (324) 	  (1,459)  	    (594)	  (2,417) 	
+ 	                                                           (15,951)	 (16,760)  	 (32,054)	 (33,701)
+
+Income from continuing operations before
+  income taxes, extraordinary credit, and
+  cumulative effect of accounting change. . . . . . . . . .	   2,271  	   3,550  	   6,811  	   6,774
+Provision for income taxes  . . . . . . . . . . . . . . . .	   1,200 	   1,700   	   3,600 	    3,250
+
+Income from continuing operations before
+  extraordinary credit and cumulative effect of
+  accounting change . . . . . . . . . . . . . . . . . . . . 	   1,071  	   1,850  	   3,211 	   3,524
+Loss from discontinued operations, net of
+  income tax benefits . . . . . . . . . . . . . . . . . . .	    (214)	    (349)	       (453)	    (711)
+Extraordinary credit resulting from utilization
+  of tax loss carryforwards . . . . . . . . . . . . . . . . 	      --	     900	      --	   1,600
+Cumulative effect on prior years of a change in
+  accounting for income taxes . . . . . . . . . . . . . . .	      -- 	      --       8,000          --
+Net income  . . . . . . . . . . . . . . . . . . . . . . . .      857      2,401      10,758       4,413
+Preferred stock dividends and discount accretion  . . . . .	     539 	     539 	   1,079       1,079
+Net income available to common stockholders . . . . . . . .	$    318 	$  1,862   	$  9,679 	$  3,334
+
+Earnings per common and common equivalent share:
+  Continuing operations (net of preferred stock
+    dividends and discount accretion) . . . . . . . . . . .	$    .01	$    .03	$    .05	$    .06
+  Discontinued operations . . . . . . . . . . . . . . . . .	      -- 	    (.01)	    (.01)	    (.02)
+  Extraordinary credit. . . . . . . . . . . . . . . . . . .	      --	     .02	      --	     .04
+  Cumulative effect on prior years of a change in
+    accounting for income taxes . . . . . . . . . . . . . .	      --         --         .18          --
+  Net income  . . . . . . . . . . . . . . . . . . . . . . .	$    .01	$    .04	$    .22	$    .08	
+
+</TABLE>
+
+                               See notes to consolidated financial statements.
+
+<PAGE> 5
+   CONSOLIDATED STATEMENTS OF CASH FLOWS
+   Anacomp, Inc., and Subsidiaries
+<TABLE>
+<CAPTION>
+                                                                         Six months ended
+                                                                             March 31,
+   (Dollars in thousands)                                               1994        1993
+                                                                           (Unaudited)
+   <S>                                                                <C>          <C>                      
+   Cash flows from operating activities:
+     Net income....................................................   $  10,758    $  4,413
+     Adjustments to reconcile net income to net
+      cash provided by operating activities:
+       Cumulative effect of a change in accounting
+        for income taxes...........................................      (8,000)          --
+       Depreciation and amortization...............................      18,943       19,102
+       Provision (benefit) for losses on accounts receivable.......          --        (439)
+       Loss on disposition of assets ..............................         469         374
+       Change in assets and liabilities:
+         Decrease in accounts and long-term receivables............       2,775      12,699
+         Decrease (Increase) in inventories and prepaid expenses...       4,788      (3,365)
+         Increase in other assets..................................      (7,897)     (2,710)
+         Decrease in accounts payable and accrued expenses.........      (2,781)    (13,992)
+         Decrease in other noncurrent liabilities..................      (1,823)       (308)
+           Net cash provided by operating activities...............      17,232      15,774
+
+   Cash flows from investing activities:
+     Proceeds from sale of assets..................................       9,085       8,160
+     Purchases of property, plant and equipment....................      (8,885)    (12,974)
+     Proceeds from notes receivable................................          --       1,343
+     Payments to acquire companies and customer rights.............     (10,350)       (700)
+           Net cash used in investing activities...................     (10,150)     (4,171)
+
+   Cash flows from financing activities:
+     Proceeds from issuance of common stock and warrants...........         956       1,274
+     Proceeds from revolving line of credit and
+      long-term borrowings.........................................      23,000      18,000
+     Principal payments on long-term debt .........................     (26,243)    (40,574)
+     Preferred dividends paid......................................      (1,031)     (1,031)
+     Payments related to the issuance of debt and equity...........          --      (6,204)
+           Net cash used in financing activities...................      (3,318)    (28,535)
+
+   Effect of exchange rate changes on cash.........................         160         (20)
+   Increase (decrease) in cash and cash equivalents................       3,924     (16,952)
+
+   Cash and cash equivalents at beginning of period................      24,922      29,881
+
+   Cash and cash equivalents at end of period......................   $  28,846   $  12,929
+
+   Supplemental disclosures of cash flow information:
+
+   Cash paid during the period for:
+     Interest .....................................................   $  29,134   $  30,879
+     Income taxes..................................................   $     883   $   1,937
+
+   Supplemental disclosure of noncash investing and financial activities:
+
+   In January 1994, the Company purchased the COM Services customer base of 14 micrographics
+   service centers operated by National Business Systems.  Common stock was issued for $7.4
+   million of the purchase price.
+</TABLE>
+                      See notes to consolidated financial statements.
+
+
+<PAGE>6
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+Anacomp, Inc., and Subsidiaries
+<TABLE>
+<CAPTION>
+
+
+SIX MONTHS ENDED MARCH 31, 1994         	         Capital in
+	                                       	         excess of
+	       	                                         par value  Cumulative	 Retained 	
+ 	                                       Common 	 of Common	 Translation	earnings	
+(In thousands)                            Stock      Stock   Adjustment  (deficit)    Total
+(Unaudited)
+<S>                                    <C>      <C>        <C>         <C>         <C>
+BALANCE AT SEPTEMBER 30, 1993 ........	$    406	$ 163,209 	$  (4,744)	 $(145,072) 	$  13,799
+Exercise of stock options ............	       2	      424  	      --	        --	         426
+Shares issued for purchases under the
+  Employee Stock Purchase Plan........	       2	      527	        --	        --	         529
+Preferred stock dividends ............	      --	       -- 	       -- 	   (1,031) 	    (1,031)
+Accretion of redeemable preferred
+  stock discount .....................	      --	       --	        --	       (48) 	       (48)
+Translation adjustments for period ...	      -- 	      --	    (1,280)	       --  	    (1,280)
+NBS Stock Issuance....................	      20	    7,380	        --	        --	       7,400
+Net income for the period ............	      --        --         --  	   10,758      10,758
+BALANCE AT MARCH 31, 1994 ............	$    430	$ 171,540	 $  (6,024)	$(135,393)	  $  30,553
+                                      	========	=========	 =========	 =========	   =========
+
+
+SIX MONTHS ENDED MARCH 31, 1993         	         Capital in
+		                                                 excess of
+	                                               	  par value 	Cumulative	 Retained 	
+                                       	 Common	  of Common   	Translation	 earnings	
+(In thousands)                            Stock      Stock     Adjustment   (deficit)      Total
+(Unaudited)
+BALANCE AT SEPTEMBER 30, 1992 ........	$    397	  $161,198  	$   8,200   	$(161,505) 	$   8,290
+Exercise of stock options ............	       2	       551  	       --	          --	      553
+Shares issued for purchases under the 
+  Employee Stock Purchase Plan........	       3	       715	         --	          --	      718
+Preferred stock dividends ............	      --	        -- 	        -- 	     (1,031) 	   (1,031)
+Accretion of redeemable preferred
+  stock discount .....................	      --	        --	         --	         (48) 	      (48)
+Translation adjustments for period ...	      -- 	       --	    (10,775)	         --  	  (10,775)
+Other.................................	      --	      (239)	        --	          --	       (239)
+Net income for the period ............	      --         -- 	        --  	      4,413      4,413
+BALANCE AT MARCH 31, 1993 ............	$    402	  $162,225	  $  (2,575)	  $(158,171)	 $   1,881
+	                                      ========	  ========	  =========	   =========	  =========
+
+</TABLE>
+                                See notes to consolidated financial statements.
+
+<PAGE> 7
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ANACOMP, INC. AND SUBSIDIARIES
+
+1. 	During interim periods, Anacomp follows the accounting policies set
+    forth in its Annual Report to Stockholders and its Report on Form 10-K
+    filed with the Securities and Exchange Commission.  Users of financial
+    information produced for interim periods are encouraged to refer to the
+    footnotes contained in the Annual Report to Stockholders when reviewing
+    interim financial results.
+
+    In the opinion of management, the accompanying interim financial
+    statements contain all material adjustments, consisting only of normal
+    recurring adjustments necessary to present fairly the consolidated
+    financial condition, results of operations, and changes in financial
+    position and stockholders' equity of Anacomp and its subsidiaries for
+    interim periods.  Certain amounts in the prior period financial
+    statements have been reclassified to conform to the current period
+    presentation.
+
+2.  Inventories are stated at the lower of cost or market, cost being
+    determined by methods approximating the first-in, first-out basis.
+
+    The cost of inventories is distributed as follows:
+<TABLE>
+<CAPTION>
+                                          	 			Mar. 31, 	Sept. 30,	
+		(In thousands)                  	           	 1994       1993
+  <S>                                          <C>       <C>
+		Finished goods . . . . . . . . . . . . . . .	$ 32,858 	$ 38,289	
+		Work in process. . . . . . . . .	. . . . . .	   5,854	    7,105	
+		Raw materials and supplies . . .	. . . . . .	  14,259 	  23,798   	
+		     	                                      	$ 52,971	 $ 69,192	
+			                                           	========	 ========	
+</TABLE>
+3.  In February 1992, the Financial Accounting Standards Board issued Statement
+    of Financial Accounting Standards No. 109, "Accounting for Income Taxes"
+    (FAS 109).  Under FAS 109, the Company recognizes income taxes under the
+    liability method of accounting for income taxes.  The liability method
+    measures the expected tax impact of future taxable income or deductions
+    resulting from differences in the tax and financial reporting bases of
+    assets and liabilities reflected in the consolidated balance sheet and the
+    expected tax impact of carryforwards for tax purposes.  A valuation
+    allowance is to be recorded against those tax assets when it is "more
+    likely than not" that the benefit will not be realized.
+
+    FAS 109 was adopted in the first quarter of fiscal 1994.  The Company
+    recorded a deferred tax asset of $95 million representing the tax effect of
+    federal and state tax NOLs and tax credits.  The Company also recorded a
+    valuation allowance of $60 million reducing the deferred tax asset to a net
+    $35 million.
+
+    Recognition of the deferred tax asset and valuation allowance at October 1,
+    1993 caused adjustments to the following financial statement components:
+
+                                                 Capital    Accrued
+                             Net                in excess    Income
+    (In thousands)         Income   Goodwill   of par value   Taxes      Total
+<TABLE>
+<CAPTION>
+    <S>                    <C>      <C>           <C>        <C>       <C>
+    Deferred tax asset     $8,000   $66,000       $6,000     $15,000   $95,000
+    Valuation allowance        --   (39,000)      (6,000)    (15,000)  (60,000)
+                           ------   -------       ------     -------   -------
+    Net deferred tax asset $8,000   $27,000           --          --   $35,000
+                           ======   =======       ======     =======   =======
+</TABLE>
+<PAGE> 8
+    In the future, the federal provision for income taxes reflected in the
+    consolidated statement of operations will generally not require a cash
+    payout to the extent the Company has NOLs.  The cash savings from the
+    utilization of NOLs will be reported as a reduction of the net deferred tax
+    asset recorded under the guidelines of FAS 109; thereafter, as a reduction
+    of goodwill.
+
+    The provision for income taxes for the six months ended March 31, 1994 and
+    1993 consisted of the following:
+<TABLE>
+<CAPTION>
+
+                                    				Mar. 31  	Mar. 31
+				                                     1994   	 1993
+   <S>                                <C>         <C>
+   Current:
+
+	  Federal and State................		$  400     	$   50
+   Foreign..........................		 1,500         600
+                                  				$1,900     	$  650
+
+	Deferred:
+
+	  Federal and State................		$1,300	     $  400
+	  Foreign..........................	     --          --
+				                                  $1,300     	$  400
+
+	Provision for income taxes.........		$3,200	     $1,050	
+                                   			======     	======
+</TABLE>
+
+    The components of deferred tax assets and liabilities at March 31, 1994 and
+    October 1, 1993 are as follows:
+<TABLE>
+<CAPTION>
+
+	Mar. 31 	 Oct. 1
+    Net Deferred Tax Asset (In thousands)	  1994   	  1993
+    <S>                                         <C>      <C>
+    Tax effects of future tax deductible
+      differences related to:
+      Inventory reserves.......................	$  2,700	$  2,900
+      Depreciation.............................	   1,300	   1,400
+      Building reserves........................	   6,700	   7,400
+      EPA reserve..............................	   3,200	   3,400
+      Sale/leaseback of assets.................	   1,600	   1,800
+      Other net deductible differences.........	   4,100	   4,300
+
+    Tax effects of future taxable differences
+      related to:
+      Leases...................................	  (4,300)  (4,600)
+      Capitalized software.....................	  (4,300)  (4,600)
+    Net tax effects of future differences......	  11,000   12,000
+
+    Tax effects of carryforward benefits:
+      Federal net operating loss carryforwards.	  80,000   80,000
+      Federal general business tax credits.....	   3,000    3,000
+    Tax effects of carryforwards...............	  83,000   83,000
+
+    Tax effects of future differences
+      and carryforwards........................	  94,000   95,000
+    Less valuation allowance...................	 (60,000  (60,000)
+    Net deferred tax asset.....................	$ 34,000 $ 35,000
+                                               	======== ========
+</TABLE>
+
+<PAGE> 9
+    At March 31, 1994 the Company had NOLs of approximately $219 million
+    available to offset future taxable income.  An additional $31 million is
+    available in future periods as accrued expenses become deductible.  The
+    Company also has tax credit carryforwards of $3 million available to reduce
+    future tax liabilities, including $1 million of preacquisition tax credits.
+    The NOLs expire commencing in 1995 ($15 million) with remaining amounts in
+    various periods through 2007.  The tax credit carryforwards expire
+    substantially in 1997.
+
+    In addition to the cumulative effect adjustment on the statement of
+    operations, the adoption of FAS 109 reduced goodwill amortization expense
+    by  $193,000 and $387,000 during the three-month and six-month periods
+    ended March 31, 1994, respectively.  Accordingly, income from continuing
+    operations and net income increased by $91,000 and $182,000, respectively.
+    There was no effect on earnings per common and common equivalent share.
+
+    If FAS 109 had been adopted beginning October 1, 1992, the following
+    proforma results would have been reported for the periods ended (In
+    thousands except per share amounts):
+<TABLE>
+<CAPTION>
+                                            Three Months        Six Months
+                                           Ended March 31     Ended March 31
+                                     	  1994	  1993   	 1994  	  1993
+    <S>                                  <C>     <C>    <C>     <C>
+    Income from continuing operations... $1,066	 $2,038 $3,201 	$ 3,900
+    Net Income..........................	   852 	 1,689	 2,748 	 18,089
+    Earnings per common and common
+      equivalent share..................	   .01	   .03	   .04	    .39
+</TABLE>
+
+4. The computation of earnings per common and common equivalent share is based
+    upon the weighted average number of common shares outstanding during the
+    period plus (in periods in which they have a dilutive effect) the effect of
+    common shares contingently issuable, primarily from stock options and
+    exercise of warrants.
+
+    The fully diluted per share computation reflects the effect of common
+    shares contingently issuable upon the exercise of warrants in periods in
+    which such exercise would cause dilution.  Fully diluted earnings per share
+    also reflect additional dilution related to stock options due to the use of
+    the market price at the end of the period, when higher than the average
+    price for the period.
+
+    Fully diluted earnings per share are the same as primary earnings per share
+    for the periods presented.
+
+5. Effective January 3, 1994, the Company purchased the Com Services customer
+   base of 14 micrographics service centers operated by National Business
+   Systems for $14.8 million using equal amounts of common stock and cash.
+   This business has been or will be merged into Anacomp's existing service
+   centers.
+
+6. Effective May 4, 1994, the Company purchased Graham Acquisition Corporation
+   ("Graham") for $7.6 million of Anacomp stock.  The agreement also provides
+   for contingent consideration of up to $7.6 million of Anacomp stock based
+   upon the future earnings of Graham.  Graham manufacturers and distributes
+   3480 computer tape cartridges and open reel tape.  Graham's operations will
+   be combined with Anacomp's existing magnetic media products division.
+
+
+<PAGE> 10
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+Results of Operations
+
+Total revenues for the six months ended March 31, 1994 were essentially level
+with the same period of the prior year.  Micrographics service revenues
+however, were up $4.4 million, or, 7%, largely as a result of the acquisition
+of 14 data centers from National Business Systems which was effective January
+3, 1994.  Maintenance service revenues were up 3% and magnetic media sales were
+up 4%.  COM system sales and supply sales were down 2% and 9%, respectively,
+due primarily to decreased shipments in the OEM channel.
+
+Service revenues generated a gross profit margin of 31% for the six months,
+down from 32% in the same period of the prior year.  The decline is due to
+transition expenses incurred in assimilating the data center customers acquired
+from NBS.  Equipment and supply sales generated a gross profit margin of 29%
+compared to 30% in the prior year.  The reduced margin results largely from
+reduced COM system and reader printer shipments and the resulting impact on
+manufacturing costs.
+
+Selling, general, and administrative expenses amounted to 16% of total revenues
+for both years.
+
+The financial statements reflect the Company's adoption of the Financial
+Accounting Standards Board Statement No. 109, "Accounting for Income Taxes", as
+discussed in Note 3 to the Consolidated Financial Statements.  The March 31,
+1994 Balance Sheet includes a $34 million deferred tax asset and the
+Consolidated Statements of Operations include a $8 million one time adjustment
+reflecting the cumulative effect on prior years of this accounting change.
+
+Liquidity and Capital Resources
+
+Working capital amounted to $17.4 million at March 31, 1994 compared to $30.9
+million at September 30, 1993.  The decrease is mainly due to improved
+inventory turnover ratios.  As disclosed in the Consolidated Statements of Cash
+Flows, net cash provided by operating activities improved $1.5 in the first six
+months of fiscal year 1994 compared to the first six months of fiscal 1993.
+Net cash used in investing activities increased $6.0 million because of the
+acquisition of data centers from National Business Systems.  Net cash used in
+financing activities was reduced $25.2 million reflecting lower paydowns on the
+Company's revolving line of credit and contributing to the year to year
+increase in cash balances of $15.9 million.  The Company believes that
+operating cash flow in 1994 will be sufficient to meet cash requirements for
+capital expenditures, debt repayments, and other obligations.
+
+<PAGE> 11
+                        ANACOMP, INC. AND SUBSIDIARIES
+
+                          PART II:  OTHER INFORMATION
+
+
+					        PAGE NUMBER
+
+ITEM 6.	EXHIBITS AND REPORTS ON FORM 8-K
+<TABLE>
+<CAPTION>
+     <S>                                                                <C>
+     (a) 	Exhibits
+
+         	(11)  Computation of Earnings per Common Share.                12
+
+     (b)	Reports on Form 8-K
+
+	There were no reports on Form 8-K filed during the
+          quarter ended March 31, 1994.
+
+</TABLE>
+<PAGE> 12
+                                  SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+ANACOMP, INC.
+
+
+
+
+   /s/ Donald L. Viles          	
+Donald L. Viles
+Vice President and
+Chief Accounting Officer
+
+
+
+Dated this 12th day of May, 1994.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>CALCULATION OF EARNINGS
+<TEXT>
+
+<PAGE> 1
+
+		                                     EXHIBIT 11
+
+Anacomp, Inc. and Subsidiaries
+COMPUTATION OF EARNINGS PER COMMON SHARE
+<TABLE>
+<CAPTION>
+                                          		Three months ended         Six months ended
+                                         		      March 31,                March 31,
+(In thousands, except per share amounts)	     1994	      1993  	  1994   	  1993  	
+                                            	    (Unaudited)	    (Unaudited)	
+Earnings per Common and
+ Common Equivalent Share:
+ <S>                                             <C>       <C>     <C>      <C>
+	Net income available to common ................ $   318	  $ 1,862	$ 9,679 	$ 3,334	
+
+Shares:
+
+	Weighted average common shares
+    outstanding ..................................42,993	   40,148	 41,896	 39,934	
+
+
+Adjustments:
+
+(a)  Assumed issuances under
+      stock option and stock
+      purchase plans ............................. 1,341 	  1,748	  1,265	   1,706       	
+
+(b)  Assumed exercise of warrants................. 1,966    1,827   1,825 	  1,742
+
+Total shares .....................................46,300 	 43,723	 44,986 	 43,382
+
+
+
+Earnings per common share........................$   .01	$   .04	$   .22	   $ .08	
+
+</TABLE>
+<PAGE> 2		                                     EXHIBIT 11
+
+Anacomp, Inc. and Subsidiaries
+COMPUTATION OF EARNINGS PER COMMON SHARE
+ASSUMING FULL DILUTION
+<TABLE>
+<CAPTION>
+                                           		Three months ended         Six months ended
+		                                               March 31,                March 31,
+(In thousands, except per share amounts)	     1994	       1993      	  1994	     1993  	
+ 		    (Unaudited)	    (Unaudited)	
+<S>                                               <C>     <C>     <C>      <C>
+Earnings per Common and
+ Common Equivalent Share:
+
+	Net income available to common ................	 $   318	$ 1,862	$ 9,679 	$ 3,334	
+
+Shares:
+
+	Weighted average common shares
+    outstanding ..................................	 42,993	 40,148 41,896 	 39,934	
+
+
+Adjustments:
+
+(a)  Assumed issuances under
+      stock option and stock
+      purchase plans .............................	   1,392 	  1,812	  1,391	  1,785       	
+
+(b)  Assumed exercise of warrants.................	   2,046 	  1,846   2,103 	 1,790
+
+Total shares .....................................	  46,431 	 43,806	 45,390	 43,509
+
+
+
+Earnings per common share.........................	 $   .01	$   .04	$   .22	$   .08	
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

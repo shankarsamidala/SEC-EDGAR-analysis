@@ -1,0 +1,1140 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HrDBNI3P7qvTyGKfje+a/ORV3VUrJz1FdWzTCXsDq+gpxnj4AwlAgd/RLoqM8G9J
+ lAOc/tTIwOw12nm6pwUpwQ==
+
+<SEC-DOCUMENT>0000006260-99-000005.txt : 19990311
+<SEC-HEADER>0000006260-99-000005.hdr.sgml : 19990311
+ACCESSION NUMBER:		0000006260-99-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19981231
+FILED AS OF DATE:		19990211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANACOMP INC
+		CENTRAL INDEX KEY:			0000006260
+		STANDARD INDUSTRIAL CLASSIFICATION:	3861
+		IRS NUMBER:				351144230
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-08328
+		FILM NUMBER:		99530556
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12365 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+		BUSINESS PHONE:		6196799797
+
+	MAIL ADDRESS:	
+		STREET 1:		12365 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMPUTEC INC
+		DATE OF NAME CHANGE:	19740314
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>10-Q
+<TEXT>
+
+
+
+
+
+
+                             UNITED STATES
+                  SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D.C. 20549
+
+                               FORM 10-Q
+
+
+      (Mark One)
+      [ X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D)
+            OF THE SECURITIES EXCHANGE ACT OF 1934
+            FOR THE QUARTERLY PERIOD ENDED DECEMBER 31, 1998
+
+                                  or
+
+      [   ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+            SECURITIES EXCHANGE ACT OF 1934
+            FOR THE TRANSITION PERIOD FROM ____________ TO____________
+
+
+                    Commission File Number: 1-8328
+
+
+                             Anacomp, Inc.
+        (Exact name of registrant as specified in its charter)
+
+
+      Indiana                                         33-1144230
+(State or other jurisdiction of                    (I.R.S.Employer          
+incorporation or organization)                    Identification No.)
+
+
+
+           12365 Crosthwaite Circle, Poway, California 92064
+                            (619) 679-9797
+  (Address, including zip code, and telephone number, including area
+                 code, of principal executive offices)
+
+
+
+      Indicate by check mark whether the  registrant  (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities  Exchange  Act of 1934  during the  preceding  12 months (or
+for such shorter  period that the  registrant was required to file such
+reports),  and (2) has been  subject to such  filing  requirements  for
+the past 90 days.        Yes     X     No        
+
+      Indicate  by check  mark  whether  the  registrant  has filed all
+documents  and reports  required to be filed by Section 12, 13 or 15(d)
+of the Securities  Exchange Act of 1934 subsequent to the  distribution
+of   securities   under  a  plan   confirmed   by  a  court.   Yes  X  
+No     
+
+      As  of  January  31,  1999,  the  number  of  outstanding  shares  of  the
+registrant's common stock, $.01 par value per share, was 14,285,541.
+
+
+
+<PAGE>
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+                                 INDEX
+
+
+
+  PART I.    FINANCIAL INFORMATION                                 Page
+  Item 1.    Financial Statements:
+
+                Condensed Consolidated Balance Sheet at
+                   December 31, 1998 and September 30, 1998....     2
+
+                Condensed Consolidated Statements of Operations
+                   Three Months Ended December 31, 1998 and 1997    3
+
+                Condensed Consolidated Statements of Cash Flows
+                   Three Months Ended December 31, 1998 and 1997    4
+
+                Condensed Consolidated Statements of                     
+                   Stockholders' Equity (Deficit) Three Months    
+                   Ended December 31, 1998.....................     5
+
+                Condensed Consolidated Statements of                     
+                   Comprehensive Income (Loss) Three Months       
+                   Ended December 31, 1998 and 1997............     5
+
+                Notes to Condensed Consolidated Financial                
+                Statements.....................................     6
+
+             Management's Discussion and Analysis of Financial
+  Item 2.          Condition and Results of Operations.......       9
+
+
+             Quantitative and Qualitative Disclosures About       
+  Item 3.    Market Risk.....................................       13
+
+
+  PART II.   OTHER INFORMATION                                           
+
+  Item 1.    Legal Proceedings...............................       14
+
+  Item 2.    Changes in Securities and Use of Proceeds.......       14
+
+  Item 6.    Exhibits and Reports on Form 8-K................       14
+
+  SIGNATURES..................................................      15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+                    PART I - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATED BALANCE SHEETS
+
+
+<TABLE>
+<CAPTION>
+
+                                                 December 31,   September 30,
+(in thousands)                                       1998           1998
+                                                 -------------- --------------
+Assets                                           (Unaudited)
+<S>                                              <C>            <C>
+
+Current assets:
+   Cash and cash equivalents                          $8,689        $17,721
+   Restricted cash                                       902          4,285
+   Accounts and notes receivable, net                 73,293         79,109
+   Current portion of long-term receivables, net       5,516          5,641
+   Inventories                                        31,372         28,618
+   Prepaid expenses and other                         10,873         10,321
+                                                 -------------- --------------
+Total current assets                                 130,645        145,695
+
+Property and equipment, net                           47,496         41,749
+Long-term receivables, net of current portion          8,508          9,002
+Excess of purchase price over net assets of                                   
+   businesses acquired                                           
+   and other intangibles, net                        119,340        120,814
+Reorganization value in excess of identifiable                                
+   assets, net                                        67,629         88,230
+Other assets                                          14,963         15,663
+                                                 -------------- --------------
+                                                    $388,581       $421,153
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                 ============== ==============
+Liabilities and Stockholders' Equity (Deficit)
+<S>                                               <C>            <C>
+Current liabilities:
+   Current portion of long-term debt                  $1,145         $1,152
+   Accounts payable                                   27,405         36,464
+   Accrued compensation, benefits and                                         
+     withholdings                                     16,261         18,372
+   Accrued income taxes                               16,291         15,197
+   Accrued interest                                   12,209         18,158
+   Other accrued liabilities                          38,759         40,418
+                                                 -------------- --------------
+Total current liabilities                            112,070        129,761
+                                                 -------------- --------------
+
+Long-term debt, net of current portion               338,744        338,884
+                                                 -------------- --------------
+
+Stockholders' equity (deficit):
+   Preferred stock                                      ----           ----
+   Common stock                                          143            143
+   Capital in excess of par value                    109,599        109,486
+   Cumulative translation adjustment (from May                                
+     31, 1996)                                           106            447
+   Accumulated deficit (from May 31, 1996)          (172,081)      (157,568)
+                                                 -------------- --------------
+Total stockholders' equity (deficit)                 (62,233)       (47,492)
+                                                 -------------- --------------
+                                                    $388,581       $421,153
+- - -------------------------------------------------============== ==============
+</TABLE>
+
+
+   See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+            CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                              (Unaudited)
+<TABLE>
+<CAPTION>
+                                                      Three Months Ended
+                                                         December 31,
+(in thousands, except per share amounts)              1998          1997
+- - -------------------------------------------------  ------------  ------------
+<S>                                                <C>           <C>
+Revenues:
+   Services provided                                  $75,485       $48,507
+   Equipment and supply sales                          63,462        69,307
+                                                   ------------  ------------
+                                                      138,947       117,814
+                                                   ------------  ------------
+Operating costs and expenses:
+   Costs of services provided                          45,598        27,199
+   Costs of equipment and supplies sold                45,748        51,071
+   Selling, general and administrative expenses        26,214        23,861
+   Amortization of reorganization asset                18,890        18,745
+   Amortization of intangible assets                    4,495         2,600
+                                                   ------------  ------------
+                                                      140,945       123,476
+                                                   ------------  ------------
+
+Loss from operations                                   (1,998)       (5,662)
+                                                   ------------  ------------
+
+Other income (expense):
+   Interest income                                        388           785
+   Interest expense and fee amortization               (9,961)       (7,921)
+   Other                                                  229          (170)
+                                                   ------------  ------------
+                                                       (9,344)       (7,306)
+                                                   ------------  ------------
+Loss before income taxes                              (11,342)      (12,968)
+Provision for income taxes                              3,171         2,400
+                                                   ------------  ------------
+Net loss                                             $(14,513)     $(15,368)
+                                                   ============  ============
+
+
+Basic net loss per share                               $(1.02)       $(1.11)
+                                                   ============  ============
+
+Shares used in computing basic net loss per                                  
+   share                                               14,267        13,814
+                                                   ============  ============
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+            CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+
+                                                      Three Months Ended
+                                                         December 31,
+                                                  ---------------------------
+(in thousands)                                        1998          1997
+                                                  ------------- -------------
+Cash flows from operating activities:
+<S>                                                 <C>           <C>      
+Net loss                                            $(14,513)     $(15,368)
+Adjustments to reconcile net loss to net cash                                
+provided by (used in) operating activities:                                  
+Depreciation and amortization                         28,800        24,993
+Non-cash compensation                                    286           251
+Non-cash charge in lieu of taxes                       1,711         1,460
+Restricted cash requirements                           3,383         2,881
+Change in assets and liabilities net of effects                              
+from acquisitions:                                                           
+Decrease (increase) in accounts and long-term                                
+receivables                                            5,664        (2,774)
+Decrease (increase) in inventories and prepaid                               
+expenses                                              (2,843)          247
+Increase in other assets                                (442)         (207)
+Decrease in accounts payable and accrued                                     
+expenses                                             (18,493)      (17,637)
+Decrease in other noncurrent liabilities                  (9)         (338)
+                                                  ------------- -------------
+Net cash provided by (used in) operating                                     
+activities                                             3,544        (6,492)
+                                                  ------------- -------------
+Cash flows from investing activities:
+Purchases of property, plant and equipment            (9,001)       (2,331)
+Payments to acquire companies and customer                                   
+rights                                                (3,821)      (13,020)
+                                                  ------------- -------------
+Net cash used in investing activities                (12,822)      (15,351)
+                                                  ------------- -------------
+Cash flows from financing activities:
+Proceeds from the exercise of options and                                    
+warrants                                                 113           421
+Principal payments on long-term debt                    (115)       (3,951)
+                                                  ------------- -------------
+Net cash used in financing activities                     (2)       (3,530)
+                                                  ------------- -------------
+Effect of exchange rate changes on cash                  248          (778)
+                                                  ------------- -------------
+Decrease in cash and cash equivalents                 (9,032)      (26,151)
+Cash and cash equivalents at beginning of period      17,721        58,060
+                                                  ------------- -------------
+Cash and cash equivalents at end of period            $8,689       $31,909
+                                                  ============= =============
+
+
+Supplemental Information:
+Cash paid for interest                               $15,403       $12,834
+                                                  ============= =============
+Cash paid for income taxes                              $667        $1,090
+                                                  ============= =============
+Assets acquired by assuming liabilities                  $--          $702
+                                                  ============= =============
+</TABLE>
+
+
+
+
+   See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+          CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS'
+                           EQUITY (DEFICIT)
+                              (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                   Cap. in                                     
+                                   excess of     Cum.
+                           Common   par      Translation   Accum.
+(in thousands)              Stock    value       adj.      Deficit    Total
+                           ----------------------------------------------------
+<S>                          <C>    <C>         <C>       <C>        <C>          
+Balance at September 30,                                                       
+1998                         $143   $109,486    $447      $(157,568)$(47,492)
+Common stock issued for                                                        
+the exercise of options    
+and warrants                 ----        113    ----           ----      113
+Cumulative translation                                                         
+adjustment                   ----       ----    (341)          ----     (341)
+Net loss for three months    ----       ----    ----        (14,513) (14,513)
+                           ----------------------------------------------------
+Balance at December 31,                                                        
+1998                         $143   $109,599    $106      $(172,081)$(62,233)
+                           ====================================================
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+          CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE
+                             INCOME (LOSS)
+                              (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                            Three Months Ended
+                                               December 31,
+                                        ---------------------------
+     (in thousands)                         1998          1997
+                                        ------------- -------------
+<S>                                       <C>           <C>      
+     Net loss                             $(14,513)     $(15,368)
+
+     Translation adjustment                   (341)         (607)
+                                        ------------- -------------
+     Comprehensive loss                   $(14,854)     $(15,975)
+                                        ============= =============
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+                    ANACOMP, INC. AND SUBSIDIARIES
+       NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                              (Unaudited)
+
+Note 1.  Basis of Presentation
+
+The  accompanying   condensed  consolidated  financial  statements  include  the
+accounts of Anacomp,  Inc.  ("Anacomp" or the  "Company")  and its  wholly-owned
+subsidiaries.  All significant  intercompany accounts and transactions have been
+eliminated.  These  financial  statements,  except for the  balance  sheet as of
+September  30, 1998,  have not been audited but, in the opinion of the Company's
+management,  include  all  adjustments  (consisting  only  of  normal  recurring
+accruals) necessary for a fair presentation of the Company's financial position,
+results of operations and cash flows for all periods presented.  These financial
+statements should be read in conjunction with the Company's financial statements
+and notes  thereto  for the year  ended  September  30,  1998,  included  in the
+Company's  1998 Annual Report on Form 10-K.  Interim  operating  results are not
+necessarily indicative of operating results for the full year.
+
+Note 2.  Management Estimates and Assumptions
+
+The Company's preparation of the accompanying  condensed  consolidated financial
+statements in conformity with generally accepted accounting  principles requires
+its  management  to make  estimates  and  assumptions  that affect the  reported
+amounts of assets and  liabilities,  the  disclosure  of  contingent  assets and
+liabilities at the date of the financial statements, and the reported amounts of
+revenues and expenses during the reporting period.  Estimates have been prepared
+on the basis of the most current available  information and actual results could
+differ from those estimates.
+
+Note 3.  Reorganization Asset
+
+As of May 31, 1996, the Company  adopted Fresh Start Reporting which resulted in
+material  changes to the  consolidated  balance  sheet,  including  valuation of
+assets,  intangible assets and liabilities at fair market value and valuation of
+equity based on the appraised  reorganization value of the ongoing business. The
+net  result  of  the  valuation  of  identifiable  assets,  the  recognition  of
+liabilities  at fair market  value and the  valuation  of equity was the Company
+recognizing an asset  "Reorganization  value in excess of  identifiable  assets"
+("Reorganization  Asset")  totaling  $267.5  million  as of May  31,  1996.  The
+Reorganization  Asset was $67.6  million,  net of accumulated  amortization,  at
+December  31,  1998.  This  asset is  being  amortized  over a 3.5  year  period
+beginning May 31, 1996 and will be fully amortized by November 30, 1999.
+
+On a pro forma basis,  excluding the Reorganization  Asset amortization of $18.9
+million and $18.7  million,  the Company  would have reported net income of $4.4
+million  and $3.4  million,  basic  net  income  per  share of $.31 and $.24 and
+diluted  net  income  per  share of $.29 and $.23  for the  three  months  ended
+December 31, 1998 and 1997, respectively.
+
+Note 4.  Comprehensive Income
+
+The Company adopted Financial  Accounting Standards Board ("FASB") Statement No.
+130 - Reporting  Comprehensive  Income effective October 1, 1998. This statement
+requires the presentation of comprehensive  income,  as defined,  as part of the
+basic financial statements.  Comprehensive income includes all changes in equity
+during  a  period  except  those  resulting  from   investments  by  owners  and
+distributions to owners.
+
+
+
+
+
+
+
+
+
+
+Note 5.  First Image Acquisition
+
+Effective   June  1,  1998,   the  Company   completed  its   acquisition   (the
+"Acquisition")  of assets  constituting  substantially  all of the  business and
+operations  (the "First Image  Businesses")  of First Image  Management  Company
+("First Image"), a division of First Financial Management  Corporation ("FFMC"),
+a wholly owned  subsidiary of First Data Corporation  ("FDC").  The Company also
+assumed  substantially  all of  the  ongoing  liabilities  of  the  First  Image
+Businesses.  The purchase price paid by the Company to FFMC was $150.0  million,
+although a  post-closing  adjustment  resulted in FFMC  returning to the Company
+$4.4 million to reflect a shortfall in the  agreed-upon  working capital for the
+First Image Businesses. The Acquisition was accounted for as a purchase, and the
+excess  of the  purchase  price  over the  estimated  fair  value of net  assets
+acquired ("goodwill") approximated $100.0 million, which is being amortized over
+a 15-year period on a straight-line basis.
+
+The First  Image  Businesses  included  (i)  image  access  services,  primarily
+Computer Output to Microfilm  ("COM") and Compact Disc ("CD") services (the "IAS
+Business"),  (ii) document print and  distribution  services such as laser print
+and mail and demand publishing services (the "DPDS Business") and (iii) document
+acquisition  services  such as health care and  insurance  claims entry and data
+capture  services (the "DAS  Business").  The Company sold the DPDS Business and
+the DAS Business  during the  three-month  period ended  September 30, 1998. The
+Company  retained and continues to operate the IAS Business  whose  revenues and
+earnings  are  included in the  Company's  results of  operations  for the three
+months ended December 31, 1998.
+
+Note 6.  Inventories
+<TABLE>
+<CAPTION>
+                                                     Three Months Ended
+                                                        December 31,
+                                                  -------------------------
+                                                      1998        1997
+                                                  -------------------------
+<S>                                                  <C>          <C>    
+  Finished goods                                     $18,374      $14,946
+
+  Work in process                                      3,212        3,583
+
+  Raw materials and supplies                           9,786       10,089
+                                                  -------------------------
+                                                     $31,372      $28,618
+                                                  =========================
+</TABLE>
+
+Note 7.  Income Taxes
+
+The Company's  amortization  of the  Reorganization  Asset is not deductible for
+income tax  purposes.  Accordingly,  the Company  incurs income tax expense even
+though it reports a pre-tax loss due to such amortization.
+
+For the three  months ended  December  31, 1998 and 1997,  income tax expense is
+reported for the Company based upon the estimated  effective tax rates.  For the
+three months ended  December 31, 1998 and 1997,  the effective tax rate utilized
+was 42% of pretax income before  amortization of the  Reorganization  Asset. For
+the three  months ended  December 31, 1998 and 1997,  the limited tax benefit of
+the U.S.  Federal  net  operating  loss  carryforwards  ("NOL")  of the  Company
+resulted in a reduction of $1.7 million and $1.5 million,  respectively,  in the
+Company's Reorganization Asset and did not reduce income tax expense.
+
+Note 8.  Loss Per Share:
+
+Basic earnings per share is computed  based upon the weighted  average number of
+shares of the  Company's  common stock  outstanding  during the period.  Diluted
+earnings per share is computed based upon the weighted  average number of shares
+of common stock  outstanding  and dilutive common stock  equivalents  during the
+period.  Common stock  equivalents  include  options granted under the Company's
+stock option  plans using the  treasury  stock method and shares of common stock
+expected to be issued under the Company's  employee stock purchase plan.  Common
+stock  equivalents were not used to calculate diluted earnings per share because
+of their anti-dilutive effect. There are no reconciling items in calculating the
+numerator  for  basic and  diluted  earnings  per  share for any of the  periods
+presented.
+
+
+
+Note 9.  Acquisitions
+
+During the three  months  ended  December  31,  1998,  the Company  acquired the
+customer  bases  and  other   specified   assets  of  four   businesses.   Total
+consideration  paid at closing was $3.6  million,  of which  approximately  $1.2
+million was assigned to excess of purchase  price over the net assets  acquired.
+The provisions of one of the  acquisition  agreements  includes  contingent cash
+payments  of up to  $536,000,  based upon the  transfer of  additional  customer
+contracts through March 31, 2000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+ITEM 2.  Management's  Discussion  and Analysis of Financial  Condition
+and Results of Operations
+
+Certain  statements in this  "Management's  Discussion and Analysis of Financial
+Condition and Results of  Operations"  constitute  "forward-looking  statements"
+within the meaning of the Private Securities Litigation Reform Act of 1995. Such
+forward-looking  statements  involve known and unknown risks,  uncertainties and
+other  important  factors that could cause the actual  results,  performance  or
+achievements of the Company,  or industry results, to differ materially from any
+future  results,  performance  or  achievements  expressed  or  implied  by such
+forward-looking  statements.  Such  risks,  uncertainties  and  other  important
+factors  include,  among  others:  general  economic  and  business  conditions;
+industry  trends;  industry  capacity;  competition;  raw  materials  costs  and
+availability;  currency  fluctuations;  the loss of any significant customers or
+suppliers;  changes in business  strategy or  development  plans;  availability,
+terms and deployment of capital;  availability of qualified  personnel;  changes
+in, or the failure or inability to comply with, government regulation; and other
+factors referenced in this report. These  forward-looking  statements speak only
+as of the date of this report.
+
+Pro Forma Statements of Operations
+
+      As of May 31,  1996,  the  Company  adopted  Fresh Start  Reporting  which
+resulted in material changes to the  consolidated  balance sheet. The net result
+of the valuation of identifiable  assets, the recognition of liabilities at fair
+market value and the  valuation of equity was the Company  recognizing  an asset
+"Reorganization value in excess of identifiable assets" ("Reorganization Asset")
+totaling $267.5 million as of May 31, 1996. This asset is being amortized over a
+3.5 year period  beginning May 31, 1996 and will be fully  amortized by November
+30, 1999.
+
+      To  facilitate  a  better   understanding   of  the  Company's   operating
+performance  after  the  Reorganization  Asset is  fully  amortized,  pro  forma
+condensed  consolidated  statements  of  operations  for the three  months ended
+December 31, 1998 and 1997 have been presented  below.  The only difference from
+the  Company's  reported  results  is a pro  forma  adjustment  to  exclude  the
+amortization of the  Reorganization  Asset of $18.9 million and $18.7 million in
+1998 and 1997, respectively.
+
+ PRO FORMA CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                       Three Months Ended December 31,
+(in thousands, except per share                                           
+amounts)                                   1998               1997
+                                     -------------------------------------
+<S>                                    <C>       <C>     <C>       <C>   
+Revenues                               $138,947  100.0%  $117,814  100.0%
+                                     ------------      ------------
+
+Cost of sales                            91,346  65.7%     78,270   66.4%
+Selling, general and administrative                                       
+   expenses                              26,214  18.9%     23,861   20.3%
+Amortization of intangible assets         4,495   3.2%      2,600    2.2%
+                                     ------------      ------------
+Total operating costs and expenses      122,055  87.8%    104,731   88.9%
+                                     ------------      ------------
+
+Income from operations                   16,892  12.2%     13,083   11.1%
+Interest expense and other               (9,344)  6.7%     (7,306)   6.2%
+                                     ------------      ------------
+Income before income taxes                7,548   5.5%      5,777    4.9%
+Provision for income taxes                3,171   2.3%      2,400    2.0%
+                                     ------------      ------------
+Net income                               $4,377   3.2%     $3,377    2.9%
+                                     ============      ============
+
+Basic net income per share                 $.31              $.24
+                                     ============      ============
+Diluted net income per share               $.29              $.23
+                                     ============      ============
+Shares used in computing basic net                                        
+   income per share                    14,267            13,814           
+                                     ============      ============
+Shares used in computing diluted                                          
+   net income per share                15,216            14,760           
+                                     ============      ============
+</TABLE>
+
+<PAGE>
+
+Results of Operations
+
+General
+
+      Anacomp  reported a net loss of $14.5  million for the three  months ended
+December 31, 1998,  compared to a net loss of $15.4 million for the three months
+ended  December 31, 1997. The net losses include  non-cash  amortization  of the
+Company's  Reorganization Asset of $18.9 and $18.7 million for the periods ended
+December 31, 1998 and 1997, respectively.
+
+      Earnings  before   interest,   other  income,   taxes,   depreciation  and
+amortization  ("EBITDA") was $26.8  million,  or 19.3% of revenues for the three
+months ended  December 31, 1998.  This compares to EBITDA of $19.1  million,  or
+16.2% of revenues for the three months ended December 31, 1997.
+
+Three  Months Ended  December 31, 1998 vs. Three Months Ended  December
+31, 1997
+
+      Revenues.  The Company's  revenues increased 17.9% from $117.8 million for
+the three months ended December 31, 1997, to $138.9 million for the three months
+ended December 31, 1998.  The Company  experienced  increased  revenues of $27.0
+million in its Outsource  Services business line, while  experiencing  decreased
+revenues of $3.7 million in its Micrographic Supplies product line.
+
+      The $27.0 million increase in Outsource Service revenues was primarily due
+to the June 1,  1998  acquisition  of First  Image  Management  Company  ("First
+Image") and the inclusion of its  operating  results for the three months ending
+December 31, 1998.  Digital service revenues also increased  significantly  with
+quarterly revenues now exceeding $7 million.
+
+      The $3.7  million  decrease in  Micrographics  Supplies  revenues  was the
+result of the Company's discontinuance of the sale of duplicate microfilm to the
+reseller  market,  as well as  declining  sales of original  COM  microfilm  and
+duplicate microfilm, which is consistent with long-term trends.
+
+      Gross  Margins.  The Company's  gross margins  increased  20.4% from $39.5
+million  (33.6% of revenues)  for the three months ended  December 31, 1997,  to
+$47.6 million  (34.3% of revenues) for the three months ended December 31, 1998.
+Gross margins,  as a percentage of revenue,  remained  relatively  consistent in
+total.  Services margins,  as a percentage of revenue,  decreased 4.3 percentage
+points from 1997 to 1998  principally  because of decreases  in average  selling
+prices  for  Outsource   Service   business  and  of  costs   incurred  for  the
+consolidation of First Image data centers.  Equipment and supplies margins, as a
+percentage  of  revenue,  increased  1.6  percentage  points  from  1997 to 1998
+primarily  due to product mix in the  Micrographic  Supplies and Magnetic  Media
+businesses.
+
+      Selling,  general  and  administrative  expenses.   Selling,  general  and
+administrative  ("SG&A")  expenses  increased  9.9% from $23.9 million (20.3% of
+revenues) for the three months ended  December 31, 1997 to $26.2 million  (18.9%
+of  revenues)  for the three months ended  December 31, 1998.  This  increase is
+primarily  due to  the  increased  expenses  associated  with  the  First  Image
+acquisition.
+
+      Amortization  of intangible  assets.  Amortization  of  intangible  assets
+increased  72.9% from $2.6 million (2.2% of revenues) for the three months ended
+December 31, 1997, to $4.5 million (3.2% of revenues) for the three months ended
+December  31,  1998.  This  increase is  primarily  due to the  amortization  of
+goodwill associated with the First Image acquisition.
+
+      Interest  Expense.  Interest expense increased 25.8% from $7.9 million for
+the three months ended  December 31, 1997 to $10.0  million for the three months
+ended December 31, 1998.  This increase was the result of additional  borrowings
+used to finance the acquisition of First Image.
+
+      Provision for Income  Taxes.  The provision for income taxes for the three
+months  ended  December  31,  1998  includes  $1.5  million on  earnings  of the
+Company's  domestic  operations  and $1.7 million on earnings from the Company's
+foreign  subsidiaries.  The  Company's  effective  tax rate  remained  at 42% of
+taxable  income  for both  periods  presented.  See  Note 7 to the  accompanying
+Condensed Consolidated Financial Statements for further discussion.
+<PAGE>
+
+Liquidity and Capital Resources
+
+      Anacomp's  working  capital at December  31, 1998,  excluding  the current
+portion  of  long-term  debt was $19.7  million,  compared  to $17.1  million at
+September 30, 1998.  Net cash provided by operating  activities was $3.5 million
+for the three months ended December 31, 1998,  compared to a use of $6.5 million
+in the comparable prior period. The current period benefited from an increase in
+depreciation and amortization of approximately $3.8 million, which was primarily
+the result of  increased  goodwill and  depreciable  assets from the First Image
+acquisition.  The current period also benefited from a $5.7 million reduction in
+accounts and long-term receivables,  which was offset by a $2.8 million increase
+in inventories and prepaid expenses.
+
+      Net cash used in  investing  activities  was $12.8  million in the current
+period,  compared to $15.3 million in the comparable prior period. This decrease
+was the result of the decline in capital used to acquire  companies and customer
+rights  which was  offset by an  increase  in  capital  expenditures  which were
+primarily used to integrate the First Image businesses.
+
+      Net cash used in financing activities decreased approximately $3.5 million
+during the three months ended  December 31, 1998 with respect to the same period
+in the prior year.  This decrease was  principally the result of $4.0 million in
+payments on the Company's senior debt obligations  during the three months ended
+December  31,  1997.  No  payments  were  made  on  the  Company's  senior  debt
+obligations for the three months ended December 31, 1998.
+
+      The Company's cash balance (including  restricted cash) as of December 31,
+1998 was $9.6  million,  compared to $22.0  million at September  30, 1998.  The
+Company also has available an $80 million revolving credit facility.  There were
+no amounts  outstanding  under the revolving  credit facility as of December 31,
+1998.
+
+      The Company has significant debt service  obligations.  As of December 31,
+1998,  the  Company  had $335  million  of  10-7/8%  Senior  Subordinated  Notes
+outstanding.  Interest on these notes is payable semi-annually and the notes are
+due in April 2004. The ability of the Company to meet its debt service and other
+obligations will depend upon its future performance and is subject to financial,
+economic and other factors,  some of which are beyond its control.  However, the
+Company  believes that cash on hand and cash generated from  operations and cash
+available  under the  revolving  credit  facility will be sufficient to fund its
+debt  service   requirements,   acquisition   strategies  and  working   capital
+requirements in the foreseeable future.
+
+
+
+<PAGE>
+
+
+
+Year 2000
+
+      Anacomp  has  undertaken  a  comprehensive  "year  2000"  program  for the
+products that it sells or  distributes in the  marketplace.  Under this program,
+the Company has assessed all of its critical  software and hardware  products to
+determine what remediation,  if any, is necessary for the proper  functioning of
+these  systems in the year 2000 and  beyond.  The  Company  has worked  with its
+outside  vendors to ensure that they will  continue to support the products that
+the vendors  supply to Anacomp  for resale,  including  the  performance  by the
+vendors of any required  year 2000  remediation.  Anacomp has also  analyzed and
+updated for year 2000  purposes  certain  software and hardware  systems that it
+uses internally.  The Company continues to consider year 2000 issues for all new
+products  and services as well as those in  development  or included in business
+acquisitions.
+
+      State of Readiness.  Anacomp's  overall state of readiness can be assessed
+by describing its specific readiness in four key areas,  namely its products and
+services,  its  vendors' and  suppliers'  products  and  services,  its internal
+systems, and its products in development.
+
+      Anacomp has completed the  assessment,  remediation  and year 2000 testing
+phases  of  nearly  all  supported   products  and  services,   including  those
+responsible  for  generating  the  material  portion  of its  revenues.  Anacomp
+summarizes the status of each  completed  product or service in a written report
+to the Company's  year 2000 steering  committee,  for archiving in the Company's
+year 2000 database.  These  processes have been reviewed and approved by a third
+party consultant retained for this purpose.
+
+      The  implementation  phase of the Company's year 2000 project depends upon
+the response of the Company's  customers  who may require  upgrades or migration
+paths.  Anacomp is in the process of communicating with identified customers and
+has no reason to believe that all  customers  who require  upgrades or migration
+will not receive them. To this end, Anacomp has offered financial  incentives to
+encourage early responses and avoid peak demand loads, although no assurance can
+be made that the  demand  will be spread  sufficiently  to  eliminate  delays in
+implementation.  Anacomp has also launched its "Analog as a Fail Safe"  campaign
+to educate  customers  about the value of COM and microfilm as a way to minimize
+the risk of the year 2000.  Although customers may divert expenditures away from
+these  products  and  services  in order to fund  other  year 2000  remediation,
+Anacomp  encourages  customers  to consider  these  products  and  services as a
+cost-effective  backup to digital  storage  because  retrieval of data stored on
+microfilm does not require digital technology.
+
+      The  Company has  requested  that  approximately  1,000 of its vendors and
+suppliers  answer a year 2000 readiness  questionnaire  and has sent a follow-up
+letter and  questionnaire to each of approximately 200 key vendors and suppliers
+who did not reply to the first  mailing.  Anacomp is in the process of reviewing
+the responses for their likely impact on the Company. For those Anacomp products
+that  incorporate the products of a third party supplier,  Anacomp requests that
+its suppliers  disclose test procedures and results.  Anacomp has also requested
+that its vendors in the human resources area, such as its retirement, health and
+insurance providers,  respond in writing as to their readiness, but there can be
+no assurance  that such vendors  will either  respond or achieve  readiness in a
+timely fashion.
+
+      Anacomp has identified all internal software and hardware products used in
+its  corporate  headquarters  in  Poway,  California,  including  those  used to
+assimilate and report financial  information and to handle billing,  collections
+and electronic commerce.  In those instances where remediation or renovation was
+required,  Anacomp has either completed or has nearly completed such remediation
+or renovation. Anacomp is in the process of completing the documentation of such
+efforts for its year 2000 archives.
+
+      The Company continues to develop new products and services and acquire new
+businesses.  Anacomp  develops  and tests each new product,  sometimes  with the
+assistance of an outside  consultant,  for year 2000 readiness.  Businesses that
+Anacomp  acquires,  such as First  Image,  are  subject to the same  assessment,
+remediation, testing and implementation phases as those described above.
+
+<PAGE>
+
+
+      Costs. Anacomp estimates that total expenditures on its year 2000 project,
+including costs of outside  parties such as consultants and attorneys,  costs of
+hardware  and software  remediation,  internal  labor,  travel and out of pocket
+expenses to be  approximately  $0.3, $2.3, and $1.2 million in fiscal year 1997,
+1998,  and  1999,  respectively.   These  figures  include  estimates  from  the
+engineering,  manufacturing, legal and information technology departments of the
+Company.
+
+      Risks.  There can be no  assurance  that the  Company  and its vendors and
+suppliers will be able to identify all year 2000 issues before problems manifest
+themselves or to complete all  remediation in the required time frame.  Further,
+it is possible  that the future level of expenses in the  Company's  remediation
+efforts could rise significantly.
+
+      The Company  relies upon the  continuous  provision of services from third
+parties such as electrical and telecommunication utilities around the world, and
+the Company plans to enhance its electronic data transmission capabilities.  Any
+sustained  disruption  of  service  or  capability  could  adversely  impact the
+Company's  ability to operate its business.  Finally,  there can be no assurance
+that,  if left  unremedied,  the products or services  that the Company sells or
+distributes would remain competitive in the marketplace or the products that the
+Company uses internally would not have a material effect upon the ability of the
+Company to report its financial results.
+
+      Contingency  Plans. In those  instances where the Company  determines that
+year 2000  problems  with its  operational  facilities  may not be identified or
+remediated in time, the Company believes that its business will still be able to
+function without substantial interruption. For example, COM services provided in
+a data center which  experiences a loss of power due to a third party  utility's
+failure to identify or remediate an isolated  year 2000 problem could be shifted
+to another data center without substantial interruption. In addition, electronic
+transmission  of data  could be  replaced  with  manual  delivery  of data  upon
+completion of certain  modifications.  In those instances where an installed COM
+customer  experiences a year 2000 problem while operating its own COM equipment,
+Anacomp  could offer its COM services to the customer at one of its data centers
+upon  completion  of  certain  modifications.  This  seamless  nature of many of
+Anacomp's products and services forms the basis of Anacomp's ongoing contingency
+planning.
+
+
+ITEM 3.  Quantitative and Qualitative Disclosures About Market Risks
+
+      The Company does not have any significant financial instruments other than
+fixed rate debt.  The  Company's  revolving  credit  facility is affected by the
+general level of U.S. interest rates and/or the LIBOR rate. However, the Company
+had no amounts  outstanding under this revolving credit facility on December 31,
+1998.
+
+
+
+<PAGE>
+
+
+                      PART II - OTHER INFORMATION
+
+Item 1.       Legal Proceedings
+
+      The Company and its  subsidiaries  are  potential or named  defendants  in
+several  lawsuits and claims arising in the ordinary  course of business.  While
+the outcome of such claims,  lawsuits or other  proceedings  against the Company
+cannot be predicted with certainty,  management expects that such liability,  to
+the extent not provided  for through  insurance  or  otherwise,  will not have a
+material adverse effect on the financial  conditions or results of operations of
+the Company.
+
+      On August 29, 1997, Access Solutions  International,  Inc. ("ASI") filed a
+complaint for patent infringement in the U.S. District Court,  District of Rhode
+Island, against Data/Ware Development,  Inc. ("Data/Ware"),  of which Anacomp is
+the successor by merger, and The Eastman Kodak Company ("Kodak").  The complaint
+seeks injunctive relief and unspecified damages,  including attorney's fees, for
+the alleged  infringement  by Data/Ware and Kodak of ASI's United States Letters
+Patent No. 4,775,969 for "Optical Disk Storage Format,  Method and Apparatus for
+Emulating a Magnetic  Tape Drive" and No.  5,034,914  for "Optical  Disk Storage
+Method and  Apparatus  with  Buffered  Interface."  The  Company has assumed the
+defense  of this  matter on behalf of both  Data/Ware  and Kodak,  although  the
+Company  has  also  requested   indemnification   from  the  principal   selling
+shareholder of Data/Ware.  Discovery in this matter continues, with any trial to
+occur probably not before the third calendar quarter of 1999. Although there can
+be no assurance as to the eventual outcome of this matter,  the Company believes
+that it has numerous meritorious defenses that it intends to pursue vigorously.
+
+Item 2.  Changes in Securities and Use of Proceeds
+
+(c)   Unregistered Securities
+
+      Pursuant to the 1996 Non-employee  Director Stock Option Plan (Amended and
+Restated  as of December 1,  1997),  non-employee  directors  of the Company may
+elect to receive their annual  retainer in the form of options to acquire common
+stock of the Company. Pursuant to such elections,  during the three-month period
+ending  December  31, 1998,  an aggregate of 1,875  options was granted to three
+directors in lieu of aggregate cash compensation of $9,375. The issuance of such
+options was effected in reliance upon the private placement  exemption set forth
+in Section 4 (2) of the Securities Act of 1933, as amended,  on the basis of the
+directors'  familiarity  with  the  business  and  affairs  of the  Company.  No
+underwriting fees or discounts were applicable to the transactions.  The options
+are first exercisable six months after the date of grant and remain  exercisable
+through the tenth anniversary of the grant date, at an exercise price of $11.375
+per share.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)   Exhibit 27.1  -  Financial Data Schedule
+
+(b)    The  Company  filed no  reports  on Form 8-K  during  the  quarter  ended
+       December 31, 1998.
+
+
+
+
+<PAGE>
+
+
+                              SIGNATURES
+
+
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                                ANACOMP, INC.
+
+
+
+                                                /s/ Donald L. Viles
+                                                Donald L. Viles
+                                                Executive Vice
+                                          President and
+                                                  Chief Financial
+                                          Officer
+Date: February 10, 1999
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM ANACOMP
+INC.'S DECEMBER 31, 1998 FORM 10-Q QUARTERLY REPORT AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>                        
+<MULTIPLIER>                                   1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                              SEP-30-1999
+<PERIOD-START>                                 OCT-01-1998
+<PERIOD-END>                                   DEC-31-1998
+<CASH>                                         9,591
+<SECURITIES>                                   0
+<RECEIVABLES>                                  80,711
+<ALLOWANCES>                                   7,418
+<INVENTORY>                                    31,372
+<CURRENT-ASSETS>                               130,645
+<PP&E>                                         71,938
+<DEPRECIATION>                                 24,442
+<TOTAL-ASSETS>                                 388,581
+<CURRENT-LIABILITIES>                          110,925
+<BONDS>                                        339,889
+<PREFERRED-MANDATORY>                          0
+<PREFERRED>                                    0
+<COMMON>                                       143
+<OTHER-SE>                                     (62,376)
+<TOTAL-LIABILITY-AND-EQUITY>                   388,581
+<SALES>                                        63,462
+<TOTAL-REVENUES>                               138,947
+<CGS>                                          45,748
+<TOTAL-COSTS>                                  140,945
+<OTHER-EXPENSES>                               0
+<LOSS-PROVISION>                               0
+<INTEREST-EXPENSE>                             9,961
+<INCOME-PRETAX>                                (11,342)
+<INCOME-TAX>                                   3,171
+<INCOME-CONTINUING>                            (14,513)
+<DISCONTINUED>                                 0
+<EXTRAORDINARY>                                0
+<CHANGES>                                      0
+<NET-INCOME>                                   (14,513)
+<EPS-PRIMARY>                                  (1.02)
+<EPS-DILUTED>                                  (1.02)
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3295 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FSZ5kBRSnGPMcOSF4H3M01JYEVORuP493ZMCfd3qVMgfEJZdualrhP6iynui2Vs+
+ pVVZvSgJCDa/Y/yg+7viYQ==
+
+<SEC-DOCUMENT>0000005907-00-000025.txt : 20000516
+<SEC-HEADER>0000005907-00-000025.hdr.sgml : 20000516
+ACCESSION NUMBER:		0000005907-00-000025
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AT&T CORP
+		CENTRAL INDEX KEY:			0000005907
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				134924710
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01105
+		FILM NUMBER:		632205
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		2123875400
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN TELEPHONE & TELEGRAPH CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>1ST QUARTER 10-Q REPORT FOR 2000
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+                                    FORM 10-Q
+
+
+
+          ..X.. QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended March 31, 2000
+
+                                       OR
+
+           ..... TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+          For the transition period from _____________to _____________
+
+
+                          Commission file number 1-1105
+
+
+                                   AT&T CORP.
+
+A New York                                                       I.R.S. Employer
+Corporation                                                      No. 13-4924710
+
+            32 Avenue of the Americas, New York, New York 10013-2412
+
+                       Telephone - Area Code 212-387-5400
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. Yes ..X No ...
+
+
+At April 30, 2000, the following shares of stock were outstanding:
+
+         AT&T common stock - 3,145,338,509 shares
+         Liberty  Media  Group  Class A tracking  stock -  1,184,602,868  shares
+         Liberty Media Group Class B tracking  stock -  103,117,226  shares AT&T
+         Wireless Group tracking stock - 360,000,000 shares
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+                         PART I - FINANCIAL INFORMATION
+                       CONSOLIDATED STATEMENTS OF INCOME
+                 (Dollars in Millions Except Per Share Amounts)
+                                   (Unaudited)
+
+
+                                  For the Three
+                                                      Months Ended
+                                                         March 31,
+                                                      2000      1999
+
+Revenue                                            $15,836   $14,096
+
+Operating Expenses
+Access and other connection                          3,588     3,732
+Costs of services and products                       3,850     2,872
+Selling, general and administrative                  3,289     3,157
+Depreciation and other amortization                  1,566     1,304
+Amortization of goodwill, franchise costs
+ and other purchased intangibles                       368       184
+Net restructuring and other charges                    773       731
+Total operating expenses                            13,434    11,980
+
+Operating income                                     2,402     2,116
+
+Equity earnings (losses) from Liberty Media Group      942       (58)
+Other income                                           262       149
+Interest expense                                       555       190
+Income before income taxes                           3,051     2,017
+Provision for income taxes                             368       999
+
+Net income                                         $ 2,683   $ 1,018
+
+AT&T Group earnings per AT&T common share:
+ Basic                                             $  0.55   $  0.39
+ Diluted                                           $  0.54   $  0.38
+
+Dividends declared per AT&T common share           $  0.22   $  0.22
+
+Liberty Media Group earnings (loss) per share:
+ Basic and diluted                                 $  0.73   $ (0.05)
+
+
+
+                 See Notes to Consolidated Financial Statements
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+
+                           CONSOLIDATED BALANCE SHEETS
+                   (Dollars in Millions Except Share Amounts)
+                                   (Unaudited)
+
+                                                        March 31,   December 31,
+                                                           2000        1999
+ASSETS
+
+Cash and cash equivalents                              $    102    $  1,024
+
+Receivables, less allowances of $1,267 and $1,507        10,943      10,453
+
+Deferred income taxes                                     1,499       1,287
+
+Other current assets                                      1,075       1,120
+
+TOTAL CURRENT ASSETS                                     13,619      13,884
+
+Property, plant and equipment, net of accumulated
+  depreciation of $28,884 and $30,057                    38,853      39,618
+
+Franchise costs, net of accumulated amortization
+  of $883 and $697                                       32,194      32,693
+
+Licensing costs, net of accumulated amortization
+  of $1,551 and $1,491                                    8,578       8,548
+
+Goodwill, net of accumulated amortization of
+  $426 and $363                                           7,390       7,445
+
+Investment in Liberty Media Group and related
+  receivables, net                                       41,983      38,460
+
+Other investments and related advances                   21,567      19,366
+
+Prepaid pension costs                                     2,571       2,464
+
+Other assets                                              6,927       6,928
+
+TOTAL ASSETS                                           $173,682    $169,406
+
+                                   (CONTINUED)
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+
+                     CONSOLIDATED BALANCE SHEETS (CONTINUED)
+                   (Dollars in Millions Except Share Amounts)
+                                   (Unaudited)
+
+                                                        March 31,   December 31,
+                                                           2000        1999
+LIABILITIES
+
+Accounts payable                                       $  6,401    $  6,771
+Payroll and benefit-related liabilities                   2,457       2,651
+Debt maturing within one year                            15,195      12,633
+Dividends payable                                           692         703
+Other current liabilities                                 5,968       5,449
+
+TOTAL CURRENT LIABILITIES                                30,713      28,207
+
+Long-term debt                                           21,886      21,591
+Long-term benefit-related liabilities                     3,943       3,964
+Deferred income taxes                                    23,846      24,199
+Other long-term liabilities and deferred credits          3,884       3,801
+
+TOTAL LIABILITIES                                        84,272      81,762
+
+Minority Interest in Equity of Consolidated
+  Subsidiaries                                            2,378       2,391
+
+Company-Obligated Convertible Quarterly Income
+  Preferred Securities of Subsidiary Trust Holding
+  Solely Subordinated Debt Securities of AT&T             4,702       4,700
+
+Subsidiary-Obligated Mandatorily Redeemable Preferred
+  Securities of Subsidiary Trusts Holding Solely
+  Subordinated Debt Securities of an AT&T Subsidiary      1,625       1,626
+
+SHAREOWNERS' EQUITY Common Stock:
+AT&T Common Stock, $1 par value,  authorized  6,000,000,000  shares;  issued and
+  outstanding 3,146,934,773 shares (net of 357,151,160 treasury shares) at March
+  31, 2000, and 3,196,436,757 shares (net of 287,866,419 treasury shares) at
+  December 31, 1999                                       3,147       3,196
+Liberty Media Group Class A Tracking Stock, $1 par
+  value, authorized  2,500,000,000 shares; issued and outstanding  1,181,420,568
+  shares (net of 23,368,954 treasury shares) at March 31, 2000,
+  and 1,156,778,730 shares at December 31, 1999           1,181       1,157
+Liberty Media Group Class B Tracking Stock, $1 par value, authorized 250,000,000
+  shares;  issued and outstanding  103,117,226 shares (net of 5,303,888 treasury
+  shares) at March 31, 2000,
+  and 108,421,114 shares at December 31, 1999               103         108
+Additional paid-in capital                               58,921      60,792
+Guaranteed ESOP obligation                                    -         (17)
+Retained earnings                                         8,553       6,712
+Accumulated other comprehensive income                    8,800       6,979
+TOTAL SHAREOWNERS' EQUITY                                80,705      78,927
+
+TOTAL LIABILITIES & SHAREOWNERS' EQUITY                $173,682    $169,406
+
+
+                 See Notes to Consolidated Financial Statements
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+             CONSOLIDATED STATEMENTS OF CHANGES IN SHAREOWNERS' EQUITY
+                    (Dollars in Millions Except Share Amounts)
+                                  (Unaudited)
+
+                                  For the Three
+                                  Months Ended
+                                    March 31,
+                                                 2000       1999
+AT&T Common Shares
+  Balance at beginning of year                $ 3,196    $ 2,630
+  Shares issued (acquired), net:
+    Under employee plans                            1         (2)
+    For acquisitions                                -        553
+    Other*                                        (50)         -
+Balance at end of period                        3,147      3,181
+
+Liberty Media Group Class A Tracking Stock
+  Balance at beginning of year                  1,157          -
+  Shares issued, net:
+    For acquisitions                               24      1,140
+    Other                                           -          2
+Balance at end of period                        1,181      1,142
+
+Liberty Media Group Class B Tracking Stock
+  Balance at beginning of year                    108          -
+  Shares issued (acquired), net:
+    For acquisitions                                -        110
+    Other                                          (5)         -
+Balance at end of period                          103        110
+
+Additional Paid-In Capital
+  Balance at beginning of year                 60,792     15,195
+  Shares issued (acquired), net:
+    Under employee plans                           50       (103)
+    For acquisitions                              756     43,144
+    Other*                                     (2,619)        47
+  Gain on issuance of common stock
+    by affiliates                                 (95)         -
+  Other                                            37         64
+Balance at end of period                       58,921     58,347
+
+Guaranteed ESOP Obligation
+  Balance at beginning of year                   (17)        (44)
+  Amortization                                    17          13
+Balance at end of period                           -         (31)
+
+Retained Earnings
+  Balance at beginning of year                 6,712        7,800
+  Net income                                   2,683        1,018
+  Dividends declared                            (692)        (699)
+  Treasury shares issued at less
+    than cost                                   (150)      (1,360)
+Balance at end of period                       8,553        6,759
+
+                                   (CONTINUED)
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+
+
+     CONSOLIDATED STATEMENTS OF CHANGES IN SHAREOWNERS' EQUITY (CONTINUED)
+                 (Dollars in Millions Except Share Amounts)
+                               (Unaudited)
+
+                                  For the Three
+                                  Months Ended
+                                    March 31,
+                                                 2000       1999
+
+Accumulated Comprehensive Income
+  Balance at beginning of year                  6,979        (59)
+  Other comprehensive income                    1,821        913
+Balance at end of year                          8,800        854
+
+Total Shareowners' Equity                     $80,705    $70,362
+
+Summary of Total Comprehensive Income:
+Net income                                    $ 2,683    $ 1,018
+Net foreign currency translation adjustment
+  (net of taxes of $(34) and $(2))                (58)        (1)
+Net revaluation of investments (net of
+  taxes of $1,227 and $597)                     1,879        914
+Comprehensive Income                          $ 4,504    $ 1,931
+
+* Represents AT&T stock received from Cox Communications,  Inc., in exchange for
+certain cable systems and other assets.
+
+In the first quarter of 2000, other comprehensive  income included Liberty Media
+Group's  foreign  currency  translation   adjustments  totaling  $(31),  net  of
+applicable  taxes,  and revaluation of Liberty Media Group's  available-for-sale
+securities  totaling $3,259,  net of applicable  taxes,  partially offset by the
+recognition of previously unrecognized available for sale securities of $1,478.
+
+In the first quarter of 1999, other comprehensive  income included Liberty Media
+Group's foreign currency translation adjustments totaling $12, net of applicable
+taxes,  and revaluation of Liberty Media Group's  available-for-sale  securities
+totaling $894, net of applicable taxes.
+
+  AT&T accounts for treasury stock as retired  stock,  and as of March 31, 2000,
+had 357 million  treasury  shares of which 225 million shares were owned by AT&T
+Broadband  subsidiaries  and 70 million  shares  related to the purchase of AT&T
+shares previously owned by Liberty Media Group.
+  We have 100 million  authorized  shares of preferred stock at $1 par value. No
+preferred stock is currently issued or outstanding.
+  We have 6 billion  authorized  shares of AT&T Wireless Group tracking stock at
+$1 par value,  none of which  were  issued or  outstanding  as of the end of the
+first quarter,  however,  360 million were issued and outstanding as a result of
+the initial public offering on April 27, 2000.
+
+                 See Notes to Consolidated Financial Statements
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (Dollars in Millions)
+                                   (Unaudited)
+
+                                  For the Three
+                                  Months Ended
+                                    March 31,
+                                                  2000      1999
+Operating Activities
+Net income                                     $ 2,683   $ 1,018
+Adjustments to reconcile net income to net
+  cash provided by operating activities:
+   Gains on sales                                 (594)     (158)
+   Net restructuring and other charges             748       731
+   Depreciation and amortization                 1,934     1,488
+   Provision for uncollectibles                    284       386
+   Net equity (earnings) losses from Liberty
+     Media Group                                  (942)       58
+   Net losses from other equity investments        301        81
+   Increase in accounts receivable                (890)     (622)
+   Decrease in accounts payable                    (73)     (742)
+   Net change in other operating assets
+     and liabilities                              (483)   (1,460)
+   Other adjustments                              (592)      (34)
+Net cash provided by operating activities        2,376       746
+
+Investing Activities
+  Capital expenditures and other additions      (3,236)   (1,913)
+  Proceeds from sale or disposal of
+    property, plant and equipment                  143        16
+  (Increase) decrease in other receivables        (980)        4
+  Net (acquisitions) dispositions of
+    licenses                                       (82)        9
+  Equity investment distributions and sales        417        69
+  Equity investment contributions and
+    purchases                                   (1,059)   (5,821)
+  (Acquisitions) dispositions of businesses
+    including cash acquired in acquisitions       (188)      797
+  Other investing activities, net                  (16)      (52)
+Net cash used in investing activities           (5,001)   (6,891)
+
+Financing Activities
+  Proceeds from long-term debt issuances           739     7,948
+  Retirements of long-term debt                 (1,007)     (493)
+  Net acquisition of treasury shares              (393)   (4,344)
+  Dividends paid on common stock                  (703)     (603)
+  Distributions on trust preferred securities      (97)      (12)
+  Increase in short-term borrowings, net         3,179     1,834
+  Other financing activities, net                  (15)      118
+Net cash provided by financing activities        1,703     4,448
+
+Net decrease in cash and cash equivalents         (922)   (1,697)
+
+Cash and cash equivalents at beginning
+  of year                                        1,024     3,160
+
+Cash and cash equivalents at end of period     $   102   $ 1,463
+
+
+                 See Notes to Consolidated Financial Statements
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 (Dollars in Millions Except Per Share Amounts)
+                                   (Unaudited)
+
+(a)      BASIS OF PRESENTATION
+         The consolidated  financial statements have been prepared by AT&T Corp.
+         (AT&T)  pursuant to the rules and  regulations  of the  Securities  and
+         Exchange  Commission  (SEC) and, in the opinion of management,  include
+         all  adjustments  necessary  for a fair  statement of the  consolidated
+         results  of  operations,  financial  position  and cash  flows for each
+         period presented.  The consolidated results for interim periods are not
+         necessarily  indicative of results for the full year.  These  financial
+         results  should be read in  conjunction  with  AT&T's Form 10-K for the
+         year ended December 31, 1999, the financial statements of Liberty Media
+         Group for the year ended  December  31,  1999,  included in AT&T's Form
+         10-K filed on March 27, 2000,  and the financial  statements of Liberty
+         Media Group for the quarter  ended March 31, 2000,  included as Exhibit
+         99 to this AT&T quarterly report on Form 10-Q.
+
+         We have  reclassified  certain prior period amounts to conform with our
+         current presentation.
+
+(b)      MERGER WITH TELE-COMMUNICATIONS, INC. (TCI)
+         On March 9,  1999,  AT&T  completed  a merger  with TCI,  renamed  AT&T
+         Broadband   (Broadband),   in  an  all-stock   transaction   valued  at
+         approximately  $52  billion.  The  merger was  accounted  for under the
+         purchase  method  of  accounting  and,  accordingly,   the  results  of
+         Broadband  have been included with the financial  results of AT&T since
+         the date of acquisition.
+
+         In connection  with the closing,  AT&T issued  separate  tracking stock
+         designed to reflect the  economic  performance  of Liberty  Media Group
+         (LMG), TCI's former programming and technology investment business.
+
+         AT&T  does not have a  controlling  financial  interest  for  financial
+         accounting  purposes  in  LMG;  therefore,  our  investment  in  LMG is
+         accounted for under the equity method in the accompanying  consolidated
+         financial statements.  The amounts attributable to LMG are reflected as
+         separate line items "Equity earnings (losses) from Liberty Media Group"
+         and "Investment in Liberty Media Group and related  receivables,  net,"
+         in the accompanying  consolidated  financial statements.  As a separate
+         tracking  stock,  all of the  earnings  or  losses  related  to LMG are
+         excluded from the earnings  attributable  to the holders of AT&T common
+         stock, referred to as AT&T Group.
+
+         The $52 billion  aggregate value assigned to Broadband's net assets was
+         composed of AT&T common stock of  approximately  $27  billion,  Liberty
+         Media Group tracking stock of approximately $23 billion, and assumption
+         of convertible notes and preferred stock of approximately $2 billion.
+
+         Approximately  $20  billion of the  purchase  price of $52  billion was
+         attributed  to franchise  costs.  Also included was  approximately  $11
+         billion  related  to  nonconsolidated  investments,   approximately  $5
+         billion  related to property,  plant and equipment,  approximately  $11
+         billion  of  Broadband  long-term  debt and  approximately  $7  billion
+         related to other net  liabilities.  In addition,  our investment in LMG
+         was recorded at approximately $34 billion.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+         Following  is a  summary  of the pro  forma  results  of AT&T as if the
+         merger had closed effective January 1, 1999:
+
+                                                      For the Three Months
+                                                      Ended March 31, 1999
+              Shares in millions                          (unaudited)
+
+              Revenue                                       $15,037
+              Net income                                        446
+
+              Weighted-average AT&T Group common shares       3,147
+
+              Weighted-average AT&T Group common shares
+                and potential common shares                   3,253
+
+              Weighted-average Liberty Media Group shares     1,190
+
+              Earnings per AT&T common share:
+                Basic                                       $  0.23
+                Diluted                                     $  0.22
+
+              Liberty Media Group loss per share:
+                Basic and diluted                           $  0.24
+
+         Pro forma data may not be  indicative  of the  results  that would have
+         been  obtained had these events  actually  occurred at the beginning of
+         the period  presented,  nor does it intend to be a projection of future
+         results.
+
+
+(c)      OTHER ACQUISITIONS, EXCHANGES AND DISPOSITIONS
+
+         EXCITE@HOME
+         On March 29, 2000, AT&T and At Home  Corporation  (Excite@Home),  along
+         with Comcast Corporation (Comcast) and Cox Communications,  Inc. (Cox),
+         agreed to new extended  distribution  arrangements and a reorganization
+         of the governance of Excite@Home.  Under the agreement, Comcast and Cox
+         will give up certain  veto  rights at the  Excite@Home  board level and
+         their  representatives  will resign from the board.  AT&T will have the
+         right to elect a majority  of the board  members and  Excite@Home  will
+         amend the  charter  to allow  board  action by  simple  majority.  As a
+         result,  AT&T will  continue  to have 25% of the  economic  interest in
+         Excite@Home on a fully diluted basis,  however our voting interest will
+         increase to 74%  compared  with the 56% voting  interest  we  currently
+         have.  As a  result  of  the  governance  changes,  AT&T  will  gain  a
+         controlling   financial   interest   and   will   begin   consolidating
+         Excite@Home's results upon the close of these transactions.
+
+         Also, in connection  with the new  distribution  agreements,  AT&T will
+         have the right through 2008 to purchase up to  approximately 25 million
+         Series A shares and 25 million Series B shares. In addition, on July 1,
+         2000, AT&T will sell a put option to Comcast and Cox that gives Comcast
+         and Cox the right to sell  their  shares in  Excite@Home  to AT&T for a
+         minimum price of $48 a share any time between January 1, 2001, and June
+         4, 2002.  Comcast and Cox each own  approximately  30 million  Series A
+         shares, or about 8% each of Excite@Home.  AT&T's purchase obligation is
+         limited to an aggregate value of approximately $3 billion.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+         COX COMMUNICATIONS, INC.
+         On March 15, 2000,  AT&T  received  50.3 million  shares of AT&T common
+         stock held by Cox in exchange  for an entity  owning  cable  television
+         systems serving  approximately  312,000 customers and certain other net
+         assets.  Specifically,  AT&T exchanged $1.1 billion of investments  and
+         related  advances,  $0.9 billion of franchise costs and $0.5 billion of
+         other net assets for stock  valued at $2.7  billion on March 15,  2000.
+         The transaction resulted in a pretax gain of $211.
+
+         LENFEST COMMUNICATIONS, INC.
+         On January 18, 2000, AT&T sold its ownership in Lenfest Communications,
+         Inc.,  to a subsidiary  of Comcast.  In  connection  with the sale,  we
+         received  48.6 billion  shares of Comcast Class Special A common stock.
+         The transaction resulted in a pretax gain of $231.
+
+         CONCERT
+         On  January  5,  2000,  AT&T and  British  Telecommunication,  plc (BT)
+         announced  financial  closure of Concert,  their global  communications
+         joint   venture.    AT&T   contributed   all   of   its   international
+         gateway-to-gateway  assets,  which had a book value of $1.6 billion, as
+         well as the economic value of approximately 270 multinational customers
+         specifically  targeted  for direct sales by Concert.  In  addition,  we
+         contributed  our   international   settlement   business  (revenue  and
+         expenses) to Concert.
+
+
+(d)      NET RESTRUCTURING AND OTHER CHARGES
+         During the quarter AT&T  recorded $773 of net  restructuring  and other
+         charges,   which  included  $682  for   restructuring  and  exit  costs
+         associated  with AT&T's  initiative to reduce costs by the end of 2000,
+         and  $91  related  to  the  government-mandated   disposition  of  AT&T
+         Communications  (U.K.) Ltd.,  which would have  competed  directly with
+         Concert.
+
+         Included in  restructuring  and exit costs was $458 of cash termination
+         benefits  associated with the involuntary  separation of  approximately
+         6,200  employees.   Approximately  one-half  of  the  individuals  were
+         management employees and one-half were nonmanagement employees.  Nearly
+         10% of the affected employees have left their positions as of March 31,
+         2000, and the remaining employees will leave the company during 2000.
+
+         We also  recorded $62 of network lease and other  contract  termination
+         costs associated with penalties  incurred as part of notifying  vendors
+         of the termination of these contracts during the quarter.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+         The  following   table  displays  the  activity  and  balances  of  the
+         restructuring reserve account from January 1, 2000, to March 31, 2000:
+
+
+                                  Jan. 1,                               Mar. 31,
+                                   2000                                   2000
+              Type of Cost       Balance    Additions    Deductions     Balance
+              Employee
+                separations        $150       $458          $(109)       $499
+              Facility closings     239          -            (18)        221
+              Other                  21         62            (11)         72
+              Total                $410       $520          $(138)       $792
+
+         Deductions reflect cash payments of $89 related to employee separations
+         and noncash  utilization  of $49. The cash outlay was primarily  funded
+         through cash from operations.  Noncash  utilization  included  deferred
+         severance payments primarily related to executives.
+
+         Also  included  in  restructuring  and exit  costs was $144 of  benefit
+         curtailment costs associated with employee separations as part of these
+         exit plans. We also recorded an asset impairment  charge of $18 related
+         to the  write-down  of  unrecoverable  assets in certain  businesses in
+         which the carrying value is no longer supported by future cash flows.
+
+         As a result of our planned merger with MediaOne Group, Inc. and as part
+         of our  continuing  efforts  to reduce  costs,  we may  record  further
+         charges for exit and separation plans.
+
+         During the first quarter of 1999, we recorded $731 of net restructuring
+         and other  charges,  which  included  a $594  in-process  research  and
+         development  charge  related  to  the  TCI  acquisition.   This  charge
+         reflected the estimated value, as of the acquisition  date, of research
+         and development projects at TCI which had not yet reached technological
+         feasibility  and which had no  alternative  future  use.  The  projects
+         identified  related  to TCI's  efforts  to offer  voice  over  Internet
+         protocol,  cost  savings  efforts for cable  telephony  implementation,
+         product  integration  efforts for advanced  set-top  devices that would
+         enable TCI to offer  next-generation  digital  services and  in-process
+         research and development related to Excite@Home.
+
+         Also  included  in the 1999 first  quarter  charge  was $196  primarily
+         related  to  a  settlement  associated  with  the   government-mandated
+         disposition  of a joint venture that would have competed  directly with
+         Concert.  In  addition,  we  recorded a benefit  of $59  related to the
+         settlement  of pension  obligations  for former  employees who accepted
+         AT&T's 1998 voluntary retirement incentive program offer.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+(e)      EARNINGS PER COMMON SHARE AND POTENTIAL COMMON SHARE
+         Basic  earnings  per share  (EPS) for AT&T  Group for the three  months
+         ended March 31,  2000 and 1999,  were  computed  by  dividing  earnings
+         attributable to AT&T Group common  shareowners by the  weighted-average
+         number of common shares outstanding of AT&T Group during the period.
+
+         Diluted  EPS  for  AT&T  Group  was   computed  by  dividing   earnings
+         attributable  to  AT&T  Group  common  shareowners,  adjusted  for  the
+         conversion  of  securities,  by the  weighted-average  number of common
+         shares and dilutive  potential common shares  outstanding of AT&T Group
+         during the period,  assuming  conversion of the potential common shares
+         at the  beginning  of  the  periods  presented.  Shares  issuable  upon
+         conversion  of  preferred  stock  of  subsidiaries,   convertible  debt
+         securities of a subsidiary,  stock options and other performance awards
+         have been  included  in the  diluted  calculation  of  weighted-average
+         shares to the extent  that the assumed  issuance  of such shares  would
+         have  been  dilutive,   as  illustrated  below.  The  quarterly  income
+         preferred  securities  were  antidilutive  and were  excluded  from the
+         computation of diluted EPS. The dividends  have an after-tax  impact to
+         quarterly  earnings of  approximately  $40.  Assuming the conversion of
+         these  securities,  the  dividends  would no  longer be  included  as a
+         reduction to net income and the  securities  would  convert into 66.667
+         million shares of AT&T common stock.
+
+         Income for the three  months  ended March 31, 2000 and 1999,  of $2,683
+         and $1,018, respectively, included income attributable to AT&T Group of
+         $1,741 and $1,076, respectively,  as well as earnings (losses) from LMG
+         of $942 and $(58), respectively.
+
+         A  reconciliation  of the income and share  components  for diluted EPS
+         calculations with respect to AT&T Group is as follows:
+
+                                                              Three Months Ended
+                                                                    March 31,
+                                                                 2000       1999
+
+              Income attributable to AT&T Group                $1,741     $1,076
+              Income impact of assumed conversion of
+                preferred stock of subsidiary                       8          -
+              Income attributable to AT&T Group adjusted
+                for conversion of securities                   $1,749     $1,076
+
+              Shares in millions
+              AT&T Group weighted-average common shares         3,185      2,751
+              Stock options                                        31         41
+              Preferred stock of subsidiary                        40         10
+              Convertible debt securities of subsidiary             -          7
+              AT&T Group weighted-average common shares and
+                potential common shares                         3,256      2,809
+
+         Basic EPS for LMG for the three months  ended March 31,  2000,  and for
+         the period from the date of  acquisition  through  March 31, 1999,  was
+         computed  by  dividing  the  earnings   (loss)   attributable   to  LMG
+         shareowners by the weighted-average number of shares outstanding of LMG
+         of 1,282 million and 1,194 million, respectively.  Potentially dilutive
+         securities  have  not been  factored  into  the  dilutive  calculations
+         because past history has indicated  that these  contracts are generally
+         settled in cash. In addition, since LMG had a loss in the first quarter
+         of  1999,   the  impact  of  any  potential   shares  would  have  been
+         antidilutive. There were 50 million and 180 million potentially
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+         dilutive   securities   outstanding   at  March  31,   2000  and  1999,
+         respectively.  Subject to shareowner  approval,  the board of directors
+         has  approved  a  two-for-one  stock  split of Liberty  Media  stock to
+         shareowners  of record on May 25, 2000.  The shares will be distributed
+         on or after June 9, 2000.
+
+
+(f)      GUARANTEE OF PREFERRED SECURITIES
+         Prior to the  consummation  of the TCI merger,  TCI issued  mandatorily
+         redeemable  preferred  securities  through  subsidiary trusts that held
+         subordinated   debt  securities  of  TCI.  AT&T  provides  a  full  and
+         unconditional  guarantee on the  outstanding  securities  issued by TCI
+         Communications Financing I, II and IV. At March 31, 2000, $1,266 of the
+         guaranteed   redeemable  preferred  securities  remained   outstanding.
+         Following  is a summary of the results of TCI which have been  included
+         in the financial  results of AT&T for each  corresponding  period.  The
+         summarized financial  information includes  transactions with AT&T that
+         were eliminated in consolidation.
+
+                                       For the Three       For the One
+                                        Months Ended       Month Ended
+                                       March 31, 2000     March 31, 1999
+
+              Revenue                    $ 1,490             $  483
+              Operating loss                  96                544
+              Net loss                       616                740
+
+                                           As of             As of
+                                          March 31,        December 31,
+                                            2000               1999
+              Current assets             $   489            $   468
+              Noncurrent assets           93,780             93,798
+              Current liabilities          2,587              2,814
+              Noncurrent liabilities      36,050             36,227
+              Minority interests           2,170              2,175
+
+
+(g)      RELATED PARTY TRANSACTIONS
+         AT&T has various related party transactions with Concert as a result of
+         the closure of the global venture in early January.
+
+         Included in revenue in the first  quarter of 2000 is $266 for  services
+         provided to Concert.
+
+         Included in access and other  connection  expenses in the first quarter
+         of 2000 are charges from  Concert  representing  costs  incurred on our
+         behalf  to  connect  calls  made to  foreign  countries  (international
+         settlements) and costs paid by AT&T to Concert for distributing Concert
+         products totaling $579.
+
+         During the first  quarter of 2000,  AT&T loaned $1.0 billion to Concert
+         which is  included  within  investments  and  related  advances  in the
+         accompanying consolidated balance sheets.
+
+         Included in accounts receivable and accounts payable are $510 and $845,
+         respectively, related to transactions with Concert.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+(h)      SEGMENT REPORTING
+         AT&T's  results  are  segmented  according  to the  way we  manage  our
+         business:  Business Services,  Consumer Services, Wireless Services and
+         Broadband.  Our existing  segments reflect certain  managerial  changes
+         since the publication of our 1999 annual results. The Business Services
+         segment was expanded to include the AT&T  Solutions  outsourcing  unit,
+         AT&T  Global  Network  Services   (AGNS),   and  the  AT&T  Information
+         Technology Services unit, formerly all part of the Solutions Group. The
+         results of fixed  wireless  have been moved from the Consumer  Services
+         segment  to  the  Wireless  Services  segment,  and  management  of the
+         business sales force that supports  wireless  products was  transferred
+         from  Business  Services to  Wireless  Services.  Additionally  WOOD-TV
+         (which was sold in 1999) was  transferred  and  corporate  overhead was
+         allocated to Wireless  Services from Corporate and Other,  to align the
+         Wireless  Services  segment with the results to be included in the AT&T
+         Wireless Group.  All prior period results have been restated to reflect
+         these changes.  In addition,  2000 results reflect the impact of assets
+         and  businesses  contributed  to Concert,  which were  included in 1999
+         results.
+
+         Reflecting  the dynamics of our business,  we  continuously  review our
+         management  model  and  structure,   which  may  result  in  additional
+         adjustments to our operating segments in the future.
+
+              REVENUE
+
+              For the Three Months Ended March 31,     2000        1999
+              Business services external revenue    $ 6,958      $6,285
+              Business services internal revenue        178         163
+              Total business services revenue         7,136       6,448
+              Consumer services external revenue      5,059       5,470
+              Wireless services external revenue      2,198       1,562
+              Broadband external revenue              1,492         483
+
+              Total reportable segments              15,885      13,963
+
+              Corporate and Other revenue (a)           (49)        133
+              Total revenue                         $15,836     $14,096
+
+              (a) Included in Corporate and Other is revenue from  international
+              operations  and  ventures,  other  corporate  operations  and  the
+              elimination of internal revenue.
+
+              RECONCILIATION OF EARNINGS BEFORE INTEREST AND TAXES (EBIT) TO
+              INCOME BEFORE INCOME TAXES
+
+              For the Three Months Ended March 31,      2000        1999
+              Business services                       $1,525      $1,592
+              Consumer services                        1,719       1,851
+              Wireless services                          111         (51)
+              Broadband                                  (45)       (673)
+                Total reportable segments' EBIT        3,310       2,719
+              Corporate and Other EBIT                  (646)       (454)
+              Liberty Media Group equity earnings
+                (losses)                                 942         (58)
+              Interest expense                           555         190
+                Total income before income taxes      $3,051      $2,017
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+              ASSETS
+                                                    At Mar. 31,  At Dec. 31,
+                                                        2000        1999
+              Business services                     $ 31,855    $ 32,010
+              Consumer services                        5,418       6,279
+              Wireless services                       24,666      23,312
+              Broadband                               53,826      56,536
+                Total reportable segments            115,765     118,137
+
+              Corporate and Other:
+                Other segments                         5,185       3,386
+                Prepaid pension costs                  2,571       2,464
+                Deferred taxes                         1,258         899
+                Other corporate assets                 6,920       6,060
+              Investment in Liberty Media Group
+                and related receivables, net          41,983      38,460
+
+              Total assets                          $173,682    $169,406
+
+(i)      SUBSEQUENT EVENTS
+         On April 27,  2000,  AT&T  completed  an  initial  public  offering  of
+         360,000,000  shares of AT&T Wireless Group tracking stock at an initial
+         public  offering  price of $29.50 per share.  This stock is designed to
+         track the performance of AT&T's wireless services  businesses.  The net
+         proceeds to AT&T after  deducting  underwriter's  discount  and related
+         fees and expenses,  were $10.3 billion. AT&T has allocated $7.0 billion
+         of net  proceeds  to the AT&T  Wireless  Group to expand  its  network,
+         pursue  acquisition  opportunities,  make capital  expenditures and for
+         general corporate purposes.  The remaining net proceeds of $3.3 billion
+         have  been  allocated  to the  AT&T  Common  Stock  Group  for  general
+         corporate  purposes.  Holders of AT&T Wireless Group tracking stock are
+         entitled to one-half of a vote per share.
+
+         The AT&T Wireless  Group  tracking  stock issued in the initial  public
+         offering  reflected  only a portion of the economic  performance of the
+         AT&T  Wireless  Group.  AT&T  retained  the  remaining  interest in the
+         economic  performance  of the  AT&T  Wireless  Group  in the form of an
+         inter-group interest. AT&T currently intends to distribute a portion of
+         the AT&T Common Stock Group's  interest in the AT&T  Wireless  Group in
+         the  second  half  of  this  year.  Such  disposition  will  include  a
+         distribution  in the form of a dividend to holders of AT&T Common Stock
+         Group  shares  for at least a portion  of such  interest,  but may also
+         include  an  exchange  offer,  a further  sale of AT&T  Wireless  Group
+         tracking  stock  or a  combination  thereof.  The  method,  timing  and
+         sequence of the distribution options, which could occur in stages, will
+         be based  on the AT&T  Board of  Directors'  assessment  of the  market
+         conditions and other  circumstances,  as appropriate,  with the goal of
+         maximizing value for all AT&T  shareowners.  Following the distribution
+         we expect that the  outstanding  shares of AT&T Wireless Group tracking
+         stock  will  reflect  100%  of the  economic  performance  of the  AT&T
+         Wireless Group. The AT&T Wireless Group tracking stock is listed on the
+         New York Stock Exchange under the symbol "AWE."
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+                       MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                    RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+OVERVIEW
+AT&T is among the world's  communications  leaders,  providing  voice,  data and
+video telecommunications  services to large and small businesses,  consumers and
+government  agencies.  We provide  domestic  and  international  long  distance,
+regional,  local and wireless  communications  services,  cable  television  and
+Internet  communications  services.  AT&T also provides  billing,  directory and
+calling-card services to support our communications business.
+
+On January 5, 2000,  AT&T and  British  Telecommunications,  plc (BT)  announced
+financial closure of Concert, their global communications joint venture. Concert
+began  operations  as  a  leading  global  telecommunications  company,  serving
+multinational  business customers,  international  carriers and Internet service
+providers worldwide, providing them with voice, data and Internet services. AT&T
+contributed all of its international  gateway-to-gateway assets and the economic
+value  of  approximately  270  multinational   customers.   In  addition,   AT&T
+contributed  our  international  settlement  business  (revenue and expenses) to
+Concert. Results for 2000 reflect the impact of these contributions.
+
+In connection with our first quarter 1999 merger with Tele-Communications, Inc.,
+(TCI) renamed AT&T Broadband (Broadband), we issued a separate tracking stock to
+reflect the  economic  performance  of Liberty  Media Group  (LMG),  Broadband's
+former  programming  and  technology  investment  businesses.  We do not  have a
+controlling  financial interest in Liberty Media Group for financial  accounting
+purposes;  therefore,  our  ownership  in  LMG  is  reflected  as an  investment
+accounted  for  under  the  equity  method  in the AT&T  consolidated  financial
+statements.  All other  businesses of AT&T comprise the AT&T Group, the economic
+performance  of which is  represented  by AT&T common stock.  References to AT&T
+common stock do not include the LMG tracking stock.
+
+Ownership of shares of AT&T common stock or Liberty  Media  tracking  stock does
+not represent a direct legal interest in the assets and liabilities of either of
+the groups,  but an ownership of AT&T in total.  Each of these shares represents
+an  interest  in the  economic  performance  of the net  assets of each of these
+groups.  Accordingly,  the earnings and losses  related to LMG are excluded from
+earnings  attributable  to AT&T Group,  and earnings and losses  related to AT&T
+Group are excluded from earnings attributable to LMG.
+
+Because we account for LMG as an equity investment, revenue, operating expenses,
+other  income,  interest  expense and provision for taxes for AT&T Group are the
+same as for consolidated AT&T.
+
+On March 14, 2000, AT&T  shareowners  approved the creation of a stock that will
+track the economic  performance  of the AT&T Wireless  Group.  An initial public
+offering of the AT&T Wireless  Group  tracking  stock was completed on April 27,
+2000, with the issuance of 360,000,000  shares,  which  represented 15.6% of the
+economic interest of the AT&T Wireless Group. The issuance of the tracking stock
+had no impact on results of  operations  or  financial  condition  for the first
+quarter of 2000.
+
+The  discussion  and  analysis  that  follows  provides  information  management
+believes is relevant to an assessment and  understanding of AT&T's  consolidated
+results of  operations  and cash flows for the three months ended March 31, 2000
+and 1999, and financial condition as of March 31, 2000 and December 31, 1999.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+FORWARD-LOOKING STATEMENTS
+Except  for  the  historical   statements  and  discussions   contained  herein,
+statements herein constitute "forward-looking  statements" within the meaning of
+Section 27A of the  Securities  Act of 1933 and  Section  21E of the  Securities
+Exchange  Act  of  1934,  including   statements   concerning  future  operating
+performance,  AT&T's  share  of new and  existing  markets,  AT&T's  short-  and
+long-term  revenue and earnings growth rates,  and general industry growth rates
+and AT&T's performance relative thereto.  These forward-looking  statements rely
+on a number of assumptions concerning future events,  including the adoption and
+implementation  of balanced and effective  rules and  regulations by the Federal
+Communications  Commission (FCC) and the state public regulatory  agencies,  and
+AT&T's ability to achieve a significant market penetration in new markets. These
+forward-looking  statements are subject to a number of  uncertainties  and other
+factors,  many of which are outside  AT&T's  control,  that could  cause  actual
+results to differ materially from such statements.  AT&T disclaims any intention
+or obligation to update or revise any forward-looking  statements,  whether as a
+result of new information, future events or otherwise.
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+REVENUE
+                                            For the Three Months
+                                               Ended March 31,
+                                                2000      1999
+Dollars in Millions
+Business services                            $ 7,136   $ 6,448
+Consumer services                              5,059     5,470
+Wireless services                              2,198     1,562
+Broadband                                      1,492       483
+Corporate and Other                              (49)      133
+Total revenue                                $15,836   $14,096
+
+Revenue  increased  $1,740  million in the first quarter of 2000,  or 12.3%,  to
+$15,836 million compared with the first quarter of 1999. Revenue was impacted by
+the 1999  acquisitions  of TCI and the IBM Global  Network  (renamed AT&T Global
+Network  Services,  or AGNS),  and the formation of Concert,  our global venture
+with BT. Normalized  revenue,  which adjusts 1999 revenue for the acquisition of
+TCI, including all closed cable partnerships and Excite@Home, the acquisition of
+AGNS,  various  divestments  of  international  businesses,  and the  impact  of
+businesses  contributed to Concert,  increased $862 million in the first quarter
+of 2000,  or 5.8%,  from  $14,974  million  in the first  quarter  of 1999.  The
+increase  was  primarily  driven by Wireless  Services,  Business  Services  and
+Broadband, partially offset by a decline in Consumer Services.
+
+OPERATING EXPENSES
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Access and other connection                   $3,588    $3,732
+
+Access and other connection  expenses decreased $144 million, or 3.9%, to $3,588
+million in the first  quarter of 2000  compared  with the first quarter of 1999.
+Included  within access and other  connection  expenses are costs that we pay to
+connect domestic calls on the facilities of other service providers. These costs
+declined during the quarter  primarily due to mandated  reductions in per-minute
+access costs and the sale of ACC  International,  partially  offset by increased
+per-line charges (Primary  Interexchange  Carrier Charges) and Universal Service
+Fund contributions.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+Also  included  within  access and other  connection  expenses are costs paid to
+foreign  telephone   companies  to  connect  calls  made  to  foreign  countries
+(international  settlements).  As result of the  commencement  of  operations of
+Concert,  all of our  international  settlements  are  incurred by  Concert.  In
+addition,  all of our foreign billed  revenue is now earned by Concert.  Concert
+bills us a net expense comprised of international  settlement  (interconnection)
+expense and foreign  billed  revenue.  The amount  charged by Concert in 2000 is
+lower than  interconnection  expense incurred in 1999, since AT&T recorded these
+transactions  within revenue and expense,  as applicable.  Partially  offsetting
+this decline were costs incurred related to Concert products that AT&T now sells
+to its customers.
+
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Costs of services and products                $3,850    $2,872
+
+Costs of services and products,  previously  called  "network and other costs of
+services,"  increased  $978 million,  or 34.0%,  to $3,850  million in the first
+quarter of 2000  compared  with the same quarter  last year,  largely due to our
+1999  acquisitions  of TCI and  AGNS,  partially  offset  by the  impact  of the
+businesses contributed to Concert.  Excluding these items, costs of services and
+products increased slightly.  The increase resulted from higher costs associated
+with our growing wireless subscriber base,  increased costs to support growth in
+outsourcing  contracts  and an increase in  per-call  compensation  expense as a
+result of a favorable impact of a first quarter 1999 FCC ruling. These increases
+were  partially  offset by a lower  provision for  uncollectible  receivables in
+Business and Consumer Services and cost control initiatives.
+
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Selling, general and administrative           $3,289    $3,157
+
+Selling,  general and  administrative  (SG&A) expenses were up $132 million,  or
+4.2%, to $3,289  million in the first quarter of 2000 compared with the year-ago
+quarter.  The increase was primarily driven by our 1999  acquisitions of TCI and
+AGNS,  partially  offset by the impact of  businesses  contributed  to  Concert.
+Excluding these items,  SG&A expenses  declined by approximately 2%. The decline
+was primarily due to our cost control initiatives, such as headcount reductions,
+and lower  customer  acquisition  and retention  spending in Consumer  Services,
+partially offset by an increase in expenses associated with our growing wireless
+subscriber base.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Depreciation and other amortization           $1,566    $1,304
+
+Depreciation and other amortization  expenses increased $262 million,  or 20.1%,
+in the first  quarter  of 2000  compared  with the first  quarter  of 1999.  The
+increase primarily resulted from the acquisitions of TCI and AGNS and the growth
+in AT&T Group's  depreciable asset base resulting from continued  infrastructure
+investments throughout 1999. Capital expenditures were $2.8 billion in the first
+quarter of 2000. We continue to focus the vast majority of our capital  spending
+to support our growth products of wireless, broadband, data, and local services.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Amortization of goodwill, franchise costs
+  and other purchased intangibles               $368      $184
+
+Amortization  of goodwill,  franchise  costs,  and other  purchased  intangibles
+increased $184 million, or 99.8%, in the first quarter of 2000 compared with the
+same  quarter  of  1999.  The  increase  was  largely  attributable  to the 1999
+acquisitions of TCI and AGNS. AT&T also has amortization of goodwill  associated
+with  nonconsolidated  investments recorded as a reduction of other income which
+amounted to $120 million and $40 million in the first  quarter of 2000 and 1999,
+respectively.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Net restructuring and other charges             $773      $731
+
+During the quarter AT&T  recorded  $773 million of net  restructuring  and other
+charges,  which had an approximate  $0.14 impact on diluted  earnings per share.
+Included  in the  charges  was $682  million  for  restructuring  and exit costs
+recorded as part of AT&T's  initiative  to reduce costs by the end of 2000.  The
+restructuring  and exit plans primarily focus on cost controls through headcount
+reductions  across many of AT&T's  businesses.  Also included in the charges was
+$91   million   related   to  the   government-mandated   disposition   of  AT&T
+Communications (U.K.) Ltd., which would have competed directly with Concert.
+
+Included in  restructuring  and exit costs was $458 million of cash  termination
+benefits  associated  with the  involuntary  separation of  approximately  6,200
+employees.  Approximately  one-half of the individuals were management employees
+and one-half were nonmanagement employees.  Nearly 10% of the affected employees
+have left their positions as of March 31, 2000, and the remaining employees will
+leave the company throughout 2000.
+
+We also  recorded $62 million of network  lease and other  contract  termination
+costs  associated  with penalties  incurred as part of notifying  vendors of the
+termination of these contracts during the quarter.
+
+Additionally,  restructuring  and exit costs  included  $144  million of benefit
+curtailment  costs  associated  with employee  separations as part of these exit
+plans.  We also recorded an $18 million asset  impairment  charge related to the
+write-down of unrecoverable  assets in certain  businesses in which the carrying
+value is no longer supported by future cash flows.
+
+This   restructuring   initiative   is   projected  to  yield  cash  savings  of
+approximately  $10  million  in  2000  (net of  severance  benefit  pay-outs  of
+approximately  $350 million) and approximately $600 million per year thereafter,
+as well as EBIT  savings of  approximately  $420 million in 2000 and nearly $650
+million per year thereafter.  We expect increased  spending in growth businesses
+will largely  offset these cash and EBIT savings.  The EBIT  savings,  primarily
+attributable to reduced personnel-related expenses, will be realized in costs of
+services and products and SG&A expenses.
+
+As a result of our planned  merger with  MediaOne and as part of our  continuing
+efforts to reduce costs,  we may record further  charges for exit and separation
+plans.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+During the first quarter of 1999, we recorded $731 million of net  restructuring
+and other charges, which had an approximate $0.24 impact on earnings per diluted
+share. The charges included $594 million of in-process  research and development
+costs related to the TCI  acquisition.  The charge  reflected the estimated fair
+value  of  research  and  development  projects  at TCI,  as of the  date of the
+acquisition,  which had not yet reached technological feasibility or that had no
+alternative  future use. Although there are technological  issues to overcome to
+successfully  complete the  acquired in process  research  and  development,  we
+believe  we are on track for  successful  completion.  The  projects  identified
+related   to   efforts   to   offer   voice   over   Internet   Protocol   (IP),
+product-integration  efforts for advanced set-top devices,  cost-savings efforts
+for cable  telephony  implementation  and  in-process  research and  development
+related  to  Excite@Home.  We expect to test IP  telephony  equipment  for field
+deployment in late 2000,  begin field trials related to our product  integration
+efforts for set-top  devices in mid 2000, and test and deploy devices related to
+our telephony cost reductions by the end of 2000.
+
+Also  included  in the 1999  first  quarter  charge was $196  million  primarily
+related to a settlement associated with the government-mandated disposition of a
+joint venture that would have competed  directly with Concert.  In addition,  we
+recorded  a  benefit  of $59  million  related  to  the  settlement  of  pension
+obligations for former  employees who accepted AT&T's 1998 voluntary  retirement
+incentive program offer.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Operating Income                              $2,402    $2,116
+
+Operating  income  increased  13.6% in the first  quarter of 2000  compared with
+1999. The improvement was primarily due to operational  efficiencies across most
+of  AT&T's  business  units,  partially  offset  by the  impact  of our 1999 TCI
+acquisition and the impact of Concert,  which began  operations in January 2000.
+Operating income margin  (operating income as a percent of revenue) was 15.2% in
+the first quarter of 2000 compared with 15.0% in the same quarter of 1999.
+
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Other income                                    $262      $149
+
+Other income was $262 million in the first quarter of 2000, an increase of 75.7%
+from the year-ago  quarter.  The increase was primarily  attributable to greater
+gains on sales of businesses and investments, including a gain on the sale of
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+Lenfest  Communications,  Inc. (Lenfest), to Comcast Corporation of $231 million
+and a gain on the exchange with Cox Communications, Inc. (Cox), of certain cable
+systems and other assets for AT&T stock (Cox transaction) of $211 million in the
+first quarter of 2000,  partially  offset by a gain on the sale of Language Line
+Services of $153 million in the first quarter of 1999. Additionally, we recorded
+earnings from our equity interest in Concert of $43 million, partly offset by $8
+million  of  amortization  of  goodwill  on our  investment  in  Concert.  These
+increases  were  partially  offset by higher net losses from other  investments,
+largely  due to the  inclusion  of a full  quarter  of losses in 2000 of At Home
+Corporation  (Excite@Home)  and  Cablevision  Systems Corp.  (Cablevision),  and
+greater distributions on trust preferred securities also due to the inclusion of
+a full quarter in 2000.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+AT&T Group earnings before interest
+  and taxes (EBIT)                            $2,664    $2,265
+
+AT&T Group EBIT  increased  17.7% to $2,664 million in the first quarter of 2000
+compared  with the first  quarter of 1999.  AT&T Group EBIT was  impacted by net
+restructuring and other charges,  gains on sales of Lenfest and Language Line, a
+gain on the Cox transaction, and our investments in Excite@Home and Cablevision.
+Excluding  these items,  AT&T Group EBIT was $3,353 million in the first quarter
+of  2000,  an  increase  of 15.0%  compared  with  first  quarter  of 1999.  The
+improvement  was primarily due to cost control  initiatives in our long distance
+businesses,  Wireless Services, and corporate staff functions,  partially offset
+by the impact of the 1999 TCI acquisition.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Equity earnings (losses) from Liberty
+  Media Group                                   $942      $(58)
+
+Equity  earnings from Liberty Media Group were $942 million in the first quarter
+of 2000  compared  with  losses of $58  million  in the  year-ago  quarter.  The
+difference is primarily due to a gain associated with the acquisition of General
+Instrument  Corporation  (General  Instrument)  by  Motorola,   Inc.  (Motorola)
+reflecting  the  difference  between  the  carrying  value of LMG's  interest in
+General Instrument and the fair value of the Motorola securities received in the
+merger.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Interest expense                                $555      $190
+
+Interest  expense was $555 million in the first  quarter of 2000  compared  with
+$190 million in the first quarter of 1999. The increase in interest  expense was
+primarily  due to a  higher  average  debt  balance  as a  result  of  our  1999
+acquisition of TCI.
+
+For the Three Months Ended March 31,            2000      1999
+Dollars in Millions
+Provision for income taxes                      $368      $999
+
+The provision for income taxes decreased $631 million, or 63.2%, to $368 million
+in the first  quarter of 2000  compared  with the first quarter of 1999 due to a
+lower  effective  income  tax  rate.  Effective  income  tax rates for the first
+quarter of 2000 and 1999 were 17.4% and 48.1%, respectively. The first quarter
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+2000 effective  income tax rate was positively  impacted by the Cox transaction,
+which was tax-free, and the benefit of the write-off of the related deferred tax
+liabilities  previously  recorded on these assets. The 1999 effective income tax
+rate was negatively  impacted by the in-process research and development charge,
+which was not tax deductible. Excluding the Cox transaction in the first quarter
+of 2000 and the in-process  research and development charge in the first quarter
+of 1999,  the  effective  income  tax  rates  were  38.0% and 37.4% in the first
+quarter of 2000 and 1999, respectively.
+
+         For the Three Months Ended March 31,        2000           1999
+AT&T Group earnings per AT&T common share:
+ Basic                                             $ 0.55         $ 0.39
+ Diluted                                           $ 0.54         $ 0.38
+Liberty Media Group earnings (loss) per share:
+ Basic and diluted                                 $ 0.73        $ (0.05)
+
+AT&T Group  earnings per share (EPS) on a diluted basis  increased  42.1% in the
+first  quarter of 2000 to $0.54,  compared  with the same  quarter in 1999.  The
+increase  was  principally  due to higher gains on the sales of  businesses  and
+investments,  lower net  restructuring  charges,  revenue growth and operational
+efficiencies  across most AT&T  business  units.  The increases  were  partially
+offset by the impact of the TCI acquisition.
+
+Included in EPS are the following items:
+ ..Net  restructuring and other charges of $0.14 in the first quarter of 2000 and
+$0.24 in the first  quarter  of 1999;  ..Gains  on the sale of  Lenfest  and the
+exchange  with Cox of $0.22 in the first  quarter of 2000 and a gain on the sale
+of Language Line Services of $0.03 in the first quarter of 1999;
+ ..Losses of $0.07 in the first quarter of 2000 and $0.02 in the first quarter of
+1999  reflecting  the earnings  impact of our  investments  in  Excite@Home  and
+Cablevision.
+
+The total  impact of the these items was an increase to diluted EPS of $0.01 for
+the first  quarter of 2000 and a decrease  of $0.23 to diluted EPS for the first
+quarter of 1999.  We quantify  the impact on our results of our  investments  in
+Excite@Home and Cablevision  since these  businesses have financial  information
+publicly  available  and their results can be reviewed  independently  of AT&T's
+results.
+
+EPS,  excluding these items, was $0.53 per diluted share in the first quarter of
+2000, a decrease of 13.1%,  or $0.08,  over the  comparable  prior year quarter,
+primarily  as a result of the impact of the TCI  acquisition,  including  shares
+issued,  partially  offset by  operational  efficiencies  across  most of AT&T's
+business units.
+
+EPS for Liberty Media Group was $0.73 per share for the three months ended March
+31,  2000,  compared  with a loss of $0.05 per share for the three  months ended
+March 31, 1999.  First  quarter of 2000  reflects  three months of Liberty Media
+Group results  compared with one month in the first quarter of 1999,  reflecting
+the March  1999  acquisition  of TCI by AT&T.  Included  in first  quarter  2000
+results is a gain  associated  with the  acquisition  of General  Instrument  by
+Motorola  reflecting the difference between the carrying value of LMG's interest
+in General Instrument and the fair value of the Motorola  securities received in
+the merger.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+SEGMENT RESULTS
+In support of the  services we provide,  we segment our results by the  business
+units that support our primary lines of business:  Business  Services,  Consumer
+Services,  Wireless  Services and  Broadband.  A fifth  category,  Corporate and
+Other,  includes  corporate staff  functions,  the elimination of  inter-segment
+business  as well as the  results  of  international  operations  and  ventures.
+Although not a segment, we also discuss the results of LMG.
+
+The discussion of segment results includes  revenue;  earnings,  including other
+income,  before  interest and taxes (EBIT);  earnings,  including  other income,
+before interest,  taxes,  depreciation and amortization (EBITDA);  total assets;
+and capital  additions.  The  discussion  of EBITDA for  Wireless  Services  and
+Broadband  is modified to exclude  other  income.  Total assets for each segment
+include all assets, except intercompany receivables.  Prepaid pension assets and
+corporate-owned  or leased real estate are generally held at the corporate level
+and  therefore are included in the  Corporate  and Other group.  Shared  network
+assets are allocated to the segments and reallocated each January,  based on two
+years  of  volumes.   Capital   additions  for  each  segment   include  capital
+expenditures  for  property,  plant and  equipment,  acquisitions  of  licenses,
+additions to  nonconsolidated  investments,  increases  in  franchise  costs and
+additions to internal-use software.
+
+EBIT is the primary  measure used by AT&T's chief  operating  decision makers to
+measure  AT&T's  operating  results  and to measure  segment  profitability  and
+performance.  AT&T  calculates  EBIT as operating  income plus other income.  In
+addition,  management also uses EBITDA as a measure of segment profitability and
+performance, and is defined as EBIT plus depreciation and amortization. Interest
+and taxes are not  factored  into the  profitability  measure  used by the chief
+operating decision makers; therefore,  trends for these items are discussed on a
+consolidated basis.  Management believes EBIT is meaningful to investors because
+it provides analysis of operating results using the same measures used by AT&T's
+chief operating  decision  makers and provides a return on total  capitalization
+measure.  We believe  EBITDA is  meaningful  to  investors  as a measure of each
+segment's liquidity  consistent with the measure utilized by our chief operating
+decision  makers.  In  addition,  we  believe  that both EBIT and  EBITDA  allow
+investors a means to evaluate the financial  results of each segment in relation
+to AT&T. Our  calculation  of EBIT and EBITDA may or may not be consistent  with
+the  calculation  of these measures by other public  companies.  EBIT and EBITDA
+should  not be viewed by  investors  as an  alternative  to  generally  accepted
+accounting  principles  (GAAP) measures of income as a measure of performance or
+to cash flows from operating, investing and financing activities as a measure of
+liquidity.  In addition,  EBITDA does not take into  account  changes in certain
+assets and liabilities that can affect cash flow.
+
+Our existing segments reflect certain  managerial  changes since the publication
+of our 1999 annual  results.  The  Business  Services  segment  was  expanded to
+include  the AT&T  Solutions  outsourcing  unit,  AT&T Global  Network  Services
+(AGNS), and the AT&T Information  Technology Services unit, formerly all part of
+the  Solutions  Group.  The results of fixed  wireless  have been moved from the
+Consumer Services segment to the Wireless  Services  segment,  and management of
+the business sales force that supports  wireless  products was transferred  from
+Business Services to Wireless Services.  Additionally WOOD-TV (which was sold in
+1999) was transferred and corporate  overhead was allocated to Wireless Services
+from  Corporate  and Other,  to align the  Wireless  Services  segment  with the
+results to be included in the AT&T Wireless Group. All prior period results have
+been restated to reflect these changes.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+BUSINESS SERVICES
+Our Business Services segment offers a variety of global communications services
+including  long  distance,  local  and  data  and IP  networking  to  small  and
+medium-sized  businesses,   large  domestic  and  multinational  businesses  and
+government agencies.  Business Services is also a provider of voice, data and IP
+transport  to service  resellers  (wholesale  services).  Also  included in this
+segment is AT&T  Solutions,  which is composed of the Solutions  outsourcing and
+network  management  business unit and the internal AT&T Information  Technology
+Services unit.
+
+                                          Three months
+                                             ended
+                                            March 31,
+Dollars in Millions                     2000         1999
+External revenue                     $ 6,958      $ 6,285
+Internal revenue                         178          163
+Total revenue                          7,136        6,448
+
+EBIT                                   1,525        1,592
+EBITDA                                 2,384        2,332
+
+OTHER ITEMS
+Capital additions                    $ 1,260      $   912
+
+                                   At March 31,   At Dec. 31,
+                                        2000         1999
+Total assets                         $31,855      $32,010
+
+REVENUE
+Business Services revenue increased $688 million, or 10.7%, in the first quarter
+of 2000  compared  with  the  first  quarter  of 1999.  Normalized  for the 1999
+acquisition  of  AGNS  and  the  impact  of  Concert,   revenue  increased  6.0%
+quarter-over-quarter.  The increase was driven  primarily by strength in data/IP
+and outsourcing services.
+
+Normalized  data/IP  services  revenue  grew at a  mid-teens  rate in the  first
+quarter  of 2000 led by  continued  strength  in frame  relay,  IP and growth in
+high-speed private line services. Excluding low-speed private line, data/IP grew
+at a high-teens  rate. IP services,  which  includes AT&T WorldNet  services and
+Virtual Private Network Services (VPN), grew almost 50% during the first quarter
+of 2000 and almost 60% excluding  AGNS.  On a combined  basis,  packet  services
+(frame relay, ATM and IP) grew approximately 40% during the quarter.
+
+In the first quarter of 2000,  AT&T Solutions  outsourcing  revenue grew by $483
+million,  or 161.4%,  to $782 million  compared  with the first quarter of 1999.
+Normalized for the 1999  acquisition of AGNS,  revenue grew by $155 million,  or
+24.6%,  versus  the prior  year.  Excluding  the  impact of the IBM  outsourcing
+contract,  revenue grew over 35% in the first  quarter of 2000 compared with the
+year-ago quarter  primarily due to growth from new contract  signings and add-on
+business from existing clients.
+
+Normalized  voice  revenue  growth was up slightly in the first  quarter of 2000
+compared  with the first  quarter of 1999 as high-teens  volume  increases  were
+offset by pricing declines.  The price declines reflect  competition and product
+mix.  Growth in domestic  long  distance and local voice  revenue was  partially
+offset by a decline in international voice revenue.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+As a component of voice revenue,  local revenue grew over 30% as compared to the
+first quarter a year-ago.  AT&T's  integrated  business local  operations  added
+170,000 access lines in the first quarter bringing total access lines in service
+as of March 31, 2000, to almost 1.5 million.  On-net  buildings  totaled  almost
+5,900 at the end of the first  quarter of 2000, a 5.5%  increase  over the first
+quarter of 1999.
+
+EBIT/EBITDA
+EBIT declined $67 million,  or 4.2%, and EBITDA increased $52 million,  or 2.3%,
+in the first quarter of 2000 compared with the same period last year.  Excluding
+a $93 million restructuring charge in the first quarter of 2000, EBIT was $1,618
+million,  an increase  of 1.6%,  and EBITDA was $2,477  million,  an increase of
+6.3%,  compared with the prior year quarter.  These increases were primarily due
+to revenue growth  combined with continued cost reductions  partially  offset by
+the EBIT and EBITDA  impact of customers  contributed  to Concert.  The earnings
+impact of our equity interest in Concert is reported within Corporate and Other.
+
+OTHER ITEMS
+Capital  additions  increased $348 million,  or 38.2%,  to $1,260 million in the
+first quarter of 2000 compared with the first quarter of 1999,  primarily driven
+by additions to property,  plant and  equipment to enhance our data/IP and local
+networks.
+
+Total assets  decreased $155 million,  or 0.5%, to $31,855  million at March 31,
+2000,  compared with December 31, 1999,  primarily  resulting from a decrease in
+property,  plant  and  equipment  as a result of the  contribution  of assets to
+Concert combined with  depreciation for the period,  partially offset by capital
+expenditures.
+
+CONSUMER SERVICES
+Our Consumer Services segment provides a variety of any-distance  communications
+services  including  long  distance,  local toll  (intrastate  calls outside the
+immediate local area) and Internet access to residential customers. In addition,
+Consumer Services provides transaction services such as prepaid calling-card and
+operator-handled  calling  services.  Local  phone  service is also  provided in
+certain areas.
+                                          Three months
+                                             ended
+                                            March 31,
+Dollars in Millions                     2000         1999
+Revenue                               $5,059       $5,470
+EBIT                                   1,719        1,851
+EBITDA                                 1,870        2,044
+
+OTHER ITEMS
+Capital additions                     $   54       $   88
+
+                                   At March 31,   At Dec. 31,
+                                        2000         1999
+Total assets                          $5,418       $6,279
+
+REVENUE
+Consumer  services  revenue  decreased  7.5%  compared with the first quarter of
+1999.  Normalized  for the  impact of  Concert,  revenue  declined  5.6% as long
+distance  calling volumes  declined at a high-single  digit rate.  These results
+reflect the ongoing  competitive  nature of the consumer long distance industry,
+which has resulted in pricing pressures and a loss of customers. Also negatively
+impacting revenue was product substitution and market migration away from direct
+dial wireline and calling card services to rapidly growing wireless services.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+EBIT/EBITDA
+EBIT and EBITDA for Consumer Services declined 7.1% and 8.5%,  respectively,  in
+the first  quarter of 2000  compared  with the first  quarter of last year.  The
+declines  were  impacted  by a $96  million  restructuring  charge  in the first
+quarter  of 2000 and a first  quarter  1999 gain of $153  million on the sale of
+Language Line Services. Excluding these items, EBIT and EBITDA improved 6.9% and
+4.0% to $1,815  million and $1,966  million,  respectively,  over the comparable
+prior year quarter.  These  improvements  were due to cost control  initiatives,
+primarily  in SG&A and costs of  services  and  products  expenses.  These  cost
+reductions  were partially  offset by lower revenue and higher costs  associated
+with our efforts to penetrate local markets.
+
+OTHER ITEMS
+Capital  additions  were $54 million in the first  quarter of 2000 compared with
+$88 million in the year-ago  quarter  primarily  due to  decreased  additions to
+internal use software and lower capital expenditures.
+
+Total assets  decreased $861 million,  or 13.7%,  to $5,418 million at March 31,
+2000, from December 31, 1999, primarily due to a decrease in property, plant and
+equipment as a result of the contribution of certain assets to Concert,  coupled
+with depreciation expense during the period.
+
+WIRELESS SERVICES
+Our  Wireless  Services  segment  offers  wireless  voice and data  services and
+products  to  customers  in our 850  megahertz  (cellular)  and  1900  megahertz
+(Personal  Communications  Services,  or PCS)  markets.  Wireless  Services also
+includes certain  interests in partnerships and affiliates that provide wireless
+services  in the United  States  and  internationally,  aviation  communications
+services,  and fixed  wireless.  Fixed wireless  provides  residential and small
+business  customers  high-speed  Internet access and any-distance voice services
+using wireless technology. Three months ended March 31, Dollars in Millions 2000
+1999 Revenue $ 2,198 $ 1,562 EBIT 111 (51) EBITDA excluding other income 401 184
+
+OTHER ITEMS
+Capital additions                    $ 1,390      $   190
+
+                                   At March 31,   At Dec. 31,
+                                        2000         1999
+Total assets                         $24,666      $23,312
+
+REVENUE
+Wireless Services revenue increased $636 million, or 40.7%, to $2,198 million in
+the first quarter of 2000  compared  with the first  quarter of 1999,  including
+growth in services  revenue of 45.2% to $1,992 million.  Adjusted to exclude the
+acquisition of Vanguard Cellular Systems,  Inc., in May 1999, total revenue grew
+33.1%  compared  with the year-ago  quarter.  The growth  reflects the continued
+successful  execution of AT&T's  wireless  strategy of targeting  and  retaining
+specific customer segments, expanding the national wireless footprint,  focusing
+on digital  service,  and  offering  simple rate plans.  This has resulted in an
+increase in consolidated  subscribers and an increase in average monthly revenue
+per user  (ARPU).  Equipment  revenue  grew  8.0% to $206  million  in the first
+quarter of 2000 compared with the year-ago quarter.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+AT&T continues to experience strong growth in wireless subscribers. Consolidated
+subscribers  grew to  nearly  10  million  at March 31,  2000,  representing  an
+increase of 32.3% over the year-ago  quarter.  Net subscriber  additions totaled
+418,000  during the first  quarter of 2000, a 12.3%  increase  over the year-ago
+quarter. Total subscribers, including partnership markets in which AT&T does not
+own a  controlling  interest,  were more than 13.1  million at March 31, 2000, a
+30.2% increase over the year-ago quarter. AT&T's churn rate in the first quarter
+of 2000 was 2.9% compared with 2.8% in the first quarter of 1999.
+
+The company  continues to rapidly migrate  customers to digital  service,  which
+generates more efficient use of the network and a lower churn rate compared with
+analog  service.  At the end of the first  quarter,  84.8% of  AT&T's  nearly 10
+million  consolidated  subscribers  were on  digital  service,  up from 67.5% on
+digital service a year ago.
+
+AT&T's  focus on  high-value  subscribers  has helped  generate  rising usage by
+customers,  increasing  ARPU  quarter  over  quarter.  ARPU across all of AT&T's
+wireless  markets was $67.20 in the first  quarter of 2000, an increase of 10.5%
+from the year-ago quarter.
+
+EBIT/EBITDA EXCLUDING OTHER INCOME
+EBIT was $111 million in the first  quarter of 2000  compared  with a deficit of
+$51  million  in the  first  quarter  of 1999.  The  improvement  resulted  from
+increased revenue and an improving cost structure,  mostly  off-network  roaming
+expenses.  Our average  off-network rate per minute declined  approximately  34%
+quarter over quarter.  These  improvements  were  partially  offset by increased
+customer  acquisition  and  customer  care costs  associated  with growth in the
+wireless  subscriber  base as well as higher  other  income due to a gain on the
+redemption of certain securities and increased earnings from equity investments.
+EBIT was  negatively  impacted  by the  results of fixed  wireless,  which had a
+deficit of $44 million and a deficit of $21 million in the first quarter of 2000
+and 1999, respectively.
+
+EBITDA  excluding other income was $401 million in the first quarter of 2000, an
+increase of 117.9% from the year-ago quarter.  The improvement was primarily the
+result of revenue growth and an improving cost structure. EBITDA excluding other
+income was impacted by the results of fixed wireless, which had a deficit of $34
+million  and a deficit  of $15  million  in the first  quarter of 2000 and 1999,
+respectively.
+
+OTHER ITEMS
+In the first  quarter of 2000  capital  additions  increased  $1,200  million to
+$1,390  million  compared with the same quarter last year,  primarily  driven by
+capital  expenditures  related to network capacity  upgrades and improvements to
+network quality.  Also contributing to the increase in capital additions was our
+acquisition of American Cellular through a joint venture during the quarter.
+
+Total assets increased $1,354 million,  or 5.8%, to $24,666 million at March 31,
+2000,  compared  with December 31, 1999.  The increase was  primarily  driven by
+higher equity  investments as a result of our  acquisition of American  Cellular
+through a joint venture and the attribution of 50% of AT&T's investment in Japan
+Telecom from international  operations and ventures,  which is part of Corporate
+and Other.  Also  contributing  to the  increase in assets was higher  property,
+plant and  equipment  resulting  from  capital  expenditures  in  support of the
+continued  expansion and build out of our wireless network,  partially offset by
+depreciation expense for the period.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+BROADBAND
+Our Broadband  segment offers a variety of services  through our cable broadband
+network,  including  traditional  analog video and new services  such as digital
+cable and AT&T@Home, our high-speed cable Internet access service. Also included
+in this  segment are the  results  associated  with  providing,  developing  and
+installing the infrastructure that supports broadband telephony.
+
+                                   Three months     One month
+                                       ended          ended
+                                     March 31,      March 31,
+Dollars in Millions                     2000           1999
+Revenue                              $ 1,492        $   483
+EBIT                                     (45)          (673)
+EBITDA excluding other income            350           (392)
+
+OTHER ITEMS
+Capital additions                    $ 1,344        $   310
+
+                                   At March 31,     At Dec. 31,
+                                        2000           1999
+Total assets                         $53,826        $56,536
+
+
+First  quarter 2000  includes a full quarter of  Broadband  results  while first
+quarter of 1999  includes  only one month of Broadband  results  reflecting  the
+March 1999 acquisition of TCI.
+
+REVENUE
+Broadband's  revenue was $1,492  million for the first  quarter of 2000 and $483
+million for the one month ended March 31,  1999.  Revenue for the first  quarter
+increased $110 million, or 7.9%, from $1,382 million,  normalized for the impact
+of the TCI acquisition,  including adjustments for all closed cable partnerships
+and  Excite@Home.  Broadband  ended the first  quarter of 2000 with 11.1 million
+basic cable customers,  passing  approximately  19.2 million homes, and had more
+than 1.9 million digital-cable customers.  Broadband's high-speed cable Internet
+service,  AT&T@Home,  ended the first quarter of 2000 with approximately 294,000
+customers, compared with approximately 207,000 at the end of 1999.
+
+During the first quarter of 2000, AT&T expanded its presence and provisioning of
+its telephony  offering.  At the end of the quarter,  AT&T offered its telephony
+service to 39,500 customers in ten markets.  At the end of 1999, AT&T had nearly
+8,300 broadband telephony customers.
+
+EBIT/EBITDA EXCLUDING OTHER INCOME
+EBIT was a deficit of $45 million  and EBITDA  excluding  other  income was $350
+million for the first quarter of 1999. The  amortization  of franchise costs and
+other purchased intangibles as well as equity losses associated with Excite@Home
+and  Cablevision,  partially  offset by the gains on the sale of Lenfest and the
+Cox transaction, contributed to the EBIT deficit.
+
+EBIT and EBITDA  excluding  other income were  deficits of $673 million and $392
+million for the one month ended March 31, 1999.  These  deficits were  primarily
+the result of a charge for  in-process  research  and  development  projects  at
+Broadband.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+OTHER ITEMS
+Capital  additions were $1,344  million in the first quarter of 2000,  comprised
+primarily of capital  expenditures  directed  towards the launch of advanced new
+services as well as spending on the upgrade of cable plants.  Capital  additions
+also included contributions to various nonconsolidated investments.
+
+Total  assets were  $53,826  million at March 31,  2000,  compared  with $56,536
+million at December 31, 1999, which represents a 4.8% decrease. The decrease was
+primarily driven by decreased investments and franchise costs as a result of the
+exchange of certain cable systems and other assets with Cox for AT&T stock,  and
+the disposition of our investment in Lenfest. In addition,  investments declined
+as a result of losses on our equity investments recognized during the quarter.
+
+CORPORATE AND OTHER
+This group reflects  corporate  staff  functions and elimination of transactions
+between  segments  as  well  as the  results  of  international  operations  and
+ventures.
+
+                                          Three months
+                                             ended
+                                            March 31,
+Dollars in Millions                     2000         1999
+Revenue                              $   (49)      $  133
+EBIT                                    (646)        (454)
+EBITDA                                  (559)        (365)
+
+OTHER ITEMS
+Capital additions                    $   105      $   335
+
+                                   At March 31,   At Dec. 31,
+                                        2000         1999
+Total assets                         $15,934      $12,836
+
+REVENUE
+Revenue  for  Corporate   and  Other   primarily   includes   revenue  from  our
+international operations and ventures of $114 million, a decline of $176 million
+from the first quarter of 1999, and the elimination of inter-segment  revenue of
+$178  million,  an increase of $9 million from the first quarter of 1999. In the
+first  quarter of 2000,  Corporate  and Other  revenue  declined $182 million to
+negative $49 million.  The decrease was largely due to the impact of Concert and
+due to lower  international  operations and ventures revenue associated with the
+divestment of certain  businesses.  Corporate and Other revenue,  normalized for
+the divestments of international  businesses and for the impact of Concert,  was
+negative $49 million in the first  quarter of 2000  compared with a negative $64
+million for the first  quarter of 1999.  International  operations  and ventures
+normalized revenue grew 28.8%, to $114 million,  in the first quarter of 2000 as
+a result of strong growth in frame relay services and interconnection services.
+
+EBIT/EBITDA
+EBIT and EBITDA for Corporate  and Other  declined $192 million and $194 million
+to deficits of $646 million and $559  million,  respectively.  The declines were
+largely  due to the  first  quarter  2000  charge  of  $568  million,  primarily
+associated with business restructuring, which was in excess of the first quarter
+1999 charge of $137 million,  primarily associated with the  government-mandated
+disposition of an international  business that would have competed directly with
+Concert.  Excluding the charges in the first quarter of 2000 and 1999,  EBIT and
+EBITDA  improved  $239  million and $237 million to a deficit of $78 million and
+income of $9 million,  respectively.  These  improvements  were primarily due to
+sales of miscellaneous  investments, a larger pension credit in 2000 as a result
+of a higher  pension  trust asset base and an  increased  discount  rate used to
+measure the pension and postretirement obligations, continued expense reductions
+and  earnings  from our equity  interest in  Concert.  These  improvements  were
+partially offset by distributions on trust securities.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+OTHER ITEMS
+Capital additions decreased $230 million to $105 million in the first quarter of
+2000 compared with the first quarter of 1999 reflecting  decreased investment in
+international   nonconsolidated  subsidiaries  primarily  as  a  result  of  the
+disposition of certain non-strategic investments during 1999.
+
+Assets  increased  $3,098  million  during the first  quarter of 2000 to $15,934
+million  primarily  due to our  investment  in  Concert,  including  the  assets
+contributed by Business Services and Consumer Services.
+
+
+LIBERTY MEDIA GROUP RESULTS
+Liberty  Media Group (LMG)  produces,  acquires and  distributes  entertainment,
+educational and informational programming services through all available formats
+and  media.  LMG is  also  engaged  in  electronic  retailing  services,  direct
+marketing  services,   advertising  sales  relating  to  programming   services,
+infomercials and transaction  processing.  Equity earnings (losses) from Liberty
+Media Group were $942 million for the three  months  ended March 31,  2000,  and
+were $(58) million for the period from the date of acquisition through March 31,
+1999.  The  difference  primarily  resulted  from  a  first  quarter  2000  gain
+associated with the acquisition of General Instrument by Motorola reflecting the
+difference  between the carrying value of LMG's  interest in General  Instrument
+and the fair value of the Motorola securities received in the merger.
+
+LIQUIDITY
+                                                  Three months
+                                                     ended
+                                                    March 31,
+Dollars in Millions                               2000     1999
+
+CASH FLOWS:
+  Provided by operating activities             $ 2,376  $   746
+  Used in investing activities                  (5,001)  (6,891)
+  Provided by financing activities               1,703    4,448
+
+AT&T GROUP EBITDA                              $ 4,718  $ 3,793
+
+In the first quarter of 2000 net cash provided by operating activities increased
+$1,630  million  to $2,376  million.  The  increase  was  primarily  driven by a
+decrease in cash tax payments  resulting from the first quarter 1999 tax payment
+on the gain on the sale of  Universal  Card  Services  Inc.  and greater  access
+payments made in March 1999 as a result of timing differences.
+
+AT&T's investing  activities resulted in a net use of cash of $5,001 million for
+the first quarter 2000 compared with a net use of cash of $6,891 million for the
+first  quarter of 1999.  During the first quarter of 2000 AT&T used $3.2 billion
+for capital expenditures and other additions and loaned $1.0 billion to Concert.
+During the first  quarter of 1999 AT&T  transferred  $5.5 billion of cash to LMG
+and used $1.9 billion for capital expenditures and other additions.
+
+During the first quarter of 2000 net cash provided by financing  activities  was
+$1,703  million  compared with $4,448 million for the first quarter of 1999. The
+decrease was primarily due to lower proceeds from the issuance of long-term debt
+and the net issuance of  short-term  debt in the first  quarter of 2000 compared
+with the first  quarter 1999.  The decline was partially  offset by cash used in
+the first quarter of 1999 to fund the purchase of treasury stock.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+Earnings,  including other income,  before  interest,  taxes,  depreciation  and
+amortization  (EBITDA)  is a measure of our  ability to  generate  cash flow and
+should be considered in addition to, but not as a substitute for, other measures
+of  financial   performance  reported  in  accordance  with  generally  accepted
+accounting  principles.  AT&T Group EBITDA increased $925 million,  or 24.4%, to
+$4,718  million for the first quarter of 2000 compared with the first quarter of
+1999. EBITDA was impacted by net  restructuring and other charges,  gains on the
+sales of Lenfest  and  Language  Line,  a gain on the Cox  transaction,  and our
+investments in Excite@Home and  Cablevision.  Excluding these items,  EBITDA was
+$5,305  million in the first quarter of 2000, an increase of 20.8% compared with
+first  quarter  of 1999.  The  improvement  was  primarily  due to cost  control
+initiatives in our long distance  businesses,  Wireless Services,  and corporate
+staff functions, and the impact of our 1999 TCI acquisition.
+
+EURO CONVERSION
+On January 1, 1999,  certain  members of the European  Union  established  fixed
+conversion  rates between their  existing  currencies  and the European  Union's
+currency (Euro).  The transition period is anticipated to extend between January
+1, 1999,  and July 1, 2002.  We have  assessed the impact of the  conversion  on
+information-technology  systems,  currency  exchange rate risk,  derivatives and
+other financial instruments,  continuity of material contracts as well as income
+tax and accounting issues. We do not expect the conversion during the transition
+period to have a material impact on our consolidated financial statements.
+
+FINANCIAL CONDITION
+Total assets increased $4,276 million, or 2.5%, to $173,682 million at March 31,
+2000,  compared with December 31, 1999.  Our  investment in LMG increased due to
+greater  combined equity of LMG, driven  primarily by increased  market value of
+investments held by LMG and increased  income.  Investments and related advances
+increased $2,201 million  principally due to the establishment of our investment
+in Concert,  consisting  of $1.6 billion of property,  plant and equipment and a
+loan of $1.0 billion. The decrease in property,  plant and equipment principally
+related to the Concert contribution,  partly offset by capital expenditures. The
+increase in accounts receivable was primarily  attributable to transactions with
+Concert and lower franchise costs resulted from the exchange with Cox of certain
+cable systems and other assets for AT&T stock (Cox transaction).
+
+Total liabilities increased $2,510 million, or 3.1%, to $84,272 million at March
+31, 2000,  compared  with  December 31, 1999.  The increase was primarily due to
+increased  short-term  debt as a  result  of the  issuance  of $3.0  billion  of
+one-year notes and increased  current  liabilities as a result of higher accrued
+income taxes.  Partially  offsetting  these  increases were declines in accounts
+payable and deferred income taxes.  Accounts payable decreased  primarily due to
+timing of  payments,  partly  offset by  increased  payables to  Concert.  Lower
+deferred income taxes resulted from the Cox transaction.
+
+Total shareowners'  equity increased $1,778 million, or 2.3%, to $80,705 million
+at March 31, 2000,  compared with December 31, 1999. Total  shareowners'  equity
+includes equity  attributable to both AT&T common  shareowners' (AT&T Group) and
+Liberty Media Group. AT&T Group equity at March 31, 2000, was $38,635 million, a
+decrease of 4.4% from $40,406  million at December  31,  1999.  The decrease was
+primarily  due to  the  receipt  of  AT&T  stock  in  connection  with  the  Cox
+transaction.  Liberty  Media  Group's  equity at March  31,  2000,  was  $42,070
+million, an increase of 9.2% from $38,521 million at December 31, 1999.
+
+The ratio of total debt to total AT&T Group  capital  (debt divided by debt plus
+equity of AT&T  Group)  was  47.2% at March 31,  2000,  compared  with  44.3% at
+December 31, 1999.  Equity includes the convertible  trust preferred  securities
+and debt includes redeemable  non-convertible  trust preferred  securities.  The
+increase was primarily driven by an increase in borrowings and lower equity.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+RISK MANAGEMENT
+We are exposed to market  risk from  changes in  interest  and foreign  exchange
+rates.  On a limited  basis we use  certain  derivative  financial  instruments,
+including interest rate swaps, options,  forwards and other derivative contracts
+to manage  these  risks.  We do not use  financial  instruments  for  trading or
+speculative  purposes.  All financial  instruments  are used in accordance  with
+board-approved policies.
+
+Assuming a 10%  downward  shift in interest  rates at March 31,  2000,  the fair
+value of unhedged debt would have increased by approximately $950 million.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+In June 1998, the Financial  Accounting  Standards Board (FASB) issued Statement
+of Financial  Accounting  Standard  (SFAS) No. 133,  "Accounting  for Derivative
+Instruments and Hedging  Activities."  Among other provisions,  it requires that
+entities  recognize  all  derivatives  as either  assets or  liabilities  in the
+statement of financial  position and measure  those  instruments  at fair value.
+Gains and losses resulting from changes in the fair values of those  derivatives
+would be accounted  for  depending on the use of the  derivative  and whether it
+qualifies for hedge accounting. The effective date for this standard was delayed
+via the issuance of SFAS No. 137. The effective date for SFAS No. 133 is now for
+fiscal  years  beginning  after  June  15,  2000,  though  earlier  adoption  is
+encouraged and retroactive application is prohibited.  For AT&T, this means that
+the standard  must be adopted no later than January 1, 2001.  Based on the types
+of derivatives we currently have, we do not expect the adoption of this standard
+will have a material impact on AT&T's results of operations,  financial position
+or cash flows.
+
+In  December  1999,  the SEC issued  Staff  Accounting  Bulletin  (SAB) No. 101,
+"Revenue  Recognition  in Financial  Statements."  The SEC delayed the effective
+date of this  SAB in the  first  quarter  of  2000,  so that the SAB must now be
+adopted by June 30, 2000.  We are  currently  assessing the impact of SAB 101 on
+our results of operations.
+
+OTHER MATTERS
+On March 31, 2000, an AT&T-led consortium announced it will acquire a 39% voting
+stake in  Net2Phone,  the  leading  provider  of  Internet  telephony  and other
+Web-based  communications  services.  Under  the  terms  of the  agreement,  the
+consortium will purchase four million newly-issued Class A shares from Net2Phone
+at a price of $75 per share.  In addition,  the  consortium  will  purchase 14.9
+million Class A Net2Phone shares from Net2Phones's  controlling  shareholder for
+$75 per share.  Following  these  transactions,  the consortium  will have a 39%
+voting stake and a 32% economic  stake in Net2Phone for a total cash  investment
+of approximately $1.4 billion. AT&T plans to invest $725 million for a 51% stake
+in the consortium.  Other partners, including Liberty Media and BT, are expected
+to purchase the  remaining  partnership  interest.  AT&T and  Net2Phone  plan to
+jointly  develop new Internet  voice  applications  for cable  telephony and the
+business communications market.
+
+SUBSEQUENT EVENTS
+On April 27,  2000,  AT&T  completed an initial  public  offering of 360 million
+shares of AT&T Wireless Group tracking stock at an initial public offering price
+of $29.50 per share.  This stock is designed to track the  performance of AT&T's
+wireless  services  businesses.   The  net  proceeds  to  AT&T  after  deducting
+underwriter's  discount  and  related  fees and  expenses,  were $10.3  billion.
+Holders of AT&T Wireless Group tracking stock are entitled to one-half of a vote
+per share.
+
+<PAGE>
+
+                                                         AT&T Form 10-Q - Part I
+
+The AT&T Wireless Group  tracking  stock issued in the initial  public  offering
+reflected only a portion of the economic performance of the AT&T Wireless Group.
+AT&T retained the  remaining  interest in the economic  performance  of the AT&T
+Wireless Group in the form of an inter-group interest. AT&T currently intends to
+distribute  a portion of the AT&T  Common  Stock  Group's  interest  in the AT&T
+Wireless Group in the second half of this year. Such  disposition will include a
+distribution  in the form of a dividend  to holders of AT&T  Common  Stock Group
+shares for at least a portion of such interest, but may also include an exchange
+offer,  a further sale of AT&T Wireless  Group  tracking  stock or a combination
+thereof.  The method,  timing and sequence of the  distribution  options,  which
+could occur in stages, will be based on the AT&T Board of Directors'  assessment
+of the market conditions and other circumstances,  as appropriate, with the goal
+of maximizing  value for all AT&T  shareowners.  Following the  distribution  we
+expect that the  outstanding  shares of AT&T Wireless  Group tracking stock will
+reflect 100% of the economic  performance of the AT&T Wireless  Group.  The AT&T
+Wireless Group tracking stock is listed on the New York Stock Exchange under the
+symbol "AWE."
+
+<PAGE>
+
+                                                        AT&T Form 10-Q - Part II
+
+                           PART II - OTHER INFORMATION
+
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+A special  meeting of the  shareholders  of the registrant was held on March 14,
+2000.
+
+(c) Holders of common shares voted at this meeting on the  following  director's
+proposals,  which were set forth in the registrant's proxy  statement/prospectus
+dated January 26, 2000.
+
+(i) To approve an  amendment  to AT&T's  charter to create AT&T  Wireless  Group
+tracking stock and to amend other provisions of the charter:
+
+                    % of Shares Voted % of Shares Outstanding
+For:     2,261,022,285 shares           97.63                  67.77
+Against:    35,326,322 shares            1.53                   1.06
+Abstain:    19,337,362 shares            0.84                   0.58
+
+
+(ii) To approve an  amendment to the 1997 Long Term  Incentive  Program to grant
+incentive  awards  based on  shares of AT&T  Wireless  Group  tracking  stock to
+officers  and  employees  of the AT&T Common  Stock Group and the AT&T  Wireless
+Group and to permit non-employee directors of AT&T to participate with employees
+under the plan:
+
+                    % of Shares Voted % of Shares Outstanding
+For:     1,829,541,981 shares           79.00                  54.83
+Against:   457,315,125 shares           19.75                  13.71
+Abstain:    28,828,863 shares            1.25                   0.87
+
+
+(ii) In the event that any other  matter may  properly  come  before the special
+meeting,  or any  adjournment or  postponement  thereof,  the Proxy Committee is
+authorized, at their discretion, to vote the matter:
+
+                    % of Shares Voted % of Shares Outstanding
+For:     1,416,674,206 shares           61.17                  42.46
+Against:   628,678,454 shares           27.15                  18.85
+Abstain:   270,333,309 shares           11.68                   8.10
+
+<PAGE>
+                                                        AT&T Form 10-Q - Part II
+
+
+Item 6. Exhibits and Reports on Form 8-K.
+
+(a)           Exhibits
+
+              Exhibit Number
+
+                      12       Computation of Ratio of Earnings to Fixed Charges
+
+                      27       Financial Data Schedule
+
+                      99       Liberty Media Group financial results for the
+                               three months ended March 31, 2000 and the period
+                               ended March 31, 1999
+
+(b)           Reports on Form 8-K
+
+                     Form 8-K dated January 6, 2000 was filed pursuant to Item 5
+                     (Other  Events) on January 6, 2000.  Form 8-K dated January
+                     11, 2000 was filed pursuant to Item 5 and Item 7 (Financial
+                     Statements  and  Exhibits)  on January 14,  2000.  Form 8-K
+                     dated March 13, 2000 was filed  pursuant to Item 5 and Item
+                     7 on March  13,  2000.  Form 8-K dated  March 17,  2000 was
+                     filed pursuant to Item 5 and Item 7 on March 17, 2000. Form
+                     8-K dated March 27,  2000 was filed  pursuant to Item 5 and
+                     Item 7 on March 27, 2000. Form 8-K dated March 27, 2000 was
+                     filed pursuant to Item 5 on March 27, 2000.  Form 8-K dated
+                     March 29,  2000 was filed  pursuant to Item 5 and Item 7 on
+                     April 4, 2000.
+
+<PAGE>
+                                                                  AT&T Form 10-Q
+
+
+
+                                     SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+
+
+
+                                   AT&T Corp.
+
+
+
+                                   /s/  N. S. Cyprus
+                                   ------------------------------
+                                   By:  N. S. Cyprus
+                                        Vice President and Controller
+                                       (Principal Accounting Officer)
+
+
+
+Date:  May 12, 2000
+
+<PAGE>
+
+                                                                  AT&T Form 10-Q
+
+
+
+                                  Exhibit Index
+
+
+Exhibit
+Number
+
+
+
+12                       Computation of Ratio of Earnings to Fixed Charges
+
+27                       Financial Data Schedule
+
+99                       Liberty Media Group Financial Results for the three
+                         months ended March 31, 2000 and period ended March 31,
+                         1999
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+<TEXT>
+
+
+                                                                      Exhibit 12
+                                                                       Form 10-Q
+                                                                   For the Three
+                                                                    Months Ended
+                                                                  March 31, 2000
+
+
+                                   AT&T Corp.
+                Computation of Ratio of Earnings to Fixed Charges
+
+                              (Dollars in Millions)
+                                   (Unaudited)
+
+
+Income before income taxes                            $3,051
+
+Add equity investment losses, net of
+  distributions of less than 50% owned
+  affiliates                                             312
+
+Add fixed charges, excluding capitalized interest        742
+
+Total earnings before income taxes and
+  fixed charges                                       $4,105
+
+
+Fixed Charges:
+
+Total interest expense excluding capitalized
+  interest                                            $  555
+
+Capitalized interest                                      68
+
+Interest portion of rental expense                        73
+
+Dividend requirements on subsidiary preferred
+  stock and interest on trust preferred
+  securities                                             114
+
+  Total fixed charges                                 $  810
+
+Ratio of earnings to fixed charges                       5.1
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>ART. 5 FDS FOR 1ST QUARTER 10-Q
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+This  schedule  contains  summary  financial   information  extracted  from  the
+unaudited  consolidated  balance  sheet of AT&T Corp.  at March 31, 2000 and the
+unaudited  consolidated  statement  of income for the  three-month  period ended
+March 31, 2000 and is qualified  in its entirety by reference to such  financial
+statements.
+</LEGEND>
+<MULTIPLIER>                                   1,000,000
+
+<S>                                            <C>
+<PERIOD-TYPE>                                  3-MOS
+<FISCAL-YEAR-END>                              DEC-31-2000
+<PERIOD-START>                                 JAN-01-2000
+<PERIOD-END>                                   MAR-31-2000
+<CASH>                                         102
+<SECURITIES>                                   0
+<RECEIVABLES>                                  12,210
+<ALLOWANCES>                                   1,267
+<INVENTORY>                                    0
+<CURRENT-ASSETS>                               13,619
+<PP&E>                                         67,737
+<DEPRECIATION>                                 28,884
+<TOTAL-ASSETS>                                 173,682
+<CURRENT-LIABILITIES>                          30,713
+<BONDS>                                        21,886
+<PREFERRED-MANDATORY>                          6,327
+<PREFERRED>                                    0
+<COMMON>                                       4,431
+<OTHER-SE>                                     76,274
+<TOTAL-LIABILITY-AND-EQUITY>                   173,682
+<SALES>                                        0
+<TOTAL-REVENUES>                               15,836
+<CGS>                                          0
+<TOTAL-COSTS>                                  13,434
+<OTHER-EXPENSES>                               0
+<LOSS-PROVISION>                               284
+<INTEREST-EXPENSE>                             555
+<INCOME-PRETAX>                                3,051
+<INCOME-TAX>                                     368
+<INCOME-CONTINUING>                            2,683
+<DISCONTINUED>                                 0
+<EXTRAORDINARY>                                0
+<CHANGES>                                      0
+<NET-INCOME>                                   2,683
+<EPS-BASIC>                                  0.55
+<EPS-DILUTED>                                  0.54
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<DESCRIPTION>LIBERTY MEDIA FINANCIALS
+<TEXT>
+
+                              "LIBERTY MEDIA GROUP"
+             (a combination of certain assets, as defined in note 1)
+
+ <TABLE>
+                             Combined Balance Sheets
+                                   (unaudited)
+<CAPTION>
+                                                                               March 31,          December 31,
+                                                                                 2000                 1999
+                                                                         ----------------       -----------------
+                                                                                      amounts in millions
+<S>                                                                           <C>                          <C>
+Assets
+- ------
+
+Current assets:
+
+   Cash and cash equivalents                                                  $     2,177                   1,714
+
+   Cash collateral under securities lending agreement (note 6)
+                                                                                    1,013                      --
+
+   Short-term investments                                                             525                     378
+
+   Trade and other receivables, net                                                   175                     134
+
+   Prepaid expenses and committed program rights                                      495                     406
+
+   Deferred income tax assets                                                         731                     750
+
+   Other current assets                                                                11                       5
+                                                                         ----------------       -----------------
+
+         Total current assets                                                       5,127                   3,387
+                                                                         ----------------       -----------------
+
+Investments in affiliates, accounted for under the equity method, and
+   related receivables (note 3)                                                    17,040                  15,922
+
+Investments in available-for-sale securities and others (notes 4, 5
+   and 6)                                                                          34,564                  28,601
+
+Property and equipment, at cost                                                       465                     162
+   Less accumulated depreciation                                                       24                      19
+                                                                         ----------------       -----------------
+                                                                                      441                     143
+                                                                         ----------------       -----------------
+
+Intangible assets:
+   Excess cost over acquired net assets                                            10,169                   9,973
+   Franchise costs                                                                    269                     273
+                                                                         ----------------       -----------------
+                                                                                   10,438                  10,246
+   Less accumulated amortization                                                      592                     454
+                                                                         ----------------       -----------------
+                                                                                    9,846                   9,792
+                                                                         ----------------       -----------------
+Other assets, at cost, net of accumulated amortization
+                                                                                    1,196                     839
+                                                                         ----------------       -----------------
+
+         Total assets                                                         $    68,214                  58,684
+                                                                         ================       =================
+</TABLE>
+
+
+                                   (continued)
+<PAGE>
+
+<TABLE>
+                       Combined Balance Sheets, continued
+                                   (unaudited)
+<CAPTION>
+                                                                               March 31,          December 31,
+                                                                                 2000                    1999
+                                                                         --------------------   -------------
+                                                                                      amounts in millions
+<S>                                                                           <C>                         <C>
+Liabilities and Combined Equity
+- -------------------------------
+
+Current liabilities:
+
+   Accounts payable and accrued liabilities                                   $       329                    245
+
+   Accrued stock compensation                                                       2,179                  2,405
+
+   Program rights payable                                                             174                    166
+
+   Current portion of debt                                                          1,573                    554
+                                                                         ----------------       ----------------
+
+        Total current liabilities                                                   4,255                  3,370
+                                                                         ----------------       ----------------
+
+Long-term debt (note 6)                                                             5,237                  2,723
+
+Deferred income tax liabilities                                                    16,331                 14,107
+
+Other liabilities                                                                     136                     23
+                                                                         ----------------       ----------------
+
+        Total liabilities                                                          25,959                 20,223
+                                                                         ----------------       ----------------
+
+Minority interests in equity of attributed subsidiaries
+                                                                                      286                      1
+
+Combined equity (note 7):
+   Combined equity                                                                 33,675                 31,876
+   Accumulated other comprehensive earnings, net of taxes
+                                                                                    8,307                  6,557
+                                                                         ----------------       ----------------
+                                                                                   41,982                 38,433
+   Due (from) to related parties                                                      (13)                    27
+                                                                         ----------------       ----------------
+     Total combined equity                                                         41,969                 38,460
+                                                                         ----------------       ----------------
+
+Commitments and contingencies (note 8)
+
+        Total liabilities and combined equity                               $      68,214                 58,684
+                                                                            =============       ================
+
+See accompanying notes to combined financial statements.
+</TABLE>
+<PAGE>
+
+<TABLE>
+          Combined Statements of Operations and Comprehensive Earnings
+                                   (unaudited)
+<CAPTION>
+                                                                         New Liberty                           Old Liberty
+                                                      -----------------------------------------------     ---------------------
+                                                                          (note 1)                               (note 1)
+                                                           Three months               One month                 Two months
+                                                               ended                    ended                      ended
+                                                          March 31, 2000            March 31, 1999           February 28, 1999
+                                                      ----------------------   ----------------------     ------------------------
+                                                                                            amounts in millions
+<S>                                                       <C>                               <C>                        <C>
+Revenue                                                   $       235                        71                         282
+
+Operating costs and expenses:
+   Operating, selling, general and administrative
+                                                                  174                        56                         227
+   Stock compensation                                             (23)                      (41)                        183
+   Depreciation and amortization                                  167                        53                          47
+                                                              --------------         ----------------             ----------------
+                                                                  318                        68                         457
+                                                              --------------         ----------------             ----------------
+
+        Operating income (loss)                                   (83)                        3                        (175)
+
+Other income (expense):
+   Interest expense                                              (439)                      (13)                        (28)
+   Dividend and interest income                                    80                        24                          12
+   Share of losses of affiliates, net (note 3)                   (382)                      (80)                        (66)
+   Minority interests in (earnings) losses of attributed
+      subsidiaries                                                 (8)                       --                           4
+   Gains on dispositions, net (notes 4 and 5)
+                                                                2,444                        --                          14
+   Gains on issuance of equity by affiliates and
+      subsidiaries (note 3)                                        --                        --                         389
+   Other, net                                                       5                        --                          --
+                                                              --------------         ----------------             ----------------
+                                                                1,700                       (69)                        325
+                                                              --------------         ----------------             ----------------
+        Earnings (loss) before income taxes                     1,617                       (66)                        150
+
+Income tax benefit (expense)                                     (675)                        8                        (209)
+                                                              --------------         ----------------             ----------------
+
+        Net earnings (loss)                               $       942                       (58)                        (59)
+                                                              ==============         ================             ================
+
+Other comprehensive earnings, net of taxes:
+   Foreign currency translation adjustments
+                                                                  (31)                       12                         (15)
+   Unrealized holding gains arising during the period, net
+      of reclassification adjustments
+                                                                1,781                       894                         971
+                                                              --------------         ----------------             ----------------
+
+   Other comprehensive earnings                                 1,750                       906                         956
+                                                              --------------         ----------------             ----------------
+
+Comprehensive earnings                                    $     2,692                       848                         897
+                                                              ==============         ================             ================
+
+See accompanying notes to combined financial statements.
+</TABLE>
+<PAGE>
+
+
+
+<TABLE>
+                              "LIBERTY MEDIA GROUP"
+             (a combination of certain assets, as defined in note 1)
+
+                          Combined Statement of Equity
+
+                        Three months ended March 31, 2000
+                                   (unaudited)
+<CAPTION>
+                                                                                      Accumulated
+                                                                                         other             Due to
+                                                                                     comprehensive          (from)        Total
+                                                                   Combined            earnings,           related      combined
+                                                                    equity           net of taxes          parties       equity
+                                                                 -------------     ----------------     ------------   -----------
+                                                                                          amounts in millions
+<S>                                                              <C>                        <C>                 <C>        <C>
+Balance at January 1, 2000                                       $     31,876                6,557               27        38,460
+   Net earnings                                                           942                   --               --           942
+   Foreign currency translation adjustments                                --                  (31)              --           (31)
+   Recognition of previously unrealized gains on
+     available-for-sale securities, net                                    --               (1,478)              --        (1,478)
+   Unrealized gains on available-for-sale securities
+                                                                           --                3,259               --         3,259
+   Issuance of AT&T Liberty Media Group tracking stock for
+     acquisition (note 5)                                                 778                   --               --           778
+   Issuances of common stock by attributed subsidiary and
+     affiliate, net of taxes                                               79                   --               --            79
+   Other transfers to  related parties, net                                --                   --              (40)          (40)
+                                                                 -------------     ----------------     ------------   -----------
+
+Balance at March 31, 2000                                        $     33,675                8,307              (13)       41,969
+                                                                 =============     ================     ============   ===========
+
+See accompanying notes to combined financial statements.
+</TABLE>
+<PAGE>
+
+<TABLE>
+                              "LIBERTY MEDIA GROUP"
+             (a combination of certain assets, as defined in note 1)
+
+                        Combined Statements of Cash Flows
+                                   (unaudited)
+<CAPTION>
+                                                                                 New Liberty                       Old Liberty
+                                                              ----------------------------------------------- ---------------------
+                                                                                  (note 1)                           (note 1)
+                                                                   Three months               One month             Two months
+                                                                       ended                      ended                ended
+                                                                  March 31, 2000           March 31, 1999        February 28, 1999
+                                                              ----------------------   ---------------------- ---------------------
+                                                                                         amounts in millions
+                                                                                             (see note 2)
+<S>                                                               <C>                             <C>                          <C>
+Cash flows from operating activities:
+   Net earnings (loss)                                            $         942                      (58)                       (59)
+   Adjustments to reconcile net earnings (loss) to net cash
+     used by operating activities:
+        Depreciation and amortization                                       167                       53                         47
+        Stock compensation                                                  (23)                     (41)                       183
+        Payments of stock compensation                                     (183)                      (1)                      (126)
+        Share of losses of affiliates, net                                  382                       80                         66
+        Deferred income tax expense                                         721                        3                        205
+        Intergroup tax allocation                                           (46)                     (12)                        --
+        Cash payment from AT&T pursuant to tax sharing
+          agreement                                                          33                       --                         --
+        Minority interests in earnings (losses) of
+          attributed subsidiaries                                             8                       --                         (4)
+        Gains on disposition of assets, net                              (2,444)                      --                        (14)
+        Noncash interest                                                    364                       --                         --
+        Gains on issuance of equity by affiliates and
+          subsidiaries                                                       --                       --                       (389)
+        Other noncash charges                                                --                       --                          9
+        Changes in operating assets and liabilities, net of
+          the effect of acquisitions and dispositions:
+             Change in receivables                                           15                        2                        (19)
+             Change in prepaid expenses and committed
+               program rights                                               (88)                      (5)                       (10)
+             Change in payables and accruals                                  7                      (32)                         4
+                                                              -----------------        -----------------      ---------------------
+
+                 Net cash used by operating activities
+                                                                           (145)                     (11)                      (107)
+                                                              -----------------        -----------------      ---------------------
+
+Cash flows from investing activities:
+   Cash paid for acquisitions                                              (342)                      --                         --
+   Capital expended for property and equipment
+                                                                            (12)                      (4)                       (21)
+   Investments in and loans to affiliates and others
+                                                                           (808)                     (88)                       (45)
+   Purchases of marketable securities                                      (337)                  (3,217)                      (132)
+   Sales and maturities of marketable securities
+                                                                            511                       --                         34
+   Cash proceeds from dispositions                                            8                        3                         43
+   Cash balances of deconsolidated subsidiaries
+                                                                             --                       --                        (53)
+   Other, net                                                                15                        4                         (9)
+                                                              -----------------        -----------------      ---------------------
+
+                 Net cash used by investing activities
+                                                                           (965)                  (3,302)                      (183)
+                                                              -----------------        -----------------      ---------------------
+
+                                   (continued)
+</TABLE>
+<PAGE>
+<TABLE>
+                  Combined Statements of Cash Flows, continued
+                                   (unaudited)
+<CAPTION>
+                                                                                 New Liberty                       Old Liberty
+                                                              ----------------------------------------------- ---------------------
+                                                                                  (note 1)                           (note 1)
+                                                                   Three months               One month             Two months
+                                                                       ended                    ended                  ended
+                                                                  March 31, 2000           March 31, 1999        February 28, 1999
+                                                              ----------------------   ---------------------- ---------------------
+                                                                                         amounts in millions
+                                                                                            (see note 2)
+<S>                                                               <C>                             <C>                        <C>
+Cash flows from financing activities:
+   Borrowings of debt                                                     2,410                      495                      156
+   Repayments of debt                                                      (772)                    (448)                    (148)
+   Cash transfers (to) from related parties                                 (41)                     (80)                     132
+   Repurchase of stock of subsidiaries                                       --                       --                      (45)
+   Other, net                                                               (24)                      --                       (1)
+                                                              -----------------        -----------------      -------------------
+
+                 Net cash provided (used) by financing
+                    activities                                            1,573                      (33)                      94
+                                                              -----------------        -----------------      -------------------
+
+                    Net increase (decrease) in cash and
+                        cash equivalents
+                                                                            463                   (3,346)                    (196)
+
+                    Cash and cash equivalents at beginning
+                        of period                                         1,714                    5,319                      407
+                                                              -----------------        -----------------      -------------------
+
+                    Cash and cash equivalents at end of
+                        period                                    $       2,177                    1,973                      211
+                                                              =================        =================      ===================
+
+See accompanying notes to combined financial statements.
+</TABLE>
+<PAGE>
+
+
+
+
+
+                              "LIBERTY MEDIA GROUP"
+             (a combination of certain assets, as defined in note 1)
+
+                     Notes to Combined Financial Statements
+
+                                 March 31, 2000
+                                   (unaudited)
+
+(1)      Basis of Presentation
+
+         The accompanying  combined financial statements include the accounts of
+         the subsidiaries and assets of AT&T Corp.  ("AT&T") that are attributed
+         to Liberty  Media  Group,  as  defined  below.  On March 9, 1999,  AT&T
+         acquired  Tele-Communications,  Inc.  ("TCI"),  the former owner of the
+         assets attributed to Liberty Media Group, in a merger  transaction (the
+         "AT&T  Merger").  The AT&T  Merger  has been  accounted  for  using the
+         purchase  method.   Accordingly,   Liberty  Media  Group's  assets  and
+         liabilities  have been recorded at their  respective fair market values
+         therefore,  creating a new cost basis. For financial reporting purposes
+         the AT&T Merger and related  restructuring  transactions  are deemed to
+         have occurred on March 1, 1999. Accordingly, for periods prior to March
+         1, 1999 the assets and  liabilities  attributed  to Liberty Media Group
+         and the related combined financial statements are sometimes referred to
+         herein as "Old  Liberty",  and for periods  subsequent  to February 28,
+         1999 the assets and  liabilities  attributed to Liberty Media Group and
+         the related  combined  financial  statements are sometimes  referred to
+         herein as "New Liberty".  The "Company" and "Liberty Media Group" refer
+         to both New Liberty and Old Liberty.
+
+         At March 31, 2000,  Liberty Media Group  consisted  principally  of the
+         following:
+
+         o    AT&T's assets and businesses  which provide  programming  services
+              including  production,  acquisition and  distribution  through all
+              available formats and media of branded entertainment,  educational
+              and informational  programming and software,  including multimedia
+              products;
+
+         o    AT&T's  assets and  businesses  engaged in  electronic  retailing,
+              direct  marketing,   advertising  sales  relating  to  programming
+              services, infomercials and transaction processing;
+
+         o    certain of AT&T's assets  and businesses engaged  in international
+              cable,  telephony  and  programming businesses; and,
+
+         o    AT&T's holdings in a class of tracking stock of Sprint Corporation
+              (the "Sprint PCS Group Stock").
+
+         All  significant  intercompany  accounts  and  transactions  have  been
+         eliminated.  The combined  financial  statements of Liberty Media Group
+         are presented for purposes of additional  analysis of the  consolidated
+         financial  statements  of AT&T and should be read in  conjunction  with
+         such consolidated financial statements.
+
+         The accompanying  interim combined  financial  statements are unaudited
+         but, in the opinion of management,  reflect all adjustments (consisting
+         of normal recurring  accruals) necessary for a fair presentation of the
+         results for such  periods.  The results of  operations  for any interim
+         period are not  necessarily  indicative  of results  for the full year.
+         These combined financial  statements should be read in conjunction with
+         the combined  financial  statements  and notes  thereto  included as an
+         exhibit to AT&T's  Report on Form 10-K for the year ended  December 31,
+         1999.
+
+                                   (continued)
+<PAGE>
+
+         The  preparation of financial  statements in conformity  with generally
+         accepted  accounting  principles  requires management to make estimates
+         and  assumptions  that  affect  the  reported  amounts  of  assets  and
+         liabilities  at the date of the financial  statements  and the reported
+         amounts of revenue and expenses  during the  reporting  period.  Actual
+         results could differ from those estimates.
+
+         Certain prior period amounts have been  reclassified for  comparability
+         with the 2000 presentation.
+
+(2)      Supplemental Disclosures to Combined Statements of Cash Flows
+
+         Cash paid for interest was $70 million for the three months ended March
+         31, 2000, $16 million for the one month period ended March 31, 1999 and
+         $32 million for the two month period ended February 28, 1999. Cash paid
+         for income taxes for the three  months  ended March 31,  2000,  the one
+         month ended March 31, 1999 and the two months  ended  February 28, 1999
+         was not material.
+<TABLE>
+<CAPTION>
+                                                                    New Liberty                      Old Liberty
+                                                    -----------------------------------------  -----------------
+                                                                     (note 1)                         (note 1)
+                                                        Three months           One month             Two months
+                                                            ended                ended                  ended
+                                                          March 31,            March 31,            February 28,
+                                                            2000                 1999                   1999
+                                                    --------------------  -------------------  -------------
+                                                                              amounts in millions
+         <S>                                        <C>                               <C>                      <C>
+         Cash paid for acquisitions (note 5):
+                Fair value of assets acquired
+                                                    $         2,510                   --                       --
+                Net liabilities assumed                        (743)                  --                       --
+                Deferred tax liability recorded
+                                                               (362)                  --                       --
+                Minority interests in equity of
+                   acquired attributed
+                   subsidiaries                                (285)                  --                       --
+                AT&T Liberty Media Group tracking
+                   stock issued
+                                                               (778)                  --                       --
+                                                    ----------------     ----------------        -----------------
+                Cash paid for acquisitions
+                                                    $           342                   --                       --
+                                                    ================     ================        =================
+</TABLE>
+<TABLE>
+<CAPTION>
+         The following  table  reflects the change in cash and cash  equivalents
+         resulting from the AT&T Merger and related  restructuring  transactions
+         (amounts in millions):
+         <S>                                                                                           <C>
+         Cash and cash equivalents prior to the AT&T Merger                                            $      211
+             Cash received in restructuring transactions, net of cash balances transferred
+                                                                                                            5,284
+             Cash paid to TCI Group for certain warrants                                                     (176)
+                                                                                                       ----------
+
+         Cash and cash equivalents subsequent to the AT&T Merger                                       $    5,319
+                                                                                                       ==========
+</TABLE>
+                                   (continued)
+<PAGE>
+<TABLE>
+<CAPTION>
+         Liberty  Media Group ceased to include TV Guide,  Inc.  ("TV Guide") in
+         its combined  financial results and began to account for TV Guide using
+         the equity method of accounting,  effective March 1, 1999 (see note 3).
+         The effect of  changing  the method of  accounting  for  Liberty  Media
+         Group's ownership interest in TV Guide from the consolidation method to
+         the equity method is summarized below (amounts in millions):
+         <S>                                                                                     <C>
+         Assets   (other  than  cash  and  cash  equivalents)  reclassified   to
+         investments in affiliates                                                               $         (200)
+         Liabilities reclassified to investments in affiliates                                              190
+         Minority interests in equity of attributed subsidiaries reclassified to
+             investments in affiliates                                                                       63
+                                                                                                 --------------
+
+         Decrease in cash and cash equivalents                                                   $           53
+                                                                                                 ==============
+</TABLE>
+
+
+(3)      Investments in Affiliates Accounted for under the Equity Method
+         ---------------------------------------------------------------
+
+         Liberty  Media Group has various  investments  accounted  for under the
+         equity  method.  The  following  table  includes  Liberty Media Group's
+         carrying amount of the more significant investments in affiliates:
+<TABLE>
+<CAPTION>
+                                                               March 31, 2000             December 31, 1999
+                                                        --------------------------  -----------------------
+                                                                           amounts in millions
+         <S>                                                 <C>                                 <C>
+         USA Networks, Inc. ("USAI") and related
+             investments                                     $        2,682                       2,699
+         Telewest Communications plc ("Telewest")
+                                                                      1,884                       1,996
+         Discovery Communications, Inc. ("Discovery")
+                                                                      3,378                       3,441
+         TV Guide                                                     1,719                       1,732
+         QVC Inc. ("QVC")                                             2,514                       2,515
+         Teligent, Inc. ("Teligent")                                  1,317                          --
+         Flextech p.l.c. ("Flextech")                                   707                         727
+         UnitedGlobalCom, Inc. ("UnitedGlobalCom")
+                                                                        453                         505
+         Various foreign equity investments (other than
+             Telewest and Flextech)
+                                                                      1,440                       1,463
+         Other                                                          946                         844
+                                                             --------------            ----------------
+                                                             $       17,040                      15,922
+                                                             ==============            ================
+</TABLE>
+                                   (continued)
+<PAGE>
+
+
+         The following  table  reflects  Liberty Media Group's share of earnings
+(losses) of affiliates:
+<TABLE>
+<CAPTION>
+                                                                New Liberty                     Old Liberty
+                                               ------------------------------------------   -----------------
+                                                                 (note 1)                        (note 1)
+                                                   Three months             One month           Two months
+                                                       ended                  ended               ended
+                                                     March 31,              March 31,          February 28,
+                                                       2000                   1999                 1999
+                                               ---------------------   -------------------  -----------------
+                                                                       amounts in millions
+         <S>                                      <C>                             <C>                    <C>
+         USAI and related investments
+                                                  $          (7)                    3                     10
+         Telewest                                           (87)                  (25)                   (38)
+         Discovery                                          (63)                  (16)                    (8)
+         TV Guide                                           (13)                   (4)                    --
+         QVC                                                 (1)                   (1)                    13
+         Teligent                                           (71)                   --                     --
+         Flextech                                           (10)                   (5)                    (5)
+         UnitedGlobalCom                                    (50)                   --                     --
+         Other foreign investments                          (47)                  (15)                   (22)
+         Other                                              (33)                  (17)                   (16)
+                                                  -------------         -------------        ---------------
+                                                  $        (382)                  (80)                   (66)
+                                                  =============         =============        ===============
+</TABLE>
+         Summarized  unaudited combined financial  information for affiliates is
+as follows:
+<TABLE>
+<CAPTION>
+                                                                New Liberty                    Old Liberty
+                                               ------------------------------------------   ----------------
+                                                                 (note 1)                        (note 1)
+                                                   Three months             One month           Two months
+                                                       ended                  ended               ended
+                                                     March 31,              March 31,          February 28,
+                                                       2000                   1999                 1999
+                                               ---------------------   -------------------  ----------------
+                                                                       amounts in millions
+              <S>                               <C>                              <C>                <C>
+
+              Revenue                           $      3,610                      993                2,341
+              Operating expenses                      (3,333)                    (849)              (1,894)
+              Depreciation and amortization
+                                                        (641)                    (124)                (353)
+                                             ---------------         -----------------    ----------------
+                  Operating income (loss)
+                                                        (364)                      20                   94
+              Interest expense                          (465)                     (37)                (281)
+              Other, net                                  (4)                     (89)                (127)
+                                             ---------------         ----------------     -----------------
+                  Net loss                      $       (833)                    (106)                (314)
+                                                ============         ================     ================
+</TABLE>
+                                   (continued)
+<PAGE>
+         USAI owns and operates businesses in network and television production,
+         television  broadcasting,  electronic retailing,  ticketing operations,
+         and internet services.  At March 31, 2000, Liberty Media Group directly
+         and indirectly held 66.5 million shares of USAI's common stock. Liberty
+         Media Group also held shares  directly in certain  subsidiaries of USAI
+         which are  exchangeable  into 79.0 million shares of USAI common stock.
+         Liberty Media Group's direct ownership of USAI is currently  restricted
+         by Federal Communications Commission ("FCC") regulations.  The exchange
+         of these  shares  can be  accomplished  only if  there  is a change  to
+         existing  regulations or if Liberty Media Group obtains permission from
+         the FCC. If the exchange of subsidiary stock into USAI common stock was
+         completed  at March  31,  2000,  Liberty  Media  Group  would own 145.5
+         million shares or approximately 21% (on a fully-diluted  basis) of USAI
+         common stock.  USAI's common stock had a closing market value of $22.56
+         per share on March 31, 2000.
+
+         Telewest   currently  operates  and  constructs  cable  television  and
+         telephone  systems in the UK. At March 31,  2000,  Liberty  Media Group
+         indirectly  owned 506  million of the issued and  outstanding  Telewest
+         ordinary  shares.  The  reported  closing  price  on the  London  Stock
+         Exchange of Telewest  ordinary  shares was $7.66 per share at March 31,
+         2000.
+
+         Teligent is a full-service,  facilities based communications company in
+         which Liberty Media Group acquired an approximate  40% equity  interest
+         in its January 14, 2000  acquisition  of  Associated  Group,  Inc. (the
+         "Associated  Group")  (see note 5). At March 31,  2000,  Liberty  Media
+         Group held 21 million  shares of  Teligent  Class A common  stock.  The
+         closing price for Teligent Class A common stock was $66.81 per share on
+         March 31, 2000.
+
+         On March 1, 1999, UVSG and News Corp.  completed a transaction  whereby
+         UVSG  acquired  News  Corp.'s TV Guide  properties,  creating a broader
+         platform  for  offering  television  guide  services to  consumers  and
+         advertisers,  and UVSG was renamed TV Guide. News Corp.  received total
+         consideration  of $1.9 billion  including  $800  million in cash,  22.5
+         million  shares of UVSG's Class A common stock and 37.5 million  shares
+         of UVSG's  Class B common  stock  valued at an  average  of $18.65  per
+         share.  In addition,  News Corp.  purchased  approximately  6.5 million
+         additional  shares of UVSG  Class A common  stock for $129  million  in
+         order to equalize its ownership with that of Liberty Media Group.  As a
+         result of these transactions,  and another transaction completed on the
+         same  date,  News  Corp,  Liberty  Media  Group and TV  Guide's  public
+         stockholders own on an economic basis  approximately  44%, 44% and 12%,
+         respectively, of TV Guide. Following such transactions,  News Corp. and
+         Liberty Media Group each have  approximately 49% of the voting power of
+         TV Guide's  outstanding  stock.  In connection  with the increase in TV
+         Guide's  equity,  net of dilution of Liberty  Media  Group's  ownership
+         interest in TV Guide,  Liberty  Media Group  recognized  a gain of $372
+         million (before deducting deferred income taxes of $147 million).
+
+                                   (continued)
+<PAGE>
+         The Class A common stock of TV Guide is publicly  traded.  At March 31,
+         2000,  Liberty  Media Group held 58 million  shares of TV Guide Class A
+         common  stock and 75 million  shares of TV Guide Class B common  stock.
+         The TV Guide Class B common stock is convertible,  one-for-one, into TV
+         Guide  Class A common  stock.  The  closing  price for TV Guide Class A
+         common stock was $48.06 per share on March 31, 2000.
+
+         Flextech develops and sells a variety of television  programming in the
+         UK. At March 31, 2000,  Liberty Media Group indirectly owned 58 million
+         Flextech  ordinary  shares.  The reported  closing  price on the London
+         Stock Exchange of the Flextech  ordinary shares was $28.34 per share at
+         March 31, 2000.
+
+         UnitedGlobalCom is the largest global broadband communications provider
+         of video,  voice and data services with operations in over 20 countries
+         throughout the world.  At March 31, 2000,  Liberty Media Group owned an
+         approximate 10% economic ownership interest representing an approximate
+         36%  voting  interest  in   UnitedGlobalCom.   The  closing  price  for
+         UnitedGlobalCom  Class A common stock was $75.06 per share on March 31,
+         2000. The  UnitedGlobalCom  Class B common stock is  convertible,  on a
+         one-for-one basis, into UnitedGlobalCom Class A common stock.
+
+         The $14 billion  aggregate  excess of Liberty Media  Group's  aggregate
+         carrying   amount  in  its   affiliates   over  Liberty  Media  Group's
+         proportionate  share of its  affiliates'  net assets is being amortized
+         over an estimated useful life of 20 years.
+
+(4)      Investments in Available-for-sale Securities and Others
+         -------------------------------------------------------
+
+         Investments in available-for-sale  securities and others are summarized
+as follows:
+<TABLE>
+<CAPTION>
+                                                                              March 31,         December 31,
+                                                                                2000                 1999
+                                                                        ----------------    -----------------
+                                                                                    amounts in millions
+         <S>                                                              <C>                          <C>
+         Sprint Corporation ("Sprint")                                    $       12,513               10,186
+         Time Warner, Inc. ("Time Warner")                                        10,975                8,202
+         News Corp.                                                                2,801                2,403
+         Motorola, Inc. ("Motorola")                                               3,308                3,430
+         Other available-for-sale securities                                       4,427                3,773
+         Other investments, at cost, and related receivables
+                                                                                   1,065                  985
+                                                                        ----------------    -----------------
+                                                                                  35,089               28,979
+             Less short-term investments                                             525                  378
+                                                                        ----------------    -----------------
+                                                                          $       34,564               28,601
+                                                                          ==============    =================
+</TABLE>
+                                   (continued)
+<PAGE>
+         On January 5,  2000,  Motorola  completed  the  acquisition  of General
+         Instrument  Corporation  ("General  Instrument")  through  a merger  of
+         General  Instrument with a wholly owned subsidiary of Motorola.  In the
+         merger,  each outstanding share of General  Instrument common stock was
+         converted  into the right to receive  0.575  shares of Motorola  common
+         stock.  In connection  with the merger  Liberty Media Group received 18
+         million  shares and warrants to purchase 12 million  shares of Motorola
+         common  stock in  exchange  for its  holdings  in  General  Instrument.
+         Liberty Media Group  recognized a $2.2 billion gain (excluding  related
+         tax  expense  of $883  million)  on such  transaction  during the first
+         quarter of 2000 based on the  difference  between the carrying value of
+         Liberty Media Group's interest in General Instrument and the fair value
+         of the Motorola securities received.
+
+         Liberty  Media  Group's  right to exercise  warrants  to  purchase  6.1
+         million shares of Motorola  common stock is subject to AT&T  satisfying
+         the terms of a  purchase  commitment  in 2000.  AT&T has  agreed to pay
+         Liberty  Media Group  $14.35 for each  warrant  that does not vest as a
+         result of the purchase commitment not being met.
+
+         Investments in available-for-sale securities are summarized as follows:
+<TABLE>
+<CAPTION>
+                                                                               March 31,         December 31,
+                                                                                 2000               1999
+                                                                         ------------------   -----------------
+                                                                                  amounts in millions
+         <S>                                                              <C>                          <C>
+         Equity securities:
+             Fair value                                                   $       30,663               24,472
+             Gross unrealized holding gains                                       15,440               11,457
+             Gross unrealized holding losses                                      (1,684)                (646)
+         Debt securities:
+             Fair value                                                            1,820                1,995
+             Gross unrealized holding gains                                            1                   --
+             Gross unrealized holding losses                                         (21)                 (22)
+</TABLE>
+
+         Management  of  Liberty   Media  Group   estimates  the  market  value,
+         calculated  using a variety of  approaches  including  multiple of cash
+         flow,  per subscriber  value,  a value of comparable  public or private
+         businesses or publicly  quoted market  prices,  of all of Liberty Media
+         Group's  investments  in   available-for-sale   securities  and  others
+         aggregated  $33.3  billion  and $29.2  billion  at March  31,  2000 and
+         December  31,  1999,  respectively.   No  independent  appraisals  were
+         conducted for those assets.
+
+                                   (continued)
+<PAGE>
+(5)      Acquisitions
+
+         On January 14, 2000,  Liberty Media Group  completed its acquisition of
+         Associated  Group pursuant to a merger  agreement  among AT&T,  Liberty
+         Media Group and  Associated  Group.  Under the merger  agreement,  each
+         share of  Associated  Group's  Class A common  stock and Class B common
+         stock  was  converted  into  0.49634  shares of AT&T  common  stock and
+         1.20711  shares of AT&T Class A Liberty  Media  Group  tracking  stock.
+         Prior  to the  merger,  Associated  Group's  primary  assets  were  (1)
+         approximately   19.7  million   shares  of  AT&T  common   stock,   (2)
+         approximately  23.4 million  shares of AT&T Class A Liberty Media Group
+         tracking stock,  (3)  approximately  5.3 million shares of AT&T Class B
+         Liberty Media Group  tracking  stock,  (4)  approximately  21.4 million
+         shares of common stock,  representing  approximately a 40% interest, of
+         Teligent,  and (5) all of the  outstanding  shares of  common  stock of
+         TruePosition,  Inc.,  which  provides  location  services  for wireless
+         carriers and users  designed to determine  the location of any wireless
+         transmitters,   including  cellular  and  PCS  telephones.  Immediately
+         following  the  completion  of  the  merger,  all  of  the  assets  and
+         businesses of Associated Group were transferred to Liberty Media Group.
+         All of the shares of AT&T  common  stock,  AT&T  Class A Liberty  Media
+         Group  tracking  stock and AT&T Class B Liberty  Media  Group  tracking
+         stock previously held by Associated Group were retired by AT&T.
+
+         The acquisition of Associated Group was accounted for as a purchase and
+         the $20  million  excess of the fair value of the net  assets  acquired
+         over the purchase price is being  amortized over ten years. As a result
+         of the issuance of AT&T Liberty Media Group tracking stock,  net of the
+         shares of AT&T  Liberty  Media Group  tracking  stock  acquired in this
+         transaction,  Liberty Media Group  recorded a $778 million  increase to
+         combined equity.
+
+         On March 16, 2000,  Liberty Media Group  purchased  shares of preferred
+         stock in TCI  Satellite  Entertainment,  Inc.  ("TSAT") in exchange for
+         Liberty  Media Group's  economic  interest in  approximately  5 million
+         shares of Sprint PCS Group Stock, valued at $300 million. Liberty Media
+         Group received 150,000 shares of TSAT Series A 12% Cumulative Preferred
+         Stock and  150,000  shares of TSAT Series B 8%  Cumulative  Convertible
+         Voting  Preferred  Stock.  The Series A  preferred  stock does not have
+         voting rights,  while the Series B preferred  stock gives Liberty Media
+         Group approximately 85% of the voting power of TSAT. In connection with
+         this  transaction,  Liberty  Media Group  realized a $211  million gain
+         (before related tax expense of $84 million) during the first quarter of
+         2000 based on the  difference  between the cost basis and fair value of
+         the Sprint PCS Group Stock exchanged.
+
+         On March 28, 2000,  Liberty Media Group announced that it had completed
+         its cash  tender  offer  for the  outstanding  common  stock of  Ascent
+         Entertainment  Group,  Inc.  ("Ascent") at a price of $15.25 per share.
+         Approximately  85% of the outstanding  shares of common stock of Ascent
+         were tendered in the offer and Liberty  Media Group paid  approximately
+         $385 million.  Such transaction was accounted for as a purchase and the
+         $216 million  excess of the  purchase  price over the fair value of the
+         net assets acquired is being amortized over 20 years.
+
+                                   (continued)
+<PAGE>
+(6)      Long-Term Debt
+
+         Debt is summarized as follows:
+<TABLE>
+<CAPTION>
+                                                                              March 31,         December 31,
+                                                                                2000                 1999
+                                                                        ----------------    ----------------
+                                                                                    amounts in millions
+         <S>                                                               <C>                         <C>
+         Parent company debt:
+             Bank credit facilities                                        $        288                  390
+             Senior notes                                                           741                  741
+             Senior debentures (a)                                                1,486                  494
+             Senior exchangeable debentures (b)                                   2,196                1,022
+             Securities lending agreement (c)                                     1,116                   --
+                                                                        ---------------     ----------------
+                                                                                  5,827                2,647
+         Debt of subsidiaries:
+             Bank credit facilities                                                 770                  573
+             Senior notes                                                           165                   --
+             Other debt, at varying rates                                            48                   57
+                                                                        ---------------     ----------------
+                                                                                    983                  630
+                                                                        ---------------     ----------------
+             Total debt                                                           6,810                3,277
+         Less current maturities                                                  1,573                  554
+                                                                        ---------------     ----------------
+             Total long-term debt                                          $      5,237                2,723
+                                                                        ===============     ================
+<FN>
+         (a)      On February 2, 2000,  Liberty  Media Group  received  net cash
+                  proceeds of  approximately  $983  million from the issuance of
+                  8-1/4% Senior  Debentures due 2030. The senior debentures have
+                  an aggregate  principal amount of $1 billion.  Interest on the
+                  senior  debentures  is payable  on  February 1 and August 1 of
+                  each year.
+
+         (b)      On February  10, 2000, Liberty  Media Group received  net cash
+                  proceeds of $735  million  from the  issuance of $750  million
+                  principal amount of 3-3/4% Senior Exchangeable  Debentures due
+                  2030. On March 8, 2000,  Liberty Media Group received net cash
+                  proceeds of $59 million from the issuance of an additional $60
+                  million   principal  amount  of  3-3/4%  Senior   Exchangeable
+                  Debentures  due 2030.  Each debenture has a $1,000 face amount
+                  and is  exchangeable  at the holder's  option for the value of
+                  16.7764 shares of Sprint PCS Group Stock.  This amount will be
+                  paid only in cash until the later of February 15, 2002 and the
+                  date the direct  and  indirect  ownership  level of Sprint PCS
+                  Group  Stock  owned  by  Liberty  Media  Group  falls  below a
+                  designated  level,  after  which,  at  Liberty  Media  Group's
+                  election,  Liberty  Media  Group  may pay the  amount in cash,
+                  Sprint PCS Group Stock or a combination  thereof.  Interest on
+                  these  exchangeable  debentures  is payable on February 15 and
+                  August  15  of  each  year.   The   carrying   amount  of  the
+                  exchangeable debentures in excess of the principal amount (the
+                  "Contingent  Portion)  is  based  on  the  fair  value  of the
+                  underlying Sprint PCS Group Stock. The increase or decrease in
+                  the Contingent  Portion is recorded as an increase or decrease
+                  to interest  expense in the combined  statement of  operations
+                  and comprehensive earnings.
+
+                                   (continued)
+<PAGE>
+         (c)      On January 7, 2000, a trust, which holds Liberty Media Group's
+                  investment  in  Sprint,  entered  into  agreements  to loan 18
+                  million shares of Sprint PCS Group stock to a third party,  as
+                  Agent.  The  obligation  to return  those shares is secured by
+                  cash  collateral  equal  to 100% of the  market  value of that
+                  stock.  During the period of the loan,  which is terminable by
+                  either  party  at  any  time,  the  cash  collateral  is to be
+                  marked-to-market  daily. The trust, for the benefit of Liberty
+                  Media Group,  has the use of 80% of the cash  collateral  plus
+                  any interest  earned  thereon during the term of the loan, and
+                  is  required  to pay a rebate fee equal to the  Federal  funds
+                  rate  less 30  basis  points  to the  borrower  of the  loaned
+                  shares.  The cash  collateral  of $1,013  million at March 31,
+                  2000 included  $223 million of  restricted  cash. At March 31,
+                  2000,  Liberty  Media Group had  utilized  $103 million of the
+                  cash collateral under the securities lending agreement.
+</FN>
+</TABLE>
+
+         At March 31, 2000,  Liberty Media Group had approximately  $161 million
+         in unused  lines of credit under its bank credit  facilities.  The bank
+         credit facilities of Liberty Media Group generally contain  restrictive
+         covenants which require, among other things, the maintenance of certain
+         financial  ratios,  and include  limitations  on  indebtedness,  liens,
+         encumbrances,  acquisitions,  dispositions,  guarantees  and dividends.
+         Liberty Media Group was in compliance  with its debt covenants at March
+         31, 2000. Additionally, Liberty Media Group pays fees ranging from .15%
+         to .375%  per annum on the  average  unborrowed  portions  of the total
+         amounts available for borrowings under bank credit facilities.
+<TABLE>
+<CAPTION>
+         Based on quoted market prices,  the fair value of Liberty Media Group's
+         debt at March 31, 2000 is as follows (amounts in millions):
+                 <S>                                                            <C>
+                 Senior notes of parent company                                 $      742
+                 Senior debentures of parent company                                 1,483
+                 Senior exchangeable debentures of parent company
+                                                                                     2,295
+                 Senior notes of attributed subsidiary                                 178
+</TABLE>
+         Liberty Media Group believes that the carrying  amount of the remainder
+         of its debt approximated its fair value at March 31, 2000.
+
+(7)      Combined Equity
+
+         Stock Issuances of Subsidiary
+
+         During  the first  quarter of 2000,  Liberty  Digital,  Inc.  ("Liberty
+         Digital")  issued  approximately  1.5 million shares of common stock in
+         connection  with a certain  acquisition  and the  exercise  of  certain
+         employee  stock  options.  In  connection  with the increase in Liberty
+         Digital's equity, net of the dilution of Liberty Media Group's interest
+         in Liberty Digital,  that resulted from such stock  issuances,  Liberty
+         Media Group recorded a $75 million increase to combined equity.
+
+                                   (continued)
+<PAGE>
+         Transactions with Officers and Directors
+
+         Prior to the AT&T Merger, a limited liability company owned by Dr. John
+         C. Malone (Liberty Media Corporation's Chairman) acquired, from certain
+         attributed  subsidiaries  of  Liberty  Media  Group,  for $17  million,
+         working  cattle  ranches  located  in  Wyoming.  No gain  or  loss  was
+         recognized  on such  acquisition.  The purchase  price was paid by such
+         limited  liability company in the form of a 12-month note in the amount
+         of $17 million  having an interest  rate of 7%. Such note was repaid in
+         March 2000.
+
+         In connection with the AT&T Merger, Liberty Media Group paid two of its
+         directors and one other individual, all three of whom were directors of
+         TCI, an aggregate of $12 million for  services  rendered in  connection
+         with the AT&T Merger.  Such amount is included in  operating,  selling,
+         general and  administrative  expenses for the two months ended February
+         28, 1999 in the  accompanying  combined  statements of  operations  and
+         comprehensive earnings.
+
+         Transactions with AT&T
+
+         Certain AT&T corporate general and administrative  costs are charged to
+         Liberty Media Group based on the cost of services provided.  Management
+         believes this allocation method is reasonable.  During the three months
+         ended  March 31,  2000,  the one month ended March 31, 1999 and the two
+         months ended  February  28, 1999  Liberty  Media Group was charged less
+         than $1 million, less than $1 million and $2 million,  respectively, in
+         corporate  general and  administrative  costs by AT&T.  These costs are
+         included in operating expenses in the accompanying  combined statements
+         of operations and comprehensive earnings.
+
+         Certain  subsidiaries  attributed to Liberty Media Group produce and/or
+         distribute   programming  and  other  services  to  cable  distribution
+         operators  (including AT&T) and others.  Charges to AT&T are based upon
+         customary  rates  charged to others.  Amounts  included  in revenue for
+         services provided to AT&T were $52 million, $18 million and $43 million
+         for the three  months ended March 31,  2000,  one month  period  ending
+         March 31,  1999 and the two month  period  ending  February  28,  1999,
+         respectively.
+
+         Subsidiaries  of  Liberty  Media  Group  lease  satellite   transponder
+         facilities from a subsidiary of AT&T. Charges for such arrangements and
+         other related  operating  expenses for the three months ended March 31,
+         2000, and the one month ended March 31, 1999  aggregated $5 million and
+         $2 million, respectively, and are included in operating expenses in the
+         accompanying   combined  statements  of  operations  and  comprehensive
+         earnings.
+
+         Liberty Media Group makes marketing  support payments to AT&T.  Charges
+         by AT&T for such arrangements were less than $1 million for each of the
+         three months  ended March 31, 2000,  the one month ended March 31, 1999
+         and the two months ended February 28, 1999.
+
+                                   (continued)
+<PAGE>
+         The Puerto Rico Subsidiary  purchases  programming  services from AT&T.
+         The  charges,  which  approximate  AT&T's  cost  and are  based  on the
+         aggregate  number of subscribers  served by the Puerto Rico Subsidiary,
+         aggregated $2 million,  less than $1 million and $1 million  during the
+         three months  ended March 31, 2000,  the one month ended March 31, 1999
+         and the two months  ended  February  28,  1999,  respectively,  and are
+         included in operating expenses in the accompanying  combined statements
+         of operations and comprehensive earnings.
+
+         Due (from) to Related Parties
+
+         The amounts  included in "Due  (from) to related  parties"  represent a
+         non-interest  bearing  intercompany  account which includes  income tax
+         allocations  that are to be  settled  at some  future  date.  All other
+         amounts included in the  intercompany  account are to be settled within
+         thirty days following notification.
+
+(8)      Commitments and Contingencies
+
+         Starz Encore Group provides premium  programming  distributed by cable,
+         direct  satellite,  TVRO and other  distributors  throughout the United
+         States.  Starz  Encore Group is obligated to pay fees for the rights to
+         exhibit  certain films that are released by various  producers  through
+         2017 (the "Film  Licensing  Obligations").  Based on customer levels at
+         March 31, 2000, these agreements  require minimum payments  aggregating
+         approximately $1.2 billion.  The aggregate amount of the Film Licensing
+         Obligations under these license  agreements is not currently  estimable
+         because such amount is dependent  upon the number of  qualifying  films
+         released  theatrically by certain motion picture studios as well as the
+         domestic  theatrical  exhibition  receipts  upon  the  release  of such
+         qualifying films.  Nevertheless,  required aggregate payments under the
+         Film Licensing Obligations could prove to be significant.
+
+         Flextech has undertaken to finance the working capital  requirements of
+         a joint  venture  (the  "Principal  Joint  Venture")  formed  with  BBC
+         Worldwide, and is obligated to provide the Principal Joint Venture with
+         a primary credit facility of (pound)88  million and, subject to certain
+         restrictions,  a standby credit  facility of (pound)30  million.  As of
+         March 31, 2000,  the  Principal  Joint  Venture had borrowed  (pound)59
+         million under the primary credit facility.  If Flextech defaults in its
+         funding  obligation  to the  Principal  Joint Venture and fails to cure
+         within  42 days  after  receipt  of  notice  from  BBC  Worldwide,  BBC
+         Worldwide is entitled,  within the  following 90 days,  to require that
+         Liberty Media Group assume all of Flextech's funding obligations to the
+         Principal Joint Venture.
+
+         Liberty  Media  Group has  guaranteed  various  loans,  notes  payable,
+         letters of credit and other obligations (the "Guaranteed  Obligations")
+         of certain  affiliates.  At March 31, 2000, the Guaranteed  Obligations
+         aggregated approximately $679 million.  Currently,  Liberty Media Group
+         is not certain of the  likelihood  of being  required to perform  under
+         such guarantees.
+
+                                   (continued)
+
+<PAGE>
+         Pursuant  to a final  judgment  (the  "Final  Judgment")  agreed  to by
+         Liberty Media  Corporation,  AT&T and the United  States  Department of
+         Justice  (the  "DOJ")  on  December  31,  1998,   Liberty  Media  Group
+         transferred  all of its  beneficially  owned  securities  (the  "Sprint
+         Securities") of Sprint to a trustee (the  "Trustee")  prior to the AT&T
+         Merger.  The Final  Judgment,  which was  entered by the United  States
+         District  Court for the District of Columbia on August 23, 1999,  would
+         require the Trustee, on or before May 23, 2002, to dispose of a portion
+         of the Sprint  Securities  sufficient  to cause  Liberty Media Group to
+         beneficially own no more than 10% of the outstanding Series 1 PCS Stock
+         of Sprint on a fully  diluted  basis on such date. On or before May 23,
+         2004,  the Trustee must divest the  remainder of the Sprint  Securities
+         beneficially owned by Liberty Media Group.
+
+         The Final Judgment requires that the Trustee vote the Sprint Securities
+         beneficially  owned by Liberty  Media Group in the same  proportion  as
+         other holders of Sprint's PCS Stock so long as such securities are held
+         by the trust.  The Final  Judgment also  prohibits the  acquisition  by
+         Liberty  Media Group of  additional  Sprint  Securities,  with  certain
+         exceptions, without the prior written consent of the DOJ.
+
+         Liberty  Media Group  leases  business  offices,  has entered into pole
+         rental and  transponder  lease  agreements  and uses certain  equipment
+         under lease arrangements.
+
+         Liberty  Media  Group  has  contingent  liabilities  related  to  legal
+         proceedings  and  other  matters  arising  in the  ordinary  course  of
+         business.  Although it is reasonably  possible  Liberty Media Group may
+         incur losses upon  conclusion of such matters,  an estimate of any loss
+         or range of loss cannot be made.  In the opinion of  management,  it is
+         expected  that amounts,  if any,  which may be required to satisfy such
+         contingencies  will not be material  in  relation  to the  accompanying
+         combined financial statements.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

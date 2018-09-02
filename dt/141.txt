@@ -1,0 +1,3200 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NuMhLbc0QMOiWW36S35aXHrJpSzUrLxVlQn/LbOkRQXV/PX7jG7mlTAi6yanOW9M
+ bu+w+33ZCxMAnOKO+wDCvA==
+
+<SEC-DOCUMENT>0000011860-99-000042.txt : 19991103
+<SEC-HEADER>0000011860-99-000042.hdr.sgml : 19991103
+ACCESSION NUMBER:		0000011860-99-000042
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990930
+FILED AS OF DATE:		19991102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETHLEHEM STEEL CORP /DE/
+		CENTRAL INDEX KEY:			0000011860
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				240526133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01941
+		FILM NUMBER:		99739447
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+		BUSINESS PHONE:		6106942424
+
+	MAIL ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>THIRD QUARTER 1999 10-Q
+<TEXT>
+
+<PAGE> 1
+
+                                   FORM 10-Q
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+               Quarterly Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+
+                        For Quarter Ended September 30, 1999
+                         Commission file number 1-1941
+
+
+                          BETHLEHEM STEEL CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+
+
+        DELAWARE                                  24-0526133
+(State of incorporation)                       (I.R.S. Employer
+                                                Identification No.)
+
+1170 Eighth Avenue                                   18016-7699
+BETHLEHEM, PENNSYLVANIA                              (Zip Code)
+(Address of principal
+executive offices)
+
+
+Registrant's telephone number, including area code:  (610) 694-2424
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+                                     Yes   X       No
+                                          ----        ----
+
+
+Number of Shares of Common Stock Outstanding as of October 29, 1999:
+     131,151,662
+     -----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+         BETHLEHEM STEEL CORPORATION AND CONSOLIDATED SUBSIDIARIES
+
+
+
+
+                                   INDEX
+
+                                                             Page No.
+                                                             --------
+
+PART I.  Financial Information
+
+Consolidated Statements of Income-
+   Three Months and Nine Months Ended September 30, 1999
+   and 1998 (unaudited)  . . . . . . . . . . . . . . . . . . .     2
+
+Consolidated Balance Sheets-
+   September 30, 1999 (unaudited), December 31, 1998
+   and September 30, 1998 (unaudited). . . . . . . . . . . . .     3
+
+Consolidated Statements of Cash Flows-
+   Nine Months Ended September 30, 1999
+   and 1998 (unaudited). . . . . . . . . . . . . . . . . . . .     4
+
+Notes to Consolidated Financial Statements (unaudited) . . .  .    5
+
+Management's Discussion and Analysis of Results of
+   Operations and Financial Condition. . . . . . . . . . . . .     6
+
+
+PART II.  Other Information
+
+   Item 1.  Legal Proceedings. . . . . . . . . . . . . . . . .    11
+
+   Item 6.  Exhibits and Reports on Form 8-K . . . . . . . . .    11
+
+
+Signatures . . . . . . . . . . . . . . . . . . . . . . . . . .    12
+
+
+
+                             - 1 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+                          Bethlehem Steel Corporation
+
+                     CONSOLIDATED  STATEMENTS  OF  INCOME
+            (dollars and shares in millions, except per share data)
+                                  (unaudited)
+<TABLE>
+<CAPTION>
+<S>            <C>           <C>                                              <C>           <C>
+    Three Months Ended                                                             Nine Months Ended
+       September 30                                                                  September 30
+ ------------------------                                                      -----------------------
+     1999          1998                                                          1999          1998
+     ----          ----                                                          ----          ----
+ $   958.3     $ 1,143.1     Net Sales                                        $ 2,902.6     $ 3,465.3
+ ----------    ----------                                                     ----------    ----------
+                             Costs and Expenses:
+     962.0         988.4         Cost of sales                                  2,765.9       2,954.2
+      62.9          63.4         Depreciation and amortization                    187.6         186.6
+      32.0          32.2         Selling, administration and general expense       93.2          86.2
+         -             -         Estimated loss on exiting businesses                 -          35.0
+ ----------    ----------                                                     ----------    ----------
+   1,056.9       1,084.0     Total Costs and Expenses                           3,046.7       3,262.0
+ ----------    ----------                                                     ----------    ----------
+     (98.6)         59.1     Income (Loss) from Operations                       (144.1)        203.3
+
+                             Financing Income (Expense):
+     (12.0)        (15.7)        Interest and other financing costs               (38.0)        (39.4)
+       1.8           1.5         Interest and other income                          6.0           8.4
+ ----------    ----------                                                     ----------    ----------
+    (108.8)         44.9     Income (Loss) before Income Taxes                   (176.1)        172.3
+
+      19.0          (7.8)    Benefit (Provision) for Income Taxes                  31.0         (29.0)
+ ----------    ----------                                                     ----------    ----------
+     (89.8)         37.1     Net Income (Loss)                                   (145.1)        143.3
+
+
+      10.3          10.3     Dividends on Preferred and Preference Stock           30.9          31.3
+ ----------    ----------                                                     ----------    ----------
+
+ $  (100.1)    $    26.8     Net Income (Loss) Applicable to Common Stock     $  (176.0)    $   112.0
+ ==========    ==========                                                     ==========    ==========
+
+                             Net Income (Loss) per Common Share:
+ $   (0.77)    $    0.21         Basic                                        $   (1.35)    $    0.93
+ $   (0.77)    $    0.21         Diluted                                      $   (1.35)    $    0.92
+
+                             Average Shares Outstanding:
+     130.4         128.9         Basic                                            130.0         120.3
+     130.4         131.3         Diluted                                          130.0         123.2
+
+                                           Additional Data
+
+     2,094         2,172     Steel products shipped (thousands of net tons)       6,200         6,750
+     1,951         2,636     Raw steel produced (thousands of net tons)           6,752         7,675
+
+</TABLE>
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                            - 2 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 4
+                         Bethlehem  Steel  Corporation
+
+                         CONSOLIDATED  BALANCE  SHEETS
+                             (dollars in millions)
+<TABLE>
+<CAPTION>
+                                     ASSETS
+
+<S>                                          <C>           <C>          <C>
+                                             September 30               September
+                                                 1999      December 31    1998
+                                              (unaudited)     1998      (unaudited)
+                                             ============  ===========  ===========
+Current Assets:
+  Cash and cash equivalents                  $   103.0     $   137.8     $    96.2
+  Receivables, less allowances                   304.8         307.2         253.2
+  Inventories:
+    Raw materials                                303.9         319.9         334.4
+    Finished and semifinished                    581.7         720.7         736.8
+                                             ----------    ----------    ----------
+                                                 885.6       1,040.6       1,071.2
+  Other current assets                             7.3           9.2           9.9
+                                             ----------    ----------    ----------
+Total Current Assets                           1,300.7       1,494.8       1,430.5
+Investments and Miscellaneous Assets             117.8          98.0         103.3
+Property, Plant and Equipment,
+  less accumulated depreciation of
+  $4,260.2, $4,119.4, and $4,057.6             2,884.7       2,655.7       2,602.6
+Deferred Income Tax Asset - net                  951.0         920.0         913.6
+Net Assets of Discontinued Stainless
+  Operations (Note 3)                             20.0         100.0         290.0
+Goodwill, less accumulated amortization of
+  $16.0, $7.0, and $4.0 (Note 3)                 344.0         353.0         356.0
+                                             ----------    ----------    ----------
+Total Assets                                 $ 5,618.2     $ 5,621.5     $ 5,696.0
+                                             ==========    ==========    ==========
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Accounts payable                           $   430.4     $   417.9     $   439.8
+  Accrued employment costs                       277.0         307.7         311.1
+  Accrued taxes                                   56.4          53.4          57.2
+  Debt and capital lease obligations             144.7          44.4          44.4
+  Other current liabilities                      147.9         161.8         174.9
+                                             ----------    ----------    ----------
+Total Current Liabilities                      1,056.4         985.2       1,027.4
+
+Pension Liability                                409.0         415.0         415.0
+Postretirement Benefits Other Than Pensions    1,658.6       1,630.0       1,641.3
+Long-term Debt and Capital Lease Obligations     724.4         627.7         627.6
+Deferred Gain on Sales                           122.0         136.0         140.6
+Other Long-term Liabilities                      325.1         338.1         324.8
+
+Stockholders' Equity:
+  Preferred Stock                                 11.6          11.6          11.6
+  Preference Stock                                 2.2           2.2           2.3
+  Common Stock                                   133.2         132.2         131.9
+  Common Stock held in treasury at cost          (60.6)        (60.3)        (60.3)
+  Additional paid-in capital                   1,969.2       1,991.6       1,998.4
+  Accumulated deficit                           (732.9)       (587.8)       (564.6)
+                                             ----------    ----------    ----------
+Total Stockholders' Equity                     1,322.7       1,489.5       1,519.3
+                                             ----------    ----------    ----------
+Total Liabilities and Stockholders' Equity   $ 5,618.2     $ 5,621.5     $ 5,696.0
+                                             ==========    ==========    ==========
+</TABLE>
+
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+                                            - 3 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 5
+                         Bethlehem  Steel  Corporation
+
+                   CONSOLIDATED  STATEMENTS  OF  CASH  FLOWS
+                             (dollars in millions)
+                                  (unaudited)
+<TABLE>
+<CAPTION>
+                                                          Nine Months Ended
+                                                             September 30
+                                                        ---------------------
+                                                           1999         1998
+                                                           ----         ----
+<S>                                                     <C>          <C>
+Operating Activities:
+     Net income (loss)                                  $ (145.1)    $  143.3
+
+     Adjustments for items not affecting cash
+     from operating activities:
+        Depreciation and amortization                      187.6        186.6
+        Estimated loss on exiting businesses                   -         35.0
+        Deferred income taxes                              (31.0)        26.4
+        Other - net                                          1.1         12.4
+
+     Working capital (excluding financing and
+     investing activities):
+        Receivables - operating                            (65.3)       (31.7)
+        Receivables - sold                                  70.0        150.0
+        Inventories                                        154.9        (89.7)
+        Accounts payable                                    13.5          8.8
+        Employment costs and other                         (24.5)       (22.1)
+                                                        ---------    ---------
+Cash Provided from Operations before Pension Activities    161.2        419.0
+Pension Activities:
+     Pension expense                                        30.0         65.0
+     Pension funding                                       (36.0)      (130.0)
+                                                        ---------    ---------
+Cash Provided from Continuing Operating Activities         155.2        354.0
+                                                        ---------    ---------
+Cash Provided from Operating Activities of
+      Discontinued Stainless Operations (Note 3)            10.3         16.8
+                                                        ---------    ---------
+Investing Activities:
+     Capital expenditures                                 (446.9)      (215.9)
+     Purchase of Lukens (Note 3):
+        Paid to Lukens stockholders, net of cash acquired      -       (327.8)
+        Transaction and other related payments              (6.6)       (37.6)
+     Cash proceeds from asset sales and other               93.8        199.6
+                                                        ---------    ---------
+Cash Used for Investing Activities                        (359.7)      (381.7)
+                                                        ---------    ---------
+
+Financing Activities:
+     Borrowings                                            237.4        200.0
+     Debt and capital lease payments                       (44.4)      (290.3)
+     Cash dividends paid                                   (30.3)       (30.3)
+     Other payments                                         (3.3)       (24.7)
+                                                        ---------    ---------
+Cash Provided by (Used for) Financing Activities           159.4       (145.3)
+                                                        ---------    ---------
+Net Decrease in Cash and Cash Equivalents                  (34.8)      (156.2)
+Cash and Cash Equivalents - Beginning of Period            137.8        252.4
+                                                        ---------    ---------
+                          - End of Period               $  103.0     $   96.2
+                                                        =========    =========
+Supplemental Cash Flow Information:
+     Interest paid, net of amount capitalized           $   41.9     $   32.1
+     Income taxes paid (received)                       $   (0.2)    $    3.1
+     Capital lease obligations incurred                 $    4.7     $      -
+
+</TABLE>
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+
+
+                                         - 4 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 6
+       NOTES   TO   CONSOLIDATED   FINANCIAL   STATEMENTS   (UNAUDITED)
+
+1.  The Consolidated Financial Statements as of and for the three month and
+    nine month periods ended September 30, 1999 and 1998 were not audited.
+    However, in Management's opinion, the information reflects all adjustments
+    necessary for a fair statement of the results for the periods presented.
+    Management believes all adjustments were of a normal and recurring nature.
+
+2.  These Consolidated Financial Statements should be read together with the
+    1998 audited financial statements in Bethlehem's Annual Report on Form 10-K
+    filed with the Securities and Exchange Commission.
+
+3.  On May 29, 1998, Bethlehem acquired all of the outstanding capital stock of
+    Lukens Inc.  The aggregate purchase price of $560.6 million comprises cash
+    of $327.8 million, the issuance of 15.1 million shares of Bethlehem common
+    stock valued at $184.8 million, and transaction related costs of $48.0
+    million.  Bethlehem paid $6.6 million of the transaction related costs
+    during the first nine months of 1999.  The transaction was accounted for as
+    a purchase and, accordingly, Lukens' results are included in the
+    Consolidated Financial Statements from the date of acquisition.
+
+         The fair value (in millions) of the assets acquired and the
+    liabilities assumed is as follows:
+<TABLE>
+<CAPTION>
+        <S>                                                    <C>
+        Current assets                                         $ 187.8
+        Property, plant and equipment                            265.1
+        Net assets of discontinued stainless operations          318.0
+        Deferred tax asset, other                                 70.4
+        Goodwill                                                 360.0
+        Current liabilities                                     (108.0)
+        Pension and other postretirement benefit liabilities    (230.0)
+        Debt                                                    (268.5)
+        Other long-term liabilities                              (34.2)
+                                                               --------
+        Purchase price, net of cash acquired                   $ 560.6
+                                                               ========
+</TABLE>
+
+         In February 1999, Bethlehem completed the sale of the stainless
+    distribution business, Washington Specialty Metals Corporation for about
+    $70 million.  In April 1999, Bethlehem signed an agreement to sell the
+    stainless sheet operations in Massillon, Ohio and Washington, Pennsylvania.
+    The prospective buyer was unable to reach a labor agreement with the USWA
+    for the Washington facility.  Negotiations continue for the Massillon
+    facility and are contingent on the prospective owner reaching a labor
+    agreement with the USWA.  We are continuing with our efforts to sell the
+    Washington facility.  The stainless and distribution businesses were
+    acquired with the purchase of Lukens Inc.  and are being accounted for as
+    discontinued operations.  Income or losses from these operations are not
+    included in Bethlehem's operating results.  Since the date of acquisition,
+    these operations have incurred operating losses of about $35 million.  The
+    net assets of these operations are shown separately on the balance sheet
+    and consist primarily of property, plant and equipment and working capital.
+
+         Bethlehem will finalize all purchase accounting adjustments upon
+    completion of the sale of the stainless sheet operations described above.
+    Any future adjustments are not expected to materially affect the recorded
+    values of the assets acquired or liabilities assumed, including the
+    recorded amount of goodwill.
+
+         The unaudited pro forma combined results (excluding stainless) for the
+    first nine months of 1998 as if Lukens had been acquired at the beginning
+    of 1998 are estimated to be (dollars in millions, except per share data):
+<TABLE>
+<CAPTION>
+        <S>                       <C>
+        Net Sales                 $ 3,705.0
+        Income from Operations        212.7
+        Net Income                    143.8
+
+        Net Income per Share:
+        Basic                     $     .88
+        Diluted                         .86
+</TABLE>
+
+4.  On April 23, 1999 Bethlehem entered into a construction financing
+    arrangement for the conversion of a continuous slab casting strand at
+    Sparrows Point to a wide slab casting strand.  The financing is for a
+    maximum of $50 million with an interest rate of about 8% and a term of 16
+    months.  As of September 30, 1999, Bethlehem had borrowed about $19 million
+    under the financing.  On July 21, 1999, Bethlehem entered into a loan
+    arrangement for $60 million at an interest rate of about 7 1/4% and a term
+    of 18 months to finance a portion of the cold rolling complex at Sparrows
+    Point.
+
+         On June 17, 1999, Bethlehem amended its existing non-reducing credit
+    facility.  The amendment increases the size of the facility from $600
+    million to $660 million by increasing the inventory credit agreement from
+    $260 million to $320 million.  The size of the receivables purchase
+    agreement remains at $340 million and the maturity of the facility remains
+    June 19, 2003.
+
+
+
+                                                       - 5 -
+
+
+
+
+
+
+
+<PAGE> 7
+
+                          MANAGEMENT'S DISCUSSION AND
+           ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+
+REVIEW OF RESULTS:
+
+Third Quarter and First Nine Months 1999
+Third Quarter and First Nine Months 1998
+
+
+         Bethlehem reported a net loss of $90 million ($.77 per diluted share)
+for the third quarter of 1999 compared with net income of $37 million ($.21 per
+diluted share) for the third quarter of 1998.  Results for the third quarter of
+1999 include about $50 million ($41 million after tax) of additional operating
+costs that were incurred in connection with the reline of the blast furnace at
+Sparrows Point and certain other planned modernization and maintenance outages,
+and with the temporary idling of production at our majority owned iron ore
+operation located in Hibbing, Minnesota.  The Hibbing operation was temporarily
+idled in order to reduce iron ore inventories that were built up due to the
+adverse effect that the high levels of steel imports have had on our steel
+production and shipments.  Sales for the third quarter of 1999 were $958
+million compared with $1.14 billion for the third quarter of 1998.
+
+         For the first nine months of 1999, our net loss was $145 million
+($1.35 per diluted share) on sales of $2.90 billion compared with net income of
+$143 million ($.92 per diluted share) on sales of $3.47 billion for the first
+nine months of 1998.  Results for the first nine months of 1999 include about
+$70 million ($58 million after tax) of higher operating costs related to
+outages taken for the extensive planned maintenance and modernization work
+conducted in the second and third quarters and the temporary idling of
+Hibbing's iron ore operation in the third quarter.  Results for the first nine
+months of 1998 include a $35 million ($29 million after-tax) charge related to
+the closing of our Sparrows Point plate mill.  Excluding this charge, net
+income for the first nine months of 1998 was $172 million ($1.15 per diluted
+share).
+
+
+OPERATING RESULTS
+
+         Our loss from operations was $99 million for the third quarter of 1999
+compared with income from operations of $59 million for the third quarter of
+1998.  Third quarter 1999 operating results declined from a year ago due to
+significantly lower realized prices and higher costs.  Costs were higher during
+the third quarter of 1999 primarily due to the approximately $50 million of
+higher operating costs that were incurred in connection with planned
+modernization and maintenance outages, including the reline of our "L" blast
+furnace at Sparrows Point, and the temporary idling of Hibbing's iron ore
+operation.
+
+         Our loss from operations for the first nine months of 1999 was $144
+million compared with income from operations of $238 million (excluding the $35
+million charge
+
+
+                                            - 6 -
+
+
+
+
+
+
+<PAGE> 8
+
+related to closing our Sparrows Point plate mill) for the first nine months of
+1998.  Results declined primarily due to significantly lower realized prices
+and lower shipments, as well as approximately $70 million of higher costs
+related to planned modernization and maintenance outages, and the temporary
+idling of Hibbing's iron ore operation.
+
+         Third quarter 1999 operating results declined from the $26 million
+loss experienced in the second quarter of 1999 primarily due to higher costs.
+Costs were higher during the third quarter of 1999 primarily due to a larger
+portion of the blast furnace reline occurring in the quarter and the other
+costs discussed above.
+
+
+LIQUIDITY AND CAPITAL STRUCTURE
+
+         At September 30, 1999, total liquidity, comprising cash, cash
+equivalents, and funds available under our bank credit arrangements, totaled
+about $300 million compared with $479 million at December 31, 1998 and $430
+million at September 30, 1998.
+
+         For the first nine months of 1999, cash provided from operations
+before pension activities was $161 million, compared with $419 million for the
+first nine months of 1998.  Other major sources of cash included new borrowings
+of $237 million and asset sales of $94 million.  New borrowings included about
+$160 million from the inventory credit agreement portion of our non-reducing
+credit facility, use of about $56 million of our $60 million short-term loan
+arrangement relating to a portion of our cold mill capital expenditures, and
+about $19 million of our $50 million construction financing arrangement for the
+wide slab casting strand project at Sparrows Point.  Asset sales included $70
+million from the sale of our stainless distribution business, Washington
+Specialty Metals Corporation.
+
+         Principal uses of cash during the first nine months of 1999 included
+capital expenditures of $447 million, debt repayments of $44 million and
+pension funding of $36 million.  Capital expenditures included the reline of
+the "L" blast furnace, upgrades to the BOF shop, construction of a new cold
+mill complex, preliminary work for the conversion of a continuous slab casting
+strand to a wide slab casting strand at Sparrows Point, our previously
+announced joint ventures, Columbus Coatings Company and Columbus Processing
+Company, and our previously announced equity interest in MetalSite, an internet
+marketplace where companies can buy and sell metal products and services.
+Capital expenditures also included certain improvements we made to the Steckel
+plate mill at Bethlehem Lukens Plate (BLP).  These improvements were made in
+accordance with our agreement to provide conversion services to Allegheny
+Teledyne.  After a relatively short period of time for startup, testing, and
+becoming operational, we will receive a payment of $70 million from Allegheny
+Teledyne in connection with their purchase of certain stainless assets from us
+last year.
+
+         Capital expenditures are currently expected to be about $600 million
+in 1999.  Additionally, we expect to repay some of our outstanding borrowings
+under our bank
+
+
+                                          - 7 -
+
+
+
+
+
+
+
+
+
+<PAGE> 9
+
+arrangements during the remainder of the year, and we plan to make additional
+contributions to our pension trust, as appropriate.
+
+         We expect to maintain an adequate level of liquidity during 1999 with
+cash provided from operations, asset sales, project financings, reductions in
+working capital, and available funds under our bank arrangements.
+
+
+LABOR CONTRACT
+
+         On August 6, 1999, the tentative labor agreement between Bethlehem and
+the USWA was ratified by the USWA membership.  We believe the new long-term,
+five-year, labor agreement is a fair and reasonable contract that provides
+stability to our customers, suppliers, employees, and stockholders.  The new
+labor agreement provides Bethlehem with a sound basis to advance our objective
+of creating partnerships among employees and to improve our productivity and
+overall competitiveness.
+
+
+INTERNATIONAL STEEL TRADE
+
+         The Steel trade crisis continues to severely injure Bethlehem.  Both
+shipment levels and prices remain depressed.  Average steel prices for domestic
+steel companies for all products in 1999 are down 7% from average 1998 steel
+prices.  This is the largest aggregate decline in nearly 20 years.  Overall
+market steel price declines for domestic steel companies for hot rolled, cold
+rolled, and plate were 8%, 7%, and 14%, respectively.  For Bethlehem, a 1%
+increase or decrease in average realized price per ton results in an increase
+or decrease in net sales and pre-tax income of about $40 million.
+
+         We will continue to take all appropriate legal actions.  Currently, we
+have cold rolled and cut-to-length plate cases pending.  Our public affairs
+activities are advancing with the Stand Up for Steel Campaign in coordination
+with the USWA, other leading steel companies, and others.  Our government
+affairs actions are centered on working closely with the Administration and
+Congress for the full and unyielding enforcement of U.S.  trade laws.  We
+believe that all of these actions will in due course help to restore fair trade
+in steel.
+
+
+YEAR 2000
+
+         Problems created by the once common programming practice of storing
+date information using only the last two digits to indicate the year will
+impact all businesses and government organizations as we approach the year
+2000.  The scope of our Year 2000 Program involves many areas including our
+business and manufacturing computing systems, the associated personal
+computing, communications and infrastructure elements, and the Year 2000
+readiness of our key suppliers and customers.  The major elements
+
+                                         - 8 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 10
+
+
+of our program are inventory, risk assessment, remediation, testing, and
+contingency planning.
+
+         We have been actively working on resolving the Year 2000 problem for
+five years.  The effort was initiated with a large pilot project in late 1994
+during which five percent of our business applications were converted to be
+Year 2000 compliant.  The pilot allowed us to develop a methodology for solving
+our Year 2000 problem as well as a structure for effective management and
+timely correction of the problem within our systems.  In late 1997, we
+conducted a 45-day test of converted business applications for Business Unit
+and Corporate systems as well as all operating system software in a full
+simulation of the Year 2000.  We reset the system clock for various dates and
+tested the processing of date information before and after December 31, 1999,
+as well as processing of the Year 2000 as a leap year.  This test was completed
+successfully and validated our processes and methods for addressing the Year
+2000 problem.  Additional full-scale tests were conducted in December 1998,
+January 1999, and March 1999.  The results of these additional tests were
+positive and reinforced our approach for addressing the Year 2000 problem.
+
+         We continue to evaluate the readiness of our key suppliers and
+customers.  Starting in April 1998, we surveyed key suppliers, transportation
+providers, financial partners, and electronic data interchange trading
+partners.  To date, responses have been received from 97% of those surveyed and
+we are currently confirming their compliance.  Additionally, we have received
+correspondence from over 700 key customers regarding their Year 2000 readiness,
+and we will continue to review their readiness.
+
+         We have completed the Year 2000 remediation of all critical functions.
+We have replaced, repaired, or re- engineered all systems that could
+significantly impact our ability to process orders, produce goods, provide
+services, ensure product quality, and perform other critical functions.  Our
+focus is now on contingency planning and the final testing and verification of
+systems.  Year 2000 business continuity planning and contingency plans have
+been completed at all of our facilities and offices.  We have prioritized
+critical business processes, developed probable and worst case failure
+scenarios, assessed the business impact of these potential failures, and
+developed risk management strategies to mitigate these risks.  Our risk
+management strategies include operating, staffing, contingency, and triage
+plans.  Our plans address both internal and external risks.  Strategies for
+mitigating risk include the development of (1) operating and staffing plans for
+the Year 2000 rollover, (2) backup and/or alternate procedures, and (3)
+inventory requirements based on customer and supplier assessments.  We are
+developing alternate plans for those business partners who may not be Year 2000
+ready in significant areas and preparing contact lists and plans for working
+with key business partners during the rollover period to ensure a swift
+resolution to any problem.
+
+         The costs associated with our Year 2000 Program continue to be at
+planned levels.  The costs will be charged to normal operating expenses.  The
+total estimated
+
+                                           - 9 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 11
+
+incremental cost of this activity is approximately $7 million.  We do not
+expect to incur any extraordinary charges associated with the effort, and no
+major computer projects have been deferred because of our Year 2000 Program.
+
+         We believe that we have taken all reasonable steps to ensure our Year
+2000 readiness.  The success of our Year 2000 program now depends, to a large
+extent, on the Year 2000 readiness of our key business partners and, if
+necessary, the implementation of contingency plans.  These and other
+unanticipated Year 2000 issues could have a material adverse effect on our
+results of operations or financial condition.
+
+
+DIVIDENDS
+
+         On October 27, 1999, the Board of Directors declared dividends of
+$1.25 per share on Bethlehem's $5.00 Cumulative Convertible Preferred Stock,
+$0.625 per share on Bethlehem's $2.50 Cumulative Convertible Preferred Stock
+and $0.875 per share on Bethlehem's $3.50 Cumulative Convertible Preferred
+Stock, each payable December 10, 1999, to holders of record on November 10,
+1999.  No dividend was declared on Bethlehem's Common Stock.
+
+
+OUTLOOK
+
+         The domestic economy continues on a course of moderate and sustainable
+growth.  Competition remains intense in all of our markets due to excess global
+steel capacity, new domestic supply, and continuing high levels of plate
+inventories in the marketplace resulting from high levels of unfairly traded
+imports during this past year.  However, overall market conditions are
+beginning to improve.  Our order entry is increasing, and we believe our
+current order book and better market demand will allow us the opportunity to
+achieve some restoration of steel prices.  Also, production has been resumed at
+Hibbing's iron ore operation.
+
+         The planned modernization and maintenance work outages at Sparrows
+Point and improvements to the Steckel plate mill at BLP are now, for the most
+part, behind us and the affected facilities have returned to more normal
+operations.  We believe that these projects, along with the completion of
+Sparrows Point's new cold mill complex, wide slab caster, and pulverized coal
+injection, which are all on schedule for completion next year, will result in
+significant improvements to our competitiveness and profitability for the
+longer term provided fair trade in steel is restored.
+
+         We will continue our strategy of concentrating on steel and rebuilding
+our financial strength, and we will take all necessary actions to reduce costs
+and improve our overall competitiveness.
+
+
+                                           - 10 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 12
+
+FORWARD-LOOKING STATEMENTS
+
+         This release contains forward-looking statements.  Our use of the
+words "expect", "believe", "intent", "should", "plan" and similar words are
+intended to identify these statements as forward-looking.  In accordance with
+the provisions of the Private Securities Litigation Reform Act of 1995,
+reference is made to "Item 1 - Business - Forward-Looking Statements" of
+Bethlehem's 1998 Annual Report on Form 10-K and to "Cautionary Statement" of
+Bethlehem's Registration Statement on Form S-4 filed with the Securities and
+Exchange Commission on April 24, 1998 for other important factors that could
+cause actual results to differ materially from those projected.
+
+
+
+PART II.  OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings.
+
+         Bethlehem, in the ordinary course of its business, is the subject of
+various pending or threatened legal actions involving governmental agencies or
+private interests.  Bethlehem believes that any ultimate liability arising from
+these actions should not have a material adverse effect on its consolidated
+financial position at September 30, 1999.
+
+         Bethlehem does not have any material developments in legal proceedings
+to report for the third quarter of 1999.
+
+
+Item 6.  Exhibits and Reports on Form 8-K.
+
+        (a)  Exhibits.
+
+              The following is an index of the exhibits included in this Report
+         on Form 10-Q:
+
+              4.  By-laws of Bethlehem Steel Corporation, as amended October 1,
+                   1999.
+
+              11.  Statement Regarding Computation of Earnings Per Share.
+
+              27.  Financial Data Schedule.
+
+        (b)  Reports on Form 8-K.
+
+              Bethlehem did not file any reports on Form 8-K with the
+         Securities and Exchange Commission during the third quarter of 1999.
+
+
+
+
+                                           - 11 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 13
+
+
+
+
+                                  SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+Bethlehem Steel Corporation has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+
+                                    Bethlehem Steel Corporation
+                                            (Registrant)
+                                    by
+
+
+
+                                    /s/ L. A. Arnett
+                                    -----------------------------
+                                    L. A. Arnett
+                                    Vice President and Controller
+                                    (principal accounting officer)
+
+Date:  November 2, 1999
+
+
+                                    - 12 -
+
+
+
+
+
+
+
+<PAGE> 14
+
+
+
+                                 EXHIBIT INDEX
+
+    The following is an index of the exhibits included in this Report:
+
+Item
+ No.                         Exhibit
+- ----                         -------
+  4               By-laws of Bethlehem Steel Corporation, as amended
+                  October 1, 1999
+
+ 11               Statement Regarding Computation of Earnings Per Share
+
+ 27               Financial Data Schedule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 15
+
+
+                                    BY-LAWS
+
+
+                                      OF
+
+
+                          BETHLEHEM STEEL CORPORATION
+
+
+
+                                _______________
+
+
+                          Incorporated under the Laws
+                           of the State of Delaware
+
+                                _______________
+
+
+
+
+
+                          As Amended October 1, 1999
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 16
+
+
+                                    BY-LAWS
+
+
+                                      OF
+
+                          BETHLEHEM STEEL CORPORATION
+
+
+                               Table of Contents
+
+                                                                      Page
+
+                  ARTICLE I - Meetings of Stockholders, etc.
+
+Section 1.01    Annual Meeting                                         1
+Section 1.02    Business to be Brought Before an Annual
+                Meeting of Stockholders                                1
+Section 1.03    Special Meetings                                       2
+Section 1.04    Place of Meetings                                      2
+Section 1.05    Notice of Meetings                                     2
+Section 1.06    Quorum                                                 3
+Section 1.07    Organization                                           3
+Section 1.08    Order of Business                                      3
+Section 1.09    Voting                                                 4
+Section 1.10    Inspectors of Election                                 5
+Section 1.11    Consent of Stockholders in Lieu of Meeting             6
+
+
+                        ARTICLE II - Board of Directors
+
+Section 2.01    General Powers                                         8
+Section 2.02    Number and Term of Office                              8
+Section 2.03    Nominations for the Election of Directors              8
+Section 2.04    Election of Directors                                  9
+Section 2.05    Organization                                           9
+Section 2.06    Resignations                                           9
+Section 2.07    Vacancies, etc.                                        9
+Section 2.08    Place of Meetings, etc.                                10
+Section 2.09    First Meeting                                          10
+Section 2.10    Regular Meetings                                       10
+Section 2.11    Special Meetings; Notice                               10
+Section 2.12    Quorum and Manner of Acting                            10
+Section 2.13    Removal of Directors                                   11
+Section 2.14    Compensation                                           11
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 17
+
+
+                           ARTICLE III - Committees
+
+Section 3.01    Executive Committee; How Constituted and Powers        11
+Section 3.02    Organization, etc.                                     12
+Section 3.03    Meetings                                               12
+Section 3.04    Quorum and Manner of Acting                            12
+Section 3.05    Resignations; Removal; Vacancies                       12
+Section 3.06    Other Committees                                       13
+Section 3.07    Procedures                                             13
+Section 3.08    Action by Consent in Writing                           13
+
+
+                             ARTICLE IV - Officers
+
+Section 4.01    Number                                                 14
+Section 4.02    Election and Term of Office                            14
+Section 4.03    Agents, etc.                                           14
+Section 4.04    Removal                                                14
+Section 4.05    Resignations                                           14
+Section 4.06    Vacancies                                              15
+Section 4.07    Chief Executive Officer                                15
+Section 4.08    Chairman                                               15
+Section 4.09    President                                              15
+Section 4.10    Vice Chairmen                                          15
+Section 4.11    Executive Office                                       15
+Section 4.12    Vice Presidents                                        16
+Section 4.13    Assistant Vice Presidents                              16
+Section 4.14    Business Unit Presidents                               16
+Section 4.15    Controller                                             16
+Section 4.16    Assistant Controllers                                  16
+Section 4.17    General Counsel                                        17
+Section 4.18    Treasurer                                              17
+Section 4.19    Assistant Treasurers                                   17
+Section 4.20    Secretary                                              18
+Section 4.21    Assistant Secretaries                                  18
+Section 4.22    Salaries                                               19
+
+
+          ARTICLE V - Contracts, Checks, Drafts, Bank Accounts, etc.
+
+Section 5.01    Contracts                                              19
+Section 5.02    Appointment of Agents                                  19
+Section 5.03    Loans                                                  19
+Section 5.04    Checks, Drafts, etc.                                   20
+Section 5.05    Deposits                                               20
+Section 5.06    General and Special Bank Accounts                      20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 18
+
+Section 5.07    Proxies in Respect of Stock or Other
+                Securities of Other Corporations                       20
+
+
+                    ARTICLE VI - Shares and Their Transfer
+
+Section 6.01    Certificates for Stock                                 21
+Section 6.02    Transfers of Stock                                     21
+Section 6.03    Regulations                                            22
+Section 6.04    Lost, Stolen, Destroyed and Mutilated Certificates     22
+Section 6.05    Fixing Date for Determination of Stockholders
+                of Record in Certain Cases                             22
+
+
+                          ARTICLE VII - Offices, etc.
+
+Section 7.01    Registered Office                                      23
+Section 7.02    Other Offices                                          23
+
+
+                    ARTICLE VIII - Dividends, Surplus, etc.
+
+Section 8.01    Dividends, Surplus, etc.                               23
+
+
+   ARTICLE IX - Indemnification of Directors, Officers, Employees and Agents
+
+Section 9.01    Third Party Actions                                    24
+Section 9.02    Derivative Actions                                     25
+Section 9.03    Determination of Entitlement to Indemnification        25
+Section 9.04    Right to Indemnification Upon Successful
+                Defense and For Service as a Witness                   26
+Section 9.05    Advance of Expenses                                    26
+Section 9.06    Indemnification Not Exclusive                          27
+Section 9.07    Accrual of Claims; Successors                          27
+Section 9.08    Corporate Obligations; Reliance                        27
+Section 9.09    Insurance                                              27
+Section 9.10    Definitions of Certain Terms                           28
+Section 9.11    Saving Clause                                          28
+
+                               ARTICLE X - Seal
+
+Section 10.01   Seal                                                   28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 19
+
+                           ARTICLE XI - Fiscal Year
+
+Section 11.01   Fiscal Year                                            28
+
+
+                        ARTICLE XII - Waiver of Notices
+
+Section 12.01   Waiver of Notices                                      29
+
+
+                             ARTICLE XIII - Gender
+
+Section 13.01   Gender                                                 29
+
+
+                           ARTICLE XIV - Amendments
+
+Section 14.01   Amendments                                             29
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 20
+
+
+                                    BY-LAWS
+
+                                      OF
+
+                          BETHLEHEM STEEL CORPORATION
+
+
+                                _______________
+
+
+                                  ARTICLE I.
+
+                        Meetings of Stockholders, etc.
+
+       SECTION 1.01.  Annual Meeting.  The annual meeting of the stockholders
+of Bethlehem Steel Corporation (herein called the "Corporation") shall, unless
+the Board of Directors (herein called the "Board") shall designate another time
+or place, be held on the Tuesday immediately preceding the last Wednesday in
+April in each year (or, if that day shall be a legal holiday, then on the next
+preceding business day) at such hour as may be specified in the notice thereof,
+in the State of Delaware, and at such place within said State as shall be fixed
+by the Board, for the purpose of electing directors and for the transaction of
+such other business as may properly be brought before such meeting.  If any
+annual meeting shall not be held on the day designated herein or the directors
+shall not have been elected thereat or at any adjournment thereof, the Board
+shall cause a special meeting of the stockholders to be held as soon thereafter
+as practicable for the election of directors.  At such special meeting, the
+stockholders may elect directors and transact other business with the same
+force and effect as at an annual meeting of the stockholders duly called and
+held.
+
+       SECTION 1.02.  Business to be Brought Before an Annual Meeting of
+Stockholders.  Any business properly brought before an annual meeting of the
+stockholders of the Corporation may be transacted at such meeting.  To be
+properly brought before an annual meeting, business must be (i) specified in
+the notice of the meeting (or any supplement thereto) given by or at the
+direction of the Board, (ii) brought before the meeting by or at the direction
+of the chairman of the meeting or the majority of the whole Board or (iii)
+otherwise properly brought before the meeting by a stockholder.  For business
+to be properly brought before an annual meeting by a stockholder, the
+stockholder must have given written notice of the proposed business, either by
+personal delivery or by United States mail, postage prepaid, to the Secretary
+of the Corporation, and the Secretary shall receive such notice at least ninety
+(90) days prior to the anniversary date of the immediately preceding annual
+meeting or not later than ten (10) days after notice or public disclosure of
+the date of the annual meeting shall be given or made to stockholders,
+whichever date shall be earlier.  Subject to Section 2.03 hereof, any such
+notice shall set forth as to each item of business the stockholder shall
+propose to bring before the annual meeting (i) a brief description of such item
+of business and the reasons for conducting it at such meeting and, in the event
+that such item of business shall include
+
+                                     - 1 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 21
+
+
+a proposal to amend or to recommend the amendment of these By-laws, the text of
+the proposed amendment, (ii) the name and address of the stockholder proposing
+such item of business, (iii) a representation that the stockholder is a holder
+of record of stock of the Corporation entitled to vote at such meeting and
+intends to appear in person or by proxy at the meeting to propose such item of
+business and (iv) any material interest of the stockholder in such item of
+business.  Only business which shall have been properly brought before an
+annual meeting of stockholders in accordance with these By-laws shall be
+conducted at such meeting, and the chairman of such meeting may refuse to
+permit any business to be brought before such meeting which shall not have been
+properly brought before it in accordance with these By-laws.
+
+       SECTION 1.03.  Special Meetings.  Except as otherwise required by law,
+special meetings of the stockholders for any purpose or purposes may be called
+only by (i) the Chairman, (ii) the President, (iii) the Secretary or (iv) the
+majority of the whole Board.  Only such business as shall be specified in the
+notice of any special meeting of the stockholders shall come before such
+meeting.
+
+       SECTION 1.04.  Place of Meetings.  Any meeting of the stockholders for
+the election of directors shall, unless the Board shall designate another
+place, be held in the State of Delaware, and at such place within said State as
+shall be fixed by the Board.  All other meetings of the stockholders shall be
+held at such places, within or without the State of Delaware, as may from time
+to time be designated by the Board or in the respective notices or waivers of
+notice thereof.
+
+       SECTION 1.05.  Notice of Meetings.  Every stockholder shall furnish the
+Secretary with an address at which notices of meetings and all other corporate
+notices may be sent to him.  Except as otherwise expressly required by law,
+notice of each meeting of the stockholders, whether annual or special, shall,
+not less than ten (l0) nor more than sixty (60) days before the date of the
+meeting, be given to each stockholder of record entitled to vote at such
+meeting at the address furnished by him to the Secretary for such purpose, or,
+if he shall not have furnished to the Secretary his address for such purpose,
+but his address shall otherwise appear on the records of the Corporation, then
+at his address as it shall so appear on the records of the Corporation, or, if
+he shall not have furnished to the Secretary his address for such purpose and
+his address shall not otherwise appear on the records of the Corporation, then
+at the registered office of the Corporation in the State of Delaware.  If
+mailed, notice shall be deemed given when deposited in the United States mail,
+postage prepaid.  Except when expressly required by law, no publication of any
+notice of a meeting of the stockholders shall be required.  Every notice of a
+meeting of the stockholders shall state the place, date and hour of the meeting
+and, in the case of a special meeting, the purpose or purposes for which the
+meeting shall be called.  Nevertheless, notice of any meeting of the
+stockholders shall not be required to be given to any stockholder who shall
+attend such meeting in person or by proxy except a stockholder who shall attend
+such meeting for the express purpose of objecting, at the beginning of the
+meeting, to the transaction of any business on the grounds that the meeting
+shall not have been lawfully called or convened; and, if any stockholder shall,
+in person or by attorney thereunto authorized, in writing or by telegraph,
+cable, wireless, telex, telefax, electronic or other
+
+                                     - 2 -
+
+
+
+
+
+<PAGE> 22
+
+form of recorded communication, waive notice of any meeting of the
+stockholders, notice thereof need not be given to him.  It shall not be
+necessary to state in any notice of a meeting of the stockholders as a purpose
+thereof any matter relating to the conduct of such meeting.  Except when
+expressly required by law, notice of any adjourned meeting of the stockholders
+need not be given if the time and place thereof shall be announced at the
+meeting at which the adjournment shall be taken, unless such adjournment shall
+be for more than thirty (30) days or a new record date shall be fixed for an
+adjourned meeting.
+
+       SECTION 1.06.  Quorum.  At each meeting of the stockholders, with the
+exception of any meeting for the election of directors summarily ordered as
+provided by the General Corporation Law of the State of Delaware, stockholders
+holding of record a majority in voting interest of the stock of the Corporation
+entitled to be voted thereat shall be present in person or by proxy to
+constitute a quorum for the transaction of business.  In the absence of a
+quorum at any such meeting or any adjournment or adjournments thereof, a
+majority in voting interest of those present in person or by proxy and entitled
+to vote thereat, or in the absence therefrom of all the stockholders, any
+officer entitled to preside at, or to act as secretary of, such meeting may
+adjourn such meeting from time to time.  At any such adjourned meeting at which
+a quorum may be present any business may be transacted which might have been
+transacted at the meeting as originally called.  The absence from any meeting
+of stockholders holding the number of shares of stock of the Corporation
+required by the laws of the State of Delaware or by the Second Restated
+Certificate of Incorporation of the Corporation, as from time to time amended,
+or by these By-laws for action upon any given matter shall not prevent action
+at such meeting upon any other matter or matters which may properly come before
+the meeting, if there shall be present thereat in person or by proxy
+stockholders holding the number of shares of stock of the Corporation required
+in respect of such other matter or matters.
+
+       SECTION 1.07.  Organization.  At each meeting of the stockholders the
+Chairman, or, if he shall be absent therefrom, the President, or if he shall be
+absent therefrom, a Vice Chairman, or, if there shall not be any Vice Chairman
+in office or if all the Vice Chairmen also shall be absent therefrom, a Vice
+President or another officer of the Corporation chosen as chairman of such
+meeting by a majority in voting interest of the stockholders present in person
+or by proxy and entitled to vote thereat, or, if all the officers of the
+Corporation shall be absent therefrom, a stockholder holding of record shares
+of stock of the Corporation so chosen, shall act as chairman of the meeting and
+preside thereat; and the Secretary, or, if he shall be absent from such meeting
+or shall be required pursuant to the provisions of this Section 1.07 to act as
+chairman of such meeting, the person (who shall be an Assistant Secretary, if
+an Assistant Secretary shall be present thereat) whom the chairman of such
+meeting shall appoint shall act as secretary of such meeting and keep the
+minutes thereof.
+
+       SECTION 1.08.  Order of Business.  The convening and adjournment of, and
+the order of business at, each meeting of the stockholders shall be determined
+by the chairman of such meeting.
+
+
+                                     - 3 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 23
+
+       SECTION 1.09.  Voting.  Except as otherwise provided in the Second
+Restated Certificate of Incorporation of the Corporation, as from time to time
+amended, each stockholder shall be entitled to one vote in person or by proxy
+for each share of stock of the Corporation held by him and registered in his
+name on the books of the Corporation on the date fixed pursuant to the
+provisions of Section 6.05 hereof as the record date for the determination of
+stockholders who shall be entitled to notice of and to vote at the meeting of
+stockholders, or to express consent to corporate action in writing without a
+meeting, as the case may be.  Shares of its own stock belonging to the
+Corporation or to another corporation, if a majority of the shares entitled to
+vote in the election of directors of such other corporation shall be held by
+the Corporation, shall not be entitled to vote.  Persons holding in a fiduciary
+capacity stock of the Corporation shall be entitled to vote such stock so held,
+and persons whose stock shall be pledged shall be entitled to vote such stock,
+unless in the transfer by the pledgor on the books of the Corporation he shall
+have expressly empowered the pledgee to vote thereon, in which case only the
+pledgee, or his proxy, may represent such stock and vote thereon.  If shares of
+stock of the Corporation shall stand of record in the names of two or more
+persons, whether fiduciaries, members of a partnership, joint tenants, tenants
+in common, tenants by the entirety or otherwise, or if two or more persons
+shall have the same fiduciary relationship respecting the same shares of stock
+of the Corporation, unless the Secretary shall have been given written notice
+to the contrary and have been furnished with a copy of the instrument or order
+appointing them or creating the relationship wherein it is so provided, their
+acts with respect to voting shall have the following effect:
+
+                (i)     if only one shall vote, his act shall bind all;
+
+                (ii) if more than one shall vote, the act of the majority so
+           voting shall bind all; and
+
+                (iii) if more than one shall vote, but the vote shall be evenly
+           split on any particular matter, then, except as otherwise required
+           by the General Corporation Law of the State of Delaware, each
+           faction may vote the shares in question proportionally.
+
+If the instrument so filed shall show that any such tenancy shall be held in
+unequal interests, the majority or even-split for the purpose of the next
+foregoing sentence shall be a majority or even-split in interest.  Any vote on
+stock of the Corporation at any meeting of the stockholders by the stockholder
+entitled thereto, and any expression of consent or dissent to corporate action
+without a meeting by the stockholder entitled to express such consent or
+dissent, may be given in person or by duly authorized proxy; provided, however,
+that no proxy shall be voted or acted upon after three (3) years from its date,
+unless said proxy shall provide for a longer period.  Without limiting the
+manner in which a stockholder may authorize another person or persons to act
+for him as proxy under applicable law, the following shall constitute a valid
+means by which a stockholder may grant such authority:  (i) a stockholder may
+execute a writing authorizing another person or persons to act for him as
+proxy, which execution may be accomplished by the stockholder or his authorized
+officer, director, employee or agent signing such writing or causing his
+
+                                     - 4 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 24
+
+signature to be affixed to such writing by any reasonable means including, but
+not limited to, by facsimile signature; and (ii) a stockholder may authorize
+another person or persons to act for him as proxy by transmitting or
+authorizing the transmission of a telegram, cablegram or other means of
+electronic transmission to the person who will be the holder of the proxy or to
+a proxy solicitation firm, proxy support service organization or like agent
+duly authorized by the person who will be the holder of the proxy to receive
+such transmission, provided that any such telegram, cablegram or other means of
+electronic transmission must either set forth or be submitted with information
+from which it can be determined that the telegram, cablegram or other
+electronic transmission was authorized by the stockholder.  Any copy, facsimile
+telecommunication or other reliable reproduction of the writing or transmission
+created in accordance with the preceding sentence may be substituted or used in
+lieu of the original writing or transmission for any and all purposes for which
+the original writing or transmission could be used, provided that such copy,
+facsimile telecommunication or other reproduction shall be a complete
+reproduction of the entire original writing or transmission.  At all meetings
+of the stockholders all matters, except those specified in Section 2.04 hereof,
+and except also those the manner of deciding upon which shall be otherwise
+expressly regulated by law or regulation, the rules and regulations of any
+stock exchange applicable to the Corporation or the Second Restated Certificate
+of Incorporation of the Corporation, as from time to time amended, shall be
+decided by the vote of a majority in voting interest of the stockholders
+present in person or by proxy and entitled to vote thereat, a quorum being
+present.  Except in the case of votes for the election of directors, unless
+demanded by a stockholder of the Corporation present in person or by proxy at
+any meeting of the stockholders and entitled to vote thereat or so directed by
+the chairman of the meeting, the vote thereat on any other question need not be
+by ballot.  Upon a demand of any such stockholder for a vote by ballot on any
+question or at the direction of such chairman that a vote by ballot be taken on
+any question, such vote shall be taken.  On a vote by ballot each ballot shall
+be signed by the stockholder voting, or by his proxy, if there be such proxy,
+and shall state the number of shares voted.
+
+       SECTION 1.10.  Inspectors of Election.  The Corporation shall, in
+advance of any meeting of stockholders, appoint one or more inspectors of
+election, who may be employees of the Corporation, to act at the meeting or any
+adjournment thereof and to make a written report thereof.  The Corporation may
+designate one or more persons as alternative inspectors to replace any
+inspector who fails to act.  In the event that no inspector so appointed or
+designated is able to act at a meeting of stockholders, the person presiding at
+the meeting shall appoint one or more inspectors to act at the meeting.  Each
+inspector, before entering upon the discharge of his duties, shall take and
+sign an oath to execute faithfully the duties of inspector with strict
+impartiality and according to the best of his ability.  The inspector or
+inspectors so appointed or designated shall (i) ascertain the number of shares
+of capital stock of the Corporation outstanding and the voting power of each
+such share, (ii) determine the shares of capital stock of the Corporation
+represented at the meeting and the validity of proxies and ballots, (iii) count
+all votes and ballots, (iv) determine and retain for a reasonable period a
+record of the disposition of any challenges made to any determination by the
+inspectors and (v) certify their determination of the number of shares of
+capital stock of the Corporation represented at the meeting and such
+inspectors' count of all votes and ballots.  Such certification and report
+shall specify
+
+
+                                     - 5 -
+
+
+
+
+<PAGE> 25
+
+such other information as may be required by law.  In determining the validity
+and counting of proxies and ballots cast at any meeting of stockholders of the
+Corporation, the inspectors may consider such information as is permitted by
+applicable law.  No person who is a candidate for an office at an election may
+serve as an inspector at such election.
+
+       SECTION 1.11.  Consent of Stockholders in Lieu of Meeting.  (a) Anything
+in these By-laws to the contrary notwithstanding, any action required by the
+General Corporation Law of the State of Delaware to be, or which may be, taken
+at any annual or special meeting of the stockholders may be taken without a
+meeting, without prior notice and without a vote, if a consent or consents in
+writing, setting forth the action so taken, shall be signed in person or by
+proxy by the holders of outstanding stock having not less than the minimum
+number of votes that would be necessary to authorize or take such action at a
+meeting at which all shares entitled to vote thereon were present and voted and
+if the procedures in this Section 1.11 shall be complied with.
+
+       (b) A record date for determining stockholders entitled to express
+consent to stockholder action in writing without a meeting shall be fixed by
+the Board (a "Consent Record Date"), which record date shall not precede the
+date upon which the resolution fixing the Consent Record Date shall be adopted
+by the Board and which shall not be more than ten (10) days after the date upon
+which such resolution shall have been adopted.  Any person seeking to have the
+stockholders authorize or take action by written consent without a meeting
+shall give written notice either by personal delivery or by United States mail,
+postage prepaid, to the Secretary, of the intent of such person to have the
+stockholders take action by written consent, which notice shall request the
+Board to fix a Consent Record Date.  The Board shall, within ten (10) days of
+the receipt of such notice, fix as the Consent Record Date a date which shall
+not precede the date upon which the resolution fixing the Consent Record Date
+shall be adopted by the Board and which shall not be more than ten (10) days
+after the date upon which such resolution shall have been adopted.  If no
+Consent Record Date has been fixed by the Board within ten (10) days of the
+receipt of such notice, (i) the Consent Record Date, when no prior action by
+the Board is required by applicable law for the corporate action to be taken by
+written consent, shall be the first date on which a signed written consent
+setting forth the action taken or proposed to be taken is delivered to the
+Corporation in the manner required by paragraph (c) of this Section 1.11, and
+(ii) the Consent Record Date, when prior action by the Board is required by
+applicable law for the corporate action to be taken by written consent, shall
+be at the close of business on the date on which the Board adopts the
+resolution taking such prior action.
+
+       (c) Every written consent pursuant to this Section 1.11 shall bear the
+date of signature of each stockholder who shall sign such consent and no
+written consent shall be effective to take the corporate action referred to
+therein unless, within sixty (60) days of the date of the earliest dated
+consent delivered to the Corporation in the manner required by this Section
+1.11, written consents signed by a sufficient number of stockholders to take
+action shall be delivered to the Corporation by delivery to its registered
+office in the State of Delaware, its principal place of business or to an
+officer or agent of the Corporation
+
+                                     - 6 -
+
+
+
+
+
+
+
+
+<PAGE> 26
+
+having custody of the books in which meetings and proceedings of the
+stockholders shall be recorded.  Delivery made to said registered office of the
+Corporation shall be by hand or by certified or registered mail, return receipt
+requested.
+
+       (d) Within three (3) business days after receipt of the earliest dated
+consent delivered to the Corporation in the manner provided in Section 228(c)
+of the General Corporation Law of the State of Delaware or the determination by
+the Board that the Corporation should seek corporate action by written consent,
+as the case may be, the Secretary shall appoint inspectors of elections for the
+purpose of performing a ministerial review of the validity of the consents and
+any revocations thereof.  The cost, if any, of retaining inspectors of election
+shall be borne by the Corporation.  Consents and any revocations thereof shall
+be delivered to the inspectors upon receipt by the Corporation.  As soon as
+such consents and revocations are received by the inspectors, the inspectors
+shall review the consents and revocations and shall maintain a count of the
+number of valid and unrevoked consents.  As soon as practicable after the
+earlier of (i) sixty (60) days after the date of the earliest dated consent
+delivered to the Corporation in the manner provided in Section 228(c) of the
+General Corporation Law of the State of Delaware or (ii) a written request
+therefor by the Corporation or the soliciting stockholders, if any (whichever
+is soliciting consents), notice of which request shall be given to the party
+opposing the solicitation of consents, if any, which request shall state that
+the Corporation or soliciting stockholders, as the case may be, have a good
+faith belief that the requisite number of valid and unrevoked consents to
+authorize or take the action specified in the consents has been received in
+accordance with these By-laws, the inspectors shall issue a preliminary report
+to the Corporation and the soliciting stockholders stating:  (a) the number of
+valid consents; (b) the number of valid revocations; (c) the number of valid
+and unrevoked consents; (d) the number of invalid consents; (e) the number of
+invalid revocations; and (f) whether, based on their preliminary count, the
+requisite number of valid and unrevoked consents has been obtained to authorize
+or take the action specified in the consents.  Unless the Corporation and the
+soliciting stockholders, if any, shall agree to a shorter or longer period, the
+Corporation and the soliciting stockholders, if any, shall have forty-eight
+(48) hours to review the consents and revocations and to advise the inspectors
+and the opposing party, if any, in writing as to whether they intend to
+challenge the preliminary report of the inspectors.  If no written notice of an
+intention to challenge the preliminary report is received within forty-eight
+(48) hours after the inspectors' issuance of the preliminary report, the
+inspectors shall issue to the Corporation and the soliciting stockholders, if
+any, their final report containing the information from the inspectors'
+determination with respect to whether the requisite number of valid and
+unrevoked consents was obtained to authorize and take the action specified in
+the consents.  If the Corporation or the soliciting stockholders, if any, issue
+written notice of an intention to challenge the inspectors' preliminary report
+within forty-eight (48) hours after the issuance of that report, a challenge
+session shall be scheduled by the inspectors as promptly as practicable.  A
+transcript of the challenge session shall be recorded by a certified court
+reporter.  Following completion of the challenge session, the inspectors shall
+as promptly as practicable issue their final report to the soliciting
+stockholders, if any, and the Corporation, which report shall contain the
+information included in the preliminary report, plus all changes in the vote
+totals as a result of the challenge and a certification of whether
+
+                                     - 7 -
+
+
+
+
+<PAGE> 27
+
+the requisite number of valid and unrevoked consents was obtained to authorize
+or take the action specified in the consents.  A copy of the final report of
+the inspectors shall be included in the book in which the proceedings of
+meetings of stockholders are recorded.  No action taken by written consent
+shall be deemed effective until said final report is issued.
+
+       (e) Prompt notice of the taking of the corporate action without a
+meeting by less than unanimous written consent shall be given to those
+stockholders who shall not have consented in writing and who, if the action had
+been taken at a meeting, would have been entitled to notice of the meeting if
+the record date for such meeting had been the date that written consents signed
+by a sufficient number of holders to take the action were delivered to the
+Corporation as provided in paragraph (c) of this Section 1.11.
+
+
+                                  ARTICLE II.
+
+                              Board of Directors.
+
+       SECTION 2.01.  General Powers.  The property, business and affairs of
+the Corporation shall be managed by or under the direction of the Board.
+
+       SECTION 2.02.  Number and Term of Office.  Subject to the requirements
+of the laws of the State of Delaware and of the Second Restated Certificate of
+Incorporation of the Corporation, as from time to time amended, the Board may
+from time to time by the vote of the majority of the whole Board determine the
+number of directors.  Until the Board shall otherwise so determine or Section 6
+of Article FOURTH of such Second Restated Certificate of Incorporation shall
+otherwise so require, the number of directors shall be fourteen (14).  Each of
+the directors of the Corporation shall hold office until his successor shall be
+elected and shall qualify, or until his death or until he shall resign or shall
+have been removed in the manner hereinafter provided.
+
+       SECTION 2.03.  Nominations for the Election of Directors.  Subject to
+the rights of stockholders under the General Corporation Law of the State of
+Delaware and the Second Restated Certificate of Incorporation of the
+Corporation, as from time to time amended, nominations for the election of
+directors shall be made by the Board.  Any stockholder entitled to vote for the
+election of directors at a meeting may nominate persons for election as
+directors upon compliance by such stockholder with the provisions of this
+Section 2.03.  Written notice of the intention of such stockholder to make such
+nomination shall be given, either by personal delivery or by United States
+mail, postage prepaid, to the Secretary of the Corporation not later than (i)
+with respect to an election to be held at an annual meeting of stockholders on
+the date designated in Section 1.01 hereof, ninety (90) days in advance of such
+meeting and (ii) with respect to an election to be held at a special meeting of
+stockholders for the election of directors, the close of business on the tenth
+(10th) day following the date on which notice of such meeting shall first be
+given to stockholders.  Each such notice shall set forth:  (a) the name and
+address of the stockholder who shall make such nomination and of the person or
+persons to be nominated; (b) a
+
+                                     - 8 -
+
+
+
+
+
+
+
+
+<PAGE> 28
+
+representation that the stockholder is a holder of record of stock of the
+Corporation entitled to vote at such meeting; (c) a description of all
+arrangements or understandings between the stockholder and each nominee and any
+other person or persons (naming such person or persons) pursuant to which the
+nomination or nominations are made by the stockholder; (d) such other
+information regarding each person to be nominated by such stockholder as would
+have been required to be included in a proxy statement filed pursuant to the
+proxy rules of the Securities and Exchange Commission had each such person been
+nominated, or intended to be nominated, by the Board; and (e) the consent in
+writing of each such person to serve as a director of the Corporation if so
+elected.  The chairman of the meeting may refuse to acknowledge the nomination
+of any person nominated by a stockholder other than in compliance with the
+foregoing procedure.
+
+       SECTION 2.04.  Election of Directors.  At each meeting of the
+stockholders entitled to vote for the election of directors at which a quorum
+shall be present, the persons receiving the greatest number of votes, up to the
+number of directors to be elected, shall be the directors.  Such election shall
+be by ballot in accordance with the provisions of Section 1.09 hereof.
+
+       SECTION 2.05.  Organization.  At each meeting of the Board the Chairman,
+or, if he shall be absent therefrom, the President, or, if he shall be absent
+therefrom, a Vice Chairman or, if there shall not be any Vice Chairman in
+office or if all the Vice Chairmen also shall be absent therefrom, a director
+chosen by a majority of the directors present thereat, shall act as chairman of
+such meeting and preside thereat.  The Secretary, or in case of his absence the
+person whom the chairman of such meeting shall appoint, shall act as secretary
+of such meeting and keep the minutes thereof.
+
+       SECTION 2.06.  Resignations.  Any director may resign at any time by
+giving written notice of his resignation to the Corporation.  Any such
+resignation shall take effect at the time specified therein, or, if the time
+when it shall become effective shall not be specified therein, then it shall
+take effect immediately upon its receipt by the Chairman, the President, any of
+the Vice Chairmen, or the Secretary; and, unless otherwise specified therein,
+the acceptance of such resignation shall not be necessary to make it effective.
+
+       SECTION 2.07.  Vacancies, etc.  In case of any increase in the number of
+directors, the additional director or directors, and, in case of any vacancy in
+the Board due to death, resignation, disqualification, removal or any other
+cause, the successor to fill the vacancy shall be elected by the holders of
+shares of stock entitled to vote at an annual or special meeting of said
+holders or by a majority of the directors then in office, though less than a
+quorum, or by a sole remaining director.  When one or more directors shall
+resign from the Board, effective at a future date, a majority of the directors
+then in office, including those who shall have so resigned, shall have the
+power to fill such vacancy or vacancies, the vote thereon to take effect when
+such resignation or resignations shall become effective.
+
+                                     - 9 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 29
+
+       SECTION 2.08.  Place of Meetings, etc.  The Board may hold its meetings
+at such place or places within or without the State of Delaware as the Board
+may from time to time by resolution determine or as shall be designated in the
+respective notices or waivers of notice thereof.
+
+       SECTION 2.09.  First Meeting.  As soon as practicable after each annual
+election of directors, the Board shall meet for the purpose of organization and
+the transaction of other business.
+
+       SECTION 2.10.  Regular Meetings.  Regular meetings of the Board shall be
+held at such times as the Board shall from time to time by resolution
+determine.  If any day fixed for a regular meeting shall be a legal holiday at
+the place where the meeting is to be held, then the meeting which would
+otherwise be held on that day shall be held at the same hour on the next
+succeeding business day.  Except as otherwise provided by law, notices of
+regular meetings need not be given.
+
+       SECTION 2.11.  Special Meetings; Notice.  Special meetings of the Board
+shall be held whenever called by the Chairman, the President, the Secretary or
+a majority of the directors at the time in office.  A notice shall be given as
+hereinafter in this Section 2.11 provided of each such special meeting, in
+which shall be stated the time and place of such meeting, but, except as
+otherwise expressly provided by law or by these By-laws, the purposes thereof
+need not be stated in such notice.  Except as otherwise provided by law, notice
+of each such meeting shall be mailed to each director, addressed to him at his
+residence or usual place of business, at least two (2) days before the day on
+which such meeting is to be held, or shall be sent addressed to him at such
+place by telegraph, cable, wireless, telex, telefax, electronic or other form
+of recorded communication or be delivered personally or by telephone not later
+than the day before the day on which such meeting is to be held.  Notice of any
+meeting of the Board need not, however, be given to any director who shall
+attend such meeting except a director who shall attend such meeting for the
+express purpose of objecting, at the beginning of the meeting, to the
+transaction of any business on the grounds that the meeting shall not have been
+lawfully called or convened; and, if any director shall, in writing or by
+telegraph, cable, wireless, telex, telefax, electronic or other form of
+recorded communication, waive notice of any meeting of the Board, notice
+thereof need not be given to him.
+
+       SECTION 2.12.  Quorum and Manner of Acting.  Subject to the provisions
+of Section 2.07 hereof, a majority of the whole Board shall be present in
+person at any meeting of the Board (participation in a meeting by means of
+conference telephone or similar communications equipment by means of which all
+persons participating in the meeting can hear each other to constitute presence
+in person at such meeting) in order to constitute a quorum for the transaction
+of business at such meeting and, except as specified in Sections 1.02, 1.03,
+2.02, 2.07, 3.01, 3.05, 3.06, 3.07, 3.08, 4.01, 4.04, 4.07, and 4.22 hereof,
+and except also as otherwise expressly provided by law, the vote of a majority
+of the directors present at any such meeting at which a quorum is present shall
+be the act of the Board.  In the absence of a quorum from any such meeting, a
+majority of the directors present thereat may adjourn such meeting from time to
+time until a quorum shall be
+
+                                    - 10 -
+
+
+
+
+
+
+
+
+<PAGE> 30
+
+present thereat.  Notice of any adjourned meeting need not be given.  The
+directors shall act only as a board, or as members of one or more committees of
+the Board appointed pursuant to Article III hereof, and the individual
+directors shall have no power as such.  Anything in these By-laws to the
+contrary notwithstanding, any action required or permitted to be taken at any
+meeting of the Board may be taken without a meeting if all members of the Board
+consent thereto in writing and the writing or writings are filed with the
+minutes of proceedings of the Board.
+
+       SECTION 2.13.  Removal of Directors.  Subject to the rights of the
+holders of any class or series of stock having a preference over the Common
+Stock as to dividends or upon liquidation, any director may be removed, either
+with or without cause, at any time, by the affirmative vote of stockholders of
+record of the Corporation holding of record a majority in voting interest of
+the shares then entitled to vote at an election of directors; and the vacancy
+in the Board caused by any such removal may be filled as provided in Section
+2.07 hereof.  In the case of the removal of a director for cause, "Cause" is
+hereby defined as the willful and continuous failure substantially to perform
+one's duties to the Corporation or the willful engaging in gross misconduct
+materially and demonstrably injurious to the Corporation.
+
+       SECTION 2.14.  Compensation.  Unless otherwise expressly provided by
+resolution adopted by the Board, neither any of the directors nor any of the
+members of any committee of the Corporation contemplated by these By-laws or
+otherwise provided for by resolution of the Board shall, as such, receive any
+stated compensation for his services; but the Board may at any time or from
+time to time by resolution provide that a specified sum shall be paid to any
+director of the Corporation or to any member of any such committee either as
+his annual compensation as such director or member or as compensation for his
+attendance at meetings of the Board or of such committee.  The Board may also
+likewise provide that the Corporation shall reimburse each such director or
+member of such committee for any expenses paid by him on account of his
+attendance at any such meeting.  Nothing in this Section 2.14 contained shall
+be construed to preclude any director from serving the Corporation in any other
+capacity and receiving compensation therefor.
+
+
+                                 ARTICLE III.
+
+                                  Committees.
+
+       SECTION 3.01.  Executive Committee; How Constituted and Powers.  The
+Board, by resolution adopted by a majority of the whole Board, may designate
+not less than two (2) of the directors then in office, who shall include the
+Chairman and the President, to constitute an Executive Committee (herein called
+the "Executive Committee") which during the intervals between meetings of the
+Board shall have and may exercise all the delegable powers of the Board to the
+extent permitted by law and as provided in said
+
+                                    - 11 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 31
+
+
+resolution or in another resolution or other resolutions so adopted by the
+Board; and it shall have power to authorize the seal of the Corporation to be
+affixed to all papers which may require it.
+
+       SECTION 3.02.  Organization, etc.  The Chairman or, if he shall be
+absent therefrom, the President shall act as chairman at all meetings of the
+Executive Committee and the Secretary shall act as secretary thereof.  In case
+of the absence from any meeting of the Committee of the Chairman, the
+President, or the Secretary, the Committee may appoint a chairman or secretary,
+as the case may be, of the meeting.
+
+       SECTION 3.03.  Meetings.  Regular meetings of the Executive Committee,
+of which notice shall not be necessary, shall be held on such days and at such
+places, within or without the State of Delaware, as shall be fixed by
+resolution adopted by a majority of the Committee and communicated to all its
+members.  Special meetings of the Committee shall be held whenever called by
+the Chairman, the President, the Secretary or a majority of the members of such
+Committee then in office.  Notice of each special meeting of the Committee
+shall be given by mail, telegraph, cable, wireless, telex, telefax, electronic
+or other form of recorded communication or be delivered personally or by
+telephone to each member of the Committee not later than the day before the day
+on which such meeting is to be held.  Notice of any such meeting need not,
+however, be given to any member of the Committee who shall attend such meeting
+except a member of the Committee who shall attend such meeting for the express
+purpose of objecting, at the beginning of the meeting, to the transaction of
+any business on the grounds that the meeting shall not have been lawfully
+called or convened; and, if any member of the Committee shall, in writing or by
+telegraph, cable, wireless, telex, telefax, electronic or other form of
+recorded communication, waive notice of any meeting of the Committee, notice
+thereof need not be given to him.  Subject to provisions of this Article III,
+the Committee, by resolution adopted by a majority of the whole Committee,
+shall fix its own rules of procedure, and it shall keep a record of its
+proceedings and report them to the Board at the next regular meeting thereof
+after such proceedings shall have been taken.  All such proceedings shall be
+subject to revision or alteration by the Board; provided, however, that third
+parties shall not be prejudiced by any such revision or alteration.
+
+       SECTION 3.04.  Quorum and Manner of Acting.  A majority of the Executive
+Committee shall be present in person at any meeting of the Committee
+(participation in a meeting by means of conference telephone or similar
+communications equipment by means of which all persons participating in the
+meeting can hear each other to constitute presence in person at such meeting)
+in order to constitute a quorum for the transaction of business, and the act of
+a majority of those present at a meeting thereof at which a quorum shall be
+present shall be the act of the Committee.  The members of the Committee shall
+act only as a committee, and the individual members shall have no power as
+such.
+
+       SECTION 3.05.  Resignations; Removal; Vacancies.  Any member of the
+Executive Committee may resign therefrom at any time by giving written notice
+of his resignation to the Corporation.  Any such resignation shall take effect
+at the time specified therein, or, if the time when it shall become effective
+shall not be specified therein, then it
+
+                                    - 12 -
+
+
+
+
+
+
+<PAGE> 32
+
+
+shall take effect immediately upon its receipt by the Corporation; and, unless
+otherwise specified therein, the acceptance of such resignation shall not be
+necessary to make it effective.  The Board by resolution adopted by a majority
+of the whole Board may remove any member of the Executive Committee.  Any
+vacancy in the Executive Committee shall be filled by the vote of a majority of
+the whole Board.
+
+       SECTION 3.06.  Other Committees.  The Board shall constitute a Finance
+Committee, which shall consist of not less than three (3) members, the majority
+of whom shall be directors and one of whom shall be designated by the Board to
+act as chairman of such Committee.  Subject to any limitations prescribed by
+the Board, the Finance Committee shall have authority to advise with the Board,
+the Executive Committee and the officers and employees of the Corporation with
+respect to all activities, plans and policies affecting the financial affairs
+of the Corporation.
+
+       The Board, by resolution adopted by a majority of a quorum of the whole
+Board, shall constitute an Audit Committee, a Compensation Committee, a
+Committee on Directors and such other committees as it may determine, which
+shall in each case consist of such directors and, at the discretion of the
+Board, such officers of the Corporation who shall not be directors and shall
+have and may exercise such powers as the Board may by resolution determine and
+specify in the respective resolutions appointing them; provided, however, that
+(a) unless all the members of any committee shall be directors, such committee
+shall not, except to the extent permitted by law, have authority to exercise
+any of the powers of the Board in the management of the business and affairs of
+the Corporation, and (b) if any committee shall have the power to determine the
+amounts of the respective fixed salaries of the Executives of the Corporation
+or any of them, such committee shall consist of not less than three (3)
+members.
+
+       SECTION 3.07.  Procedures.  A majority of all the members of the Finance
+Committee or of any other Committee organized pursuant to Section 3.06 hereof
+may fix its rules of procedure, determine its action and fix the time and
+place, whether within or without the State of Delaware, of its meetings
+(participation in a meeting by means of conference telephone or similar
+communications equipment by means of which all persons participating in the
+meeting can hear each other to constitute presence in person at such meeting)
+and specify what notice thereof, if any, shall be given, unless the Board shall
+otherwise by resolution provide.  The Board shall have power to change the
+members of any committee referred to in this Section 3.07 at any time, to fill
+vacancies therein and to discharge any such committee, either with or without
+cause, at any time.  In the absence or disqualification of a member of a
+committee, the member or members present at any meeting and not disqualified
+from voting, whether or not such member or members constitute a quorum, may
+unanimously appoint another member of the Board to act at the meeting in the
+place of such absent or disqualified member.
+
+       SECTION 3.08.  Action by Consent in Writing.  Anything in these By-laws
+to the contrary notwithstanding, any action required or permitted to be taken
+at any meeting of any committee referred to in this Article III may be taken
+without a meeting if all members
+
+                                    - 13 -
+
+
+
+
+
+
+
+
+<PAGE> 33
+
+
+of the committee shall consent thereto in writing and the writing or writings
+shall be filed with the minutes of proceedings of the committee.
+
+
+                                  ARTICLE IV.
+
+                                   Officers.
+
+       SECTION 4.01.  Number.  The Corporation may have the following officers
+as determined by a resolution or resolutions adopted by a majority of a quorum
+of the whole Board:  a Chairman (who shall be a director), a President (who
+shall be a director), one or more Vice Chairmen (one or more of whom may be
+directors), one or more Vice Presidents (one or more of whom may be directors
+and may be designated an Executive Vice President, a Group Executive Vice
+President or a Senior Vice President), one or more Assistant Vice Presidents,
+one or more Business Unit Presidents, a Controller, one or more Assistant
+Controllers, a General Counsel, a Treasurer, one or more Assistant Treasurers,
+a Secretary and one or more Assistant Secretaries.
+
+       SECTION 4.02.  Election and Term of Office.  The officers determined as
+in Section 4.01 hereof provided shall be chosen annually by the Board.  Each
+such officer shall hold office until his successor shall have been elected and
+shall qualify or until his earlier death or his earlier resignation or removal
+in the manner hereinafter provided.
+
+       SECTION 4.03.  Agents, etc.  In addition to the officers determined as
+in Section 4.01 hereof provided, the Board may appoint such agents as the Board
+may deem necessary or advisable, each of which agents shall have such authority
+and perform such duties as are provided in these By-laws or as the Board may
+from time to time determine.  The Board may delegate to any officer or to any
+committee the power to appoint or remove any such agents.
+
+       SECTION 4.04.  Removal.  Any officer may be removed, either with or
+without cause, at any time, by resolution adopted by a majority of a quorum of
+the whole Board.  In the case of the removal of an officer for cause, "Cause"
+is hereby defined as the willful and continuous failure substantially to
+perform one's duties to the Corporation or the willful engaging in gross
+misconduct materially and demonstrably injurious to the Corporation.
+
+       SECTION 4.05.  Resignations.  Any officer may resign at any time by
+giving written notice of his resignation to the Corporation.  Any such
+resignation shall take effect at the time specified therein, or, if the time
+when it shall become effective shall not be specified therein, then it shall
+take effect immediately upon its receipt by the Corporation; and, unless
+otherwise specified therein, the acceptance of such resignation shall not be
+necessary to make it effective.
+
+
+                                    - 14 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 34
+
+       SECTION 4.06.  Vacancies.  A vacancy in any office due to death,
+resignation, removal, disqualification or any other cause may be filled for the
+unexpired portion of the term in the manner prescribed in these By-laws for
+regular appointments or elections to such office.
+
+       SECTION 4.07.  Chief Executive Officer.  The Chief Executive Officer
+shall be designated from time to time by a resolution adopted by a majority of
+a quorum of the whole Board and shall, unless otherwise determined by the
+Board, be either the Chairman or the President.  He shall have, subject to the
+direction and control of the Board, general and active supervision over the
+business and affairs of the Corporation and over its several officers.  He
+shall perform all duties incident to his position and such other duties as from
+time to time may be assigned to him by the Board.  He shall see that all orders
+and resolutions of the Board shall be carried into effect.  He may sign,
+execute and deliver in the name of the Corporation all deeds, mortgages, bonds,
+contracts or other instruments authorized by the Board, except in cases where
+the signing, execution or delivery thereof shall be expressly delegated by the
+Board or by a duly authorized committee of the Board or by these By-laws to
+some other officer or agent of the Corporation or where any of them shall be
+required by law otherwise to be signed, executed or delivered, and he may cause
+the seal of the Corporation to be affixed to any documents the execution of
+which on behalf of the Corporation shall have been duly authorized.
+
+       SECTION 4.08.  Chairman.  The Chairman shall perform such duties as from
+time to time may be assigned to him by the Board.  He shall, if present,
+preside at all meetings of the stockholders and at all meetings of the Board.
+He shall make a report of the state of the business of the Corporation at each
+annual meeting of the stockholders and from time to time he shall report to the
+stockholders and to the Board all matters within his knowledge which in his
+judgment the interests of the Corporation may require to be brought to their
+notice.
+
+       SECTION 4.09.  President.  The President shall perform such duties as
+from time to time may be assigned to him by the Board.  At the request of the
+Chairman or in the case of his absence or inability to act, the President shall
+perform the duties of the Chairman and, when so acting, shall have the powers
+of, and shall be subject to all restrictions upon, the Chairman.
+
+       SECTION 4.10.  Vice Chairmen.  Each of the Vice Chairmen shall have such
+powers and perform such duties as the Chief Executive Officer or the Board may
+from time to time assign to him and shall perform such other duties as may be
+prescribed by these By-laws.  At the request of the Chairman or the President,
+or in case of their absence or inability to act, any Vice Chairman shall
+perform the duties of the Chairman or the President and, when so acting, shall
+have the powers of, and be subject to all the restrictions upon, the Chairman
+and the President.
+
+       SECTION 4.11.  Executive Office.  The Chairman, the President and such
+other officers as shall from time to time be designated by the Chief Executive
+Officer, shall constitute the Executive Office of the Corporation.  Each
+officer in the Executive Office
+
+                                    - 15 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 35
+
+shall consult with the Chief Executive Officer as to matters relating to the
+business and affairs of the Corporation, and each shall have such powers and
+perform such duties as the Chief Executive Officer or the Board may from time
+to time assign to him and each shall perform such other duties as may be
+prescribed for him by these By-laws.
+
+       SECTION 4.12.  Vice Presidents.  Each of the Vice Presidents (including
+each of the Executive Vice Presidents, Group Executive Vice Presidents and
+Senior Vice Presidents) shall have such powers and perform such duties as the
+officer in the Executive Office to whom he shall report, the Chief Executive
+Officer or the Board may from time to time assign to him and shall perform such
+other duties as may be prescribed by these By- laws.  At the request of any
+officer in the Executive Office, or, in case of their absence or inability to
+act, any Vice President (including any Executive Vice President, Group
+Executive Vice President and any Senior Vice President) who shall report to an
+officer in the Executive Office shall perform the duties of that officer and,
+when so acting, shall have all the powers of, and be subject to all the
+restrictions upon, that officer.
+
+       SECTION 4.13.  Assistant Vice Presidents.  At the request of any Vice
+President, or in case of his absence or inability to act, the Assistant Vice
+President, if there shall be one, or, if there shall be more than one, any of
+the Assistant Vice Presidents shall perform the duties of the Vice President to
+whom he shall report, and, when so acting, shall have all the powers of, and be
+subject to all the restrictions upon, that Vice President.  Each of the
+Assistant Vice Presidents shall perform such other duties as from time to time
+may be assigned to him by the Vice President to whom he shall report, the
+officer in the Executive Office to whom such Vice President shall report, the
+President, the Chairman or the Board.
+
+       SECTION 4.14.  Business Unit Presidents.  Each of the Business Unit
+Presidents shall have such powers and perform such duties as the officer in the
+Executive Office to whom he shall report, the Chief Executive Officer or the
+Board may from time to time assign to him and shall perform such other duties
+as may be prescribed by these By-laws.
+
+       SECTION 4.15.  Controller.  The Controller shall keep or cause to be
+kept correct records of the business and transactions of the Corporation and
+shall, upon request, at all reasonable times exhibit or cause to be exhibited
+such records to any of the directors of the Corporation at the place where such
+records shall be kept.  He shall perform such other duties as from time to time
+may be assigned to him by the officer to whom he shall report, any officer in
+the Executive Office, the Chief Executive Officer or the Board.
+
+       SECTION 4.16.  Assistant Controllers.  At the request of the Controller,
+or in case of his absence or inability to act, the Assistant Controller, or, if
+there be more than one, any of the Assistant Controllers, shall perform the
+duties of the Controller, and, when so acting, shall have all the powers of,
+and be subject to all the restrictions upon, the Controller.  Each of the
+Assistant Controllers shall perform such other duties as from time to time may
+be assigned to him by the Controller, the officer to whom the Controller shall
+report, any officer in the Executive Office, the Chief Executive Officer or the
+Board.
+
+
+                                    - 16 -
+
+
+
+
+
+
+
+<PAGE> 36
+       SECTION 4.17.  General Counsel.  The General Counsel shall be the chief
+legal officer of the Corporation and shall have, subject to the control of the
+Chief Executive Officer, the officer to whom he shall report, and the Board,
+general and active supervision and direction over the legal affairs of the
+Corporation.  He shall have such other powers and perform such other duties as
+the Chief Executive Officer, the officer to whom he shall report, or the Board
+may from time to time prescribe and shall perform such other duties as may be
+prescribed by these By-laws.
+
+       SECTION 4.18.  Treasurer.  If required by the Board, the Treasurer shall
+give a bond for the faithful discharge of his duties in such sum and with such
+surety or sureties as the Board shall determine.  He shall:
+
+                (a) have charge and custody of, and be responsible for, all
+           funds, securities, notes and valuable effects of the Corporation;
+           receive and give receipt for moneys due and payable to the
+           Corporation from any sources whatsoever; deposit all such moneys to
+           the credit of the Corporation or otherwise as the Chairman, the
+           President, the officer to whom he shall report, or the Board shall
+           direct in such banks, trust companies or other depositaries as shall
+           be selected in accordance with the provisions of Section 5.06
+           hereof; cause such funds to be disbursed by checks or drafts on the
+           authorized depositaries of the Corporation signed as provided in
+           Section 5.04 hereof; and be responsible for the accuracy of the
+           amounts of, and cause to be preserved proper vouchers for, all
+           moneys so disbursed;
+
+                (b) have the right to require from time to time reports or
+           statements giving such information as he may desire with respect to
+           any and all financial transactions of the Corporation from the
+           officers or agents transacting the same;
+
+                (c) render to the Chairman, the President, the officer to whom
+           he shall report, or the Board, whenever they, respectively, shall
+           request him so to do, an account of the financial condition of the
+           Corporation and of all his transactions as Treasurer;
+
+                (d) upon request, exhibit or cause to be exhibited at all
+           reasonable times, at the place where they shall be kept, his cash
+           books and other records to the Controller, the Chairman, the
+           President, the officer to whom he shall report, or the Board; and
+
+                (e) in general, perform all duties incident to the office of
+           Treasurer and such other duties as from time to time may be assigned
+           to him by the Chairman, the President, the officer to whom he shall
+           report, or the Board.
+
+       SECTION 4.19.  Assistant Treasurers.  If required by the Board, each of
+the Assistant Treasurers shall give a bond for the faithful discharge of his
+duties in such sums and with such surety or sureties as the Board shall
+determine.  At the request of the Treasurer, or in case of his absence or
+inability to act, the Assistant Treasurer, or, if there
+
+                                    - 17 -
+
+
+
+
+
+
+
+
+
+<PAGE> 37
+
+be more than one, any of the Assistant Treasurers, shall perform the duties of
+the Treasurer, and, when so acting, shall have all the powers of, and be
+subject to all the restrictions upon, the Treasurer.  Each of the Assistant
+Treasurers shall perform such other duties as from time to time may be assigned
+to him by the Treasurer, the Chairman, the President or the Board.
+
+       SECTION 4.20.  Secretary.  The Secretary shall:
+
+                (a) record all the proceedings of the meetings of the
+           stockholders, the Board, the Executive Committee and the Finance
+           Committee in one or more books kept for that purpose;
+
+                (b) see that all notices shall be duly given in accordance with
+           the provisions of these By-laws or as required by law;
+
+                (c) be custodian of the seal of the Corporation, and shall see
+           that such seal, or, if authorized by the Board, a facsimile thereof,
+           shall be affixed, if necessary, to any documents the execution of
+           which on behalf of the Corporation shall be duly authorized and may
+           attest such seal when so affixed;
+
+                (d) have charge, directly or through the transfer agent or
+           transfer agents and registrar or registrars appointed as in Section
+           6.03 hereof provided, of the issue, transfer and registration of
+           certificates for stock of the Corporation and of the records
+           thereof, such records to be kept in such manner as to show the
+           information specified in Section 6.01 hereof;
+
+                (e) upon request, exhibit or cause to be exhibited at all
+           reasonable times to the Board, at the place where they shall be
+           kept, such records of the issue, transfer and registration of the
+           certificates for stock of the Corporation;
+
+                (f) sign with a Vice President, a Vice Chairman, the Chairman
+           or the President certificates for stock of the Corporation;
+
+                (g) see that the books, reports, statements, certificates and
+           all other documents and records required by law shall be properly
+           kept and filed;
+
+                (h) see that the duties prescribed by Section 1.09 hereof shall
+           be performed; and
+
+                (i) in general, perform all duties incident to the office of
+           Secretary and such other duties as from time to time may be assigned
+           to him by the Chairman, the President, the officer to whom he shall
+           report, or the Board.
+
+       SECTION 4.21.  Assistant Secretaries.  At the request of the Secretary,
+or in case of his absence or inability to act, the Assistant Secretary, or, if
+there shall be more than one, any of the Assistant Secretaries, shall perform
+the duties of the Secretary and, when so
+
+                                    - 18 -
+
+
+
+
+
+
+
+
+<PAGE> 38
+
+acting, shall have all the powers of, and be subject to all the restrictions
+upon, the Secretary.  Each of the Assistant Secretaries shall perform such
+other duties as from time to time may be assigned to him by the Secretary, the
+Chairman, the President or the Board.
+
+       SECTION 4.22.  Salaries.  The salaries and other forms of compensation
+(other than those the fixing of which shall have been specifically delegated to
+a committee of the Board) of the officers of the Corporation shall be fixed
+from time to time by the Board or by any one or more committees (none of which
+shall consist of less than three (3) members) appointed by a resolution passed
+by the whole Board with power to fix such salaries or such compensation, and
+none of such officers shall be prevented from receiving a salary by reason of
+the fact that he shall be also a member of the Board or of any such committee.
+
+
+                                  ARTICLE V.
+
+                Contracts, Checks, Drafts, Bank Accounts, etc.
+
+       SECTION 5.01.  Contracts.  All contracts and all bids and proposals for
+contracts including, but not limited to, contracts with the Federal or with any
+municipal, county, territorial or state government or with any authority,
+branch or division thereof, or with any foreign government or with any
+authority, branch or division thereof, and all bonds and undertakings for the
+faithful performance of such contracts, and all vouchers and receipts in
+connection therewith, may be executed and delivered in the name of the
+Corporation and on its behalf by the Chairman, the President, a Vice Chairman,
+a Vice President, a Business Unit President, the Treasurer or the Secretary;
+and no further authority, whether by resolution of the Board or otherwise,
+shall be necessary to make such instrument valid and binding upon the
+Corporation.
+
+       SECTION 5.02.  Appointment of Agents.  The Board, by resolution, or the
+Chairman, the President, a Vice Chairman, a Vice President, a Business Unit
+President, the Treasurer or the Secretary, by an instrument in writing filed
+with the Secretary, may authorize any other officer or officers or any agent or
+agents to execute and deliver any contract or other instrument in the name of
+the Corporation and on its behalf, and such authority may be general or
+confined to specific instances.
+
+       SECTION 5.03.  Loans.  Unless the Board shall otherwise determine, any
+two (2) of the following officers, to wit:  the Chairman, the President, a Vice
+Chairman, a Vice President, a Business Unit President, the Treasurer and the
+Secretary, acting together, or any officer or officers authorized by a
+resolution of the Board may effect loans and advances at any time for the
+Corporation from any bank, trust company or other institution or from any firm
+or individual and for such loans and advances may make, execute and deliver
+promissory notes or other evidences of indebtedness of the Corporation, but no
+officer or officers shall mortgage, pledge, hypothecate or otherwise transfer
+for security any property whatsoever owned or held by the Corporation except
+when authorized by resolution adopted by the Board.
+
+                                    - 19 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 39
+
+       SECTION 5.04.  Checks, Drafts, etc.  All checks, drafts, orders for the
+payment of money, bills of lading, warehouse receipts, obligations, bills of
+exchange and insurance certificates shall be signed or endorsed (except
+endorsements for collection for the account of the Corporation or for deposit
+to its credit) by such officer or officers or agent or agents of the
+Corporation and in such manner as shall from time to time be determined by
+resolution of the Board.
+
+       SECTION 5.05.  Deposits.  All funds of the Corporation not otherwise
+employed shall be deposited from time to time to the credit of the Corporation
+or otherwise as the Board, the Chairman, the President, any Vice Chairman, or
+the Treasurer shall direct in such banks, trust companies or other depositaries
+as the Board may select or as may be selected by any officer or officers or
+agent or agents of the Corporation to whom power in that respect shall have
+been delegated by the Board.  For the purpose of deposit and for the purpose of
+collection for the account of the Corporation, checks, drafts and other orders
+for the payment of money which shall be payable to the order of the Corporation
+may be endorsed, assigned and delivered by any officer or agent of the
+Corporation.
+
+       SECTION 5.06.  General and Special Bank Accounts.  The Board may from
+time to time authorize the opening and keeping of general and special bank
+accounts with such banks, trust companies or other depositaries as the Board
+may select, or as may be selected by any officer or officers or agent or agents
+of the Corporation to whom power in that respect shall have been delegated by
+the Board.  The Board may make such special rules and regulations with respect
+to such bank accounts, not inconsistent with the provisions of these By-laws,
+as it may deem expedient.
+
+       SECTION 5.07.  Proxies in Respect of Stock or Other Securities of Other
+Corporations.  Unless otherwise provided by resolution adopted by the Board,
+the Chairman, the President, a Vice Chairman, a Vice President or the Secretary
+may from time to time appoint an attorney or attorneys or an agent or agents of
+the Corporation to exercise in the name and on behalf of the Corporation the
+powers and rights which the Corporation may have as the holder of stock or
+other securities in any other corporation, partnership, limited partnership,
+limited liability company, business trust or other business organization, to
+vote or consent in respect of such stock or other securities, and the Chairman,
+the President, a Vice Chairman, a Vice President or the Secretary may instruct
+the person or persons so appointed as to the manner of exercising such powers
+and rights; and the Chairman, the President, a Vice Chairman, a Vice President
+or the Secretary may execute or cause to be executed in the name and on behalf
+of the Corporation and under its corporate seal, or otherwise, all such written
+proxies or other instruments as he may deem necessary or proper in order that
+the Corporation may exercise its said powers and rights.
+
+
+                                    - 20 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 40
+
+                                  ARTICLE VI.
+
+                          Shares and Their Transfer.
+
+       SECTION 6.01.  Certificates for Stock.  Every owner of stock of the
+Corporation of any class (or, if stock of any class shall be issuable in
+series, any series of such class) shall be entitled to have a certificate
+registered in his name in such form as the Board shall prescribe, certifying
+the number of shares of stock of the Corporation of such class, or such class
+and series, owned by him.  The certificates representing shares of stock of
+each class (or, if there shall be more than one series of any class, each
+series of such class) shall be numbered in the order in which they shall be
+issued and shall be signed in the name of the Corporation by the Chairman or
+the President or a Vice Chairman or a Vice President and by the Secretary or an
+Assistant Secretary.  Any of or all the signatures on any such certificate may
+be facsimiles.  In case any officer or officers or transfer agent or registrar
+of the Corporation who shall have signed, or whose facsimile signature or
+signatures shall have been placed upon, any such certificate shall cease to be
+such officer or officers or transfer agent or registrar before such certificate
+shall have been issued, such certificate may be issued by the Corporation with
+the same effect as though the person or persons who shall have signed such
+certificate, or whose facsimile signature or signatures shall have been placed
+thereupon, were such officer or officers or transfer agent or registrar at the
+date of issue.  Records shall be kept of the amount of the stock of the
+Corporation issued and outstanding, the manner in which and the time when such
+stock was paid for, the respective names, alphabetically arranged, and the
+addresses, of the persons, firms or corporations owning of record the stock
+represented by certificates for stock of the Corporation, the number, class and
+series of shares represented by such certificates, respectively, the time when
+each became an owner of record thereof, and the respective dates of such
+certificates, and in case of cancellation, the respective dates of
+cancellation.  Every certificate surrendered to the Corporation for exchange or
+transfer shall be canceled and a new certificate or certificates shall not be
+issued in exchange for any existing certificate until such existing certificate
+shall have been so canceled except in cases provided for in Section 6.04
+hereof.
+
+       SECTION 6.02.  Transfers of Stock.  Transfers of shares of stock of the
+Corporation shall be made only on the books of the Corporation by the
+registered owner thereof, or by his attorney thereunto authorized by power of
+attorney duly executed and filed with the Secretary, or with a transfer agent
+appointed as in Section 6.03 hereof provided, and upon surrender of the
+certificate or certificates for such shares properly endorsed and payment of
+all taxes thereon.  The person in whose name shares of stock shall be
+registered on the books of the Corporation shall be deemed the owner thereof
+for all purposes as regards the Corporation.  Whenever any transfer of shares
+shall be made for collateral security and not absolutely, such fact shall be so
+expressed in the entry of transfer if, when the certificate or certificates
+shall be presented to the Corporation for transfer, both the transferor and the
+transferee shall in writing request the Corporation to do so.
+
+                                    - 21 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 41
+
+       SECTION 6.03.  Regulations.  The Board may make such rules and
+regulations as it may deem expedient, not inconsistent with these By-laws,
+concerning the issue, transfer and registration of certificates for stock of
+the Corporation.  The Board may appoint, or authorize any officer or officers
+to appoint, one or more transfer agents and one or more registrars, and may
+require all certificates for stock to bear the signature or signatures of any
+of them.
+
+       SECTION 6.04.  Lost, Stolen, Destroyed and Mutilated Certificates.  The
+registered owner of any stock of the Corporation shall immediately notify the
+Corporation of any loss, theft, destruction or mutilation of the certificate
+therefor, and the Corporation may issue a new certificate for stock in the
+place of any certificate theretofore issued by it and alleged to have been
+lost, stolen or destroyed, and the Corporation may, in its discretion, require
+the registered owner of the lost, stolen or destroyed certificate or his legal
+representatives to give the Corporation a bond in such sum, limited or
+unlimited, and in such form and with such surety or sureties, as the
+Corporation shall in its uncontrolled discretion determine, to indemnify the
+Corporation against any claim that may be made against it on account of the
+alleged loss, theft or destruction of any such certificate, or the issuance of
+such new certificate.  The Corporation may, however, in its discretion refuse
+to issue any such new certificate except pursuant to legal proceedings under
+the laws of the State of Delaware in such case made and provided.
+
+       SECTION 6.05.  Fixing Date for Determination of Stockholders of Record
+in Certain Cases.  (a) In order that the Corporation may determine the
+stockholders entitled to notice of or to vote at any meeting of stockholders or
+any adjournment thereof, the Board may fix a record date, which record date
+shall not precede the date upon which the resolution fixing the record date
+shall be adopted by the Board, and which record date shall not be more than
+sixty (60) nor less than ten (l0) days before the date of such meeting.  If no
+record date shall be fixed by the Board the record date for determining
+stockholders entitled to notice of or to vote at a meeting of stockholders
+shall be at the close of business on the day next preceding the day on which
+notice shall be given, or, if notice shall be waived, at the close of business
+on the day next preceding the day on which the meeting is held.  A
+determination of stockholders of record entitled to notice of or to vote at a
+meeting of stockholders shall apply to any adjournment of the meeting;
+provided, however, that the Board may fix a new record date for the adjourned
+meeting.
+
+       (b) In order that the Corporation may determine the stockholders
+entitled to receive payment of any dividend or other distribution or allotment
+of any rights or the stockholders entitled to exercise any rights in respect of
+any change, conversion or exchange of stock, or for the purpose of any other
+lawful action, the Board may fix a record date, which record date shall not
+precede the date upon which the resolution fixing the record date shall be
+adopted, and which record date shall be not more than sixty (60) days prior to
+such action.  If no record date shall be fixed, the record date for determining
+stockholders for any such purpose shall be at the close of business on the day
+on which the Board shall adopt the resolution relating thereto.
+
+
+                                    - 22 -
+
+
+
+
+
+
+
+
+<PAGE> 42
+
+                                 ARTICLE VII.
+
+                                 Offices, etc.
+
+       SECTION 7.01.  Registered Office.  The registered office of the
+Corporation in the State of Delaware shall be in the City of Wilmington, County
+of New Castle, and the registered agent of the Corporation in said State is The
+Corporation Trust Company.
+
+       SECTION 7.02.  Other Offices.  The Corporation may also have one or more
+offices other than said registered office at such place or places, either
+within or without the State of Delaware, as the Board may from time to time
+appoint or as the business of the Corporation may require and may keep the
+books and records of the Corporation in such place or places within or without
+said State as the Board may from time to time by resolution determine.
+
+
+                                 ARTICLE VIII.
+
+                           Dividends, Surplus, etc.
+
+       SECTION 8.01.  Dividends, Surplus, etc.  Subject to the provisions of
+law, of the Second Restated Certificate of Incorporation of the Corporation, as
+from time to time amended, and of these By-laws, the Board may declare and pay
+dividends upon the shares of the stock of the Corporation either (a) out of its
+surplus as defined in and computed in accordance with the provisions of the
+laws of the State of Delaware or (b), in case it shall not have any such
+surplus, out of its net profits for the fiscal year in which the dividend shall
+be declared and/or the preceding fiscal year, whenever and in such amounts as,
+in the opinion of the Board, the condition of the affairs of the Corporation
+shall render it advisable.  The Board in its discretion may use and apply any
+of such surplus or such net profits in purchasing or acquiring any of the
+shares of the stock of the Corporation in accordance with law, or any of its
+bonds, debentures, notes, scrip or other securities or evidences of
+indebtedness, or from time to time may set aside from such surplus or such net
+profits such sum or sums as it, in its absolute discretion, may think proper,
+as a reserve fund to meet contingencies, or for equalizing dividends, or for
+the purpose of maintaining or increasing the property or business of the
+Corporation, or for any other purpose it may think conducive to the best
+interests of the Corporation; provided, however, that, except as otherwise
+permitted by law, the Corporation shall not use its funds or property for the
+purchase of shares of its stock when the capital of the Corporation shall be
+impaired or when such use would cause any impairment of its capital.  All such
+surplus or such net profits, until actually declared in dividends, or used and
+applied as aforesaid, shall be deemed to have been so set aside by the Board
+for one or more of said purposes.
+
+
+                                    - 23 -
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 43
+
+                                  ARTICLE IX.
+
+                    Indemnification of Directors, Officers,
+                             Employees and Agents.
+
+       SECTION 9.01.  Third Party Actions.  (a) The Corporation, to the full
+extent permitted, and in the manner required, by the laws of the State of
+Delaware, as such laws may be amended from time to time, shall indemnify any
+person who shall have been or shall be made a party to or is threatened to be
+made a party to any threatened, pending or completed action, suit or proceeding
+(including any appeal thereof), whether civil, criminal, administrative or
+investigative (other than an action by or in the right of the Corporation), by
+reason of the fact that such person shall have been or shall be a director or
+officer of the Corporation, or, if at a time when he shall have been or shall
+be a director or officer of the Corporation, shall have been or shall be
+serving at the request of the Corporation as a director, officer, partner,
+trustee, fiduciary, employee or agent (a "Subsidiary Officer") of another
+corporation, partnership, joint venture, trust, employee benefit plan or other
+enterprise (an "Affiliated Entity"), against expenses (including attorneys'
+fees), costs, judgments, fines, penalties and amounts paid in settlement
+actually and reasonably incurred by such person in connection with such action,
+suit or proceeding if such person shall have acted in good faith and in a
+manner such person shall have reasonably believed to be in or not opposed to
+the best interest of the Corporation, and, with respect to any criminal action
+or proceeding, shall have had no reasonable cause to believe his conduct was
+unlawful; provided, however, that the Corporation shall not be obligated to
+indemnify against any amount paid in settlement unless the Corporation shall
+have consented to such settlement, which consent shall not be unreasonably
+withheld.  The termination of any action, suit or proceeding by judgment,
+order, settlement, conviction or upon a plea of nolo contendere or its
+equivalent shall not, of itself, create a presumption that the person shall not
+have acted in good faith and in a manner which such person shall have
+reasonably believed to be in or not opposed to the best interests of the
+Corporation, and, with respect to any criminal action or proceeding, that such
+person shall have had reasonable cause to believe that his conduct was
+unlawful.  Notwithstanding anything to the contrary in the foregoing provisions
+of this paragraph (a), a person shall not be entitled, as a matter of right, to
+indemnification pursuant to this paragraph (a) against any expenses (including
+attorneys' fees), costs, judgments, fines, penalties or amounts paid in
+settlement incurred in connection with any action, suit or proceeding commenced
+by such person against the Corporation or any person who shall have been or
+shall be a director, officer, fiduciary, employee or agent of the Corporation
+or a Subsidiary Officer of an Affiliated Entity, but such indemnification may
+be provided by the Corporation in any specific case as permitted by Section
+9.06 hereof.
+
+       (b) The Corporation may indemnify any employee or agent of the
+Corporation in the manner and to the extent that it shall indemnify any
+director or officer under this Section 9.01, including indemnity in respect of
+service at the request of the Corporation as a Subsidiary Officer of an
+Affiliated Entity.
+
+                                    - 24 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 44
+
+       SECTION 9.02.  Derivative Actions.  (a) The Corporation, to the full
+extent permitted, and in the manner required, by the laws of the State of
+Delaware, as such laws may be amended from time to time, shall indemnify any
+person who shall have been or shall be made a party to or shall be threatened
+to be made a party to any threatened, pending or completed action or suit
+(including any appeal thereof) brought in the right of the Corporation to
+procure a judgment in its favor by reason of the fact that such person shall
+have been or shall be a director or officer of the Corporation, or, if at a
+time when he shall have been or shall be a director or officer of the
+Corporation shall have been or shall be serving at the request of the
+Corporation as a Subsidiary Officer of an Affiliated Entity against expenses
+(including attorneys' fees) and costs actually and reasonably incurred by such
+person in connection with such action or suit if such person shall have acted
+in good faith and in a manner such person shall have reasonably believed to be
+in or not opposed to the best interests of the Corporation, except that no
+indemnification shall be made in respect of any claim, issue or matter as to
+which such person shall have been adjudged to be liable to the Corporation
+unless, and except to the extent that, the Court of Chancery of the State of
+Delaware or the court in which such judgment shall have been rendered shall
+determine upon application that despite the adjudication of liability but in
+view of all the circumstances of the case, such person shall be fairly and
+reasonably entitled to indemnity for such expenses and costs as the Court of
+Chancery of the State of Delaware or such other court shall deem proper.
+Notwithstanding anything to the contrary in the foregoing provisions of this
+paragraph (a), a person shall not be entitled, as a matter of right, to
+indemnification pursuant to this paragraph (a) against costs and expenses
+(including attorneys' fees) incurred in connection with any action or suit in
+the right of the Corporation commenced by such person, but such indemnification
+may be provided by the Corporation in any specific case as permitted by Section
+9.06 hereof.
+
+       (b) The Corporation may indemnify any employee or agent of the
+Corporation in the manner and to the extent that it shall indemnify any
+director or officer under this Section 9.02, including indemnity in respect of
+service at the request of the Corporation as a Subsidiary Officer of an
+Affiliated Entity.
+
+       SECTION 9.03.  Determination of Entitlement to Indemnification.  Any
+indemnification under Section 9.01 or Section 9.02 hereof (unless ordered by a
+court) shall be made by the Corporation only as authorized in the specific case
+upon a determination that indemnification of the present or former director,
+officer, employee or agent is proper under the circumstances because such
+person has met the applicable standard of conduct set forth in Section 9.01 or
+Section 9.02 hereof.  Such determination shall be made with respect to a person
+who is a director or officer at the time of such determination (i) by a
+majority vote of the directors who are not parties to such action, suit or
+proceeding even though less than a quorum, or (ii) by a committee of such
+directors designated by majority vote of such directors, even though less than
+a quorum, or (iii) if there are no such directors, or if such directors so
+direct, by independent legal counsel in a written opinion, or (iv) by the
+stockholders.  In the event a request for indemnification shall be made by any
+person referred to in paragraph (a) of Section 9.01 hereof or paragraph (a) of
+Section 9.02 hereof, the Corporation shall cause such determination to be made
+not later than sixty (60) days after such request shall be made.
+
+                                    - 25 -
+
+
+
+
+
+
+<PAGE> 45
+
+       SECTION 9.04.  Right to Indemnification Upon Successful Defense and For
+Service as a Witness.  (a) Notwithstanding the other provisions of this Article
+IX, to the extent that a present or former director or officer of the
+Corporation shall have been successful on the merits or otherwise in defense of
+any action, suit or proceeding referred to in Section 9.01 or Section 9.02
+hereof or in defense of any claim, issue or matter therein, such person shall
+be indemnified against expenses (including attorneys' fees) and costs actually
+and reasonably incurred by such person in connection therewith.
+
+       (b) To the extent any person who shall have been or shall be a director
+or officer of the Corporation shall have served or prepared to serve as a
+witness in any action, suit or proceeding, whether civil, criminal,
+administrative or investigative, or in any investigation by the Corporation or
+the Board thereof or a committee thereof or by any securities exchange on which
+securities of the Corporation shall have been or shall be listed or by any
+national securities association, by reason of his services as a director or
+officer of the Corporation or, if at a time when he shall have been a director
+or officer of the Corporation, by reason of his services at the request of the
+Corporation as a Subsidiary Officer of an Affiliated Entity, the Corporation
+shall indemnify such person against expenses (including attorneys' fees) and
+costs actually and reasonably incurred by such person in connection therewith
+within thirty (30) days after the receipt by the Corporation from such person
+of a statement requesting such indemnification, averring such service and
+reasonably evidencing such expenses and costs.  The Corporation may indemnify
+any employee or agent of the Corporation to the same extent it is required to
+indemnify any director or officer of the Corporation pursuant to the foregoing
+sentence of this paragraph (b).  Notwithstanding anything to the contrary in
+the foregoing provisions of this paragraph (b), a person shall not be entitled,
+as a matter of right, to indemnification pursuant to this paragraph (b) against
+costs or expenses incurred in connection with any action, suit or proceeding
+commenced by such person against the Corporation or any person who shall have
+been or shall be a director, officer, fiduciary, employee or agent of the
+Corporation or a Subsidiary Officer of an Affiliated Entity, but such
+indemnification may be provided by the Corporation in any specific case as
+permitted by Section 9.06 hereof.
+
+       SECTION 9.05.  Advance of Expenses.  (a) Expenses (including attorneys'
+fees) and costs incurred by any person referred to in paragraph (a) of Section
+9.01 hereof or paragraph (a) of Section 9.02 hereof in defending a civil,
+criminal, administrative or investigative action, suit or proceeding shall be
+paid by the Corporation in advance of the final disposition of such action,
+suit or proceeding upon receipt of an undertaking by or on behalf of such
+person to repay such amount if it shall ultimately be determined that such
+person shall not be entitled to be indemnified by the Corporation as authorized
+by this Article IX.
+
+       (b) Expenses (including attorneys' fees) and costs incurred by any
+person referred to in paragraph (b) of Section 9.01 hereof or paragraph (b) of
+Section 9.02 hereof in defending a civil, criminal, administrative or
+investigative action, suit or proceeding may be paid by the Corporation in
+advance of the final disposition of such action, suit or
+
+                                    - 26 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 46
+
+proceeding as authorized by the Board, a committee thereof or an officer of the
+Corporation or a committee thereof authorized to so act by the Board upon
+receipt of an undertaking by or on behalf of such person to repay such amount
+if it shall ultimately be determined that such person shall not be entitled to
+be indemnified by the Corporation as authorized by this Article IX.
+
+       SECTION 9.06.  Indemnification Not Exclusive.  The provision of
+indemnification to or the advancement of expenses and costs to any person under
+this Article IX, or the entitlement of any person to indemnification or
+advancement of expenses and costs under this Article IX, shall not limit or
+restrict in any way the power of the Corporation to indemnify or advance
+expenses (including attorneys' fees) and costs to such person in any other way
+permitted by law or be deemed exclusive of any right to which any person
+seeking indemnification or advancement of such expenses and costs may be
+entitled under any law, agreement, vote of stockholders or disinterested
+directors or otherwise, both as to any action relating to such person in the
+capacity of an officer, director, employee or agent of the Corporation and any
+action relating to him in any other capacity while holding any such position.
+
+       SECTION 9.07.  Accrual of Claims; Successors.  The indemnification and
+advancement of expenses provided for or permitted under this Article IX shall
+apply in respect of any expenses (including attorneys' fees), costs, judgments,
+fines, penalties or amounts paid in settlement, whether or not the claim or
+cause of action in respect thereof accrued or arose before or after the
+effective date of this Article IX.  The right of any person who shall have been
+or shall be a director or officer of the Corporation to indemnification and
+advancement of expenses under this Article IX shall continue after he shall
+have ceased to be a director or officer and shall inure to the benefit of the
+heirs, distributees, executors, administrators and other legal representatives
+of such person.
+
+       SECTION 9.08.  Corporate Obligations; Reliance.  This Article IX shall
+be deemed to create a binding obligation on the part of the Corporation to its
+current and former officers and directors and their heirs, distributees,
+executors, administrators and other legal representatives, and each director or
+officer in acting in such capacity shall be entitled to rely on the provisions
+of this Article IX, without giving notice thereof to the Corporation.
+
+       SECTION 9.09.  Insurance.  The Corporation may purchase and maintain
+insurance on behalf of any person who shall have been or shall be a director,
+officer, employee or agent of the Corporation, or shall have been or shall be
+serving at the request of the Corporation as a Subsidiary Officer of any
+Affiliated Entity, against any liability asserted against such person and
+incurred by such person in any such capacity, or arising out of such person's
+status as such, whether or not the Corporation would have had the power to
+indemnify such person against such liability under the provisions of this
+Article IX or applicable law.
+
+                                    - 27 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 47
+
+
+       SECTION 9.10.  Definitions of Certain Terms.  (a) For purposes of this
+Article IX, references to "the Corporation" shall include, in addition to the
+resulting corporation, any constituent corporation (including any constituent
+of a constituent) absorbed in a consolidation or merger which, if its corporate
+existence had continued, would have been permitted under applicable law to
+indemnify its directors, officers, employees or agents, so that any person who
+shall have been or shall be a director, officer, employee or agent of such
+constituent corporation, or shall have been or shall be serving at the request
+of such constituent corporation as a Subsidiary Officer of any Affiliated
+Entity shall stand in the same position under the provisions of this Article IX
+with respect to the resulting or surviving corporation as such person would
+have had with respect to such constituent corporation if its separate existence
+had continued.
+
+       (b) For purposes of this Article IX, references to "fines" shall include
+any excise taxes assessed on a person with respect to an employee benefit plan;
+references to "serving at the request of the Corporation" shall include any
+service as a director, officer, employee or agent of the Corporation which
+shall impose duties on, or involves services by, such director, officer,
+employee or agent with respect to an employee benefit plan, its participants,
+or beneficiaries; and a person who shall have acted in good faith and in a
+manner such person shall have reasonably believed to be in the interest of the
+participants and beneficiaries of an employee benefit plan shall be deemed to
+have acted in a manner "not opposed to the best interest of the Corporation" as
+referred to in this Article IX.
+
+       SECTION 9.11.  Saving Clause.  In the event any provision of this
+Article IX shall be held invalid by any court of competent jurisdiction, such
+holding shall not invalidate any other provision of this Article IX, and the
+remaining provisions of this Article IX shall be construed as if such invalid
+provision had not been included in these By-laws.
+
+
+                                  ARTICLE X.
+
+                                     Seal.
+
+       SECTION 10.01.  Seal.  The Board shall provide a corporate seal, which
+shall be in the form of a circle and shall bear the full name of the
+Corporation and the words and figures "Incorporated 1919 Delaware", or words
+and figures of similar import.
+
+
+                                  ARTICLE XI.
+
+                                 Fiscal Year.
+
+       SECTION 11.01.  Fiscal Year.  The fiscal year of the Corporation shall
+end on the thirty-first day of December in each year.
+
+                                    - 28 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 48
+
+                                 ARTICLE XII.
+
+                              Waiver of Notices.
+
+       SECTION 12.01.  Waiver of Notices.  Whenever notice shall be required to
+be given by these By-laws or by the Second Restated Certificate of
+Incorporation of the Corporation, as from time to time amended, or by the
+General Corporation Law of the State of Delaware, a written waiver thereof,
+signed by the person or persons entitled to said notice, whether before or
+after the time stated therein, shall be deemed equivalent to notice.
+
+
+                                 ARTICLE XIII.
+
+                                    Gender.
+
+       SECTION 13.01.  Gender.  Any words in the masculine gender in these
+By-laws shall be deemed to include the feminine gender.
+
+
+                                 ARTICLE XIV.
+
+                                  Amendments.
+
+       SECTION 14.01.  Amendments.  These By-laws as they shall be at any time,
+may be amended or repealed by the Board.
+
+                                    - 29 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 49
+
+                                                             EXHIBIT (11)
+
+                          Bethlehem Steel Corporation
+
+             Statement Regarding Computation of Earnings Per Share
+
+      (dollars in millions and shares in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+<S>          <C>      <C>                                                    <C>         <C>
+   Three Months                                                                 Nine Months
+Ended September 30                                                           Ended September 30
+- -------------------                                                          ------------------
+  1999       1998       Basic Earnings (Loss) Per Share                        1999       1998
+  ----       ----       -------------------------------                        ----       ----
+
+ ($89.8)     $37.1    Net Income (Loss)                                      ($145.1)    $143.3
+                      Less Dividend Requirements:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                                (7.5)      (7.5)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                                (9.4)      (9.4)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                               (13.4)     (13.4)
+   (0.2)      (0.2)     5% Preference Dividend                                  (0.6)      (0.9)
+- --------   --------                                                          --------   --------
+  (10.3)     (10.3)         Total Preferred and Preference Dividends           (30.9)     (31.2)
+- --------   --------                                                          --------   --------
+($100.1)     $26.8    Net Income (Loss) Applicable to Common Stock           ($176.0)    $112.1
+========   ========                                                          ========   ========
+
+130,404    128,909    Average Shares of Common Stock                         130,009    120,322
+
+
+
+
+
+ ($0.77)     $0.21    Basic Earnings (Loss) Per Share                         ($1.35)     $0.93
+========   ========                                                          ========   ========
+
+
+                        Diluted Earnings (Loss) Per Share
+                        ---------------------------------
+
+ ($89.8)     $37.1    Net Income (Loss)                                      ($145.1)    $143.3
+                      Less Dividend Requirements:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                                (7.5)      (7.5)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                                (9.4)      (9.4)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                               (13.4)     (13.4)
+   (0.2)       -        5% Preference Dividend                                  (0.6)       -
+- --------   --------                                                          --------   --------
+($100.1)     $27.0    Net Income (Loss) Applicable to Common Stock           ($176.0)    $113.0
+========   ========                                                          ========   ========
+                      Average Shares of Common Stock and
+                      Other Potentially Dilutive Securities Outstanding:
+130,404    128,909      Common Stock                                         130,009    120,322
+   *            94      Stock Options                                           *           554
+   *          *         $2.50 Preferred Stock                                   *          *
+   *          *         $5.00 Preferred Stock                                   *          *
+   *          *         $3.50 Preferred Stock                                   *          *
+   *          2,291     5% Preference Stock                                     *         2,291
+- --------   --------                                                          --------   --------
+130,404    131,294              Total                                        130,009    123,167
+========   ========                                                          ========   ========
+ ($0.77)     $0.21    Diluted Earnings (Loss) Per Share                       ($1.35)     $0.92
+========   ========                                                          ========   ========
+</TABLE>
+
+
+*  Antidilutive
+
+
+
+
+
+
+
+
+
+
+<PAGE> 50
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+
+<ARTICLE> 5
+<MULTIPLIER> 1000000
+
+<S>                          <C>
+<PERIOD-TYPE>                9-MOS
+<FISCAL-YEAR-END>            DEC-31-1999
+<PERIOD-END>                 SEP-30-1999
+<CASH>                               103
+<SECURITIES>                           0
+<RECEIVABLES>                        327
+<ALLOWANCES>                          22
+<INVENTORY>                          886
+<CURRENT-ASSETS>                       7
+<PP&E>                              7145
+<DEPRECIATION>                      4260
+<TOTAL-ASSETS>                      5618
+<CURRENT-LIABILITIES>               1056
+<BONDS>                              724
+<PREFERRED-MANDATORY>                  0
+<PREFERRED>                           14
+<COMMON>                             133
+<OTHER-SE>                          1176
+<TOTAL-LIABILITY-AND-EQUITY>        5618
+<SALES>                             2903
+<TOTAL-REVENUES>                    2903
+<CGS>                               2766
+<TOTAL-COSTS>                       3047
+<OTHER-EXPENSES>                       0
+<LOSS-PROVISION>                       0
+<INTEREST-EXPENSE>                    38
+<INCOME-PRETAX>                     (176)
+<INCOME-TAX>                          31
+<INCOME-CONTINUING>                 (145)
+<DISCONTINUED>                         0
+<EXTRAORDINARY>                        0
+<CHANGES>                              0
+<NET-INCOME>                        (176)
+<EPS-BASIC>                      (1.35)
+<EPS-DILUTED>                      (1.35)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

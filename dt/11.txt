@@ -1,0 +1,2030 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GciwdxdE4fDZk81MYWJIIvVAe+29lvy6LmZeKptJmPUaUGIUcAWANKiw8emS67MG
+ zbrkdln72IWzQLSzIo3g+Q==
+
+<SEC-DOCUMENT>0000950170-99-001005.txt : 19990615
+<SEC-HEADER>0000950170-99-001005.hdr.sgml : 19990615
+ACCESSION NUMBER:		0000950170-99-001005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990331
+FILED AS OF DATE:		19990611
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNBEAM CORP/FL/
+		CENTRAL INDEX KEY:			0000003662
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC HOUSEWARES & FANS [3634]
+		IRS NUMBER:				251638266
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-00052
+		FILM NUMBER:		99644882
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2381 EXECUTIVE CENTER DR
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+		BUSINESS PHONE:		5612432100
+
+	MAIL ADDRESS:	
+		STREET 1:		2381 EXECURIVE CENTER DR
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNBEAM OSTER COMPANY INC /DE/
+		DATE OF NAME CHANGE:	19931210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+            [X]  Quarterly Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+                       For the period ended March 31, 1999
+
+                                       OR
+
+            [ ] Transition Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+            For the transition period from ___________ to ___________
+
+                          Commission File No. 1-000052
+
+                                 [SUNBEAM LOGO]
+                               Sunbeam Corporation
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+                 DELAWARE                              25-1638266
+     (STATE OR OTHER JURISDICTION OF     (I.R.S. EMPLOYER IDENTIFICATION NUMBER)
+     INCORPORATION OR ORGANIZATION)
+
+         2381 EXECUTIVE CENTER DRIVE
+             BOCA RATON, FLORIDA                          33431
+   (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)            (ZIP CODE)
+
+                                 (561) 912-4100
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                                 NOT APPLICABLE
+              (FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR,
+                          IF CHANGED SINCE LAST REPORT)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                Yes [X]                No [ ]
+
+         On June 9, 1999 there were 100,894,892 shares of the registrant's
+Common Stock ($.01 par value) outstanding.
+
+================================================================================
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+                                QUARTERLY REPORT
+                                  ON FORM 10-Q
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                      PAGE
+                                                                                                      ----
+<S>                                                                                                    <C>
+PART I.    FINANCIAL INFORMATION
+
+           Item 1.  Financial Statements
+
+                    Condensed Consolidated Statements of Operations (Unaudited)
+                    for the three months ended March 31, 1999 and March 31, 1998....................... 2
+
+                    Condensed Consolidated Balance Sheets (Unaudited)
+                    as of March 31, 1999 and December 31, 1998......................................... 3
+
+                    Condensed Consolidated Statements of Cash Flows (Unaudited)
+                    for the three months ended March 31, 1999 and March 31, 1998....................... 4
+
+                    Notes to Condensed Consolidated Financial Statements (Unaudited)................... 5
+
+           Item 2.  Management's Discussion and Analysis of Financial Condition
+                    and Results of Operations......................................................... 13
+
+PART II.   OTHER INFORMATION
+
+           Item 1.  Legal Proceedings..................................................................20
+
+           Item 6.  Exhibits and Reports on Form 8-K ................................................. 22
+
+SIGNATURES ........................................................................................... 23
+</TABLE>
+
+                                       1
+
+<PAGE>
+
+PART I.    FINANCIAL INFORMATION
+
+<TABLE>
+<CAPTION>
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+           CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+                                                                                      THREE MONTHS ENDED
+                                                                                   -------------------------
+                                                                                   MARCH 31,      MARCH 31,
+                                                                                     1999           1998
+                                                                                   ---------      ----------
+<S>                                                                                <C>            <C>
+Net sales ....................................................................     $ 523,946      $ 247,601
+Cost of goods sold ...........................................................       400,791        213,828
+Selling, general and administrative expense ..................................       137,949         71,139
+                                                                                   ---------      ---------
+Operating loss ...............................................................       (14,794)       (37,366)
+Interest expense .............................................................        41,906          5,073
+Other expense, net ...........................................................           808          3,165
+                                                                                   ---------      ---------
+Loss before income taxes, minority interest and extraordinary charge .........       (57,508)       (45,604)
+
+Income tax (benefit) provision:
+  Current ....................................................................          (151)           327
+  Deferred ...................................................................         1,893           (449)
+                                                                                   ---------      ---------
+                                                                                       1,742           (122)
+                                                                                   ---------      ---------
+Minority interest ............................................................         1,489             --
+                                                                                   ---------      ---------
+Loss before extraordinary charge .............................................       (60,739)       (45,482)
+Extraordinary charge from early extinguishment of debt .......................            --         (8,624)
+                                                                                   ---------      ---------
+Net loss .....................................................................     $ (60,739)     $ (54,106)
+                                                                                   =========      =========
+Basic and diluted loss per share:
+   Loss from continuing operations ...........................................     $   (0.60)     $   (0.53)
+   Extraordinary charge ......................................................            --          (0.10)
+                                                                                   ---------      ---------
+   Net loss ..................................................................     $   (0.60)     $   (0.63)
+                                                                                   =========      =========
+Weighted average common shares outstanding ...................................       100,740         86,390
+Dividends declared per share of common stock .................................     $      --      $    0.01
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                       2
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+                CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+                             (AMOUNTS IN THOUSANDS)
+
+                                                                                   MARCH 31,       DECEMBER 31,
+                                                                                     1999              1998
+                                                                                  -----------      ------------
+<S>                                                                               <C>              <C>
+ASSETS
+Current assets:
+   Cash and cash equivalents ................................................     $    46,163      $    61,432
+   Restricted investments ...................................................          72,351           74,386
+   Receivables, net .........................................................         396,783          361,774
+   Inventories ..............................................................         534,555          519,189
+   Prepaid expenses, deferred income taxes and other current assets .........          69,889           74,187
+                                                                                  -----------      -----------
+       Total current assets .................................................       1,119,741        1,090,968
+Property, plant and equipment, net ..........................................         452,343          455,172
+Trademarks, trade names, goodwill and other, net ............................       1,827,019        1,859,377
+                                                                                  -----------      -----------
+                                                                                  $ 3,399,103      $ 3,405,517
+                                                                                  ===========      ===========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+   Short-term debt and current portion of long-term debt ....................     $   119,276      $   119,103
+   Accounts payable .........................................................         177,478          162,173
+   Other current liabilities ................................................         318,972          321,185
+                                                                                  -----------      -----------
+       Total current liabilities ............................................         615,726          602,461
+Long-term debt, less current portion ........................................       2,207,999        2,142,362
+Other long-term liabilities .................................................         234,834          248,459
+Deferred income taxes .......................................................          99,691          100,473
+Minority interest ...........................................................          50,620           51,325
+
+Commitments and contingencies (Note 9)
+
+Shareholders' equity:
+   Preferred stock (2,000,000 shares authorized, none outstanding) ..........
+   Common stock (100,739,053 shares issued) .................................           1,007            1,007
+   Additional paid-in capital ...............................................       1,123,419        1,123,457
+   Accumulated deficit ......................................................        (870,736)        (809,997)
+   Accumulated other comprehensive loss .....................................         (63,457)         (54,030)
+                                                                                  -----------      -----------
+       Total shareholders' equity ...........................................         190,233          260,437
+                                                                                  -----------      -----------
+                                                                                  $ 3,399,103      $ 3,405,517
+                                                                                  ===========      ===========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                       3
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+
+           CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+                             (AMOUNTS IN THOUSANDS)
+
+                                                                                   THREE MONTHS ENDED
+                                                                                -----------------------
+                                                                                MARCH 31,      MARCH 31,
+                                                                                  1999            1998
+                                                                                ---------      --------
+<S>                                                                             <C>            <C>
+OPERATING ACTIVITIES:
+     Net loss .............................................................     $ (60,739)     $ (54,106)
+     Adjustments to reconcile net loss to net cash
+       used in operating activities:
+        Depreciation and amortization .....................................        32,394         10,414
+        Non-cash interest charges .........................................        11,271          1,526
+        Deferred income taxes .............................................         1,893           (449)
+        Extraordinary charge from early extinguishment of debt ............            --          8,624
+        Non-cash compensation charges .....................................            --         24,290
+        Minority interest .................................................         1,489             --
+       (Gain) loss on the sale of property, plant and equipment ..........           (568)             4
+        Changes in working capital and other, net of acquisitions .........       (43,224)      (125,029)
+                                                                                ---------      ---------
+                   Net cash used in operating activities ..................       (57,484)      (134,726)
+                                                                                ---------      ---------
+INVESTING ACTIVITIES:
+     Capital expenditures,  net ...........................................       (16,288)       (19,480)
+     Acquisition of Coleman, including acquisition costs,
+        net of cash acquired ..............................................            --       (160,612)
+     Other, net ...........................................................          (165)            --
+                                                                                ---------      ---------
+                   Net cash used in investing activities ..................       (16,453)      (180,092)
+                                                                                ---------      ---------
+FINANCING ACTIVITIES:
+     Issuance of convertible subordinated debentures, net of
+        financing fees ....................................................            --        729,622
+     Net borrowings under revolving credit facilities .....................        61,468             --
+     Payments of debt obligations, including prepayment penalties .........        (2,500)      (266,672)
+     Other debt financing fees ............................................          (234)       (25,075)
+     Proceeds from exercise of stock options ..............................            --         19,045
+     Other, net ...........................................................           (66)          (857)
+                                                                                ---------      ---------
+                   Net cash provided by financing activities ..............        58,668        456,063
+                                                                                ---------      ---------
+Net (decrease) increase in cash and cash equivalents ......................       (15,269)       141,245
+Cash and cash equivalents at beginning of period ..........................        61,432         52,298
+                                                                                ---------      ---------
+Cash and cash equivalents at end of period ................................     $  46,163      $ 193,543
+                                                                                =========      =========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+                                       4
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.       OPERATIONS AND BASIS OF PRESENTATION
+
+ORGANIZATION
+
+         Sunbeam Corporation ("Sunbeam" or the "Company") is a leading designer,
+manufacturer and marketer of branded consumer products. The Company's primary
+business is the manufacturing, marketing and distribution of durable household
+and outdoor leisure consumer products through mass market and other distribution
+channels in the United States and internationally. The Company also sells its
+products to professional and commercial end users such as small businesses,
+health care providers, hotels and other institutions. The Company's principal
+products include household kitchen appliances; health monitoring and care
+products for home use; scales for consumer and professional use for weight
+management and business uses; electric blankets and throws; clippers and
+trimmers for consumer, professional and animal uses; smoke and carbon monoxide
+detectors; outdoor barbecue grills; camping equipment such as tents, lanterns,
+sleeping bags and stoves; coolers; backpacks and book bags; and portable
+generators and compressors.
+
+         In 1998 the Company acquired an indirect controlling interest in The
+Coleman Company, Inc. ("Coleman") and all the outstanding common stock of
+Signature Brands USA, Inc. ("Signature Brands") and First Alert, Inc. ("First
+Alert").
+
+BASIS OF PRESENTATION
+
+         The Condensed Consolidated Balance Sheet of the Company as of March 31,
+1999 and the Condensed Consolidated Statements of Operations and Cash Flows for
+the three months ended March 31, 1999 and March 31, 1998 are unaudited. The
+unaudited condensed consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles for interim financial
+information and with the instructions of Form 10-Q and Rule 10-01 of Regulation
+S-X. The December 31, 1998 Condensed Consolidated Balance Sheet was derived from
+the consolidated financial statements contained in the Company's Annual Report
+on Form 10-K for the year ended December 31, 1998. The condensed consolidated
+financial statements contained herein should be read in conjunction with the
+consolidated financial statements and related notes contained in the Company's
+1998 Annual Report on Form 10-K. In the opinion of management, the unaudited
+condensed consolidated financial statements contained herein include all
+adjustments (consisting of only recurring adjustments) necessary for a fair
+presentation of the results of operations for the interim periods presented.
+These interim results of operations are not necessarily indicative of results
+for the entire year or future periods.
+
+BASIC AND DILUTED LOSS PER SHARE OF COMMON STOCK
+
+         Loss per common share calculations are determined by dividing loss
+attributable to common shareholders by the weighted average number of shares of
+common stock outstanding. Loss per share for the three months ended March 31,
+1999 and March 31, 1998, respectively, is based only on the weighted average
+number of common shares outstanding as potential common shares have been
+excluded as a result of the loss from operations during both periods presented.
+Loss per share for the three months ended March 31, 1999 and 1998 excluded
+26,877 and 4,758,565 shares related to stock options, respectively, as their
+effect would have been anti-dilutive. Stock options to purchase 15,372,693
+common shares and 4,622,989 common shares at March 31, 1999 and 1998,
+respectively, were excluded from potential common shares as the option exercise
+prices were greater than the average market price of the Company's common stock
+during each of the respective periods presented. Diluted average common shares
+outstanding as of March 31, 1999 and March 31, 1998, respectively excluded
+13,242,050 shares issuable upon the conversion of the Zero Coupon Convertible
+Senior Subordinated Debentures due 2018 (the "Debentures"). In addition, diluted
+average common shares outstanding as of March 31, 1999 excluded 23,000,000
+shares issuable on the exercise of warrants. Diluted average common shares
+outstanding as of March 31, 1998 also excluded (58,065) shares related to
+restricted stock.
+
+                                       5
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+1.       OPERATIONS AND BASIS OF PRESENTATION  -- (CONTINUED)
+
+NEW ACCOUNTING STANDARDS
+
+         Effective January 1, 1999, the Company adopted Statement of Position
+98-1, ACCOUNTING FOR THE COSTS OF COMPUTER SOFTWARE DEVELOPED OR OBTAINED FOR
+INTERNAL USE ("SOP 98-1"). SOP 98-1 requires computer software costs associated
+with internal use software to be expensed as incurred until certain
+capitalization criteria are met. Adoption of this statement did not have a
+material impact on the Company's consolidated financial position, results of
+operations, or cash flows.
+
+         In June 1998, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 133 ("SFAS No. 133"), ACCOUNTING FOR
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES, which is effective for fiscal
+years beginning after June 15, 1999. SFAS No. 133 requires the recognition of
+all derivatives in the Consolidated Balance Sheets as either assets or
+liabilities measured at fair value. The Company has not yet determined the
+impact SFAS No. 133 will have on its consolidated financial position, results of
+operations, or cash flows.
+
+RECLASSIFICATIONS
+
+         Certain prior year amounts have been reclassified to conform with the
+1999 presentation.
+
+2.       ACQUISITIONS
+
+         On March 30, 1998, the Company, through a wholly-owned subsidiary,
+acquired approximately 81% of the total number of then outstanding shares of
+common stock of Coleman from an affiliate of MacAndrews & Forbes Holdings, Inc.
+("M&F"), in exchange for 14,099,749 shares of the Company's common stock and
+approximately $160 million in cash. In addition, the Company assumed
+approximately $1,016 million in debt. The value of the common stock issued at
+the date of acquisition was derived by using the average closing stock price as
+reported on the New York Stock Exchange Composite Tape for the day before and
+day of the public announcement of the acquisition. Immediately thereafter, as a
+result of the exercise of employee stock options, Sunbeam's indirect beneficial
+ownership of Coleman decreased to approximately 79% of the total number of the
+outstanding shares of Coleman common stock.
+
+         On August 12, 1998, the Company announced that, following investigation
+and negotiation conducted by a Special Committee of the Board consisting of four
+outside directors not affiliated with M&F, the Company had entered into a
+settlement agreement with an affiliate of M&F pursuant to which the Company was
+released from certain threatened claims of M&F and its affiliates arising from
+the Coleman acquisition and M&F agreed to provide certain management personnel
+and assistance to the Company in exchange for the issuance to the M&F affiliate
+of a five-year warrant to purchase up to 23 million shares of the Company's
+common stock at a cash exercise price of $7.00 per share, subject to
+anti-dilution adjustments.
+
+         The Company expects to acquire the remaining equity interest in Coleman
+pursuant to a merger transaction in which the existing Coleman minority
+shareholders will receive 0.5677 share of the Company's common stock and $6.44
+in cash for each share of Coleman common stock outstanding. In addition,
+unexercised options under Coleman's stock option plans will be cashed out at a
+price per share equal to the difference between $27.50 and the exercise price of
+such options. The Company expects to issue approximately 6.7 million shares of
+common stock and expend approximately $87 million in cash to complete the
+Coleman acquisition. Although there can be no assurance, it is anticipated the
+Coleman merger will occur in the second half of 1999. The acquisition of the
+remaining outstanding shares of Coleman common stock will be accounted for under
+the purchase method of accounting from the date of consummation of the Coleman
+merger.
+
+         On October 21, 1998, the Company announced that it had entered into a
+Memorandum of Understanding to settle, subject to Court approval, class action
+claims made by minority shareholders of Coleman relating to the Coleman merger.
+Under the terms of the proposed settlement, if approved by the Court, the
+Company will issue to the Coleman public shareholders, and plaintiff's counsel
+in this action, warrants to purchase up to 4.98 million shares of the Company's
+common stock at a cash exercise price of $7.00 per share, subject to certain
+anti-dilution provisions. These warrants would generally have the same terms as
+the warrants issued to an affiliate of M&F and will be issued when the Coleman
+merger is consummated. Issuance of these warrants will be accounted for as
+additional purchase consideration. There can be no assurance that the Court will
+approve the settlement as proposed.
+
+         On April 6, 1998, the Company completed the acquisitions of First
+Alert, valued at approximately $182 million (including $133 million of cash and
+$49 million of assumed debt) and Signature Brands valued at $255 million,
+(reflecting cash paid, including the required retirement or defeasance of debt).
+
+                                       6
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+2.       ACQUISITIONS -- (CONTINUED)
+
+         All of these acquisitions were accounted for by the purchase method of
+accounting. Accordingly, the results of operations of the acquired entities are
+included in the accompanying Condensed Consolidated Statements of Operations
+from their respective dates of acquisition.
+
+         The following unaudited pro forma financial information for the Company
+gives effect to the Coleman and Signature Brands acquisitions as if they had
+occurred at the beginning of the periods presented. No pro forma adjustments
+have been made for the First Alert acquisition as its effects are not
+significant. These pro forma results have been prepared for informational
+purposes only and do not purport to be indicative of the results of operations
+which actually would have occurred had the acquisitions been consummated on the
+dates indicated, or which may result in the future. The unaudited pro forma
+results follow (in millions, except per share data):
+
+                                                              THREE MONTHS ENDED
+                                                                MARCH 31, 1998
+                                                              ------------------
+Net sales...................................................       $  509.4
+Loss before extraordinary charge............................          (71.0)
+Basic and diluted loss per share from continuing operations
+   before extraordinary charge .............................          (0.79)
+
+3.       DEBT
+
+         In order to finance the acquisitions described in Note 2 and refinance
+substantially all the indebtedness of the Company and the acquired entities, the
+Company consummated an offering of the Debentures at a yield to maturity of 5.0%
+(approximately $2,014 million principal amount at maturity) in March 1998, which
+resulted in approximately $730 million of net proceeds and entered into a
+revolving and term credit facility ("New Credit Facility").
+
+         The Company was required to file a registration statement with the
+Securities and Exchange Commission ("SEC") to register the Debentures by June
+23, 1998. This registration statement was filed February 4, 1999 and the SEC has
+not declared the registration statement effective. Sunbeam's failure to file the
+registration statement by June 23, 1998 did not constitute a default under the
+terms of the Debentures. The Company has filed an amendment to this registration
+statement. From June 23, 1998 until the registration statement is declared
+effective, the Company is required to pay to the Debenture holders cash
+liquidated damages accruing, for each day during such period, at a rate per
+annum equal to 0.25% during the first 90 days and 0.50% thereafter multiplied by
+the total of the issue price of the Debentures plus the original issue discount
+thereon on such day. The Company made payments of approximately $2.5 million to
+the Debenture holders through the end of the first quarter, including a payment
+of approximately $2.0 million made in March 1999.
+
+         Concurrent with the Debenture offering, the Company replaced its $250
+million syndicated unsecured five-year revolving credit facility with the New
+Credit Facility. The New Credit Facility, as amended, provides for aggregate
+borrowings of up to $1.7 billion. As a result of its operating losses incurred
+in fiscal 1998, among other things, the Company was not in compliance with
+certain covenants set forth in the New Credit Facility. The Company and its
+lenders entered into agreements as of June 30, 1998, October 19, 1998 and April
+10, 1999, in each case providing for waivers of compliance with such covenants
+and other terms of the New Credit Facility. Effective April 15, 1999, Sunbeam
+and its lenders entered into an agreement which waived compliance with such
+covenants and other terms through April 10, 2000 and provided for new financial
+covenants. The Company intends to negotiate with its lenders on an amendment to
+the New Credit Facility, negotiate further waiver of such covenants and other
+terms or refinance the New Credit Facility. There can be no assurance that an
+amendment, further waiver of existing covenants and other terms, or refinancing
+will be entered into by April 10, 2000. The failure to obtain such an amendment,
+further waiver or debt refinancing would likely result in violation of the
+existing covenants and compliance with other terms, which would permit the bank
+lenders to accelerate the maturity of all outstanding borrowings under the New
+Credit Facility. Accordingly, debt related to the New Credit Facility and all
+debt containing cross-default provisions will be classified as current in the
+Condensed Consolidated Balance Sheet in the second quarter of 1999.
+
+                                       7
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+3.       DEBT - (CONTINUED)
+
+         The New Credit Facility contains covenants customary for credit
+facilities of a similar nature, including limitations on the ability of Sunbeam
+and its subsidiaries, including Coleman, to, among other things, (i) declare
+dividends or repurchase stock, (ii) prepay, redeem or repurchase debt, incur
+liens and engage in sale-leaseback transactions, (iii) make loans and
+investments, (iv) incur additional debt, (v) amend or otherwise alter material
+agreements or enter into restrictive agreements, (vi) make capital and year 2000
+compliance expenditures, (vii) engage in mergers, acquisitions and asset sales,
+(viii) engage in certain transactions with affiliates, (ix) settle certain
+litigation, (x) alter its cash management system and (xi) alter the businesses
+they conduct. Sunbeam is also required to comply with specified financial
+covenants and ratios. The New Credit Facility provides for events of default
+customary for transactions of this type, including nonpayment,
+misrepresentation, breach of covenant, cross-defaults, bankruptcy, material
+adverse change arising from compliance with ERISA, material adverse judgments,
+entering into guarantees and change of ownership and control. It is also an
+event of default under the New Credit Facility if Sunbeam's registration
+statement in connection with the Coleman merger is not declared effective by the
+SEC on or before October 30, 1999 or if the merger does not occur within 25
+business days of the effectiveness of the registration statement or if the cash
+consideration (including any payments on account of the exercise of any
+appraisal rights, but excluding related legal, accounting and other customary
+fees and expenses) to consummate the Coleman merger exceeds $87.5 million.
+Although there can be no assurance, the Company anticipates that it will satisfy
+these conditions. Unless waived by the bank lenders, the failure to satisfy
+these requirements (as with the occurrence of any other event of default) would
+permit the bank lenders to accelerate the maturity of all outstanding borrowings
+under the New Credit Facility. The New Credit Facility also includes conditions
+for the deferral of the 1999 scheduled term loan payments of $69.3 million.
+These conditions were met, and the scheduled loan payments were extended until
+April 10, 2000.
+
+         In March 1998, the Company prepaid a $75.0 million 7.85% industrial
+revenue bond related to its Hattiesburg facility originally due in 2009. In
+connection with the early extinguishment of this debt, the Company recognized an
+extraordinary charge of $8.6 million in the first quarter of 1998. This
+extraordinary charge consisted primarily of redemption premiums.
+
+4.       ACCOUNTS RECEIVABLE SECURITIZATION
+
+         The Company has entered into a receivables securitization program that
+expires in March 2000. The Company has received approximately $60.1 million and
+$34.8 million for the sale of trade accounts receivable in the first quarter of
+1999 and 1998, respectively. Trade accounts receivable at March 31, 1999 and
+1998 reflect a reduction of $29.5 million and $34.4 million, respectively, for
+receivables sold under this program. Costs of the program, which primarily
+consist of the purchaser's financing cost of issuing commercial paper backed by
+the receivables, totaled $0.4 million and $0.6 million during the first quarter
+of 1999 and 1998, respectively, and have been classified as interest expense in
+the accompanying Condensed Consolidated Statements of Operations. The Company,
+through a wholly-owned subsidiary, retains collection and administrative
+responsibilities for the purchased receivables. This agreement contains
+cross-default provisions that provide the purchaser of the receivables an option
+to cease purchasing receivables from the Company if the Company is in default
+under the New Credit Facility.
+
+5.       COMPREHENSIVE LOSS
+
+         The components of the Company's comprehensive loss are as follows (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                                       THREE MONTHS ENDED
+                                                                    -----------------------
+                                                                    MARCH 31,     MARCH 31,
+                                                                      1999          1998
+                                                                    ---------     ---------
+<S>                                                                 <C>           <C>
+Net loss ......................................................     $(60,739)     $(54,106)
+
+Foreign currency translation adjustment, net of taxes .........       (9,427)          183
+                                                                    --------      --------
+Comprehensive loss ............................................     $(70,166)     $(53,923)
+                                                                    ========      ========
+</TABLE>
+
+         As of March 31, 1999 and December 31, 1998, "Accumulated other
+comprehensive loss," as reflected in the Condensed Consolidated Balance Sheets
+is comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                   CURRENCY        MINIMUM
+                                                 TRANSLATION       PENSION
+                                                 ADJUSTMENTS      LIABILITY      TOTAL
+                                                 -----------     ----------    ----------
+<S>                                              <C>             <C>           <C>
+Balance at March 31, 1999.................       $ (21,449)      $ (42,008)    $ (63,457)
+Balance at December 31, 1998   ...........         (12,022)        (42,008)      (54,030)
+</TABLE>
+
+                                       8
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+6.       SUPPLEMENTARY FINANCIAL STATEMENT DATA
+
+         Supplementary Balance Sheet data at the end of each period is as
+follows (in thousands):
+<TABLE>
+<CAPTION>
+                                           MARCH 31,     DECEMBER 31,
+                                             1999            1998
+                                           ---------     ------------
+<S>                                        <C>            <C>
+Receivables:
+  Trade ..............................     $ 440,006      $ 407,452
+  Sundry .............................         9,590          7,347
+                                           ---------      ---------
+                                             449,596        414,799
+  Valuation allowance ................       (52,813)       (53,025)
+                                           ---------      ---------
+                                           $ 396,783      $ 361,774
+                                           =========      =========
+Inventories:
+  Finished goods .....................     $ 361,185      $ 370,622
+  Work in process ....................        57,981         39,143
+  Raw materials and supplies .........       115,389        109,424
+                                           ---------      ---------
+                                           $ 534,555      $ 519,189
+                                           =========      =========
+</TABLE>
+
+         Supplementary Statements of Cash Flows data is as follows (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                              THREE MONTHS ENDED
+                                           ------------------------
+                                           MARCH 31,      MARCH 31,
+                                             1999            1998
+                                           ---------      ---------
+<S>                                         <C>            <C>
+Cash paid during the period for:
+  Interest ...........................      $29,668        $ 5,442
+                                            =======        =======
+  Income taxes, net of refunds .......      $   184        $   381
+                                            =======        =======
+</TABLE>
+
+7.       COMPENSATORY STOCK GRANTS
+
+         On February 20, 1998, the Company entered into new three-year
+employment agreements with its then Chairman and Chief Executive Officer and two
+other senior officers of the Company (the "February 1998 Employment
+Agreements"). These agreements replaced previous employment agreements entered
+into in July 1996 that were scheduled to expire in July 1999. The new employment
+agreements provided for, among other items, the acceleration of vesting of
+restricted stock and the forfeiture of unvested restricted stock that had been
+granted under the July 1996 agreement, new restricted stock grants and options
+to purchase common shares. In addition, the new employment agreements provided
+for income tax gross-ups with respect to any tax assessed on the restricted
+stock grants and acceleration of vesting of restricted stock.
+
+         Compensation expense attributed to the equity grant, the acceleration
+of vesting of restricted stock and the related income tax gross-ups was
+recognized in the first quarter of 1998 and compensation expense related to the
+new restricted stock grants and related tax gross-ups was amortized to expense
+beginning in the first quarter of 1998 with amortization to continue over the
+period in which the restrictions lapse. Total compensation expense recognized in
+the first quarter of 1998 related to these items was approximately $31 million.
+
+                                       9
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+8.       SEGMENT, CUSTOMER AND GEOGRAPHIC DATA
+
+         The following tables include selected financial information with
+respect to Sunbeam's four operating segments. Corporate expenses include, among
+other items, expenses for services which are provided in varying levels to the
+three operating groups and for Year 2000 efforts. The increase from 1998 to 1999
+relates to an expansion of centralized services related to the acquisitions,
+Year 2000 expenses, and increased costs associated with outside services and
+insurance.
+
+<TABLE>
+<CAPTION>
+                                                             OUTDOOR
+THREE MONTHS ENDED MARCH 31, 1999            HOUSEHOLD       LEISURE     INTERNATIONAL   CORPORATE        TOTAL
+                                             ---------      ---------    -------------   ---------      ---------
+<S>                                         <C>            <C>            <C>           <C>            <C>
+Net sales to unaffiliated customers ....    $  164,078     $  218,733     $  139,557    $    1,578     $  523,946
+Intersegment net sales .................        19,192         42,664          4,750            --         66,606
+Segment earnings (loss) ................         8,520          9,169          9,777       (28,449)          (983)
+Segment assets..........................       801,008      1,826,434        435,345       336,316      3,399,103
+Segment depreciation expense ...........         6,545          9,259          1,297         1,482         18,583
+
+THREE MONTHS ENDED MARCH 31, 1998
+Net sales to unaffiliated customers ....    $   98,597     $   85,985     $   60,750    $    2,269     $  247,601
+Intersegment net sales .................        20,673          4,967         19,731            --         45,371
+Segment (loss) earnings ................        (3,239)        (3,393)        12,422        (9,980)        (4,190)
+Segment assets..........................       474,329      1,908,312        514,878       457,646      3,355,165
+Segment depreciation expense ...........         4,685          2,598            107         1,048          8,438
+</TABLE>
+
+Reconciliation of selected segment information to Sunbeam's consolidated totals
+for the three months ended:
+
+<TABLE>
+<CAPTION>
+                                                         MARCH 31, 1999    MARCH 31, 1998
+                                                         --------------    --------------
+<S>                                                         <C>               <C>
+Net sales:
+
+Net sales for reportable segments .....................     $ 590,552         $ 292,972
+Elimination of intersegment net sales .................       (66,606)          (45,371)
+                                                            ---------         ---------
+     Consolidated net sales ...........................     $ 523,946         $ 247,601
+                                                            =========         =========
+Segment loss:
+
+Total loss for reportable segments ....................     $    (983)        $  (4,190)
+Unallocated amounts:
+    Interest expense ..................................       (41,906)           (5,073)
+    Other expense, net ................................          (808)           (3,165)
+    Amortization of intangible assets .................       (13,811)           (1,976)
+    Former employees deferred
+         compensation and severance (Note 7) ..........            --           (31,200)
+                                                            ---------         ---------
+                                                              (56,525)          (41,414)
+                                                            ---------         ---------
+      Consolidated loss before income taxes,
+        minority interest and extraordinary charge ....     $ (57,508)        $ (45,604)
+                                                            =========         =========
+</TABLE>
+
+                                       10
+
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+9.       COMMITMENTS AND CONTINGENCIES
+
+LITIGATION
+
+         On April 7, 1998, a purported derivative action was filed in the
+Circuit Court for the Fifteenth Judicial Circuit in and for Palm Beach County,
+Florida against the Company and some of its present and former directors and
+former officers. The action alleged that the individual defendants breached
+their fiduciary duties and wasted corporate assets when the Company granted
+stock options at an exercise price of $36.85 to three of its officers and
+directors (who were subsequently terminated) on or about February 2, 1998. On
+June 25, 1998, all defendants filed a motion to dismiss the complaint for
+failure to make a presuit demand on Sunbeam's Board of Directors. On October 22,
+1998, the plaintiff amended the complaint against all but one of the defendants
+named in the original complaint. On February 19, 1999, plaintiff filed a second
+amended derivative complaint nominally on behalf of Sunbeam against some of its
+present and former directors and former officers and the Company's former
+auditor, Arthur Andersen. The second amended complaint alleges, among other
+things, that Messrs. Dunlap and Kersh (the Company's former Chairman and Chief
+Executive Officer and Chief Financial Officer, respectively) caused Sunbeam to
+employ fraudulent accounting procedures in order to enable them to secure new
+employment contracts, and seeks an award of damages and other declaratory and
+equitable relief. On May 14, 1999, the defendants filed a motion to dismiss.
+
+         On September 16, 1998, an action was filed in the 56th Judicial
+District Court of Galveston County, Texas alleging various claims in violation
+of the Texas Securities Act and Texas Business & Commercial Code as well as
+common law fraud as a result of the Company's alleged misstatements and
+omissions regarding the Company's financial condition and prospects during a
+period beginning May 1, 1998 and ending June 16, 1998, in which the plaintiffs
+engaged in transactions in the Company's common stock. The Company is the only
+named defendant in this action. The complaint requests recovery of compensatory
+damages, punitive damages and expenses in an unspecified amount. This action was
+removed to the United States District Court for the Southern District of Texas
+and subsequently transferred to the Southern District of Florida and
+consolidated with the class action lawsuits that were filed on behalf of
+purchasers of the Company's common stock in the U.S. District Court for the
+Southern District of Florida against the Company and some of its present and
+former directors and former officers alleging violations of the federal
+securities laws (the "Consolidated Federal Actions"). Plaintiffs in this action
+have objected to the consolidation and have sought reconsideration by the
+Southern District of Florida of the order of the Southern District of Texas
+denying plaintiffs' motion to remand the case to state court and transferring it
+to Florida.
+
+         The Company has been named as a defendant in an action filed in the
+District Court of Tarrant County, Texas, 48th Judicial District, on November 20,
+1998 which was served on the Company through the Secretary of State of Texas on
+January 15, 1999. The plaintiffs in this action are purchasers of the
+Debentures. The plaintiffs allege that the Company violated the Texas Securities
+Act and the Texas Business & Commercial Code and committed state common law
+fraud by materially misstating the financial position of the Company in
+connection with the offering and sale of the Debentures. The complaint seeks
+rescission, as well as compensatory and exemplary damages in an unspecified
+amount. The Company specially appeared to assert an objection to the Texas
+Court's exercise of personal jurisdiction over the Company, and a hearing on
+this objection was held on April 15, 1999. On April 23, 1999, the court entered
+an order granting the Company's special appearance and dismissing the case
+without prejudice. The plaintiffs moved for reconsideration of the court's
+order, which motion the court denied on May 24, 1999. The plaintiffs have
+appealed the order dismissing the case to the Texas Court of Appeals. Briefs on
+the appeal have not yet been submitted.
+
+         On April 12, 1999, a class action lawsuit was filed in the U.S.
+District Court for the Southern District of Florida. The lawsuit was filed on
+behalf of persons who purchased Debentures during the period of March 20, 1998
+through June 30, 1998, inclusive, but after the initial offering of such
+Debentures. The complaint asserts that Sunbeam made material omissions and
+misrepresentations that had the effect of inflating the market price of the
+Debentures. The complaint names as defendants the Company, Arthur Andersen and
+two former Company officers, Messrs. Dunlap and Kersh. The plaintiff is an
+institution which allegedly acquired in excess of $150,000,000 face amount of
+the Debentures and now seeks unspecified money damages. The Company was served
+on April 16, 1999 in connection with this pending lawsuit. The Company has
+requested that this action be coordinated with the Consolidated Federal Actions.
+
+         On February 9, 1999, Messrs. Dunlap and Kersh filed with the American
+Arbitration Association demands for arbitration of claims under their respective
+employment agreements with the Company. Messrs. Dunlap and Kersh are requesting
+a finding by the arbitrator that they were terminated by the Company without
+cause and should be awarded the corresponding benefits set forth in their
+respective employment agreements. On March 12, 1999, the Company asked the
+Circuit Court for the Fifteenth Judicial Circuit in and for Palm Beach County,
+Florida to issue an injunction prohibiting Messrs. Dunlap and Kersh from
+pursuing their arbitration proceedings against the Company on the ground, among
+others, that the simultaneous litigation of the April 7, 1998 action and these
+arbitration proceedings would subject Sunbeam to the threat of inconsistent
+adjudications with respect to certain rights to compensation asserted by Messrs.
+Dunlap and Kersh. On March 19, 1999, the plaintiff in the April 7, 1998 action
+discussed above moved for a similar injunction.
+
+                                       11
+<PAGE>
+
+                      SUNBEAM CORPORATION AND SUBSIDIARIES
+       NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+                                   (UNAUDITED)
+
+9.       COMMITMENTS AND CONTINGENCIES - (CONTINUED)
+
+         On March 26, 1999, Messrs. Dunlap and Kersh filed a response in
+opposition to the motions for injunctive relief. A hearing on the motions for
+injunctive relief has been held and, as a result of the Company's motion for
+preliminary injunction, administration of the arbitrations was suspended until
+May 10, 1999. On May 11, 1999, the Court denied the motions for a preliminary
+injunction filed by the Company and the plaintiff. The Company has answered the
+arbitration demands of Messrs. Dunlap and Kersh and has filed counterclaims
+seeking, among other things, the return of all consideration paid, or to be
+paid, under the February 1998 Employment Agreements between the Company and
+Messrs. Dunlap and Kersh. An answer to the Company's counterclaim is due on June
+17, 1999. No date has been set for the arbitration hearing.
+
+         On March 23, 1999, Messrs. Dunlap and Kersh filed a complaint in the
+Court of Chancery of the State of Delaware seeking an order directing the
+Company to advance attorneys' fees and other expenses incurred in connection
+with various state and federal class and derivative actions and an investigation
+instituted by the SEC. The complaint alleges that such advancements are required
+by the Company's by-laws and by a forbearance agreement entered into between
+the Company and Messrs. Dunlap and Kersh in August 1998. The Company filed its
+answer to the complaint and the Court of Chancery has scheduled a trial of this
+summary proceeding to be held on June 16, 1999.
+
+         On May 24, 1999, an action naming the Company as defendant was filed in
+the Circuit Court for Ozaukee County, Wisconsin. The Company has not yet been
+served with the complaint in this action. The plaintiffs in this action are
+purchasers of the Debentures. They allege that the Company violated the
+Wisconsin Uniform Securities Act and committed acts of false advertising and
+misrepresentation in connection with the offering and sale of the Debentures.
+The plaintiffs seek rescission, as well as compensatory and exemplary damages in
+an unspecified amount.
+
+         On July 2, 1998, the American Alliance Insurance Company ("American")
+filed suit against the Company in the U.S. District Court for the Southern
+District of New York requesting a declaratory judgment of the Court that the
+directors' and officers' liability insurance policy for excess coverage issued
+by American was invalid and/or had been properly canceled by American. The
+Company's motion to transfer such action to the federal district court in which
+the Consolidated Federal Actions are currently pending was denied. The case is
+now in discovery. On October 20, 1998, an action was filed by Federal Insurance
+Company in the U.S. District Court for the Middle District of Florida requesting
+the same relief as that requested by American in the previously filed action as
+to additional coverage levels under the Company's directors' and officers'
+liability insurance policy. This action has been transferred to the U.S.
+District Court for the Southern District of Florida and is currently in
+discovery. The Company has filed a notice of pendency seeking transfer of this
+action to the judge who is presiding over the Consolidated Federal Actions. On
+December 22, 1998, an action was filed by Executive Risk Indemnity, Inc. in the
+Circuit Court of the Seventeenth Judicial Circuit in and for Broward County,
+Florida requesting the same relief as that requested by American and Federal in
+their previously filed actions as to additional coverage levels under the
+Company's directors' and officers' liability insurance policy. On April 15,
+1999, the Company filed an action in the U.S. District Court for the Southern
+District of Florida against the National Union Fire Insurance Company of
+Pittsburgh, PA, Gulf Insurance Company and St. Paul Mercury Insurance Company
+requesting, among other things, a declaratory judgment that National Union is
+not entitled to rescind its liability insurance policy to the Company and a
+declaratory judgment that the Company is entitled to coverage from these
+insurance companies for various lawsuits described herein under liability
+insurance policies issued by each of the defendants. None of the defendants,
+other than St. Paul Mercury Insurance Company, have responded to the Company's
+complaint. On June 7, 1999, St. Paul Mercury Insurance Company answered the
+Company's complaint and asserted counterclaims which seeks recission and
+declaratory relief that no coverage is available to the Company. The Company
+intends to pursue recovery from all of its insurers if damages are awarded
+against the Company or its indemnified officers and/or directors under any of
+the foregoing actions. The Company's failure to obtain such insurance recoveries
+following an adverse judgement in any of the foregoing actions could have a
+material adverse effect on the Company's financial position, results of
+operations, and cash flows.
+
+         The Company intends to vigorously defend each of the foregoing
+lawsuits, but cannot predict the outcome and is not currently able to evaluate
+the likelihood of the Company's success in each case or the range of potential
+loss. However, if the foregoing actions were determined adversely to the
+Company, such judgments would likely have a material adverse effect on the
+Company's financial position, results of operations, and cash flows.
+
+ENVIRONMENTAL MATTERS
+
+         With respect to one of seven sites at which the Company has been
+identified by the United States Environmental Protection Agency ("EPA") as a
+potentially responsible party ("PRP"), the Company received notice from the EPA
+that the Company has completed all required removal activities and that such
+removal activities were completed to EPA's satisfaction. EPA's approval of the
+Company's removal activities at this site effectively concludes its obligations
+to EPA at this site.
+
+                                       12
+<PAGE>
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+         The following discussion should be read in conjunction with the
+accompanying condensed consolidated financial statements and the related
+footnotes included in this quarterly report on Form 10-Q, as well as the
+consolidated financial statements, related footnotes and management's discussion
+and analysis of financial condition and results of operations in the Company's
+Annual Report on Form 10-K for the year ended December 31, 1998.
+
+1998 ACQUISITIONS
+
+         On March 30, 1998, the Company, through a wholly-owned subsidiary,
+acquired approximately 81% of the total number of then outstanding shares of
+common stock of Coleman from an affiliate of M&F, in exchange for 14,099,749
+shares of the Company's common stock and approximately $160 million in cash. In
+addition, the Company assumed approximately $1,016 million in debt. Immediately
+thereafter, as a result of the exercise of employee stock options, Sunbeam's
+indirect beneficial ownership of Coleman decreased to approximately 79% of the
+total number of the outstanding shares of Coleman common stock. The Company's
+agreement for the acquisition of the remaining publicly held Coleman shares
+pursuant to a merger transaction provides that the remaining Coleman
+shareholders will receive approximately 6.7 million shares of Sunbeam common
+stock (0.5677 share for each outstanding Coleman share) and approximately $87
+million in cash ($6.44 for each outstanding Coleman share and the cash-out of
+unexercised Coleman options for an amount equal to the difference between $27.50
+per share and the exercise price of such options). The Company expects to
+complete the Coleman merger during the second half of 1999, although there can
+be no assurance that the merger will occur during that time.
+
+         On October 21, 1998, the Company announced that it had entered into a
+Memorandum of Understanding to settle, subject to Court approval, class action
+claims made by minority shareholders of Coleman relating to the Coleman merger.
+Under the terms of the proposed settlement, if approved by the Court, the
+Company will issue to the Coleman public shareholders, and plaintiff's counsel
+in this action, warrants to purchase up to 4.98 million shares of the Company's
+common stock at a cash exercise price of $7.00 per share, subject to certain
+anti-dilution provisions. These warrants would generally have the same terms as
+the warrants issued to an affiliate of M&F and will be issued when the Coleman
+merger is consummated. Issuance of these warrants will be accounted for as
+additional purchase consideration. There can be no assurance that the Court will
+approve the settlement as proposed.
+
+         On April 6, 1998, the Company completed the cash acquisitions of First
+Alert, a leading manufacturer of smoke and carbon monoxide detectors, and
+Signature Brands, a leading manufacturer of consumer and professional products.
+The First Alert and the Signature Brands acquisitions were valued at
+approximately $182 million (including $133 million of cash and $49 million of
+assumed debt) and $255 million (reflecting cash paid, including the required
+retirement or defeasance of debt), respectively.
+
+         The acquisitions were recorded under the purchase method of accounting
+and accordingly, the financial position and results of operations of each
+acquired entity are included in the Condensed Consolidated Financial Statements
+from the respective dates of acquisition. The purchase prices of the acquired
+entities have been allocated to individual assets acquired and liabilities
+assumed based on estimates of fair values (determined by independent appraisals)
+at the dates of acquisition.
+
+THREE MONTHS ENDED MARCH 31, 1999 COMPARED TO THREE MONTHS ENDED MARCH 31, 1998
+
+         Results of operations for the three months ended March 31, 1999 include
+the results of the three acquired companies for the entire period as compared to
+results of operations for the three months ended March 31, 1998, which only
+included the results of Coleman from March 30, 1998. The acquired entities
+generated net sales of $347.8 million for the three months ended March 31, 1999,
+with a corresponding gross margin of $99.9 million, or 28.7% of net sales.
+Selling, General and Administrative ("SG&A") costs recorded by the acquired
+entities were $84.7 million in the period, yielding operating income of $15.2
+million. Results for the first quarter of 1998 included net sales from Coleman
+of approximately $15 million, with a corresponding gross margin of approximately
+$4 million, and SG&A expenses of approximately $4 million.
+
+         For the acquired entities, net sales for the three months ended March
+31, 1999 were approximately $30 million higher than their results for the full
+first quarter a year ago. This increase was attributable to increased net sales
+at Coleman (approximately $26 million) and Signature Brands (approximately $5
+million), partially offset by a decrease in net sales at First Alert
+(approximately $1 million). Excluding the revenue of Coleman's safety and
+security business and spa business, both of which were sold in 1998, Coleman's
+net sales in the first three months of 1999 would have been approximately $47
+million higher than the same period in 1998. The increase in Coleman net sales
+is reflective of strong retail replenishment demand in its outdoor recreation
+products as compared with unusually weak retail replenishment demand in the
+first quarter of 1998. Additionally, increased generator revenues attributable
+to increased awareness of power shortages from poor weather conditions and other
+events contributed to the higher net sales. Excluding: (i) the effects of
+purchase accounting of approximately $9 million recognized in 1999; (ii)
+acquisition costs of approximately $18 million which were incurred in the first
+quarter of 1998; and (iii) approximately $3 million of costs recorded in 1999
+related to Year 2000 compliance efforts, operating profit for these three
+companies improved by approximately $36 million as compared to the same period
+in the prior year, resulting primarily from higher net sales and a reduction in
+expenses largely attributable to reduced headcount and the centralization of
+certain management and administration functions, resulting from the acquisition
+by Sunbeam.
+
+                                       13
+<PAGE>
+
+         Consolidated net sales for the three months ended March 31, 1999 were
+$523.9 million, an increase of $276.3 million versus the three months ended
+March 31, 1998. After excluding $347.8 million of net sales generated by the
+acquired entities in the 1999 period and approximately $15 million in the 1998
+period, as discussed above, net sales of $176.1 million decreased approximately
+24% from net sales of $233.0 million in 1998. The Company believes the decrease
+in product sales were largely driven by increases in retail inventory levels
+from channel loading which took place in the first quarter of 1998, but not in
+the 1999 period. The adverse effect of the 1998 channel loading was partially
+offset by lower estimated provisions for customer returns and customer
+allowances of approximately $7 million.
+
+         Domestic sales, excluding the acquired companies, declined
+approximately 15% or $26 million from 1998. The Company believes this sales
+decline is attributable to the channel loading that took place in the first
+quarter of 1998 versus no similar loading in the same period in 1999. The
+channel loading that took place in 1998 led to relatively lower sales of
+appliances, primarily blenders, breadmakers, handmixers and irons in 1999, as
+well as lower sales of outdoor cooking products. Partially offsetting the
+adverse effects of channel loading was a benefit from reduced costs in 1999 from
+customer returns and allowances.
+
+         International sales, excluding the acquired companies, represented 17%
+of net sales for 1999 and decreased approximately $31 million as compared with
+the net sales for the same period a year ago. The Company believes this sales
+decline was largely attributable to the previously discussed impact of
+increasing retail inventory levels in the first quarter of 1998. Sales were also
+adversely impacted in 1999 by a decision to stop selling to certain export
+distributors in Latin America. Additionally, poor economic conditions in that
+region contributed to lower sales in 1999.
+
+         Excluding the effect of the gross margin generated from the inclusion
+of the acquired entities' operations of $99.9 million in 1999 and approximately
+$4 million in 1998, as discussed above, gross margin was $23.2 million or 13.2%
+of sales for 1999 versus a gross margin of $29.7 million or 12.7% of net sales
+for 1998. Lower sales volume and unfavorable manufacturing efficiencies
+resulting from lower production levels in 1999 accounted for approximately $18
+million of the change between years. This was partially offset by a lower
+relative rate of product returns, reduced customer allowances of approximately
+$7 million, and improved product mix of approximately $2 million during the
+first quarter of 1999 as compared to the same period in 1998.
+
+         Excluding the effects of: (i) $84.7 million of SG&A charges in 1999 and
+approximately $4 million in 1998 resulting from the inclusion of the acquired
+entities; (ii) approximately $31 million of 1998 compensation expense recorded
+in connection with new employment agreements with the three former senior
+officers; (iii) a $3.0 million benefit in 1998 from the reversal of reserves no
+longer required, and (iv) $5.3 million of costs recorded in the 1999 period
+related to Year 2000 compliance efforts, SG&A expenses were approximately $47.9
+million in the first quarter of 1999, 22.0% higher than the same period in 1998.
+This increase of approximately $9 million is primarily due to an increase in
+corporate administrative costs of approximately $5 million, reflecting
+additional personnel and related relocation, travel and related costs and
+increases in postretirement benefit costs. Increases in insurance and higher
+costs associated with outside services account for the remainder of the increase
+in SG&A.
+
+         Operating results for the first quarters of 1999 and 1998 for the
+Sunbeam business before the 1998 acquisitions on a comparable basis as described
+above, were a loss of $24.7 million in 1999 and a loss of $9.6 million in 1998.
+On the same basis, operating margins as a percent of net sales decreased to a
+loss of 15.0% from a loss of 4.1% in the prior year. This change resulted from
+the factors discussed above.
+
+         Interest expense increased from $5.1 million in the first quarter of
+1998 to $41.9 million in the first quarter of 1999 primarily related to higher
+borrowing levels in 1999 resulting from borrowings for the acquisitions that
+were outstanding for the entire quarter.
+
+         Other expense, net of $0.8 million for the first three months of 1999
+included approximately $1.0 million relating to liquidating damages expensed
+related to holders of the Zero Coupon Convertible Senior Subordinated Debentures
+due 2018 (the "Debentures") (see Note 3 to the condensed consolidated financial
+statements), partially offset by favorable foreign exchange. Other expense, net
+of $3.2 million for the first three months of 1998 primarily represents foreign
+exchange losses, largely arising from Sunbeam's operations in Mexico.
+
+         The minority interest reported in 1999 relates to the minority interest
+held in Coleman by public shareholders.
+
+         The Company provided for deferred tax expense in 1999 primarily due to
+taxable income in foreign jurisdictions. Deferred tax assets resulting from
+operating losses, incurred predominantly in domestic jurisdictions, were
+recorded and valuation allowances were established for substantially all such
+deferred tax assets. The Company's losses and related valuation allowances
+caused the reported tax rate to differ from the statutory rate.
+
+         In 1998, the Company prepaid an industrial revenue bond related to its
+Hattiesburg facility. In connection with this early extinguishment of debt, the
+Company recognized an extraordinary charge of $8.6 million, consisting primarily
+of redemption premiums.
+
+FOREIGN OPERATIONS
+
+         Approximately 75% of the Company's business is conducted in U.S.
+dollars (including both domestic sales, U.S. dollar denominated export sales,
+primarily to certain Latin American markets, Asian sales and the majority of
+European sales). The Company's non-U.S. dollar denominated sales are made
+principally by subsidiaries in Europe, Canada, Japan, Latin America and Mexico.
+Mexico reverted to a hyperinflationary status for accounting purposes in 1997;
+therefore, translation adjustments related to Mexican net monetary assets were
+included as a component of net (loss) earnings. Mexico is not considered
+hyperinflationary as of January 1, 1999. This change in
+
+                                       14
+<PAGE>
+
+Mexico's hyperinflationary status is not expected to have a material effect on
+the Company's financial results. Translation adjustments resulting from the
+Company's non-U.S. denominated subsidiaries have not had a material impact on
+the Company's financial condition, results of operations, or cash flows.
+
+         While revenues generated in Asia have traditionally not been
+significant, economic instability in this region is expected to have a negative
+effect on earnings. Economic instability and the political environment in Latin
+America have also affected sales in that region. It is anticipated that sales in
+and exports to these regions will continue to be impacted so long as the
+economic environments in those regions remain unsettled.
+
+         On a limited basis, the Company selectively uses derivatives (foreign
+exchange option and forward contracts) to manage foreign exchange exposures that
+arise in the normal course of business. No derivative contracts are entered into
+for trading or speculative purposes. The use of derivatives has not had a
+material impact on the Company's financial results.
+
+SEASONALITY
+
+         Sunbeam's sales, prior to the acquisitions, have not traditionally
+exhibited substantial seasonality; however, sales have been strongest during the
+fourth quarter of the calendar year. Additionally, sales of outdoor cooking
+products are strongest in the first half of the year, while sales of appliances,
+personal care and blanket products are strongest in the second half of the year.
+After considering the seasonality of the acquired entities, Sunbeam's
+consolidated sales are not expected to exhibit substantial seasonality; however,
+sales are expected to be strongest during the second quarter of the calendar
+year. Furthermore, sales of a number of products, including warming blankets,
+vaporizers, humidifiers, grills, First Alert products, camping and generator
+products may be impacted by unseasonable weather conditions.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         In order to finance the acquisition of Coleman, First Alert and
+Signature Brands and to refinance substantially all of the indebtedness of the
+Company and the three acquired entities, the Company consummated the offering of
+the Debentures at a yield to maturity of 5% (approximately $2,014 million
+principal amount at maturity) in March 1998, which resulted in approximately
+$730 million of net proceeds, and entered into the New Credit Facility.
+
+         The Company was required to file a registration statement with the
+Securities and Exchange Commission ("SEC") to register the Debentures by June
+23, 1998. This registration statement was filed on February 4, 1999 and the SEC
+has not declared the registration statement effective. Sunbeam's failure to file
+the registration statement by June 23, 1998 did not constitute default under the
+terms of the Debentures. The Company has filed an amendment to this registration
+statement. From June 23, 1998 until the registration statement is declared
+effective, the Company is required to pay to the Debenture holders cash
+liquidated damages accruing, for each day during such period, at a rate per
+annum equal to 0.25% during the first 90 days and 0.50% thereafter multiplied by
+the total of the issue price of the Debentures plus the original issue discount
+thereon on such day. The Company made its first payment of approximately $0.5
+million to the Debenture holders on September 25, 1998 and an additional $2.0
+million was made on March 25, 1999.
+
+         Concurrent with the Debenture offering, the Company replaced its $250
+million syndicated unsecured five-year revolving credit facility with the New
+Credit Facility. The New Credit Facility provided for aggregate borrowings of up
+to $1.7 billion. As a result of its operating losses incurred in fiscal 1998,
+among other things, the Company was not in compliance with certain covenants set
+forth in the New Credit Facility. The Company and its lenders entered into
+agreements as of June 30, 1998, October 19, 1998 and April 10, 1999, in each
+case providing for waivers of compliance with such covenants and other terms of
+the New Credit Facility. Effective April 15, 1999, Sunbeam and its lenders
+entered into an agreement, which waived compliance with such covenants and other
+terms through April 10, 2000 and provided for new financial covenants. The
+following description of the New Credit Facility reflects the terms of the New
+Credit Facility as amended April 15, 1999.
+
+         The New Credit Facility provided for aggregate borrowings of up to $1.7
+billion pursuant to: (i) a revolving credit facility in an aggregate principal
+amount of up to $400 million maturing March 30, 2005 ($52.5 million of which may
+only be used to complete the Coleman merger if the Coleman merger is not
+completed prior to August 31, 1999); (ii) $800 million in term loans maturing on
+March 30, 2005 (of which $35.0 million may only be used to complete the Coleman
+merger) and (iii) a $500 million term loan maturing September 30, 2006. As of
+March 31, 1999, approximately $1.5 billion was outstanding and $0.2 billion was
+available for borrowing under the New Credit Facility.
+
+         Pursuant to the New Credit Facility, interest accrues, at the Company's
+option: (i) at the London Interbank Offered Rate ("LIBOR"), or (ii) at the base
+rate of the administrative agent which is generally the higher of the prime
+commercial lending rate of the administrative agent or the Federal Funds Rate
+plus 0.50%, in each case plus an agreed upon interest margin which is currently
+3.25% for LIBOR borrowings and 2.00% for base rate borrowings. The applicable
+interest margin is subject to downward adjustment upon the occurrence of certain
+events. Borrowings under the New Credit Facility are secured by a pledge of the
+stock of the Company's material subsidiaries, including Coleman, and by a
+security interest in substantially all of the assets of Sunbeam and its material
+domestic subsidiaries, other than Coleman and its material subsidiaries except
+as described below. Currently, Coleman's inventory and related assets are
+pledged to secure its obligations for letters of credit issued for its account
+under the New Credit Facility. Additionally, as security for Coleman's note
+payable to the Company, Coleman pledged substantially all of its domestic
+assets, other than real property, including 66% of the stock of its
+
+                                       15
+<PAGE>
+
+direct foreign subsidiaries and domestic holding companies for its foreign
+subsidiaries, and all of the stock of its other direct domestic subsidiaries
+(but not the assets of Coleman's subsidiaries). The pledge runs in favor of
+Sunbeam's lending banks, to which the Coleman note has been pledged as security
+for Sunbeam's obligations to them. Upon completion of the Coleman merger,
+substantially all of Coleman's assets and the assets of Coleman's domestic
+subsidiaries will be pledged to secure the obligations under the New Credit
+Facility. In addition, borrowings under the New Credit Facility are guaranteed
+by a number of the Company's wholly owned material domestic subsidiaries and
+these subsidiary guarantees are secured as described above. Upon completion of
+the Coleman merger, Coleman and each of its United States subsidiaries will
+become guarantors of the obligations under the New Credit Facility. To the
+extent borrowings are made by any subsidiaries of the Company, the obligations
+of such subsidiaries are guaranteed by the Company.
+
+         It is an event of default under the New Credit Facility if Sunbeam's
+registration statement in connection with the Coleman merger is not declared
+effective by the SEC on or before October 30, 1999 or if the merger does not
+occur within 25 business days of the effectiveness of the registration statement
+or if the cash consideration (including any payments on account of the exercise
+of any appraisal rights, but excluding related legal, accounting and other
+customary fees and expenses) to consummate the Coleman merger exceeds $87.5
+million. Although there can be no assurance, the Company anticipates that it
+will satisfy these conditions. Unless waived by the bank lenders, the failure to
+satisfy these requirements (as with the occurrence of any other event of
+default) would permit the bank lenders to accelerate the maturity of all
+outstanding borrowings under the New Credit Facility. The New Credit Facility
+also includes provisions for the deferral of the 1999 scheduled term loan
+payments of $69.3 million, subject to delivery of certain collateral documents
+and the filing of an amendment to the Company's registration statement on Form
+S-4 relating to the Coleman merger. These conditions have been met and the
+scheduled loan payments were extended until April 10, 2000. (See Note 3 of Notes
+to Condensed Consolidated Financial Statements.)
+
+         As of March 31, 1999, the Company had cash and cash equivalents of
+$46.2 million, working capital excluding cash and cash equivalents of $385.5
+million and total debt of $2.3 billion. Cash used in operating activities during
+the first quarter of 1999 was $57.5 million compared to $134.7 million in the
+first quarter of 1998. This change is primarily attributable to working capital
+improvements partially offset by lower earnings after giving effect to non-cash
+charges. The majority of the working capital improvements are attributable the
+Company's management of inventory levels and accounts receivable. Inventories
+and receivables increased $65.9 million and $57.1 million, respectively, in the
+first quarter of 1998 as compared to $20.9 million and $35.8 million,
+respectively, in the first quarter of 1999. In 1998, the Company built inventory
+levels in anticipation of sales volumes that did not materialize and offered
+extended credit terms to its customers. The increase in inventory during the
+first quarter of 1999 is largely due to the seasonal inventory build in the
+Company's Outdoor Leisure division. The Company participates in an accounts
+receivable securitization program to finance a portion of its accounts
+receivable. (See Note 4 of Notes to Condensed Consolidated Financial
+Statements.)
+
+         In the first quarter of 1999, cash used in investing activities was
+driven by capital expenditures of $16.3 million, primarily for information
+systems and equipment and tooling for new products. Capital spending in the
+comparable 1998 period was $19.5 million and was primarily for capacity
+expansion initiatives, including the Neosho grill manufacturing facility, and
+equipment and tooling for new products. The new product capital spending in the
+1998 period principally related to the appliance category and included costs
+related to water and air filtration products, blenders, standmixers and irons.
+Cash used in investing activities in the first quarter of 1998 reflects $160.6
+million for the acquisition of approximately 81% of Coleman. The Company
+anticipates 1999 capital spending to be approximately 4% to 5% of net sales,
+primarily related to information systems and related support, including
+expenditures for Year 2000 readiness, new product introductions and capacity
+additions.
+
+         Cash provided by financing activities totaled $58.7 million in the
+first quarter of 1999 and reflects net borrowings under the Company's New Credit
+Facility. Cash provided by financing activities in the first quarter of 1998 was
+$456.1 million and reflects net proceeds from the Debentures of $729.6 million,
+the cancellation and repayment of all outstanding balances under the Company's
+$250 million September 1996 revolving credit facility, the repayment of certain
+Coleman debt and the early extinguishment of the $75.0 million Hattiesburg bond.
+In addition, cash provided by financing activities is net of $25.1 million of
+financing fees related to the Company's $1.7 billion New Credit Facility and
+$19.0 million of proceeds from the exercise of stock options. (See Note 3 to the
+condensed consolidated financial statements.)
+
+         The Company expects to acquire the remaining equity interest in Coleman
+pursuant to a merger transaction in which the existing Coleman minority
+shareholders will receive 0.5677 share of the Company's common stock, $6.44 in
+cash for each share of Coleman common stock outstanding and, subject to court
+approval, warrants to purchase common stock of the Company at a cash exercise
+price of $7.00 per share. In addition, unexercised options under Coleman's stock
+option plans will be cashed out at a price per share equal to the difference
+between $27.50 and the exercise price of such options. The Company expects to
+issue approximately 6.7 million shares of common stock and expend approximately
+$87 million in cash, including cash paid to option holders, to complete the
+Coleman transaction. Although there can be no assurance, it is anticipated that
+the Coleman merger will occur in the second half of fiscal 1999.
+
+         The Company believes its borrowing capacity under the New Credit
+Facility, cash flow from the combined operations of the Company and its acquired
+companies, existing cash and cash equivalent balances, and its receivable
+securitization program will be sufficient to support working capital needs,
+capital and Year 2000 compliance spending, and debt service through April 10,
+2000. The Company intends to negotiate with its lenders on an amendment to the
+New Credit Facility, negotiate with its lenders on further waiver of such
+covenants and other terms, or refinance the New Credit Facility. Any decisions
+with respect to such amendment, waiver, or refinancing will be made based on a
+review from time to time of the advisability of particular transactions. There
+can be no assurance that an amendment, further waiver of existing covenants and
+other terms, or refinancing will be entered into by April 10, 2000. The failure
+to obtain such an amendment, further waiver or debt refinancing would likely
+result in violation of the existing covenants and compliance
+
+                                       16
+<PAGE>
+
+with other terms, which would permit the bank lenders to accelerate the maturity
+of all outstanding borrowings under the New Credit Facility. Accordingly, debt
+related to the New Credit Facility and all debt containing cross-default
+provisions will be classified as current in the Condensed Consolidated Balance
+Sheet in the second quarter of 1999.
+
+NEW ACCOUNTING STANDARDS
+
+         Effective January 1, 1999, the Company adopted Statement of Position
+98-1, ACCOUNTING FOR THE COSTS OF COMPUTER SOFTWARE DEVELOPED OR OBTAINED FOR
+INTERNAL USE ("SOP 98-1"). SOP 98-1 requires computer software costs associated
+with internal use software to be expensed as incurred until certain
+capitalization criteria are met. Adoption of this statement did not have a
+material impact on the Company's condensed consolidated financial position,
+results of operations, or cash flows.
+
+         In June 1998, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 133 ("SFAS No. 133"), ACCOUNTING FOR
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES, which is effective for fiscal
+years beginning after June 15, 1999. SFAS No. 133 requires the recognition of
+all derivatives in the Consolidated Balance Sheets as either assets or
+liabilities measured at fair value. The Company has not yet determined the
+impact SFAS No. 133 will have on its consolidated financial position, results of
+operations, or cash flows.
+
+YEAR 2000 READINESS DISCLOSURE
+
+         The Company is preparing for the impact of the Year 2000 on its
+operations. Year 2000 issues could include potential problems in the information
+technology ("IT") and non-IT systems that the Company uses in its operations and
+problems in the Company's products. Year 2000 system failures could affect
+routine but critical operations such as forecasting, purchasing, production,
+order processing, inventory control, shipping, billing and collection. In
+addition, system failures could affect the Company's security, payroll
+operations, or employee safety. The Company may also be exposed to potential
+risks from third parties with whom the Company interacts who fail to adequately
+address their own Year 2000 issues.
+
+SUNBEAM'S APPROACH TO YEAR 2000 ISSUES
+
+         While the Company's Year 2000 readiness planning has been underway for
+over one year, during the third quarter of 1998 the Company established a
+cross-functional project team consisting of senior managers, assisted by three
+external consulting firms which were retained to provide consulting services and
+to assist the Company in implementing its Year 2000 strategy. This team is
+sponsored by the Company's Chief Financial Officer who reports directly to the
+Company's Chief Executive Officer on this issue. The Audit Committee of the
+Board of Directors is advised periodically on the status of the Company's Year
+2000 readiness program.
+
+         The Year 2000 project team has developed a phased approach to identify
+and resolve Year 2000 issues with many of these activities conducted in
+parallel. The Company's approach and the anticipated timing of each phase are
+described below.
+
+         PHASE 1 - INVENTORY AND ASSESSMENT: During the first phase of Sunbeam's
+Year 2000 readiness program, the Company established a Year 2000 Program
+Management Office ("PMO") to centralize the management of all of the Company's
+Year 2000 projects. Through this office, the Company developed a corporate-wide,
+uniform strategy for assessing and addressing the Year 2000 issues.
+
+         The Company has completed an inventory of its hardware and software
+systems, manufacturing equipment, electronic data interchange,
+telecommunications and other technical assets potentially subject to Year 2000
+problems, such as security systems and controls for lighting, air conditioning,
+ventilation and facility access. This inventory was then entered into the
+Company's Year 2000 database along with a determination of the item's level of
+criticality to operations. For those inventory items anticipated to have a
+significant effect on the business if not corrected, the Company's Year 2000
+program envisions repair or replacement and testing of such items. All
+information relative to each item is being tracked in the Company's Year 2000
+database. The Company completed most of this phase during the third and fourth
+quarters of 1998. The Company has completed a review of the readiness of
+embedded microprocessors in its products and determined that none of the
+Company's products have Year 2000 date sensitive systems.
+
+         PHASE 2 - CORRECTION AND TESTING: The second phase of Sunbeam's Year
+2000 readiness program is structured to replace, upgrade or remediate (as
+necessary) those items identified during Phase 1 as requiring corrective action.
+
+         Sunbeam relies on its IT functions to perform many tasks that are
+critical to its operations. Significant transactions that could be impacted by
+not being ready for any Year 2000 issues include, among others, purchases of
+materials, production management, order entry and fulfillment, and payroll
+processing. Systems and applications that have been identified by Sunbeam to
+date as not currently Year 2000 ready and which are critical to Sunbeam's
+operations include its financial software systems, which process the order
+entry, purchasing, production management, general ledger, accounts receivable,
+and accounts payable functions, payroll applications, and critical applications
+in the Company's manufacturing and distribution facilities, such as warehouse
+management applications. In 1997, the Company began implementing a uniform
+international business and accounting information system to improve internal
+reporting processes. Based upon representations from the manufacturer that the
+current version of this uniform information system is Year 2000 ready, the
+Company has been actively upgrading its business sites that currently utilize
+this uniform system to the Year 2000 ready version. A small number of other
+Company business locations are replacing their current non-Year 2000 ready
+systems with this new uniform system.
+
+                                       17
+<PAGE>
+
+         The Company is also actively replacing and/or upgrading legacy business
+systems that are not Year 2000 ready, including those that use localized
+business system packages which were not candidates to be replaced by the uniform
+business and accounting information system. With respect to the Company's non-IT
+systems (for example, time and attendance, security, and in-line manufacturing
+hardware) the Company is actively analyzing these items to assess any Year 2000
+issues. To date, no material issues have been discovered, and the Company will
+continue to review, test and correct, if necessary, such items.
+
+         Sunbeam plans to complete the corrective work described above with
+respect to its systems by the second quarter of 1999 with final testing and
+implementation of such systems occurring in the second and third quarters of
+1999.
+
+         PHASE 3 - CUSTOMERS, SUPPLIERS AND BUSINESS PARTNERS: The third phase
+of Sunbeam's Year 2000 readiness program which was initiated during the third
+and fourth quarters of 1998 is designed to assess and interact with the
+Company's customers, suppliers, and business partners. As part of this effort,
+the Company surveyed 1,100 vendors and suppliers determined to be critical to
+the Company. Based on the survey, the Company believes that there is only a low
+to medium risk of Year 2000 issues for approximately three-quarters of its
+vendors; however, a small number of vendors have been identified as high risk
+(less than 5%) and approximately one-quarter of the vendors did not respond
+fully to the survey. The Company will continue its vendor evaluation and
+assessment process through 1999, including direct contact with high and medium
+risk vendors and vendors who have not responded fully to the Company's survey.
+The Company has not independently verified the responses of vendors and does not
+anticipate undertaking such independent verification process.
+
+         Beginning in the second quarter of 1999, Sunbeam will also contact its
+major customers to confirm their preparations for Year 2000 issues. The Company
+has already responded to numerous customer inquiries and believes that all of
+the Company's major customers have established programs to deal with Year 2000
+issues. In order to improve the Company's communication with its customers,
+suppliers and business partners, the Company has set up a Sunbeam Year 2000
+telephone number and is in the process of providing Year 2000 information on a
+Company web site.
+
+         PHASE 4 - CONTINGENCY PLANNING: This phase will involve contingency
+planning for unresolved Year 2000 issues, particularly any issues arising with
+third party suppliers. The Company's Year 2000 readiness program is ongoing and
+its ultimate scope, as well as the consideration of contingency plans, will
+continue to be evaluated as new information becomes available. As a
+precautionary measure, Sunbeam plans to establish a contingency plan for
+addressing any effects of the Year 2000 on its operations, whether due to
+Sunbeam's systems or those of third parties not being ready for any Year 2000
+issues. Sunbeam expects to complete such contingency plan by September 30, 1999;
+such contingency plan will address alternative processes, such as manual
+procedures, electronic spreadsheets, potential alternative service providers,
+and plans to address Year 2000 readiness issues as they arise.
+
+THE RISKS OF SUNBEAM'S YEAR 2000 APPROACH
+
+         The independent consultants assisting the Company in its Year 2000
+readiness program have reviewed and concurred with the Company's approach, have
+assisted in developing cost estimates and have monitored costs for the largest
+single component (upgrade or installation of the Company's uniform system) of
+the Company's Year 2000 program. As a result, although the Company did not
+engage an independent third party to verify the program's overall approach or
+total cost, the Company believes that the Company's exposure in this regard is
+mitigated. In addition, through the use of external third-party diagnostic tools
+which helped to identify potential Year 2000 issues in one significant business
+operation, the Company believes that it has also mitigated its risk by
+validating and verifying key program components.
+
+         Management believes that, although there are significant systems that
+are being modified or replaced, Sunbeam's information systems environment will
+be made Year 2000 ready prior to January 1, 2000. Sunbeam's failure to timely
+complete such corrective work could have a material adverse impact on the
+Company.
+
+         With respect to customers, suppliers and business partners, the failure
+of certain of these third parties to become Year 2000 ready could also have a
+material adverse impact on Sunbeam. For example, the failure of certain of the
+Company's principal suppliers to have Year 2000 ready internal systems could
+impact the Company's ability to manufacture and/or ship its products or to
+maintain adequate inventory levels for production.
+
+         At this time, the Company believes that the most likely "worst-case"
+scenario relating to Year 2000 involves potential disruptions in areas in which
+the Company's operations must rely on third parties, such as suppliers, whose
+systems may not work properly after January 1, 2000. While such system failures
+could either directly or indirectly affect important operations of the Company
+and its subsidiaries in a significant manner, the Company cannot at present
+estimate either the likelihood or the potential cost of such failures. Subject
+to the nature of the goods or services provided to the Company by third parties
+whose operations are not made ready for Year 2000 issues, the impact on
+Sunbeam's operations could be material if appropriate contingency plans cannot
+be developed prior to January 1, 2000.
+
+         The nature and focus of the Company's efforts to address the Year 2000
+problem may be revised periodically as interim goals are achieved or new issues
+are identified. In addition, it is important to note that the description of the
+Company's efforts and assessments necessarily involves estimates and projections
+with respect to activities required in the future. These estimates and
+projections are subject to change as work continues, and such changes may be
+substantial.
+
+                                       18
+<PAGE>
+
+THE COSTS TO ADDRESS THE COMPANY'S YEAR 2000 ISSUES
+
+         During the quarter ended March 31, 1999, Sunbeam had expended
+approximately $17 million to address Year 2000 issues of which approximately 50%
+was recorded as capital expenditures and the remainder as SG&A expense.
+Sunbeam's current assessment of the total costs to address and remedy Year 2000
+issues and enhance its operating systems, including costs for the acquired
+companies, is approximately $60 million. The amount to be incurred for Year 2000
+issues during 1999 of approximately $41 million represents over 50% of the
+Company's total 1999 budget for information systems and related support,
+including Year 2000 costs. A large majority of these costs are expected to be
+incremental expenditures that will not recur in the Year 2000 or thereafter.
+Fees and expenses related to third party consultants, who are involved in the
+PMO as well as the modification and replacement of software, represent
+approximately 75% of the total estimated cost. The balance of the total
+estimated cost relates primarily to software license fees and new hardware, but
+excludes the costs associated with Company employees. Sunbeam expects these
+expenditures to be financed through operating cash flows or borrowings, as
+applicable. A significant portion of these expenditures will enhance Sunbeam's
+operating systems in addition to resolving the Year 2000 issues. As Sunbeam
+completes its assessment of the Year 2000 issues, the actual expenditures
+incurred or to be incurred may differ materially from the amounts shown above.
+
+         Because Year 2000 readiness is critical to the business, Sunbeam has
+redeployed some resources from non-critical system enhancements to address Year
+2000 issues. In addition, due to the importance of IT systems to the Company's
+business, management has deferred non-critical systems enhancements as much as
+possible. The Company does not expect these redeployments and deferrals to have
+a material impact on the Company's financial condition, results of operations,
+or cash flows.
+
+CAUTIONARY STATEMENTS
+
+         Certain statements in this Quarterly Report on Form 10-Q may constitute
+"forward-looking" statements within the meaning of the Private Securities
+Litigation Reform Act of 1995, as the same may be amended from time to time
+(herein the "Act") and in releases made by the SEC from time to time. Such
+forward-looking statements involve known and unknown risks, uncertainties and
+other factors which may cause the actual results, performance, or achievements
+of the Company to be materially different from any future results, performance,
+or achievements expressed or implied by such forward-looking statements.
+Statements that are not historical fact are forward-looking statements.
+Forward-looking statements can be identified by, among other things, the use of
+forward-looking language, such as the word "estimate," "project," "intend,"
+"expect," "believe," "may," "well," "should," "seeks," "plans," "scheduled to,"
+"anticipates," or "intends," or the negative of these terms or other variations
+of these terms or comparable language, or by discussions of strategy or
+intentions, when used in connection with the Company, including its management.
+These forward-looking statements were based on various factors and were derived
+utilizing numerous important assumptions and other important factors that could
+cause actual results to differ materially from those in the forward-looking
+statements. These Cautionary Statements are being made pursuant to the Act, with
+the intention of obtaining the benefits of the "Safe Harbor" provisions of the
+Act. The Company cautions investors that any forward-looking statements made by
+the Company are not guarantees of future performance. Important assumptions and
+other important factors that could cause actual results to differ materially
+from those in the forward-looking statements with respect to the Company
+include, but are not limited to risks associated with (i) high leverage, (ii)
+Sunbeam's ability to comply with the terms of its credit agreement, including
+financial covenants and covenants relating to the completion of the Coleman
+merger, or to enter into an amendment to its credit agreement containing
+financial covenants which it and its bank lenders find mutually acceptable, or
+to continue to obtain waivers from its bank lenders with respect to its
+compliance with the existing covenants contained in such agreement, and to
+continue to have access to its revolving credit facility, (iii) Sunbeam's
+ability to integrate the recently acquired Coleman, Signature Brands and First
+Alert companies and expenses associated with such integration, (iv) Sunbeam's
+sourcing of products from international vendors, including the ability to select
+reliable vendors and to avoid delays in shipments, (v) Sunbeam's ability to
+maintain and increase market share for its products at anticipated margins, (vi)
+Sunbeam's ability to successfully introduce new products and to provide on-time
+delivery and a satisfactory level of customer service, (vii) changes in domestic
+and/or foreign laws and regulations, including changes in tax rates, accounting
+standards, environmental laws, occupational, health and safety laws, (viii)
+access to foreign markets together with foreign economic conditions, including
+currency fluctuations and trade, monetary and/or tax policies, (ix) uncertainty
+as to the effect of competition in existing and potential future lines of
+business, (x) fluctuations in the cost and availability of raw materials and/or
+products, (xi) changes in the availability and costs of labor, (xii)
+effectiveness of advertising and marketing programs, (xiii) economic uncertainty
+in Japan, Korea and other Asian countries, as well as in Mexico, Venezuela, and
+other Latin American countries, (xiv) product quality, including excess warranty
+costs, product liability expenses and costs of product recalls, (xv) weather
+conditions which can have an unfavorable impact upon sales of certain of
+Sunbeam's products, (xvi) the numerous lawsuits against the Company and the SEC
+investigation into the Company's accounting practices and policies, and
+uncertainty regarding the Company's available coverage on its directors' and
+officers' liability insurance, (xvii) the possibility of a recession in the
+United States or other countries resulting in a decrease in consumer demands for
+the Company's products, (xviii) actions by competitors including business
+combinations, new product offerings and marketing and promotional activities,
+and (xix) failure of the Company and/or its suppliers of goods or services to
+timely complete the remediation of computer systems to effectively process Year
+2000 information. Other factors and assumptions not included in the foregoing
+may cause the Company's actual results to materially differ from those
+projected. The Company assumes no obligation to update any forward-looking
+statements or these cautionary statements.
+
+                                       19
+<PAGE>
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+         On April 7, 1998, a purported derivative action was filed in the
+Circuit Court for the Fifteenth Judicial Circuit in and for Palm Beach County,
+Florida against the Company and some of its present and former directors and
+former officers. The action alleged that the individual defendants breached
+their fiduciary duties and wasted corporate assets when the Company granted
+stock options at an exercise price of $36.85 to three of its officers and
+directors (who were subsequently terminated) on or about February 2, 1998. On
+June 25, 1998, all defendants filed a motion to dismiss the complaint for
+failure to make a presuit demand on Sunbeam's Board of Directors. On October 22,
+1998, the plaintiff amended the complaint against all but one of the defendants
+named in the original complaint. On February 19, 1999, plaintiff filed a second
+amended derivative complaint nominally on behalf of Sunbeam against some of its
+present and former directors and former officers and the Company's former
+auditor, Arthur Andersen. The second amended complaint alleges, among other
+things, that Messrs. Dunlap and Kersh (the Company's former Chairman and Chief
+Executive Officer and Chief Financial Officer, respectively) caused Sunbeam to
+employ fraudulent accounting procedures in order to enable them to secure new
+employment contracts, and seeks an award of damages and other declaratory and
+equitable relief. On May 14, 1999, the defendants filed a motion to dismiss.
+
+         On September 16, 1998, an action was filed in the 56th Judicial
+District Court of Galveston County, Texas alleging various claims in violation
+of the Texas Securities Act and Texas Business & Commercial Code as well as
+common law fraud as a result of the Company's alleged misstatements and
+omissions regarding the Company's financial condition and prospects during a
+period beginning May 1, 1998 and ending June 16, 1998, in which the plaintiffs
+engaged in transactions in the Company's common stock. The Company is the only
+named defendant in this action. The complaint requests recovery of compensatory
+damages, punitive damages and expenses in an unspecified amount. This action was
+removed to the United States District Court for the Southern District of Texas
+and subsequently transferred to the Southern District of Florida and
+consolidated with the class action lawsuits that were filed on behalf of
+purchasers of the Company's common stock in the U.S. District Court for the
+Southern District of Florida against the Company and some of its present and
+former directors and former officers alleging violations of the federal
+securities laws (the "Consolidated Federal Actions"). Plaintiffs in this action
+have objected to the consolidation and have sought reconsideration by the
+Southern District of Florida of the order of the Southern District of Texas
+denying plaintiffs' motion to remand the case to state court and transferring it
+to Florida.
+
+         The Company has been named as a defendant in an action filed in the
+District Court of Tarrant County, Texas, 48th Judicial District, on November 20,
+1998 which was served on the Company through the Secretary of State of Texas on
+January 15, 1999. The plaintiffs in this action are purchasers of the
+Debentures. The plaintiffs allege that the Company violated the Texas Securities
+Act and the Texas Business & Commercial Code and committed state common law
+fraud by materially misstating the financial position of the Company in
+connection with the offering and sale of the Debentures. The complaint seeks
+rescission, as well as compensatory and exemplary damages in an unspecified
+amount. The Company specially appeared to assert an objection to the Texas
+Court's exercise of personal jurisdiction over the Company, and a hearing on
+this objection was held on April 15, 1999. On April 23, 1999, the court entered
+an order granting the Company's special appearance and dismissing the case
+without prejudice. The plaintiffs moved for reconsideration of the court's
+order, which motion the court denied on May 24, 1999. The plaintiffs have
+appealed the order dismissing the case to the Texas Court of Appeals. Briefs on
+the appeal have not yet been submitted.
+
+         On April 12, 1999, a class action lawsuit was filed in the U.S.
+District Court for the Southern District of Florida. The lawsuit was filed on
+behalf of persons who purchased Debentures during the period of March 20, 1998
+through June 30, 1998, inclusive, but after the initial offering of such
+Debentures. The complaint asserts that Sunbeam made material omissions and
+misrepresentations that had the effect of inflating the market price of the
+Debentures. The complaint names as defendants the Company, Arthur Andersen and
+two former Company officers, Messrs. Dunlap and Kersh. The plaintiff is an
+institution which allegedly acquired in excess of $150,000,000 face amount of
+the Debentures and now seeks unspecified money damages. The Company was served
+on April 16, 1999 in connection with this pending lawsuit. The Company has
+requested that this action be coordinated with the Consolidated Federal Actions.
+
+         On February 9, 1999, Messrs. Dunlap and Kersh filed with the American
+Arbitration Association demands for arbitration of claims under their respective
+employment agreements with the Company. Messrs. Dunlap and Kersh are requesting
+a finding by the arbitrator that they were terminated by the Company without
+cause and should be awarded the corresponding benefits set forth in their
+respective employment agreements. On March 12, 1999, the Company asked the
+Circuit Court for the Fifteenth Judicial Circuit in and for Palm Beach County,
+Florida to issue an injunction prohibiting Messrs. Dunlap and Kersh from
+pursuing their arbitration proceedings against the Company on the ground, among
+others, that the simultaneous litigation of the April 7, 1998 action and these
+arbitration proceedings would subject Sunbeam to the threat of inconsistent
+adjudications with respect to certain rights to compensation asserted by Messrs.
+Dunlap and Kersh. On March 19, 1999, the plaintiff in the April 7, 1998 action
+discussed above moved for a similar injunction. On March 26, 1999, Messrs.
+Dunlap and Kersh filed a response in opposition to the motions for injunctive
+relief. A hearing on the motions for injunctive relief has been held and, as a
+result of the Company motion for preliminary injunction, administration of the
+arbitrations were suspended until May 10, 1999. On May 11, 1999, the Court
+denied the motions for a preliminary injunction filed by the Company and the
+plaintiff. The Company has answered the arbitration demands of Messrs. Dunlap
+and Kersh and has filed counterclaims seeking, among other things, the return of
+all consideration paid, or to be paid, under the February 1998 Employment
+Agreements between the Company and Messrs. Dunlap and Kersh. An answer to the
+Company's counterclaim is due on June 17, 1999. No date has been set for the
+arbitration hearing.
+
+                                       20
+<PAGE>
+
+         On March 23, 1999, Messrs. Dunlap and Kersh filed a complaint in the
+Court of Chancery of the State of Delaware seeking an order directing the
+Company to advance attorneys' fees and other expenses incurred in connection
+with various state and federal class and derivative actions and an investigation
+instituted by the SEC. The complaint alleges that such advancements are required
+by the Company 's by-laws and by a forbearance agreement entered into between
+the Company and Messrs. Dunlap and Kersh in August 1998. The Company filed its
+answer to the complaint and the Court of Chancery has scheduled a trial of this
+summary proceeding to be held on June 16, 1999.
+
+         On May 24, 1999, an action naming the Company as defendant was filed in
+the Circuit Court for Ozaukee County, Wisconsin. The Company has not yet been
+served with the complaint in this action. The plaintiffs in this action are
+purchasers of the Debentures. They allege that the Company violated the
+Wisconsin Uniform Securities Act and committed acts of false advertising and
+misrepresentation in connection with the offering and sale of the Debentures.
+The plaintiffs seek rescission, as well as compensatory and exemplary damages in
+an unspecified amount.
+
+         On July 2, 1998, the American Alliance Insurance Company ("American")
+filed suit against the Company in the U.S. District Court for the Southern
+District of New York requesting a declaratory judgment of the Court that the
+directors' and officers' liability insurance policy for excess coverage issued
+by American was invalid and/or had been properly canceled by American. The
+Company's motion to transfer such action to the federal district court in which
+the Consolidated Federal Actions are currently pending was denied. The case is
+now in discovery. On October 20, 1998, an action was filed by Federal Insurance
+Company in the U.S. District Court for the Middle District of Florida requesting
+the same relief as that requested by American in the previously filed action as
+to additional coverage levels under the Company's directors' and officers'
+liability insurance policy. This action has been transferred to the U.S.
+District Court for the Southern District of Florida and is currently in
+discovery. The Company has filed a notice of pendency seeking transfer of this
+action to the judge who is presiding over the Consolidated Federal Actions. On
+December 22, 1998, an action was filed by Executive Risk Indemnity, Inc. in the
+Circuit Court of the Seventeenth Judicial Circuit in and for Broward County,
+Florida requesting the same relief as that requested by American and Federal in
+their previously filed actions as to additional coverage levels under the
+Company's directors' and officers' liability insurance policy. On April 15,
+1999, the Company filed an action in the U.S. District Court for the Southern
+District of Florida against the National Union Fire Insurance Company of
+Pittsburgh, PA, Gulf Insurance Company and St. Paul Mercury Insurance Company
+requesting, among other things, a declaratory judgment that National Union is
+not entitled to rescind its liability insurance policy to the Company and a
+declaratory judgment that the Company is entitled to coverage from these
+insurance companies for various lawsuits described herein under liability
+insurance policies issued by each of the defendants. None of the defendants,
+other than St. Paul Mercury Insurance Company, have responded to the Company's
+complaint. On June 7, 1999, St. Paul Mercury Insurance Company answered the
+Company's complaint and asserted counterclaims which seeks recission and
+declaratory relief that no coverage is available to the Company. The Company
+intends to pursue recovery from all of its insurers if damages are awarded
+against the Company or its indemnified officers and/or directors under any of
+the foregoing actions. The Company's failure to obtain such insurance recoveries
+following an adverse judgement in any of the foregoing actions could have a
+material adverse effect on the Company's financial position, results of
+operations, and cash flows.
+
+         The Company intends to vigorously defend each of the foregoing
+lawsuits, but cannot predict the outcome and is not currently able to evaluate
+the likelihood of the Company's success in each case or the range of potential
+loss. However, if the foregoing actions were determined adversely to the
+Company, such judgments would likely have a material adverse effect on the
+Company's financial position, results of operations, and cash flows.
+
+ENVIRONMENTAL MATTERS
+
+         With respect to one of seven sites at which the Company has been
+identified by the United States Environmental Protection Agency ("EPA") as a
+potentially responsible party ("PRP"), the Company received notice from the EPA
+that the Company has completed all required removal activities and that such
+removal activities were completed to EPA's satisfaction. EPA's approval of the
+Company's removal activities at this site effectively concludes its obligations
+to EPA at this site.
+
+                                       21
+
+<PAGE>
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+
+(a) Exhibits
+
+    EXHIBIT NO.        DESCRIPTION
+    -----------        -----------
+
+        27         Financial Data Schedule, submitted electronically to the
+                   Securities and Exchange Commission for information only
+                   and not filed
+
+(b)      Reports on Form 8-K
+
+         No reports on Form 8-K were filed during the quarter ended March 31,
+        1999.
+
+                                       22
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                               SUNBEAM CORPORATION
+
+                               BY: /S/ BOBBY G. JENKINS
+                               ------------------------
+                               Bobby G. Jenkins
+                               Executive Vice President, and
+                               Chief Financial Officer
+                               (Principal Financial Officer)
+
+                               Dated: June 11, 1999
+
+                                       23
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+EXHIBIT          DESCRIPTION
+- -------          -----------
+
+  27             Financial Data Schedule
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE SUNBEAM
+CORPORATION FINANCIAL STATEMENTS FOR THE PERIODS ENDED MARCH 31, 1999 AND MARCH
+30, 1998 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-START>                             DEC-31-1998
+<PERIOD-END>                               MAR-31-1999
+<CASH>                                          46,163
+<SECURITIES>                                    72,351
+<RECEIVABLES>                                  449,596
+<ALLOWANCES>                                    52,813
+<INVENTORY>                                    534,555
+<CURRENT-ASSETS>                             1,119,741
+<PP&E>                                         604,230
+<DEPRECIATION>                                 151,887
+<TOTAL-ASSETS>                               3,399,103
+<CURRENT-LIABILITIES>                          615,726
+<BONDS>                                      2,207,999
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,007
+<OTHER-SE>                                     189,226
+<TOTAL-LIABILITY-AND-EQUITY>                 3,399,103
+<SALES>                                        523,946
+<TOTAL-REVENUES>                               523,946
+<CGS>                                          400,791
+<TOTAL-COSTS>                                        0
+<OTHER-EXPENSES>                                   808
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              41,906
+<INCOME-PRETAX>                               (57,508)
+<INCOME-TAX>                                     1,742
+<INCOME-CONTINUING>                           (60,739)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                  (60,739)
+<EPS-BASIC>                                   (0.60)
+<EPS-DILUTED>                                   (0.60)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

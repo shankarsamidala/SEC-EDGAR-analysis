@@ -1,0 +1,1359 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VlIEJa16ONgW4J3VGTaTEJE6yFlSfqVMWIqA7cXMm0xIYcsUJRBjxPLf8I0+hFeG
+ 0jxiyd1iCFJ9rY0tQx5EmQ==
+
+<SEC-DOCUMENT>0000950134-98-004241.txt : 19980515
+<SEC-HEADER>0000950134-98-004241.hdr.sgml : 19980515
+ACCESSION NUMBER:		0000950134-98-004241
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19980331
+FILED AS OF DATE:		19980514
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043146298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		98619260
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		2147336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR QUARTER ENDED MARCH 31, 1998
+<TEXT>
+
+<PAGE>   1
+ 
+================================================================================
+ 
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington D.C. 20549
+ 
+                                   FORM 10-Q
+ 
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+             OF 1934 FOR THE QUARTERLY PERIOD ENDED MARCH 31, 1998
+ 
+                         COMMISSION FILE NUMBER 1-11803
+ 
+                          AMERICAN PAD & PAPER COMPANY
+             (Exact name of registrant as specified in its charter)
+ 
+<TABLE>
+<S>                                            <C>
+                  DELAWARE                                      04-3164298
+       (State or other jurisdiction of                       (I.R.S. Employer
+       incorporation or organization)                       Identification No.)
+ 
+  17304 PRESTON ROAD, SUITE 700, DALLAS, TX                     75252-5613
+  (Address of principal executive offices)                      (Zip Code)
+</TABLE>
+ 
+       Registrant's telephone number, including area code: (972) 733-6200
+ 
+     Indicate by check mark whether each Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that each
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+ 
+                 American Pad & Paper Company  Yes [X]  No [ ]
+ 
+     As of May 11, 1998, American Pad & Paper Company has 27,724,045 shares of
+Common Stock outstanding.
+ 
+================================================================================
+<PAGE>   2
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                     QUARTERLY PERIOD ENDED MARCH 31, 1998
+ 
+                                     INDEX
+ 
+<TABLE>
+<CAPTION>
+                                                              PAGE NO.
+                                                              --------
+<S>                                                           <C>
+PART I -- FINANCIAL INFORMATION
+  Item 1  Financial Statements
+     Condensed Consolidated Balance Sheets as of March 31,
+      1998 (unaudited) and December 31, 1997................      3
+     Condensed Consolidated Statements of Operations for the
+      three months ended March 31, 1998 and 1997
+      (unaudited)...........................................      4
+     Condensed Consolidated Statements of Cash Flows for the
+      three months ended March 31, 1998 and 1997
+      (unaudited)...........................................      5
+     Notes to Condensed Consolidated Financial Statements
+      (unaudited)...........................................      6
+  Item 2  Management's Discussion and Analysis of Financial
+          Condition and Results of Operations...............      9
+ 
+PART II -- OTHER INFORMATION
+  Item 4  Submission of Matters to a Vote of Security
+          Holders...........................................     14
+  Item 6  Exhibits and Reports on Form 8-K..................     14
+</TABLE>
+ 
+                                        2
+<PAGE>   3
+ 
+                        PART I -- FINANCIAL INFORMATION
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+                                     ASSETS
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Current assets:
+  Cash......................................................  $  18,356     $   4,855
+  Accounts receivable.......................................     64,206        74,203
+  Inventories...............................................    157,115       154,359
+  Income taxes receivable...................................        758         4,059
+  Prepaid expenses and other current assets.................      1,785         1,402
+  Deferred income taxes.....................................     14,272        11,992
+                                                              ---------     ---------
+          Total current assets..............................    256,492       250,870
+Property, plant and equipment...............................    154,057       151,390
+Intangible assets...........................................    233,187       233,698
+Other.......................................................      3,925         2,443
+                                                              ---------     ---------
+          Total assets......................................  $ 647,661     $ 638,401
+                                                              =========     =========
+ 
+                         LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Current portion of long-term debt.........................  $   1,540     $   1,538
+  Accounts payable..........................................     45,492        56,356
+  Accrued expenses..........................................     34,905        40,157
+  Income taxes payable......................................         --            --
+                                                              ---------     ---------
+          Total current liabilities.........................     81,937        98,051
+Long-term debt..............................................    426,085       398,577
+Deferred income taxes.......................................     39,477        39,477
+Other.......................................................      1,570         1,630
+                                                              ---------     ---------
+          Total liabilities.................................    549,069       537,735
+                                                              ---------     ---------
+Commitments and contingencies
+Stockholders' equity:
+  Preferred stock, 150 shares authorized, no shares issued
+     and outstanding........................................         --            --
+  Common stock, voting, $0.01 par value, 75,000 shares
+     authorized, 27,724 and 27,436 issued and outstanding,
+     respectively...........................................        277           274
+  Additional paid-in capital................................    301,287       301,279
+  Accumulated deficit.......................................   (202,972)     (200,887)
+                                                              ---------     ---------
+          Total stockholders' equity........................     98,592       100,666
+                                                              ---------     ---------
+          Total liabilities and stockholders' equity........  $ 647,661     $ 638,401
+                                                              =========     =========
+</TABLE>
+ 
+     See accompanying notes to condensed consolidated financial statements.
+ 
+                                        3
+<PAGE>   4
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+<TABLE>
+<CAPTION>
+                                                                THREE MONTHS ENDED
+                                                                    MARCH 31,
+                                                               --------------------
+                                                                 1998        1997
+                                                               --------    --------
+<S>                                                            <C>         <C>
+Net sales...................................................   $161,595    $149,834
+Cost of sales...............................................    142,173     121,126
+                                                               --------    --------
+  Gross profit..............................................     19,422      28,708
+Operating expenses:
+  Selling and marketing.....................................      4,689       4,589
+  General and administrative................................      5,432       4,724
+  Losses on sales of accounts receivable....................        747         762
+  Amortization of goodwill and intangible assets............      1,587       1,386
+  Management fees and services..............................        530       1,855
+                                                               --------    --------
+Income from operations......................................      6,437      15,392
+Other income (expense):
+  Interest..................................................    (10,743)     (8,214)
+  Other income, net.........................................         51          73
+                                                               --------    --------
+Income (loss) before income taxes...........................     (4,255)      7,251
+Provision for (benefit from) income taxes...................     (2,170)      3,263
+                                                               --------    --------
+Net income (loss)...........................................   $ (2,085)   $  3,988
+                                                               ========    ========
+Basic earnings per share....................................   $   (.08)   $   0.15
+                                                               ========    ========
+Diluted earnings per share..................................               $   0.14
+                                                                           ========
+Weighted average common shares outstanding
+  Basic.....................................................     27,695      27,436
+  Diluted...................................................        N/A      29,390
+</TABLE>
+ 
+     See accompanying notes to condensed consolidated financial statements.
+ 
+                                        4
+<PAGE>   5
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              --------------------
+                                                                1998        1997
+                                                              --------    --------
+<S>                                                           <C>         <C>
+Cash flows from operating activities:
+  Net income (loss).........................................  $ (2,085)   $  3,988
+  Adjustments to reconcile net income (loss) to net cash
+     provided by (used in) operating activities:
+     Depreciation...........................................     3,293       3,153
+     Amortization of goodwill and intangible assets.........     1,587       1,386
+     Amortization of debt issuance costs....................       849         626
+     Changes in assets and liabilities, net of effects of
+      acquisitions:
+       Accounts receivable..................................    32,997      21,569
+       Refundable income taxes..............................     3,301          --
+       Inventories..........................................    (2,757)    (21,564)
+       Prepaid expenses and other...........................      (383)     (1,498)
+       Income tax asset, net................................    (2,280)      2,449
+       Accounts payable.....................................   (10,864)     (8,881)
+       Accrued expenses.....................................    (5,252)    (16,749)
+       Other assets.........................................    (2,014)      1,955
+       Other liabilities....................................       (58)       (362)
+                                                              --------    --------
+          Net cash provided by (used in) operating
+            activities......................................    16,334     (13,928)
+                                                              --------    --------
+Cash flows from investing activities:
+  Purchase of business, including acquisition costs.........        --     (50,520)
+  Purchases of property and equipment.......................    (5,980)     (4,036)
+  Proceeds from sale of assets..............................        19           2
+                                                              --------    --------
+          Net cash used in investing activities.............    (5,961)    (54,554)
+                                                              --------    --------
+Cash flows from financing activities:
+  Borrowings on credit agreement and long-term debt.........    27,600      79,800
+  Repayment of long-term debt...............................       (90)        (66)
+  Repayment of accounts receivable financing................   (23,000)    (13,000)
+  Debt issuance costs.......................................    (1,393)         --
+  Other.....................................................        11         551
+                                                              --------    --------
+          Net cash provided by financing activities.........     3,128      67,285
+                                                              --------    --------
+Net increase (decrease) in cash.............................    13,501      (1,197)
+Cash, beginning of period...................................     4,855       2,290
+                                                              --------    --------
+Cash, end of period.........................................  $ 18,356    $  1,093
+                                                              ========    ========
+</TABLE>
+ 
+     See accompanying notes to condensed consolidated financial statements.
+ 
+                                        5
+<PAGE>   6
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                 MARCH 31, 1998
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+1. ORGANIZATION AND BASIS OF PRESENTATION
+ 
+  Organization and Basis of Presentation
+ 
+     American Pad & Paper Company (the "Company") is a holding company, which
+conducts its operations through American Pad & Paper Company of Delaware, Inc.
+("AP&P Delaware") and its wholly owned subsidiaries.
+ 
+     The financial statements of the Company present the accounts and operations
+of the Company and its wholly owned subsidiaries. Additionally, the consolidated
+financial statements include the accounts of Notepad Funding Corporation, a
+special purpose corporation utilized in the accounts receivable facility. All
+significant intercompany balances have been eliminated. Certain prior year
+amounts have been reclassified for comparative purposes.
+ 
+  Business
+ 
+     The Company is among the larger manufacturers and marketers of paper-based
+office products in North America. The Company operates in one business segment,
+converting paper into office products, and offers a broad assortment of products
+through two complementary divisions: Ampad (writing pads, file folders, retail
+envelopes, machine papers, and other paper-based office products) and
+Williamhouse (business envelopes and machine papers). The Company's products are
+distributed through large mass merchant retailers, office product superstores,
+warehouse clubs, major contract stationers, office products wholesalers, paper
+merchants, and independent dealers
+ 
+  Interim Financial Information
+ 
+     The accompanying interim financial statements are unaudited. Certain
+information and disclosures normally included in financial statements prepared
+in accordance with generally accepted accounting principles have been condensed
+or omitted, although the Company believes the disclosures included herein are
+adequate to make the information presented not misleading. These interim
+financial statements should be read in conjunction with the Company's financial
+statements for the year ended December 31, 1997.
+ 
+     The accompanying interim financial statements contain all adjustments,
+consisting only of normal recurring adjustments, necessary for a fair
+presentation of the Company's financial position at March 31, 1998 and the
+results of its operations and its cash flows for the three month periods ended
+March 31, 1998 and 1997. The results of operations for the interim periods
+presented are not necessarily indicative of results to be expected for the full
+fiscal year.
+ 
+  American Pad & Paper Company of Delaware, Inc.
+ 
+     The Company's wholly owned subsidiary, AP&P Delaware, is the issuer of 13%
+Senior Subordinated Notes ("Notes"). Terms of the Notes require, among other
+matters, that AP&P Delaware provide annual audited and quarterly unaudited
+financial statements to the holders of the notes. There are no material
+differences between the financial statements of the Company and of AP&P
+Delaware. The composition of AP&P Delaware's stockholder's equity at March 31,
+1998 consists of one hundred shares of $0.01 par value common stock, paid in
+capital of $202,368 and an accumulated deficit of $103,776 and, in total, is
+equal to the stockholders' equity of the Company.
+ 
+                                        6
+<PAGE>   7
+                          AMERICAN PAD & PAPER COMPANY
+ 
+      NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                 MARCH 31, 1998
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+2. ACCOUNTS RECEIVABLE
+ 
+     Accounts receivable consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Accounts receivable -- trade, excluding $37,000 and $60,000,
+  respectively, which are sold as part of a $60,000 accounts
+  receivable financing facility.............................   $61,559       $72,975
+Accounts receivable -- other................................     3,427         4,022
+Less allowance for doubtful accounts and reserves for
+  customers deductions, returns and cash discounts..........      (780)       (2,794)
+                                                               -------       -------
+                                                               $64,206       $74,203
+                                                               =======       =======
+</TABLE>
+ 
+3. INVENTORIES
+ 
+     Inventories consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Raw materials and semi-finished goods.......................  $ 46,258       $ 54,285
+Work in process.............................................     8,493          5,600
+Finished goods..............................................   108,663        100,480
+                                                              --------       --------
+                                                               163,414        160,365
+LIFO reserve................................................    (6,299)        (6,006)
+                                                              --------       --------
+                                                              $157,115       $154,359
+                                                              ========       ========
+</TABLE>
+ 
+4. PROPERTY, PLANT AND EQUIPMENT
+ 
+     Property, plant and equipment consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Land........................................................  $  7,047       $  7,035
+Buildings...................................................    32,336         30,308
+Machinery and equipment.....................................   119,010        115,168
+Office furniture and fixtures...............................    10,642          9,818
+Construction in progress....................................    14,554         15,322
+                                                              --------       --------
+                                                               183,589        177,651
+Less accumulated depreciation and amortization..............    29,532         26,261
+                                                              --------       --------
+                                                              $154,057       $151,390
+                                                              ========       ========
+</TABLE>
+ 
+                                        7
+<PAGE>   8
+                          AMERICAN PAD & PAPER COMPANY
+ 
+      NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                 MARCH 31, 1998
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+5. INTANGIBLE ASSETS
+ 
+     Intangible assets consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Goodwill....................................................  $189,861       $189,861
+Intangible assets, principally tradenames...................    44,817         44,284
+Debt issuance costs.........................................    19,761         18,369
+                                                              --------       --------
+                                                               254,439        252,514
+Less accumulated amortization...............................    21,252         18,816
+                                                              --------       --------
+                                                              $233,187       $233,698
+                                                              ========       ========
+</TABLE>
+ 
+6. ACCRUED EXPENSES
+ 
+     Accrued expenses consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              MARCH 31,    DECEMBER 31,
+                                                                1998           1997
+                                                              ---------    ------------
+<S>                                                           <C>          <C>
+Acquisition integration costs...............................   $ 7,795       $ 8,534
+Sales volume discounts......................................     2,351        11,634
+Salaries and wages..........................................     9,739         4,242
+Interest....................................................    10,450         5,927
+Other.......................................................     4,570         9,820
+                                                               -------       -------
+                                                               $34,905       $40,157
+                                                               =======       =======
+</TABLE>
+ 
+7. RELATED PARTY TRANSACTION
+ 
+     Effective March 31, 1998, the Company loaned $1.0 million to its Interim
+Chief Financial Officer ("Officer") on an interest bearing note receivable. This
+note accrues interest at 5.89%, compounded annually, and is due on March 31,
+2001. This note is secured by all of the shares of the Company's common stock
+owned by this Officer and the options not yet exercised by this Officer.
+ 
+                                        8
+<PAGE>   9
+ 
+ITEM 2  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+ 
+OVERVIEW
+ 
+     The Company is one of the largest manufacturers and marketers of nationally
+branded and private label paper-based office products (excluding copy paper) in
+the $60 billion to $70 billion North American office products industry. The
+Company offers a broad assortment of products including writing pads, file
+folders, envelopes, machine papers and other paper-based products. Through its
+Ampad division, the Company is among the largest suppliers of pads and other
+paper-based writing products, filing supplies, machine papers and retail
+envelopes to many of the largest and fastest growing office products
+distributors. Through its Williamhouse division, the Company is the leading
+supplier of mill branded specialty and commodity business envelopes to paper
+merchants and distributors. The Company believes that its future operating
+results will not be directly comparable to its historical operating results
+because of its strategic acquisitions. Certain factors, which have affected, and
+may affect prospectively, the operating results of the Company are discussed
+below.
+ 
+     Strategic Acquisition. On February 11, 1997, the Company acquired
+Shade/Allied, a national supplier of machine papers, principally continuous
+computer forms. The purchase price of $50.7 million was financed with borrowings
+under the Company's bank credit agreement. Both the Ampad and Williamhouse
+divisions distribute Shade/Allied's products and the manufacturing plants are
+integrated into the Ampad division. This acquisition provided the Company with a
+more significant position in a fourth product category.
+ 
+     Purchase Accounting Effects. The Company's acquisitions have been accounted
+for using the purchase accounting method. The acquisitions have currently
+affected, and will prospectively affect, the Company's results of operations in
+certain significant respects. The aggregate acquisition costs (including
+assumption of debt) are allocated to the net assets acquired based on the fair
+market value of such net assets. The allocations of the purchase price result in
+an increase in the historical book value of certain assets such as property,
+plant and equipment and intangible assets, including goodwill, which results in
+incremental annual depreciation and amortization expense each year.
+ 
+     Raw Material. The Company's principal raw material is paper. Certain
+commodity grades utilized by the Company have shown considerable price
+volatility since 1992. From May 1997 through October 1997, all but one of the
+key commodity grades of paper utilized by the Company increased in cost between
+6% and 18%. Due to strategic customer considerations and competitive market
+conditions, the Company did not begin to recover a significant portion of the
+increases in paper costs affecting both its divisions until December 1997. The
+Company continued to implement sales pricing increases during the first quarter
+of 1998. Paper price volatility is expected to continue to have an effect on net
+sales and cost of sales and there is no assurance that the Company will not be
+materially affected by future fluctuations in the price of paper. Fluctuations
+in paper prices can have an effect on quarterly comparisons of the results of
+operations and financial condition of the Company.
+ 
+                                        9
+<PAGE>   10
+ 
+RESULTS OF OPERATIONS
+ 
+     The following table summarizes the Company's historical results of
+operations as a percentage of net sales for the three months ended March 31,
+1998 and 1997. The Company's historical results of operations for each of these
+periods are significantly affected by the results for Shade/Allied, which was
+acquired on February 11, 1997.
+ 
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS
+                                                              ENDED MARCH 31,
+                                                              ---------------
+                   INCOME STATEMENT DATA                       1998     1997
+                   ---------------------                      ------   ------
+<S>                                                           <C>      <C>
+Net sales...................................................  100.0%   100.0%
+                                                              =====    =====
+Gross profit................................................   12.0%    19.2%
+Selling and marketing.......................................  (2.9)    (3.1)
+General and administrative..................................  (3.4)    (3.2)
+Losses on sales of accounts receivable......................   (.5)     (.5)
+Amortization of intangible assets...........................  (1.0)     (.9)
+Management fees and services................................   (.3)    (1.2)
+                                                              -----    -----
+Income from operations......................................    3.9     10.3
+Interest expense, net.......................................  (6.6)    (5.5)
+Other income................................................     --       --
+                                                              -----    -----
+Income before income taxes..................................  (2.7)      4.8
+Provision for income taxes..................................  (1.3)      2.2
+                                                              -----    -----
+Net income (loss)...........................................  (1.4)%     2.6%
+                                                              =====    =====
+</TABLE>
+ 
+THREE MONTHS ENDED MARCH 31, 1998 COMPARED TO THREE MONTHS ENDED MARCH 31, 1997
+ 
+     Net Sales for the three months ended March 31, 1998 increased by $11.8
+million, or 7.9%, to $161.6 million from $149.8 million for the three months
+ended March 31, 1997. Of this net sales increase, $3.3 million is attributable
+to owning Shade/Allied for the full first quarter of 1998 versus only one and a
+half months in the same period in 1997. The remaining $8.5 million of the net
+sales increase is due to higher sales at Ampad's existing operations, primarily
+sales to the fast growing customer channels, such as contract stationers, mass
+market and superstores.
+ 
+     Gross Profit for the three months ended March 31, 1998 decreased by $9.3
+million, or 32.4%, to $19.4 million from $28.7 million for the three months
+ended March 31, 1997. Gross profit margin decreased to 12.0% for the three
+months ended March 31, 1998 from 19.2% for the three months ended March 31,
+1997. The decrease in gross profit margin is primarily attributable to a change
+in product mix, particularly the ongoing sales of continuous forms at
+unfavorable margins, a reduction in selling margins due to higher paper cost and
+competitive pricing pressures, and higher unit production costs due to
+underutilized capacity resulting from the Company's efforts to reduce its
+inventory.
+ 
+     Selling and marketing expenses for the three months ended March 31, 1998
+increased to $4.7 million from $4.6 million for the three months ended March 31,
+1997, an increase of $0.1 million. However, selling and marketing expenses as a
+percent of net sales decreased from 3.1% for the 1997 first quarter to 2.9% for
+the 1998 first quarter, reflecting the successful efforts in 1998 to control
+expenses.
+ 
+     General and administrative expenses for the three months ended March 31,
+1998 increased to $5.4 million from $4.7 million for the three months ended
+March 31, 1997, an increase of $0.7 million. Of this increase, $0.1 million is
+attributable to owning Shade/Allied for the full first quarter of 1998 versus
+only one and a half months in the same period in 1997 and the remainder is
+attributable to increases in corporate expenses associated with the
+centralization of certain functions in Dallas.
+ 
+     Losses on sales of accounts receivable for the three months ended March 31,
+1998 decreased to $0.7 million from $0.8 million for the three months ended
+March 31, 1997 due to a lower average level of
+ 
+                                       10
+<PAGE>   11
+ 
+accounts receivable sold to the third party trust in the first quarter of 1998,
+partially offset by slightly higher average effective interest rates.
+ 
+     Goodwill and intangible asset amortization expense for the three months
+ended March 31, 1998 increased to $1.6 million from $1.4 million for the three
+months ended March 31, 1997, an increase of $0.2 million, due primarily to a
+full quarter of amortization of goodwill associated with the acquisition of
+Shade/Allied.
+ 
+     Management fees and services expense for the three months ended March 31,
+1998 amounted to $0.5 million as compared to $1.9 million for the three months
+ended March 31, 1997. The change in management fees is due primarily to a one
+year non-recurring consulting agreement with the former president of Niagara,
+which expired June 30, 1997.
+ 
+     Interest expense for the three months ended March 31, 1998 increased to
+$10.7 million from $8.2 million for the three months ended March 31, 1997, an
+increase of $2.5 million. Of this increase, $2.1 million of this increase is
+attributable to increased debt levels, $0.2 million is attributable increased
+interest rates and $0.2 million is attributable to an increase in financing fees
+amortization expense associated with the amended credit agreement.
+ 
+     The income tax provision for the three month period ended March 31, 1998
+reflects an effective tax rate of 51.0% versus an effective tax rate of 45.0%
+for the three month period ended March 31, 1997. Due to the expected effect of
+nondeductible expenses during 1998, primarily goodwill amortization, the Company
+raised its effective income tax rate in 1998.
+ 
+KNOWN TRENDS AND SEASONALITY
+ 
+     The Company does experience some seasonality in its business operations,
+primarily during the third and fourth quarters of each year. During those
+quarters, net sales tend to be higher than in the first and second quarters due
+to higher product sales of back-to-school, seasonal greeting card and tax filing
+products.
+ 
+     The Company's Ampad division sells primarily to fast growing customers such
+as office products superstores, mass merchants and national contract stationers.
+Such customers periodically adjust the levels of inventory in the retail
+distribution channels, either in retail stores or in distribution centers. The
+Company has determined that lower than expected sales will occur during the
+quarters in which such adjustments are made. The Company is not able to predict
+the future effect of such adjustments; however, it is likely that its retail
+customers will continue to adjust inventory levels in future quarters.
+ 
+     The Company's gross profit is directly affected by, among other factors,
+the mix of products sold. Based on the Company's current product categories, the
+Company's gross profit will be negatively or positively affected as the actual
+product sales mix changes.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+     Net cash provided by operating activities for the three months ended March
+31, 1998 was $16.3 million as compared to net cash used by operating activities
+for the three months ended March 31, 1997 of $13.9 million. This increase is
+primarily the net result of the following: (i) cash provided from net income of
+$3.6 million after adjustment for non-cash expenses, (ii) a decrease in accounts
+receivable of $33 million as a result of collection of year end receivable
+balances and improving days sales outstanding in receivables, (iii) an increase
+in inventories of $2.8 million, (iv) a reduction in accrued expenses of $5.3
+million as annual customer volume rebates were paid early in 1998, (v) a
+reduction of accounts payable of $10.8 million, (vi) receipt of tax refunds of
+$3.3 million, and (vii) an increase in deferred tax assets and other assets of
+$4.7 million.
+ 
+     Cash used in investing activities for the three months ended March 31, 1998
+and 1997 was $6.0 million and $54.5 million, respectively. The first quarter
+1998 use was due to the purchase of equipment. The first quarter 1997 use was
+due to the Shade/Allied acquisition of $50.5 million and purchases of equipment
+of $4.0 million.
+ 
+                                       11
+<PAGE>   12
+ 
+     Net cash provided by financing activities during the first three months of
+1998 and 1997 was $3.1 million and $67.3 million, respectively. The first
+quarter 1998 cash provided primarily resulted from repayment of $23.0 million in
+financing outstanding under the accounts receivable credit facility, payment of
+financing fees of $1.4 million and borrowings of $27.6 million under the bank
+credit agreement to finance: (i) repayment of the accounts receivable facility,
+(ii) the purchases of equipment and (iii) its working capital needs, including
+the accumulation of cash on the balance sheet. Assuming that the $18.4 million
+of cash at March 31, 1998 was used to repay outstanding debt, the Company would
+have reduced its balance sheet and off balance sheet debt by approximately $9.0
+million. During the first quarter of 1997, the Company repaid $13.0 million in
+notes outstanding under its accounts receivable credit facility and borrowed
+$79.8 million to finance (i) such repayment, (ii) the acquisition of
+Shade/Allied, (iii) the purchases of equipment and (iv) its working capital
+needs.
+ 
+     In February 1998, the Company and its banking group agreed to an increase
+in the size of the revolving credit agreement from $300.0 million to $330.0
+million for a period of one year. After such time, the level of debt available
+under such credit agreement will be reduced to $300.0 million. In December 1997,
+February 1998 and April 1998, certain covenants in the credit agreement were
+also modified at the end of 1997 and for a one year period ending in February
+1999. Unless approved by the banking group, the Company will be restricted to
+$15.0 million in net capital expenditures for 1998 and will be restricted from
+any acquisitions. The interest cost incurred by the Company will vary each
+quarter in 1998 depending on the Company's consolidated debt to EBITDA ratio at
+the beginning of each quarter. The Company paid fees and expenses of $1.4
+million to its banking group and lawyers as part of the amendments to the credit
+agreement.
+ 
+     The ability of the Company to meet its debt service obligations and reduce
+its total debt will be dependent upon the future performance of the Company and
+its subsidiaries which, in turn, will be subject to general economic conditions
+and to financial, business and other factors, including factors beyond the
+Company's control. A portion of the consolidated debt of the Company bears
+interest at floating rates; therefore, its financial condition is and will
+continue to be affected by changes in prevailing interest rates. The Company has
+entered into an interest rate protection agreement to minimize the impact from a
+rise in interest rates.
+ 
+     Management believes that based on current levels of operations and
+anticipated internal growth, cash flow from operations, together with other
+available sources of funds including borrowings under the bank credit agreement
+and the accounts receivable facility and available cash on hand at March 31,
+1998 of $18.4 million, will be adequate for 1998 to make required payments of
+principal and interest on the Company's indebtedness, to fund anticipated
+capital expenditures, including anticipated capital expenditures of
+approximately $9 million during the remainder of 1998, and to meet working
+capital requirements.
+ 
+     The amount of debt available under the Company's current credit agreement
+decreases by $30.0 million in February 1999 and by an additional $50.0 million
+in July 1999. Based on the Company's current level of operating results and the
+expected operating results in 1998 and 1999, the Company expects that the
+reduction of $30.0 million in February 1999 will not have a significant effect
+on its operations. However, the reduction in available borrowing of $50.0
+million in mid-1999 may require the Company to explore other financing
+alternatives, including but not limited to a refinancing of its bank debt,
+raising new private or public debt, raising additional public equity capital,
+reducing the level of capital expenditures, reducing operating costs and selling
+certain assets. In the event that the Company is not able to successfully
+complete the financing alternatives just described the Company and its banking
+group would be required to negotiate revisions to the terms of the credit
+agreement.
+ 
+INFLATION
+ 
+     The Company believes that inflation has not had a material impact on its
+results of operations for the three months ended March 31, 1998 and 1997.
+ 
+FORWARD-LOOKING STATEMENTS
+ 
+     The Company is including the following cautionary statement in this Form
+10-Q to make applicable and take advantage of the safe harbor provisions of the
+Private Securities Litigation Reform Act of 1995 for any
+                                       12
+<PAGE>   13
+ 
+forward-looking statements made by, or on behalf of, the Company.
+Forward-looking statements include statements concerning plans, objectives,
+goals, strategies, future events or performance, and underlying assumptions and
+other statements which are other than statements of historical facts. From time
+to time, the Company may publish or otherwise make available forward-looking
+statements of this nature. All such subsequent forward-looking statements,
+whether written or oral and whether made by or on behalf of the Company, are
+also expressly qualified by these cautionary statements. Certain statements
+contained herein are forward-looking statements and accordingly involve risks
+and uncertainties, which could cause actual results, or outcomes to differ
+materially from those expressed in the forward-looking statements. The
+forward-looking statements contained herein are based on various assumptions,
+many of which are based, in turn, upon further assumptions. The Company's
+expectations, beliefs and projections are expressed in good faith and are
+believed by the Company to have a reasonable basis, including without
+limitation, management's examination of historical operating trends, data
+contained in the Company's records and other data available from third parties,
+but there can be no assurance that management's expectation, beliefs or
+projections will result or be achieved or accomplished. In addition to the other
+factors and matters discussed elsewhere herein, the following are important
+factors that, in the view of the Company, could cause actual results to differ
+materially from those discussed in the forward-looking statements:
+ 
+          1. Changes in economic conditions, in particular those, which affect
+     the retail and wholesale office product markets.
+ 
+          2. Changes in the availability and/or price of paper, in particular if
+     increases in the price of paper are not passed along to the Company's
+     customers.
+ 
+          3. Changes in senior management or control of the Company.
+ 
+          4. Inability to obtain new customers or retain existing ones.
+ 
+          5. Significant changes in competitive factors, including product
+     pricing conditions, affecting the Company.
+ 
+          6. Governmental/regulatory actions and initiatives, including, those
+     affecting financings.
+ 
+          7. Significant changes from expectations in actual capital
+     expenditures and operating expenses.
+ 
+          8. Occurrences affecting the Company's ability to obtain funds from
+     operations, debt or equity to finance needed capital expenditures and other
+     investments.
+ 
+          9. Significant changes in rates of interest, inflation or taxes.
+ 
+          10. Significant changes in the Company's relationship with its
+     employees and the potential adverse effects if labor disputes or grievance
+     were to occur.
+ 
+          11. Changes in accounting principles and/or the application of such
+     principles to the Company.
+ 
+     The foregoing factors could affect the Company's actual results and could
+cause the Company's actual results during 1998 and beyond to be materially
+different from any anticipated results expressed in any forward-looking
+statement made by or on behalf of the Company.
+ 
+     The Company disclaims any obligation to update any forward-looking
+statements to reflect events or other circumstances after date hereof.
+ 
+                                       13
+<PAGE>   14
+ 
+                          PART II -- OTHER INFORMATION
+ 
+ITEM 1  LEGAL PROCEEDINGS
+ 
+ITEM 3  DEFAULTS UPON SENIOR SECURITIES
+ 
+ITEM 4  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+     The Company held its Annual Meeting of Shareholders on April 28, 1998. The
+following matters were submitted to a vote of shareholders of the Company's
+common stock with the results indicated below:
+ 
+<TABLE>
+<CAPTION>
+                                                                        WITHHELD, AGAINST
+                         MATTER                            APPROVED       OR ABSTAINED
+                         ------                           ----------    -----------------
+<S>                                                       <C>           <C>
+Election of Class I Directors -- Russell M. Gard,
+  Herbert M. Kohn, and Marc B. Walpow...................  23,012,364        1,981,633
+Ratification of Price Waterhouse LLP as independent
+  auditors for the Company..............................  24,947,250           46,747
+</TABLE>
+ 
+ITEM 6  EXHIBITS AND REPORTS ON FORM 8-K
+ 
+     (a) Exhibits. The following Exhibits are filed herewith and made a part
+hereof:
+ 
+<TABLE>
+<CAPTION>
+      EXHIBIT NO.                           DESCRIPTION OF EXHIBIT
+      -----------                           ----------------------
+<C>                      <S>
+           4.18          -- Fourth Amendment to the Credit Agreement, dated as of
+                            April 6, 1998, among the Company, WR Acquisition, Inc.,
+                            American Pad & Paper Company of Delaware, Inc., various
+                            Lending Institutions, Bank of Tokyo-Mitsubishi Trust
+                            Company, Bank One, Texas, N.A., The Bank of Nova Scotia
+                            and the First National Bank of Boston, as Co-Agents and
+                            Bankers Trust Company, as Agent.
+          27.1           -- Financial Data Schedule
+</TABLE>
+ 
+     (b) Reports on Form 8-K.
+ 
+          No reports on Form 8-K were filed during the first quarter of 1998 and
+     through the date of the filing of this report.
+ 
+                                       14
+<PAGE>   15
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+American Pad & Paper Company has duly caused this report to be signed on May 11,
+1998 on their behalf by the undersigned thereunto duly authorized.
+ 
+<TABLE>
+<S>                                                    <C>
+                /s/ GREGORY M. BENSON                               /s/ WILLIAM W. SOLOMON, JR.
+- -----------------------------------------------------  -----------------------------------------------------
+                  Gregory M. Benson                                   William W. Solomon, Jr.
+      Director, Interim Chief Financial Officer                    Vice President -- Controller
+             Principal Financial Officer                           Principal Accounting Officer
+</TABLE>
+ 
+                                       15
+<PAGE>   16
+ 
+                               INDEX TO EXHIBITS
+ 
+<TABLE>
+<CAPTION>
+      EXHIBIT NO.                           DESCRIPTION OF EXHIBIT
+      -----------                           ----------------------
+<C>                      <S>
+           4.18          -- Fourth Amendment to the Credit Agreement, dated as of
+                            April 6, 1998, among the Company, WR Acquisition, Inc.,
+                            American Pad & Paper Company of Delaware, Inc., various
+                            Lending Institutions, Bank of Tokyo-Mitsubishi Trust
+                            Company, Bank One, Texas, N.A., The Bank of Nova Scotia
+                            and the First National Bank of Boston, as Co-Agents and
+                            Bankers Trust Company, as Agent.
+          27.1           -- Financial Data Schedule
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.18
+<SEQUENCE>2
+<DESCRIPTION>4TH AMENDMENT TO CREDIT AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 4.18
+
+
+                                FOURTH AMENDMENT
+
+
+         FOURTH AMENDMENT (this "Amendment"), dated as of April 6, 1998, among
+American Pad & Paper Company ("Holdings"), WR Acquisition, Inc. ("WR
+Acquisition"), American Pad & Paper Company of Delaware, Inc. (the "Borrower"),
+the lending institutions party to the Credit Agreement referred to below (each a
+"Bank" and, collectively, the "Banks"), Bank of Tokyo-Mitsubishi Trust Company,
+Bank One Texas, N.A., The Bank of Nova Scotia and The First National Bank of
+Boston, as Co-Agents (the "Co-Agents"), and Bankers Trust Company, as Agent (the
+"Agent"). All capitalized terms used herein and not otherwise defined herein
+shall have the respective meanings provided such terms in the Credit Agreement.
+
+
+                              W I T N E S S E T H:
+
+
+         WHEREAS, Holdings, WR Acquisition, the Borrower, the Banks, the
+Co-Agents and the Agent are party to a Credit Agreement, dated as of July 8,
+1996 (as amended, modified and supplemented prior to the date hereof, the
+"Credit Agreement"); and
+
+         WHEREAS, the Borrower has requested that the Banks provide the
+amendment provided for herein and the Banks have agreed to provide such
+amendment on the terms and conditions set forth herein;
+
+         NOW, THEREFORE, it is agreed:
+
+         1.    Section 8.10 of the Credit Agreement is hereby amended to read in
+its entirety as follows:
+
+               8.10 Minimum Consolidated EBITDA. The Borrower will not permit 
+     Consolidated EBITDA (i) for the fiscal quarter ending March 31, 1998, to be
+     less than $11,300,000, (ii) for the two fiscal quarters ending June 30,
+     1998 (taken as one accounting period), to be less than $28,000,000, (iii)
+     for the three fiscal quarters ending September 30, 1998 (taken as one
+     accounting period), to be less than $48,000,000, (iv) for the fiscal year
+     ending December 31, 1998, to be less than $72,000,000 and (v) for any Test
+     Period ending on or after March 31, 1999, to be less than $75,000,000.
+
+         2.    In order to induce the Banks to enter into this Amendment, each 
+of Holdings, WR Acquisition and the Borrower hereby represents and warrants that
+(i) no Default or Event of Default exists as of the Amendment Effective Date (as
+defined below) after giving effect to this Amendment and (ii) on the Amendment
+Effective Date, both before and after giving effect to this Amendment, all
+representations and warranties contained in the Credit Agreement and in the
+other Credit Documents are true and correct in all material respects.
+
+         3.    This Amendment shall become effective on the date (the "Amendment
+Effective Date") when the Required Banks, Holdings, WR Acquisition and the
+Borrower shall have signed a counterpart hereof (whether the same or different 
+counterparts) and shall have delivered (including by way of facsimile
+transmission) the same to the Agent at its Notice Office;
+
+
+                                       1
+<PAGE>   2
+
+
+         4.    This Amendment is limited as specified and shall not constitute a
+modification, acceptance or waiver of any other provision of the Credit
+Agreement or any other Credit Document.
+
+         5.    This Amendment may be executed in any number of counterparts and 
+by the different parties hereto on separate counterparts, each of which
+counterparts when executed and delivered shall be an original, but all of which
+shall together constitute one and the same instrument. A complete set of
+counterparts shall be lodged with the Borrower and the Agent.
+
+
+               THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES 
+HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK.
+
+                                      * * *
+
+
+
+                                       2
+<PAGE>   3
+
+         IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart
+of this Amendment to be duly executed and delivered as of the date hereof.
+
+
+
+
+                                       AMERICAN PAD & PAPER COMPANY
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       WR ACQUISITION, INC.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       AMERICAN PAD & PAPER COMPANY OF
+                                       DELAWARE, INC.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+                                       BANKERS TRUST COMPANY, individually
+                                         and as Agent
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       3
+<PAGE>   4
+                                       ABN AMRO BANK
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                        BANK LEUMI TRUST CO. OF NEW YORK
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       THE BANK OF NEW YORK
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       THE BANK OF NOVA SCOTIA
+ 
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       4
+
+<PAGE>   5
+
+                                        BANK OF SCOTLAND
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       BANK OF TOKYO-MITSUBISHI TRUST COMPANY
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       BANK ONE TEXAS
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       BANQUE PARIBAS
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+
+                                       5
+<PAGE>   6
+
+                                       CHRISTIANIA BANK OG KREDITKASSE,
+                                         NEW YORK BRANCH
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       CIBC INC.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       BANKBOSTON, N.A.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       GUARANTY FEDERAL BANK, F.S.B.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       6
+<PAGE>   7
+
+                                       THE INDUSTRIAL BANK OF JAPAN, 
+                                         LIMITED
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       THE LONG-TERM CREDIT BANK OF 
+                                         JAPAN, LIMITED, NEW YORK BRANCH
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       SANWA BUSINESS CREDIT
+                                         CORPORATION
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       SOCIETE GENERALE
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                       7
+<PAGE>   8
+
+                                       LEHMAN COMMERCIAL PAPER, INC.
+
+
+
+                                       By:
+                                          ------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+
+                                       8
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> CT
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1998
+<PERIOD-START>                             JAN-01-1998
+<PERIOD-END>                               MAR-31-1998
+<TOTAL-ASSETS>                                 647,661
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           277
+<OTHER-SE>                                      98,315
+<TOTAL-LIABILITY-AND-EQUITY>                   647,661
+<TOTAL-REVENUES>                               161,595
+<INCOME-TAX>                                   (2,170)
+<INCOME-CONTINUING>                            (2,085)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   (2,085)
+<EPS-PRIMARY>                                    (.08)
+<EPS-DILUTED>                                        0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1444 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N/pP5Czt3L3g8W5qvYLPf1r50tZDKKGzkvkQOo568+wchMwxGXLbjnGUSjelSyqF
+ 67gImGECjH9LCUdyGBDJsA==
+
+<SEC-DOCUMENT>0000950134-97-008577.txt : 19971117
+<SEC-HEADER>0000950134-97-008577.hdr.sgml : 19971117
+ACCESSION NUMBER:		0000950134-97-008577
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19970930
+FILED AS OF DATE:		19971114
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043146298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		97720549
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		2147336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO OF DELAWARE INC
+		CENTRAL INDEX KEY:			0000817647
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				251512956
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	333-03006
+		FILM NUMBER:		97720550
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252-5613
+		BUSINESS PHONE:		2126912000
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WILLIAMHOUSE REGENCY OF DELAWARE INC
+		DATE OF NAME CHANGE:	19960328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR QUARTER ENDED SEPTEMBER 30, 1997
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+===============================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington D.C. 20549
+
+                                   FORM 10-Q
+
+       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1997
+
+                         Commission file number 1-11803
+
+                          AMERICAN PAD & PAPER COMPANY
+             (Exact name of registrant as specified in its charter)
+
+
+                    Delaware                                04-3164298
+         (State or other jurisdiction of                (I.R.S. Employer
+         incorporation or organization)                Identification No.)
+
+   17304 Preston Road, Suite 700, Dallas, TX               75252-5613
+   (Address of principal executive offices)                (Zip Code)
+
+       Registrant's telephone number, including area code: (972) 733-6200
+
+
+                        Commission file number 333-3006
+
+                 AMERICAN PAD & PAPER COMPANY OF DELAWARE, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+                    Delaware                               25-1512956
+         (State or other jurisdiction of                (I.R.S. Employer
+         incorporation or organization)                Identification No.)
+
+   17304 Preston Road, Suite 700, Dallas, TX               75252-5613
+   (Address of principal executive offices)                (Zip Code)
+
+       Registrant's telephone number, including area code: (972) 733-6200
+
+         Indicate by check mark whether each Registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that
+each Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+         American Pad & Paper Company                         Yes  X    No
+                                                                  ---      ---
+         American Pad & Paper Company of Delaware, Inc.       Yes  X    No
+                                                                  ---      ---
+
+         As of November 10, 1997, American Pad & Paper Company has 27,435,839
+shares of Common Stock outstanding. As of November 10, 1997, American Pad &
+Paper Company of Delaware, Inc. had 100 shares of Common Stock outstanding, all
+of which are indirectly owned by American Pad & Paper Company.
+
+===============================================================================
+<PAGE>   2
+
+                          AMERICAN PAD & PAPER COMPANY
+
+                 AMERICAN PAD & PAPER COMPANY OF DELAWARE, INC.
+
+                   QUARTERLY PERIOD ENDED SEPTEMBER 30, 1997
+
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                                               PAGE NO.
+                                                                                                               --------
+<S>           <C>                                                                                                <C>
+PART I        FINANCIAL INFORMATION
+
+     Important Explanatory Note...........................................................................        2
+
+     Item 1   Financial Statements
+
+         Condensed Consolidated Balance Sheets as of
+              September 30, 1997 (unaudited) and December 31, 1996........................................        3
+
+         Condensed Consolidated Statements of Operations for the three and nine months ended
+              September 30, 1997 and 1996 (unaudited).....................................................        4
+
+         Condensed Consolidated Statements of Cash Flows for the nine months
+              ended September 30, 1997 and 1996 (unaudited)...............................................        5
+
+         Notes to Condensed Consolidated Financial Statements (unaudited).................................        6
+
+     Item 2   Management's Discussion and Analysis of Financial Condition and Results of
+              Operations .................................................................................       13
+
+PART II  OTHER INFORMATION
+
+     Item 6   Exhibits and Reports on Form 8-K............................................................       17
+</TABLE>
+
+                          PART I FINANCIAL INFORMATION
+
+IMPORTANT EXPLANATORY NOTE
+
+         This integrated Form 10-Q is filed pursuant to the Securities Exchange
+Act of 1934, as amended, for each of American Pad & Paper Company, a Delaware
+corporation, and its wholly owned subsidiary, American Pad & Paper Company of
+Delaware, Inc., a Delaware corporation. Unless the context requires otherwise,
+references herein to the "Company" refer to both American Pad & Paper Company
+and American Pad & Paper Company of Delaware, Inc. American Pad & Paper Company
+is a holding company with no operations separate from its operating subsidiary,
+American Pad & Paper Company of Delaware, Inc. No separate financial
+information for American Pad & Paper Company of Delaware, Inc. has been
+provided herein because management of the Company believes such information
+would not be meaningful because (i) American Pad & Paper Company of Delaware,
+Inc. is the only operating subsidiary of American Pad & Paper Company, which
+has no operations other than those of American Pad & Paper Company of Delaware,
+Inc. and its subsidiaries and (ii) all assets and liabilities of American Pad &
+Paper Company are recorded on the books of American Pad & Paper Company of
+Delaware, Inc. There is no material difference between American Pad & Paper
+Company and American Pad & Paper Company of Delaware, Inc. for the disclosure
+required by the instructions to Form 10-Q and therefore, unless otherwise
+indicated, the responses set forth herein apply to each of American Pad & Paper
+Company and American Pad & Paper of Delaware, Inc.
+
+
+
+                                       2
+<PAGE>   3
+
+                          AMERICAN PAD & PAPER COMPANY
+
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                              September 30,  December 31,
+                                                                                  1997           1996
+                                                                               ---------      ---------
+<S>                                                                            <C>            <C>      
+                                    ASSETS
+
+Current assets:
+       Cash                                                                    $     674      $   2,290
+       Accounts receivable                                                        77,625         57,054
+       Inventories                                                               157,882        105,667
+       Prepaid expense and other current assets                                    2,798          4,739
+       Deferred income taxes                                                      11,188         10,754
+                                                                               ---------      ---------
+              Total current assets                                               250,167        180,504
+
+Property, plant and equipment                                                    148,810        133,090
+Intangible assets                                                                237,581        192,367
+Other                                                                              4,543          3,456
+                                                                               ---------      ---------
+              Total assets                                                     $ 641,101      $ 509,417
+                                                                               =========      =========
+
+                     LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+       Current portion of long-term debt                                       $   1,657      $   2,171
+       Accounts payable                                                           67,440         44,932
+       Accrued expenses                                                           40,309         55,041
+       Income taxes payable                                                        7,950            503
+                                                                               ---------      ---------
+              Total current liabilities                                          117,356        102,647
+
+Long-term debt                                                                   368,547        269,812
+Deferred income taxes                                                             38,433         30,981
+Other                                                                              1,260          1,378
+                                                                               ---------      ---------
+              Total liabilities                                                  525,596        404,818
+                                                                               ---------      ---------
+
+Commitments and contingencies
+Stockholders' equity:
+       Preferred stock, 150 shares authorized,
+              no shares issued and outstanding                                        --             --
+       Common stock, voting, $0.01 par value, 75,000
+              shares authorized, 27,436 and 27,400 issued and outstanding,
+              respectively                                                           274            274
+       Additional paid-in capital                                                301,280        300,721
+       Accumulated deficit                                                      (186,049)      (196,396)
+                                                                               ---------      ---------
+              Total stockholders' equity                                         115,505        104,599
+                                                                               ---------      ---------
+
+              Total liabilities and stockholders' equity                       $ 641,101      $ 509,417
+                                                                               =========      =========
+</TABLE>
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       3
+<PAGE>   4
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+<TABLE>
+<CAPTION>
+                                                  Three months ended            Nine months ended
+                                                     September 30,                 September 30,
+                                               ------------------------      ------------------------
+                                                 1997            1996           1997           1996
+                                               ---------      ---------      ---------      ---------
+<S>                                            <C>            <C>            <C>            <C>      
+Net sales                                      $ 176,462      $ 173,606      $ 493,456      $ 407,813
+
+Cost of sales                                    148,246        137,569        401,419        323,317
+                                               ---------      ---------      ---------      ---------
+
+     Gross profit                                 28,216         36,037         92,037         84,496
+
+Operating expenses:
+
+     Selling and marketing                         5,425          4,945         15,323         12,165
+
+     General and administrative                    9,463          7,581         26,205         22,051
+
+     Management fees and services                    592          1,786          4,284          2,846
+                                               ---------      ---------      ---------      ---------
+
+Income from operations                            12,736         21,725         46,225         47,434
+
+Other income (expense):
+
+     Interest                                     (9,851)        (9,940)       (27,646)       (34,972)
+
+     Other income, net                               112            408            233          1,179
+                                               ---------      ---------      ---------      ---------
+
+Income before income taxes and
+   extraordinary item                              2,997         12,193         18,812         13,641
+
+Provision for income taxes                         1,350          5,268          8,465          5,893
+                                               ---------      ---------      ---------      ---------
+
+Income before extraordinary item                   1,647          6,925         10,347          7,748
+
+Extraordinary loss from extinguishment of
+   debt (net of income tax benefit of
+   $12,018 and $13,009, respectively)                 --        (18,695)            --        (19,995)
+                                               ---------      ---------      ---------      ---------
+
+Net income (loss)                              $   1,647      $ (11,770)     $  10,347      $ (12,247)
+                                               =========      =========      =========      =========
+
+Earnings per share:
+       Income before extraordinary item        $    0.06      $    0.24      $    0.35      $    0.26
+       Extraordinary item                             --          (0.64)            --          (0.67)
+                                               ---------      ---------      ---------      ---------
+       Net income (loss)                       $    0.06      $   (0.40)     $    0.35      $   (0.41)
+                                               =========      =========      =========      =========
+
+Weighted average common shares outstanding        29,389         29,351         29,382         29,607
+</TABLE>
+
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+ 
+                                      4
+<PAGE>   5
+
+                          AMERICAN PAD & PAPER COMPANY
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                              Nine months ended September 30,
+                                                                              -------------------------------
+                                                                                   1997            1996
+                                                                                 ---------      ---------
+<S>                                                                              <C>            <C>       
+Cash flows from operating activities:
+    Net income (loss)                                                            $  10,347      $ (12,247)
+    Adjustments to reconcile net income (loss) to net cash provided by (used
+      in) operating activities:
+         Depreciation                                                                9,167          6,796
+         Amortization of goodwill and intangible assets                              4,528          3,340
+         Extraordinary loss on extinguishment of debt                                   --         19,995
+         Amortization of debt issuance costs                                         1,900          3,167
+         Gain on sale of assets                                                         --            (49)
+         Changes in assets and liabilities, net of effects of acquisitions:
+            Accounts receivable                                                     (9,649)       (12,035)
+            Refundable income taxes                                                     --          3,657
+            Inventories                                                            (47,703)         8,638
+            Prepaid expenses and other                                                (798)        (1,279)
+            Deferred income tax asset, net                                           6,935         12,795
+            Accounts payable                                                        15,637         (5,457)
+            Accrued expenses                                                       (21,603)        (2,852)
+            Other assets                                                             2,139          1,646
+            Other liabilities                                                       (1,216)           677
+                                                                                 ---------      ---------
+              Net cash provided by (used in) operating activities                  (30,316)        26,792
+                                                                                 ---------      ---------
+
+Cash flows from investing activities:
+    Purchase of business, including acquisition costs                              (50,666)       (52,894)
+    Purchases of property and equipment                                            (15,448)        (7,630)
+    Proceeds from sale of assets                                                     3,286            913
+    Net cash generated from assets held for sale                                        --         40,272
+                                                                                 ---------      ---------
+              Net cash used in investing activities                                (62,828)       (19,339)
+                                                                                 ---------      ---------
+
+Cash flows from financing activities:
+    Borrowings on credit agreement and long-term debt                               99,400        192,773
+    Repayment of long-term debt                                                     (1,179)      (351,213)
+    Repayment of old accounts receivable financing                                      --        (45,000)
+    Proceeds from new accounts receivable financing                                 39,000         45,000
+    Repayment of new accounts receivable financing                                 (46,000)       (10,000)
+    Redemption premiums included in extraordinary loss                                  --         (7,700)
+    Debt issuance costs                                                                 --         (9,572)
+    Net proceeds from initial public offering                                           --        173,118
+    Other                                                                              307             --
+                                                                                 ---------      ---------
+
+              Net cash provided by (used in) financing activities                   91,528        (12,594)
+                                                                                 ---------      ---------
+
+Net decrease in cash                                                                (1,616)        (5,141)
+
+Cash, beginning of period                                                            2,290         18,341
+                                                                                 ---------      ---------
+
+Cash, end of period                                                              $     674      $  13,200
+                                                                                 =========      =========
+</TABLE>
+
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       5
+<PAGE>   6
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+1.       ORGANIZATION AND BASIS OF PRESENTATION
+
+         Organization and Basis of Presentation
+
+         American Pad & Paper Company (the "Company") is a holding company
+which conducts its operations through American Pad & Paper Company of Delaware,
+Inc. and its wholly owned subsidiaries.
+
+         The financial statements of the Company present the accounts and
+operations of the Company and its wholly owned subsidiaries. Additionally, the
+consolidated financial statements include the accounts of Notepad Funding
+Corporation, a special purpose corporation utilized in the accounts receivable
+facility. All significant intercompany balances have been eliminated. Certain
+prior and current year amounts have been reclassified for comparative purposes.
+
+         Business
+
+         The Company is one of the largest manufacturers and marketers of
+paper-based office products in North America. The Company operates in one
+business segment, converting paper into office products, and offers a broad
+assortment of products through two complementary divisions: Ampad (writing
+pads, file folders, retail envelopes, machine papers, and other paper-based
+office products) and Williamhouse (business envelopes and machine papers). The
+Company's products are distributed through large mass merchant retailers,
+office product superstores, warehouse clubs, major contract stationers, office
+products wholesalers, paper merchants, and independent dealers. Substantially
+all sales are to customers within the United States.
+
+         Interim Financial Information
+
+         The accompanying interim financial statements are unaudited. Certain
+information and disclosures normally included in financial statements prepared
+in accordance with generally accepted accounting principles have been condensed
+or omitted, although the Company believes the disclosures included herein are
+adequate to make the information presented not misleading. These interim
+financial statements should be read in conjunction with the Company's financial
+statements for the year ended December 31, 1996.
+
+         The accompanying interim financial statements contain all adjustments,
+consisting only of normal recurring adjustments, necessary for a fair
+presentation of the Company's financial position at September 30, 1997, and the
+results of its operations and its cash flows for the nine and three month
+periods ended September 30, 1997 and 1996. The results of operations for the
+interim periods presented are not necessarily indicative of results to be
+expected for the full fiscal year.
+
+2.       SIGNIFICANT ACQUISITION - SHADE/ALLIED, INC.
+
+         Effective February 11, 1997, the Company acquired all of the
+outstanding common and preferred stock of Shade/Allied, Inc., ("Shade/Allied")
+for approximately $50,668, consisting of $49,477 in cash and $1,191 in direct
+acquisition costs, financed by the Company's bank credit agreement. This
+acquisition has been recorded following the purchase method of accounting and,
+accordingly, the purchase price has been preliminarily allocated to the assets
+and liabilities at their fair market values. The excess of the purchase price
+over the fair market value of the net assets acquired was allocated to goodwill
+and amortized on a straight-line basis over 40 years. The Company preliminarily
+allocated the purchase price as follows: trade accounts receivable of $4,585,
+inventories of $5,760, other current assets of $856, property, plant and
+equipment of $14,825, identifiable intangible assets of $5,610, deferred income
+tax liability of $7,316, current liabilities of $13,957, noncurrent liabilities
+of $1,145 and goodwill of $41,450. The operating results of Shade/Allied have
+been included in the accompanying condensed consolidated financial statements
+since the date of acquisition.
+
+
+
+
+                                       6
+<PAGE>   7
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+3.       ACCOUNTS RECEIVABLE
+
+         Accounts receivable consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                              September 30,  December 31,
+                                                                  1997          1996
+                                                                --------      --------
+<S>                                                             <C>           <C>     
+Accounts receivable - trade, excluding $47,000 and $54,000,
+         respectively, which are sold as part of a $60,000         
+         accounts receivable financing facility                 $ 74,188      $ 56,431
+Accounts receivable - other                                        4,424         2,839
+
+Less allowance for doubtful accounts and reserves for
+         customers deductions, returns and cash discounts           (987)       (2,216)
+                                                                --------      --------
+                                                                $ 77,625      $ 57,054
+                                                                ========      ========
+</TABLE>
+
+
+4.       INVENTORIES
+
+         Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                                        September 30, December 31,
+                                            1997         1996
+                                          --------     --------
+<S>                                       <C>          <C>     
+Raw materials and semi-finished goods     $ 53,787     $ 41,505
+Work in process                              5,077        4,695
+Finished goods                              97,260       58,607
+                                          --------     --------
+                                           156,124      104,807
+LIFO reserve                                 1,758          860
+                                          --------     --------
+                                          $157,882     $105,667
+                                          ========     ========
+</TABLE>
+
+
+5.       PROPERTY, PLANT AND EQUIPMENT
+
+         Property, plant and equipment consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                 September 30, December 31,
+                                                     1997         1996
+                                                   --------     --------
+<S>                                                <C>          <C>     
+Land                                               $  7,138     $  6,749
+Buildings                                            30,544       30,532
+Machinery and equipment                             108,880       96,790
+Office furniture and fixtures                         9,467        8,263
+Construction in progress                             15,889        5,060
+                                                   --------     --------
+                                                    171,918      147,394
+Less accumulated depreciation and amortization       23,108       14,304
+                                                   --------     --------
+                                                   $148,810     $133,090
+                                                   ========     ========
+</TABLE>
+
+
+
+                                       7
+<PAGE>   8
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+6.       INTANGIBLE ASSETS
+
+         Intangible assets consist of the following:
+
+<TABLE>
+<CAPTION>
+                                            September 30, December 31,
+                                                1997         1996
+                                              --------     --------
+<S>                                           <C>          <C>     
+Goodwill                                      $191,786     $146,006
+Intangible assets, principally tradenames       44,023       38,169
+Debt issuance costs                             18,377       18,369
+                                              --------     --------
+                                               254,186      202,544
+Less accumulated amortization                   16,605       10,177
+                                              --------     --------
+                                              $237,581     $192,367
+                                              ========     ========
+</TABLE>
+
+
+7.       ACCRUED EXPENSES
+
+         Accrued expenses consist of the following:
+
+<TABLE>
+<CAPTION>
+                               September 30, December 31,
+                                    1997        1996
+                                  -------     -------
+<S>                               <C>         <C>    
+Acquisition integration costs     $10,167     $12,695
+Sales volume discounts              5,726      20,184
+Salaries and wages                  9,553       8,738
+Interest                            9,474       4,171
+Other                               5,389       9,253
+                                  -------     -------
+                                  $40,309     $55,041
+                                  =======     =======
+</TABLE>
+
+8.       EARNINGS PER SHARE
+
+         Effective December 15, 1997, the Company will report basic and diluted
+earnings per share following the guidance provided in Statement of Financial
+Accounting Standards Number 128, Earnings Per Share. Basic earnings per share
+will be computed as the quotient of net income divided by the actual number of
+outstanding shares of common stock at the end of a period. Diluted earnings per
+share will be computed as the quotient of net income divided by the number of
+outstanding shares of common stock as adjusted for common stock options. The
+adjustment for common stock options will be calculated by assuming that all
+dilutive options are exercised, that the proceeds from such exercise are used
+to repurchase shares of the Company's stock at the average price of the common
+stock during the period and that the Company will also generate proceeds and
+repurchase shares from the tax benefits associated with the assumed exercise of
+the common stock options. Early adoption of this new accounting standard is not
+permitted nor is the Company permitted to present the earnings per share
+information calculated following this guidance on the face of the Company's
+statement of operations.
+
+
+
+                                       8
+<PAGE>   9
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+         If the Company had determined its earnings per share under the new
+accounting standard, the following earnings per share information would be
+presented:
+
+<TABLE>
+<CAPTION>
+                                                      Three months ended                 Nine months ended
+                                                         September 30,                     September 30,
+                                                     -------------------               -------------------- 
+                                                      1997         1996                 1997          1996
+                                                     ------       ------               ------        ------ 
+<S>                                                   <C>         <C>                   <C>          <C>    
+         Basic earnings per share                     $0.06       $(0.43)               $0.38        $(0.45)
+         Diluted earnings per share                   $0.06       $(0.40)               $0.35        $(0.41)
+</TABLE>
+
+
+         The Company intends to adopt the new accounting standard effective
+December 31, 1997 and will present the basic and diluted earnings per share
+information as part of the quarterly financial data in the Company's annual
+report to shareholders.
+
+         Given the changes in the Company's capital structure effected in
+connection with the initial public offering of the Company's common stock,
+historical earnings per share for 1996 are not presented in the condensed
+consolidated statement of income as it is not considered to be meaningful. Pro
+forma weighted average shares outstanding reflect conversion of the preferred
+stock into common stock for the same periods outstanding as the underlying
+common stock on which the preferred stock was issued and the initial public
+offering of common stock.
+
+         The pro forma weighted average shares outstanding gives effect to the
+8.1192-for-one stock split and has been adjusted to reflect as outstanding,
+using the treasury stock method at the estimated initial public offering price,
+all shares issuable upon the exercise of stock options granted subsequent to
+April 25, 1995 (one year prior to the initial public offering filing date
+pursuant to the Securities and Exchange Commission's rules).
+
+9.       CONDENSED CONSOLIDATING FINANCIAL INFORMATION OF GUARANTOR SUBSIDIARY
+
+         The 13% senior subordinated notes are guaranteed by Shade/Allied,
+Inc., a wholly owned subsidiary of American Pad & Paper Company of Delaware,
+Inc. ("Delaware"). The subsidiary guaranty is full, unconditional and joint and
+several. The Company is not a guarantor of the senior subordinated notes.
+Separate financial statements of the guarantor subsidiary are not presented
+because management has determined that they would not be material to investors.
+However, condensed consolidating financial information as of September 30, 1997
+and for the three and nine months then ended is presented. Shade/Allied was
+acquired by Delaware on February 11, 1997 and, as a result, the nine month
+period ended September 30, 1997 is the first period in which the Company's
+historical results include the results of operations of Shade/Allied and is the
+first period where Shade/Allied was a guarantor subsidiary. The condensed
+consolidating financial information is as follows:
+
+
+
+                                       9
+<PAGE>   10
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                       Condensed Consolidating Balance Sheet
+                                                September 30, 1997
+- ----------------------------------------------------------------------------------------------------------------------
+
+
+                                                   The        Guarantor     Nonguarantor                  Consolidated
+                                                 Company      subsidiary     subsidiary   Eliminations        total
+                                                ---------     ----------     ----------   ------------      ---------
+<S>                                             <C>            <C>            <C>            <C>            <C>
+                   Assets
+
+Current assets:
+    Cash                                        $     671      $       3      $     --       $      --      $     674
+    Accounts receivable                             3,892          2,108         71,625             --         77,625
+    Intercompany receivable (payable)              45,568        (12,496)       (33,072)            --             --
+    Inventories                                   150,978          6,904             --             --        157,882
+    Prepaid expenses and other current
+      assets                                        2,732             36             30             --          2,798
+    Deferred income taxes                          11,188             --             --             --         11,188
+                                                ---------      ---------      ---------      ---------      ---------
+       Total current assets                       215,029         (3,445)        38,583             --        250,167
+
+Property, plant and equipment                     134,592         14,218             --             --        148,810
+Investment in subsidiaries                         90,969             --             --        (90,969)            --
+Intangible assets                                 191,056         46,145            380             --        237,581
+Other                                               4,543             --             --             --          4,543
+                                                ---------      ---------      ---------      ---------      ---------
+       Total assets                             $ 636,189      $  56,918      $  38,963      $ (90,969)     $ 641,101
+                                                =========      =========      =========      =========      =========
+
+    Liabilities and Stockholders' Equity
+
+Current liabilities:
+    Current portion of long-term debt           $   1,657      $      --      $      --      $      --      $   1,657
+    Accounts payable                               64,261          3,179             --             --         67,440
+    Accrued expenses                               38,576          1,613            120             --         40,309
+    Income taxes payable                            7,950             --             --             --          7,950
+                                                ---------      ---------      ---------      ---------      ---------
+       Total current liabilities                  112,444          4,792            120             --        117,356
+
+Long-term debt                                    368,547             --             --             --        368,547
+Deferred income taxes                              38,433             --             --             --         38,433
+Other liabilities                                   1,260             --             --             --          1,260
+                                                ---------      ---------      ---------      ---------      ---------
+       Total liabilities                          520,684          4,792            120             --        525,596
+                                                ---------      ---------      ---------      ---------      ---------
+
+Stockholders' equity:
+    Common stock                                      274             30             10            (40)           274
+    Additional paid-in capital                    301,280         50,588         35,399        (85,987)       301,280
+    Retained earnings (accumulated deficit)      (186,049)         1,508          3,434         (4,942)      (186,049)
+                                                ---------      ---------      ---------      ---------      ---------
+       Total stockholders' equity                 115,505         52,126         38,843        (90,969)       115,505
+                                                ---------      ---------      ---------      ---------      ---------
+       Total liabilities and stockholders'
+         equity                                 $ 636,189      $  56,918      $  38,963      $ (90,969)     $ 641,101
+                                                =========      =========      =========      =========      =========
+</TABLE>
+
+
+
+
+                                      10
+<PAGE>   11
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+
+<TABLE>
+<CAPTION>
+                               Condensed Consolidating Statement of Operations
+
+                                   Three months ended September 30, 1997
+- ------------------------------------------------------------------------------------------------------------
+
+
+
+                                          The        Guarantor     Nonguarantor                 Consolidated
+                                        Company      subsidiary    subsidiary    Eliminations       total
+                                       ---------     ----------    ----------      ---------      ---------
+<S>                                    <C>            <C>           <C>            <C>            <C>
+Net sales                              $ 176,462      $  15,858     $      --      $ (15,858)     $ 176,462
+Cost of sales                            148,246         15,858            --        (15,858)       148,246
+                                       ---------      ---------     ---------      ---------      ---------
+    Gross profit                          28,216             --            --             --         28,216
+
+Operating expenses:
+    Selling and marketing                  5,425             --            --             --          5,425
+    General and administrative             9,782             --          (319)            --          9,463
+    Management fees and services             592             --            --             --            592
+                                       ---------      ---------     ---------      ---------      ---------
+Income from operations                    12,417             --           319             --         12,736
+
+Other income (expense)
+    Interest                              (9,821)            --           (30)            --         (9,851)
+    Other income, net                        112             --            --             --            112
+                                       ---------      ---------     ---------      ---------      ---------
+Income before income taxes                 2,708             --           289             --          2,997
+
+Provision for income taxes                 1,220             --           130             --          1,350
+                                       ---------      ---------     ---------      ---------      ---------
+Income before equity in
+    earnings of subsidiaries               1,488             --           159             --          1,647
+Equity in earnings of subsidiaries           159             --            --           (159)            --
+                                       ---------      ---------     ---------      ---------      ---------
+Net income                             $   1,647      $      --     $     159      $    (159)     $   1,647
+                                       =========      =========     =========      =========      =========
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                 Nine months ended September 30, 1997
+- ------------------------------------------------------------------------------------------------------------
+                                          The        Guarantor    Nonguarantor                  Consolidated
+                                        Company      subsidiary    subsidiary     Eliminations      total
+                                       ---------     ----------    ----------      ---------      ---------
+<S>                                    <C>            <C>           <C>            <C>            <C>
+Net sales                              $ 465,155      $  44,159     $      --      $ (15,858)     $ 493,456
+Cost of sales                            376,482         40,795            --        (15,858)       401,419
+                                       ---------      ---------     ---------      ---------      ---------
+     Gross profit                         88,673          3,364            --             --         92,037
+
+Operating expenses:
+    Selling and marketing                 14,218          1,105            --             --         15,323
+    General and administrative            27,577            752        (2,124)            --         26,205
+    Management fees and services           4,284             --            --             --          4,284
+                                       ---------      ---------     ---------      ---------      ---------
+Income from operations                    42,594          1,507         2,124             --         46,225
+
+Other income (expense)
+    Interest                             (27,556)            --           (90)            --        (27,646)
+    Other income, net                        233             --            --             --            233
+                                       ---------      ---------     ---------      ---------      ---------
+Income before income taxes                15,271          1,507         2,034             --         18,812
+
+Provision for income taxes                 6,872            678           915             --          8,465
+                                       ---------      ---------     ---------      ---------      ---------
+Income before equity in
+    earnings of subsidiaries               8,399            829         1,119             --         10,347
+Equity in earnings of subsidiaries
+                                           1,948             --            --         (1,948)            --
+                                       ---------      ---------     ---------      ---------      ---------
+Net income                             $  10,347      $     829     $   1,119      $  (1,948)     $  10,347
+                                       =========      =========     =========      =========      =========
+</TABLE>
+
+
+
+
+                                       11
+<PAGE>   12
+                          AMERICAN PAD & PAPER COMPANY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 1997
+                (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+<TABLE>
+<CAPTION>
+                                          Condensed Consolidating Statement of Cash Flows
+                                               Nine months ended September 30, 1997
+ ---------------------------------------------------------------------------------------------------------------------------------
+                                                         The           Guarantor     Nonguarantor                    Consolidated
+                                                       Company         subsidiary     subsidiary     Eliminations        total
+                                                      --------         --------         --------         ------        --------
+<S>                                                   <C>              <C>              <C>              <C>           <C>      
+Net cash provided by (used in)
+    operating activities                              $(30,375)        $     51         $      8         $   --        $(30,316)
+
+Investing activities:
+    Purchase of business, including
+      acquisition costs                                (50,666)              --               --             --         (50,666)
+    Purchases of property, plant and equipment         (15,398)             (50)              --             --         (15,448)
+    Proceeds from sale of assets                         3,286               --               --             --           3,286
+                                                      --------         --------         --------         ------        --------
+      Net cash used in investing activities            (62,778)             (50)              --             --         (62,828)
+                                                      --------         --------         --------         ------        --------
+
+Financing activities:
+    Proceeds from long-term debt                        99,400               --               --             --          99,400
+    Repayment of long-term debt                         (1,179)              --               --             --          (1,179)
+    Repayment of new accounts receivable
+      facility                                          (7,000)              --               --             --          (7,000)
+    Other                                                  315               --               (8)            --             307
+                                                      --------         --------         --------         ------        --------
+      Net cash provided by
+         (used in) financing activities                 91,536               --               (8)            --          91,528
+                                                      --------         --------         --------         ------        --------
+Increase (decrease) in cash                             (1,617)               1               --             --          (1,616)
+Cash, beginning of period                                2,288                2               --             --           2,290
+                                                      --------         --------         --------         ------        --------
+Cash, end of period                                   $    671         $      3         $     --         $   --        $    674
+                                                      ========         ========         ========         ======        ========
+</TABLE>
+
+
+
+                                       12
+<PAGE>   13
+
+ITEM 2  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS.
+
+OVERVIEW
+
+         The Company is one of the largest manufacturers and marketers of
+nationally branded and private label paper-based office products (excluding
+copy paper) in the $60 billion to $70 billion North American office products
+industry. The Company offers a broad assortment of products including writing
+pads, file folders, envelopes, machine papers and other paper-based products.
+Through its Ampad division, the Company is among the largest and most important
+suppliers of pads and other paper-based writing products, filing supplies,
+machine papers and retail envelopes to many of the largest and fastest growing
+office products distributors. Through its Williamhouse division, the Company is
+the leading supplier of mill branded, specialty and commodity business
+envelopes to paper merchants and distributors. The Company believes that its
+future operating results will not be directly comparable to its historical
+operating results because of its strategic acquisitions and the expected cost
+savings from integration of its acquisitions. The Company's business has not
+generally been seasonal in nature. Certain factors which have affected, and may
+affect prospectively, the operating results of the Company are discussed below.
+
+         Strategic Acquisition. On February 11, 1997, the Company acquired
+Shade/Allied, a national supplier of machine papers, principally continuous
+computer forms. The purchase price of $50.7 million was financed with
+borrowings under the Company's bank credit agreement. Shade/Allied's products
+are distributed by both the Ampad and Williamhouse divisions and the
+manufacturing plants are integrated into the Ampad division. This acquisition
+provided the Company with a more significant position in a fourth product
+category.
+
+         Purchase Accounting Effects. The Company's acquisitions have been
+accounted for using the purchase accounting method. The acquisitions have
+currently affected, and will prospectively affect, the Company's results of
+operations in certain significant respects. The aggregate acquisition costs
+(including assumption of debt) are allocated to the net assets acquired based
+on the fair market value of such net assets. The allocations of the purchase
+price result in an increase in the historical book value of certain assets such
+as property, plant and equipment and intangible assets, including goodwill,
+which results in incremental annual depreciation and amortization expense each
+year.
+
+         Paper Prices. Paper represents a majority of the Company's cost of
+goods sold. While paper prices have increased by an average of less than 1%
+annually since 1989, certain commodity grades have shown considerable price
+volatility during that period. Beginning in January 1995, the Company adopted
+new pricing policies enabling it to set product prices consistent with the
+Company's cost of paper at the time of shipment. The Company believes that it
+is able to price its products so as to minimize the impact of price volatility
+on dollar margins. Paper price volatility has and is expected to continue to
+have an effect on net sales and cost of sales.
+
+RESULTS OF OPERATIONS
+
+         The following table summarizes the Company's historical results of
+operations as a percentage of net sales for the three and nine months ended
+September 30, 1997 and 1996. The Company's historical results of operations for
+each of these periods are significantly affected by the results for the
+following business acquired by the Company: (i) Niagara which was acquired on
+June 28, 1996 and (ii) Shade/Allied which was acquired on February 11, 1997.
+
+<TABLE>
+<CAPTION>
+                                                 Three months ended September 30,   Nine months ended September 30,
+    Income Statement Data                               1997            1996            1997            1996
+    ---------------------                               ----            ----            ----            ----
+<S>                                                     <C>             <C>             <C>             <C> 
+Net sales                                              100.0%          100.0%          100.0%          100.0%
+                                                      ======          ======          ======          ======
+Gross profit                                            16.0            20.8            18.7            20.7
+Selling, general and administrative expenses            (8.4)           (7.2)           (8.4)           (8.4)
+Management fees and services                            (0.4)           (1.1)           (0.9)           (0.7)
+                                                      ------          ------          ------          ------
+Income from operations                                   7.2            12.5             9.4            11.6
+Interest expense, net                                   (5.6)           (5.7)           (5.6)           (8.6)
+Other income                                             0.1             0.2             --              0.3
+                                                      ------          ------          ------          ------
+Income before income taxes and
+  extraordinary item                                     1.7             7.0             3.8             3.3
+Provision for income taxes                              (0.8)           (3.0)           (1.7)           (1.4)
+                                                      ------          ------          ------          ------
+Income before extraordinary item                         0.9             4.0             2.1             1.9
+Extraordinary loss from extinguishment of debt           --            (10.8)            --             (4.9)
+                                                      ------          ------          ------          ------
+Net income (loss)                                        0.9%           (6.8)%           2.1%           (3.0)%
+                                                      ======          ======          ======          ======
+</TABLE>
+
+
+
+                                       13
+<PAGE>   14
+                          AMERICAN PAD & PAPER COMPANY
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS
+                                  (CONTINUED)
+
+
+THREE MONTHS ENDED SEPTEMBER 30, 1997 COMPARED TO THREE MONTHS ENDED
+SEPTEMBER 30, 1996
+
+         Net Sales for the three months ended September 30, 1997 increased by
+$2.9 million, or 1.7%, to $176.5 million from $173.6 million for the three
+months ended September 30, 1996. Of this net sales increase, $18.2 million is
+related to the acquisition of Shade/Allied offset by a decrease in net sales
+from existing operations of approximately $15.3 million primarily as the result
+of reduced sales in the mass merchant and superstores customer channels.
+
+Gross Profit for the three months ended September 30, 1997 decreased by $7.8
+million, or 21.7%, to $28.2 million from $36.0 million for the three months
+ended September 30, 1996. The acquisition of Shade/Allied resulted in an
+increase in gross profit of approximately $2.4 million. The remaining decrease
+in gross profit of approximately $10.2 million is attributable to the reduced
+sales from existing operations. Gross profit margin decreased to 16.0% for the
+three months ended September 30, 1997 from 20.8% for the three months ended
+September 30, 1996. The decrease in gross profit margin is primarily
+attributable to increases in sales of relatively lower margin products,
+including those of Shade/Allied, as well as a highly competitive pricing market
+in the third quarter of 1997.
+
+         SG&A expenses for the three months ended September 30, 1997 increased
+$2.4 million, or 18.9%, to $14.9 million from $12.5 million for the three
+months ended September 30, 1996. This increase in SG&A expenses is primarily
+attributable to the acquisition of Shade/Allied. Management fees and services
+expense for the third quarter of 1997 decreased by approximately $1.2 million
+as compared to the same quarter of 1996 due primarily to a one year
+non-recurring consulting agreement with the former president of Niagara.
+
+         Interest expense for the three months ended September 30, 1997 of $9.9
+million was approximately equal to interest expense for the three months ended
+September 30, 1996.
+
+         The income tax provision for the three month period ended September
+30, 1997 reflects an effective tax rate of 45.0% versus an effective tax rate
+of 43.2% for the three month period ended September 30, 1996. The increase is
+attributable primarily to the nondeductible goodwill amortization resulting
+from the Shade/Allied acquisition.
+
+
+NINE MONTHS ENDED SEPTEMBER 30, 1997 COMPARED TO NINE MONTHS ENDED SEPTEMBER 
+30, 1996
+
+         Net Sales for the nine months ended September 30, 1997 increased by
+$85.7 million, or 21.0%, to $493.5 million from $407.8 million for the nine
+months ended September 30, 1996. Of this net sales increase, $52.7 million is
+related to the acquisition of Niagara and $46.5 million is related to the
+acquisition of Shade/Allied. The remaining decrease of approximately $13.5
+million is attributable to existing operations and primarily is the result of
+reduced sales in the mass merchant and superstores customer channels.
+
+         Gross Profit for the nine months ended September 30, 1997 increased by
+$7.5 million, or 8.9%, to $92.0 million from $84.5 million for the nine months
+ended September 30, 1996. Approximately $7.5 million of the increase in gross
+profit is attributable to the acquisition of Niagara and $5.8 million is
+attributable to the Shade/Allied acquisition. The remaining decrease in gross
+profit of approximately $5.8 million is primarily attributable to reduced sales
+from existing operations and competitive pricing pressures. Gross profit margin
+decreased to 18.7% for the nine months ended September 30, 1997 from 20.7% for
+the nine months ended September 30, 1996. The decrease in gross profit margin
+is primarily attributable to the addition of sales of the relatively lower
+margin Shade/Allied products and the highly competitive pricing environment
+experienced in 1997.
+
+
+
+                                       14
+<PAGE>   15
+                          AMERICAN PAD & PAPER COMPANY
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS
+                                  (CONTINUED)
+
+
+
+         SG&A expenses for the nine months ended September 30, 1997 increased
+$7.3 million, or 21.4%, to $41.5 million from $34.2 million for the nine months
+ended September 30, 1996. The acquisitions of Niagara and Shade/Allied resulted
+in additional expense for the nine months ended September 30, 1997 of
+approximately $6.3 million. Management fees and services expense for the first
+nine months of 1997 increased by approximately $1.4 million as compared to the
+comparable period of 1996 due primarily to a one year non-recurring consulting
+agreement with the former president of Niagara which commenced in the third
+quarter of 1996.
+
+         Interest expense for the nine months ended September 30, 1997
+decreased $7.3 million to $27.7 million from $35.0 million for the nine months
+ended September 30, 1996. The decrease is primarily attributable to the
+reduction in long-term debt which resulted from the Company's initial public
+offering of common stock in the third quarter of 1996. This decrease in
+indebtedness was partially offset by increased borrowings required for the
+Shade/Allied acquisition and for the increase in working capital.
+
+         The income tax provision for the nine month period ended September 30,
+1997 reflects an effective tax rate of 45.0% versus an effective tax rate of
+43.2% for the nine month period ended September 30, 1996. The increase is
+attributable primarily to the nondeductible goodwill amortization resulting
+from the Niagara and Shade/Allied acquisitions.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         Net cash used by operating activities for the nine months ended
+September 30, 1997 of $30.3 million was primarily the net result of the
+following: (i) cash provided from net income of $25.9 million after adjustment
+for non-cash expenses, (ii) an increase in accounts receivable of $9.6 million
+as a result of the increased sales volumes, (iii) an increase in inventories
+net of increased accounts payable of $32.1 million due to a buildup in
+anticipation of seasonal, promotional and new product sales and (iv) a
+reduction in accrued expenses of $21.6 million as annual customer volume
+rebates and incentive compensation were paid early in 1997.
+
+          Cash used in investing activities for the nine months ended September
+30, 1997 of $62.8 million was due to the acquisition of Shade/Allied and
+purchases of equipment.
+
+         Net cash provided by financing activities during the first nine months
+of 1997 was $91.5 million and primarily resulted from repayment of $7.0 million
+in financing outstanding under the accounts receivable credit facility and
+borrowings of $99.4 million under the bank credit agreement to finance: (i)
+such repayment, (ii) the acquisition of Shade/Allied, (iii) the purchases of
+equipment and (iv) growth in working capital.
+
+         Management believes that based on current levels of operations and
+anticipated internal growth, cash flow from operations, together with other
+available sources of funds including borrowings under the bank credit agreement
+and the accounts receivable facility and available cash on hand at September
+30, 1997 of $.7 million, will be adequate for the foreseeable future to make
+required payments of principal and interest on the Company's indebtedness, to
+fund anticipated capital expenditures, including anticipated capital
+expenditures of approximately $2 million during the remainder of 1997, and
+to meet working capital requirements.
+
+         As part of the Company's expected growth in the near term and in 
+connection with certain potential acquisitions which may be completed in the
+next year, the Company has commenced discussions with its lenders to increase
+the amount of borrowing capacity available under the revolving credit agreement
+and to modify certain debt covenants. The Company has been given preliminary
+oral indications the results of such discussions will be favorable. To the
+extent that the Company does not obtain these changes to its existing revolving
+credit agreement, the Company may not be in compliance with the required
+minimum ratio of consolidated debt to EDITDA (earnings before interest, taxes,
+depreciation and amortization) at the end of the fourth quarter of 1997. The
+Company expects that its banking group will either waive such covenant or amend
+the required ratio to an acceptable level for 1998. In the unlikely event that
+neither a waiver or amendment is obtained, it may be necessary for the Company
+to reduce its capital spending in 1998, alter its capital asset financing
+programs in 1998 or lower its operating costs during 1998 in order to meet the
+required ratio of consolidated debt to EDITDA.
+
+         Additionally, the ability of the Company to meet its debt service
+obligations and reduce its total debt will be dependent upon the future
+performance of the Company and its subsidiaries which, in turn, will be subject
+to general economic conditions and to financial, business and other factors,
+including factors beyond the Company's control. A portion of the consolidated
+debt of the Company bears interest at floating rates; therefore, its financial
+condition is and will continue to be affected by changes in prevailing interest
+rates. The Company has entered into an interest rate protection agreement to
+minimize the impact from a rise in interest rates.
+
+
+
+
+                                       15
+<PAGE>   16
+
+                          AMERICAN PAD & PAPER COMPANY
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS
+                                  (CONTINUED)
+
+
+INFLATION
+
+         The Company believes that inflation has not had a material impact on
+its results of operations for the three and nine months ended September 30,
+1997 and 1996.
+
+NEWLY ISSUED ACCOUNTING STANDARD
+
+         The Financial Accounting Standards Board ("FASB") issued Statement of 
+         Financial Accounting Standards No. 128, Earnings Per Share, which is
+         effective December 15, 1997 and which prescribes a new presentation of
+         earnings per share amounts as either "basic" or "diluted." Basic
+         earnings per share is to be calculated as net income divided by the
+         number of outstanding shares of common stock. Diluted earnings per
+         share is to be calculated in a manner similar to the "primary" earnings
+         per share currently presented by the Company. Diluted earnings per
+         share is calculated as net income divided by the number of outstanding
+         shares of common stock, as adjusted for common stock options. The
+         Company intends to implement the new accounting standard at the end of
+         1997 and,  as part of its 1997 annual report to shareholders and Form
+         10-K, will restate its quarterly earnings per share following the
+         guidelines in the new accounting standard. If the new standard had been
+         implemented during the third quarter of 1997, earnings per share would
+         have been presented as follows:
+        
+
+<TABLE>
+<CAPTION>
+                               Three months ended September 30,  Nine months ended September 30,
+                                  ---------------------------      --------------------------
+                                      1997            1996             1997            1996
+                                  -----------     -----------      -----------     ----------
+<S>                               <C>             <C>              <C>             <C>         
+Basic earnings per share          $      0.06     $     (0.43)     $      0.38     $     (0.45)
+Diluted earnings per share        $      0.06     $     (0.40)     $      0.35     $     (0.41)
+</TABLE>
+
+
+FORWARD-LOOKING STATEMENTS
+
+         The Company is including the following cautionary statement in this
+Form 10-Q to make applicable and take advantage of the safe harbor provisions
+of the Private Securities Litigation Reform Act of 1995 for any forward-looking
+statements made by, or on behalf of, the Company. Forward-looking statements
+include statements concerning plans, objectives, goals, strategies, future
+events or performance, and underlying assumptions and other statements which
+are other than statements of historical facts. From time to time, the Company
+may publish or otherwise make available forward-looking statements of this
+nature. All such subsequent forward-looking statements, whether written or oral
+and whether made by or on behalf of the Company, are also expressly qualified
+by these cautionary statements. Certain statements contained herein are
+forward-looking statements and accordingly involve risks and uncertainties
+which could cause actual results or outcomes to differ materially from those
+expressed in the forward-looking statements. The forward-looking statements
+contained herein are based on various assumptions, many of which are based, in
+turn, upon further assumptions. The Company's expectations, beliefs and
+projections are expressed in good faith and are believed by the Company to have
+a reasonable basis, including without limitation, management's examination of
+historical operating trends, data contained in the Company's records and other
+data available from third parties, but there can be no assurance that
+management's expectation, beliefs or projections will result or be achieved or
+accomplished. In addition to the other factors and matters discussed elsewhere
+herein, the following are important factors that, in the view of the Company,
+could cause actual results to differ materially from those discussed in the
+forward-looking statements:
+
+     1. Changes in economic conditions, in particular those which affect the
+        retail and wholesale office product markets. 
+     2. Changes in the availability and/or price of paper, in particular if 
+        increases in the price of paper are not passed along to the Company's 
+        customers.
+     3. Changes in senior management or control of the Company.
+     4. Inability to obtain new customers or retain existing ones.
+     5. Significant changes in competitive factors, including product pricing
+        conditions, affecting the Company. 
+     6. Governmental/regulatory actions and initiatives, including, those 
+        affecting financings. 
+     7. Significant changes from expectations in actual capital expenditures 
+        and operating expenses.
+     8. Occurrences affecting the Company's ability to obtain funds from
+        operations, debt or equity to finance needed capital expenditures and 
+        other investments.
+
+                                       16
+<PAGE>   17
+
+                          AMERICAN PAD & PAPER COMPANY
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS
+                                  (CONTINUED)
+
+     9.  Significant changes in rates of interest, inflation or taxes.
+     10. Significant changes in the Company's relationship with its employees
+         and the potential adverse effects if labor disputes or grievance were
+         to occur.
+     11. Changes in accounting principles and/or the application of such
+         principles to the Company.
+
+         The foregoing factors could affect the Company's actual results and
+could cause the Company's actual results during 1997 and beyond to be
+materially different from any anticipated results expressed in any
+forward-looking statement made by or on behalf of the Company.
+
+         The Company disclaims any obligation to update any forward-looking
+statements to reflect events or other circumstances after date hereof.
+
+
+
+                            PART II OTHER INFORMATION
+
+ITEM 6            EXHIBITS AND REPORTS ON FORM 8-K
+
+    (a) Exhibits. The following Exhibits are filed herewith and made a part
+hereof:
+
+       Exhibit No.                          Description of Exhibit
+       ----------                           ----------------------
+
+         27.1         Financial Data Schedule
+
+    (b)  Reports on Form 8-K.
+
+         The following reports on Form 8-K were filed during the third quarter
+         of 1997 and through the date of the filing of this report: 
+
+         (1)      Current Report on Form 8-K filed September 25, 1997 relating
+                  to the Company's September 15, 1997 press release stating that
+                  it expects to report significantly lower than expected
+                  revenues and earnings for the third and fourth quarters of
+                  1997.
+
+         (2)      Current Report on Form 8-K filed November 12, 1997 relating
+                  to the Company's November 3, 1997 press release announcing
+                  the resignation of Kevin McAleer, Chief Financial Officer.
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, American
+Pad & Paper Company and American Pad & Paper Company of Delaware, Inc. have
+duly caused this report to be signed on November 14, 1997 on their behalf by
+the undersigned thereunto duly authorized.
+
+/s/ William W. Solomon, Jr.
+- ------------------------------------------
+William W. Solomon, Jr.
+Vice President - Controller
+Principal Financial and Accounting Officer
+
+
+
+                                       17
+<PAGE>   18
+
+
+
+                                Index to Exhibits
+
+
+     Exhibit No.                          Description of Exhibit
+     ----------                           ----------------------
+
+       27.1                Financial Data Schedule
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<CIK> 0000005588
+<NAME> AMERICAN PAD AND PAPER CORP.
+<MULTIPLIER> 1,000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-1997             DEC-31-1997
+<PERIOD-START>                             JUL-01-1997             JAN-01-1997
+<PERIOD-END>                               SEP-30-1997             SEP-30-1997
+<CASH>                                             674                     674
+<SECURITIES>                                         0                       0
+<RECEIVABLES>                                   78,612                  78,612
+<ALLOWANCES>                                     (987)                   (987)
+<INVENTORY>                                    157,882                 157,882
+<CURRENT-ASSETS>                               250,167                 250,167
+<PP&E>                                         171,918                 171,918
+<DEPRECIATION>                                (23,108)                (23,108)
+<TOTAL-ASSETS>                                 641,101                 641,101
+<CURRENT-LIABILITIES>                          117,356                 117,356
+<BONDS>                                        368,547                 368,547
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                           274                     274
+<OTHER-SE>                                     115,231                 115,231
+<TOTAL-LIABILITY-AND-EQUITY>                   641,101                 641,101
+<SALES>                                        176,462                 493,456
+<TOTAL-REVENUES>                               176,462                 493,456
+<CGS>                                          148,246                 401,419
+<TOTAL-COSTS>                                  163,726                 447,231
+<OTHER-EXPENSES>                                 (112)                   (233)
+<LOSS-PROVISION>                                    51                     372
+<INTEREST-EXPENSE>                               9,851                  27,646
+<INCOME-PRETAX>                                  2,997                  18,812
+<INCOME-TAX>                                     1,350                   8,465
+<INCOME-CONTINUING>                              1,647                  10,347
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                     1,647                  10,347
+<EPS-PRIMARY>                                      .06                     .35
+<EPS-DILUTED>                                        0                       0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

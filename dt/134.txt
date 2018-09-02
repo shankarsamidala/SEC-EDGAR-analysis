@@ -1,0 +1,2357 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WMS8ebahQiXJBhYIrAf1XE/BiPe3xmDhBco/kHbZLb52B1Jhd/VOHdl4R7F+W/yJ
+ 1DS7ckNrdtGL/BHlOMhQZA==
+
+<SEC-DOCUMENT>0000006260-99-000007.txt : 19990518
+<SEC-HEADER>0000006260-99-000007.hdr.sgml : 19990518
+ACCESSION NUMBER:		0000006260-99-000007
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19990331
+FILED AS OF DATE:		19990517
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANACOMP INC
+		CENTRAL INDEX KEY:			0000006260
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				351144230
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-08328
+		FILM NUMBER:		99626223
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12365 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+		BUSINESS PHONE:		6196799797
+
+	MAIL ADDRESS:	
+		STREET 1:		12365 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMPUTEC INC
+		DATE OF NAME CHANGE:	19740314
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>10-Q
+<TEXT>
+
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+
+      (Mark One)
+      [ X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934.
+            For the quarterly period ended March 31, 1999
+
+                                       or
+
+      [   ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+            EXCHANGEACT OF 1934.
+            For the transition period from  ____________ to____________
+
+
+                         Commission file number: 1-8328
+
+
+                                  Anacomp, Inc.
+                   (Exact Name of Registrant as Specified in Its Charter)
+
+
+      Indiana                                         35-1144230
+(State or Other Jurisdiction of                     (I.R.S. Employer
+ Incorporation or Organization)                    Identification No.)
+
+
+
+                12365 Crosthwaite Circle, Poway, California 92064
+                                 (619) 679-9797
+   (Address, Including Zip Code, and Telephone Number, Including Area Code, of 
+                          Principal Executive Offices)
+
+
+      Indicate by check mark whether the  registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes     X     No        
+
+      Indicate by check mark  whether the  registrant  has filed all documents  
+and reports required  to be filed by  Section  12, 13 or 15(d) of the  
+Securities  Exchange  Act of 1934 subsequent  to the  distribution  of  
+securities  under a plan  confirmed  by a  court.  Yes    X     No       
+
+      As of April 30, 1999, the number of outstanding shares of the registrant's
+common stock, $.01 par value per share, was 14,214,860.
+
+
+
+<PAGE>
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                                      INDEX
+
+
+
+  PART I.    FINANCIAL INFORMATION                                 Page
+  Item 1.    Financial Statements.
+
+                Condensed Consolidated Balance Sheets at
+                   March 31, 1999 and September 30, 1998.......     2
+
+                Condensed Consolidated Statements of Operations
+                   Three Months Ended March 31, 1999 and 1998..     3
+
+                Condensed Consolidated Statements of Operations
+                   Six Months Ended March 31, 1999 and 1998....     4
+
+                Condensed Consolidated Statements of Cash Flows
+                   Six Months Ended March 31, 1999 and 1998....     5
+
+                Condensed Consolidated Statements of                     
+                   Stockholders' Equity (Deficit) Six Months      
+                   Ended March 31, 1999........................     6
+
+                Condensed Consolidated Statements of                     
+                   Stockholders' Equity (Deficit) Three and Six   
+                   Months Ended March 31, 1999.................     6
+
+                Notes to the Condensed Consolidated Financial            
+                Statements.....................................     7
+
+  Item 2.    Management's Discussion and Analysis of Financial
+                   Condition and Results of Operations.........     10
+
+
+  Item 3.    Quantitative and Qualitative Disclosures About       
+             Market Risk.......................................     16
+
+
+  PART II.   OTHER INFORMATION                                           
+
+  Item 1.    Legal Proceedings.................................     17
+
+  Item 2.    Changes in Securities and Use of Proceeds.........     17
+
+  Item 4.    Submission of Matters to a Vote of Security Holders    17
+
+  Item 6.    Exhibits and Reports on Form 8-K..................     17
+
+  SIGNATURES..................................................      18
+
+
+
+<PAGE>
+
+
+                         PART I - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+
+                                                    March 31,      September 30,
+(in thousands)                                         1999           1998
+                                                   -------------  -------------
+<S>                                                    <C>            <C>    
+Assets                                              
+Current assets:
+   Cash and cash equivalents                           $13,621        $17,721
+   Restricted cash                                         902          4,285
+   Accounts and notes receivable, net                   63,411         63,288
+   Current portion of long-term receivables, net         5,860          5,642
+   Inventories                                          16,943         16,485
+   Net assets of discontinued operations                28,612         29,939
+   Prepaid expenses and other                            9,420         10,269
+                                                   -------------  -------------
+Total current assets                                   138,769        147,629
+
+Property and equipment, net                             43,271         35,092
+Long-term receivables, net of current portion            7,540          9,002
+Excess of purchase price over net assets of                                    
+   businesses acquired                                             
+   and other intangibles, net                          118,664        120,654
+Reorganization value in excess of identifiable                                 
+   assets, net                                          44,819         83,819
+Other assets                                            15,076         15,641
+                                                   -------------  -------------
+                                                      $368,139       $411,837
+                                                   =============  =============
+</TABLE>
+<TABLE>
+<CAPTION>
+
+Liabilities and Stockholders' Equity (Deficit)
+<S>                                                      <C>            <C>    
+Current liabilities:
+   Current portion of long-term debt                    $1,089         $1,152
+   Accounts payable                                     18,526         28,961
+   Accrued compensation, benefits and withholdings      17,117         17,327
+   Accrued income taxes                                 15,281         15,197
+   Accrued interest                                     21,193         18,158
+   Other accrued liabilities                            37,018         39,650
+                                                   -------------  -------------
+Total current liabilities                              110,224        120,445
+                                                   -------------  -------------
+
+Long-term debt, net of current portion                 338,530        338,884
+                                                   -------------  -------------
+
+Stockholders' equity (deficit):
+   Preferred stock                                          --             --
+   Common stock                                            142            143
+   Capital in excess of par value                      108,463        109,486
+   Cumulative translation adjustment (from May 31,                             
+     1996)                                              (2,261)           447
+   Accumulated deficit (from May 31, 1996)            (186,959)      (157,568)
+                                                   -------------  -------------
+Total stockholders' deficit                            (80,615)       (47,492)
+                                                   -------------  -------------
+                                                      $368,139       $411,837
+                                                   =============  =============
+
+</TABLE>
+
+
+              See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                         Three Months Ended
+                                                              March 31,
+                                                      --------------------------
+(in thousands, except per share amounts)                 1999          1998
+                                                      ------------  ------------
+<S>                                                         <C>           <C>    
+Revenues:
+   Services provided                                     $73,838       $50,934
+   Equipment and supply sales                             38,704        40,380
+                                                      ------------  ------------
+                                                         112,542        91,314
+                                                      ------------  ------------
+Operating costs and expenses:
+   Costs of services provided                             45,228        28,608
+   Costs of equipment and supplies sold                   23,952        27,425
+   Selling, general and administrative expenses           23,385        22,948
+   Amortization of reorganization asset                   17,946        17,808
+   Amortization of intangible assets                       5,098         2,110
+                                                      ------------  ------------
+                                                         115,609        98,899
+                                                      ------------  ------------
+
+Operating loss from continuing operations                 (3,067)       (7,585)
+                                                      ------------  ------------
+
+Other income (expense):
+   Interest income                                           691           554
+   Interest expense and fee amortization                 (10,317)       (7,957)
+   Other                                                    (860)         (401)
+                                                      ------------  ------------
+                                                         (10,486)       (7,804)
+                                                      ------------  ------------
+Loss before income taxes from continuing operations      (13,553)      (15,389)
+Provision for income taxes                                 1,845         1,020
+                                                      ------------  ------------
+Loss from continuing operations                          (15,398)      (16,409)
+Income from discontinued operations, net of income                              
+   taxes                                                     520           554
+                                                      ------------  ------------
+Net loss                                                $(14,878)     $(15,855)
+                                                      ============  ============
+
+Basic loss per share from continuing operations           $(1.08)       $(1.18)
+Basic income per share from discontinued operations          .04           .04
+                                                      ------------  ------------
+Basic net loss per share                                  $(1.04)       $(1.14)
+                                                      ============  ============
+
+Shares used  to compute basic income (loss) per                                 
+   share                                                  14,233        13,873
+                                                      ============  ============
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+              See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+                                                          Six Months Ended
+                                                              March 31,
+                                                      --------------------------
+(in thousands, except per share amounts)                 1999          1998
+                                                      ------------  ------------
+Revenues:
+<S>                                                         <C>         <C>
+   Services provided                                    $149,323       $99,440
+   Equipment and supply sales                             77,584        84,348
+                                                      ------------  ------------
+                                                         226,907       183,788
+                                                      ------------  ------------
+Operating costs and expenses:
+   Costs of services provided                             90,826        56,267
+   Costs of equipment and supplies sold                   48,977        57,377
+   Selling, general and administrative expenses           47,827        44,558
+   Amortization of reorganization asset                   35,891        35,616
+   Amortization of intangible assets                       9,634         4,678
+                                                      ------------  ------------
+                                                         233,155       198,496
+                                                      ------------  ------------
+
+Operating loss from continuing operations                 (6,248)      (14,708)
+                                                      ------------  ------------
+
+Other income (expense):
+   Interest income                                         1,079         1,339
+   Interest expense and fee amortization                 (20,278)      (15,878)
+   Other                                                    (631)         (571)
+                                                      ------------  ------------
+                                                         (19,830)      (15,110)
+                                                      ------------  ------------
+Loss before income taxes from continuing operations      (26,078)      (29,818)
+Provision for income taxes                                 4,122         2,414
+                                                      ------------  ------------
+Loss from continuing operations                          (30,200)      (32,232)
+Income from discontinued operations, net of income                              
+   taxes                                                     809         1,009
+                                                      ------------  ------------
+Net loss                                                $(29,391)     $(31,223)
+                                                      ============  ============
+
+Basic loss per share from continuing operations           $(2.12)       $(2.33)
+Basic income per share from discontinued operations          .06           .07
+                                                      ------------  ------------
+Basic net loss per share                                  $(2.06)       $(2.26)
+                                                      ============  ============
+
+Shares used  to compute basic income (loss) per                                 
+   share                                                  14,250        13,843
+                                                      ============  ============
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+              See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+                                                          Six Months Ended
+                                                             March 31,
+                                                     ---------------------------
+(in thousands)                                           1999          1998
+                                                     ------------- -------------
+Cash flows from operating activities:
+<S>                                                    <C>              <C>    
+   Net loss                                            $(29,391)     $(31,223)
+   Adjustments to reconcile net loss to net                                     
+     cash provided by (used in) continuing                                      
+     operations:                                                                
+    Income from discontinued operations                    (809)       (1,009)
+    Depreciation and amortization                        55,106        47,410
+    Non-cash compensation                                   573           502
+    Non-cash charge in lieu of taxes                      3,108         2,290
+      Restricted cash requirements                        3,383         3,381
+      (Gain) loss on sale of assets                        (618)          110
+      Change in assets and liabilities net of                                   
+    effects from acquisitions:                                                  
+      Increase in accounts and long-term                                        
+        receivables                                      (1,296)       (6,453)
+      Decrease (increase) in inventories and                                    
+        prepaid expenses                                    223          (273)
+      Increase in other assets                             (937)       (1,212)
+      Decrease in accounts payable and accrued                                  
+        expenses                                        (12,147)      (20,190)
+      Decrease in other noncurrent liabilities             (371)         (512)
+                                                     ------------- -------------
+     Net cash provided by (used in)                                      
+     continuing operations                               16,824        (7,179)
+     Net operating cash provided by discontinued                               
+     operations                                           2,278         3,077
+                                                     ------------- -------------
+     Net cash provided by (used in)                                      
+     operating activities                                19,102        (4,102)
+                                                     ------------- -------------
+Cash flows from investing activities:
+   Purchases of property, plant and equipment           (14,384)       (4,780)
+   Capital expenditures of discontinued operations         (165)         (676)
+   Proceeds from sale of assets                           2,732            --
+   Payments to acquire companies and customer                                   
+     rights                                              (9,533)      (15,570)
+                                                     ------------- -------------
+      Net cash used in investing activities             (21,350)      (21,026)
+                                                     ------------- -------------
+Cash flows from financing activities:
+   Proceeds from the exercise of options and                                    
+     warrants                                               382         1,102
+   Proceeds from employee stock purchases                   782           905
+   Purchases of common stock                             (2,188)           --
+   Principal payments on long-term debt                    (337)       (3,698)
+                                                     ------------- -------------
+      Net cash used in financing activities              (1,361)       (1,691)
+                                                     ------------- -------------
+Effect of exchange rate changes on cash                    (491)         (438)
+                                                     ------------- -------------
+Decrease in cash and cash equivalents                    (4,100)      (27,257)
+Cash and cash equivalents at beginning of period         17,721        58,060
+                                                     ------------- -------------
+Cash and cash equivalents at end of period              $13,621       $30,803
+                                                     ============= =============
+Supplemental Information:
+  Cash paid for interest                                $15,712       $14,443
+                                                     ============= =============
+  Cash paid for income taxes                             $3,127        $2,292
+                                                     ============= =============
+  Assets acquired by assuming liabilities                  $490          $883
+                                                     ============= =============
+
+</TABLE>
+
+              See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                     CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS'
+                                EQUITY (DEFICIT)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                        Cap.                                  
+                                      in        Cum.
+(in thousands)               Common  excess of  Translation Accum.
+                              Stock   par value    Adj.     Deficit    Total
+                             -------------------------------------------------
+<S>                            <C>        <C>         <C>      <C>       <C>
+Balance at September 30,        $143   $109,486       $447 $(157,568)$(47,492)
+1998
+Common stock issued for the
+exercise                          --        382         --        --      382
+of options and warrants
+Common stock issued for
+employee stock purchases           1        781         --        --      782
+Common stock purchased           (2)    (2,186)         --        --  (2,188)
+Cumulative translation            --         --    (2,708)        --  (2,708)
+adjustment
+Net loss for six months           --         --         --  (29,391) (29,391)
+                             -------------------------------------------------
+Balance at March 31, 1999       $142   $108,463   $(2,261) $(186,959)$(80,615)
+                             =================================================
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                     CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE
+                                  INCOME (LOSS)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+ 
+                                           Three Months Ended
+                                                March 31,
+                                        ---------------------------
+     (in thousands)                         1999          1998
+                                        ------------- -------------
+<S>                                          <C>            <C>     
+     Net loss                             $(14,878)     $(15,855)
+     Translation adjustment                 (2,367)          488
+                                        ------------- -------------
+     Comprehensive loss                   $(17,245)     $(15,367)
+                                        ============= =============
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+                                             Six Months Ended
+                                                March 31,
+                                        ---------------------------
+     (in thousands)                         1999          1998
+                                        ------------- -------------
+<S>                                          <C>            <C>       
+     Net loss                             $(29,391)     $(31,223)
+     Translation adjustment                 (2,708)         (119)
+                                        ------------- -------------
+     Comprehensive loss                   $(32,099)     $(31,342)
+                                        ============= =============
+</TABLE>
+
+
+
+              See the notes to the condensed consolidated financial statements
+
+
+<PAGE>
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+                  NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+Note 1.  Basis of Presentation
+
+The  accompanying   condensed  consolidated  financial  statements  include  the
+accounts of Anacomp,  Inc.  ("Anacomp" or the  "Company")  and its  wholly-owned
+subsidiaries.  All significant  intercompany accounts and transactions have been
+eliminated. These financial statements have not been audited but, in the opinion
+of the Company's management,  include all adjustments (consisting only of normal
+recurring accruals) necessary for a fair presentation of the Company's financial
+position, results of operations, and cash flows for all periods presented. These
+financial  statements should be read in conjunction with the Company's financial
+statements and notes thereto for the year ended September 30, 1998,  included in
+the Company's 1998 Annual Report on Form 10-K. Interim operating results are not
+necessarily indicative of operating results for the full year.
+
+Note 2.  Management Estimates and Assumptions
+
+The Company's preparation of the accompanying  condensed  consolidated financial
+statements in conformity with generally accepted accounting  principles requires
+its  management  to make  estimates  and  assumptions  that affect the  reported
+amounts of assets and  liabilities,  the  disclosure  of  contingent  assets and
+liabilities at the date of the financial statements, and the reported amounts of
+revenues and expenses during the reporting period.  Estimates have been prepared
+on the basis of the most current available  information and actual results could
+differ from those estimates.
+
+Note 3.  Reorganization Asset
+
+As of May 31, 1996, the Company adopted Fresh Start Reporting, which resulted in
+material changes to the consolidated  balance sheet - including the valuation of
+assets,  intangible  assets,  and  liabilities  at fair  market  value,  and the
+valuation of equity based on the appraised  reorganization  value of the ongoing
+business.  The net result of the valuations  was that the Company  recognized an
+asset  captioned   "Reorganization  value  in  excess  of  identifiable  assets"
+("Reorganization  Asset")  totaling  $267.5  million as of May 31, 1996.  Net of
+accumulated  amortization,  the Reorganization  Asset was $47.2 million at March
+31, 1999. Of this amount,  $2.4 million was allocated to the Magnetics Solutions
+Group  division (the  "Magnetics  Division")  and was included in "Net assets of
+discontinued  operations".  The  Reorganization  Asset is being amortized over a
+three  and  one-half  year  period  beginning  May 31,  1996  and  will be fully
+amortized by November 30, 1999.
+
+Reorganization  Asset  amortization  was $37.8 million and $37.5 million for the
+six-month periods ended March 31, 1998 and 1998, respectively. Of these amounts,
+$1.9 million was allocated to discontinued  operations in each period.  On a pro
+forma basis for the six-month  periods ended March 31, 1999 and 1998,  excluding
+Reorganization  Asset amortization,  the Company would have reported income from
+continuing  operations  of $5.7 million and $3.4  million,  basic net income per
+share of $0.40 and $0.24,  and  diluted net income per share of $0.37 and $0.23,
+respectively.
+
+Note 4.  Comprehensive Income
+
+The Company adopted Financial  Accounting Standards Board ("FASB") Statement No.
+130 Reporting  Comprehensive  Income - effective October 1, 1998. This statement
+requires the presentation of comprehensive  income,  as defined,  as part of the
+basic financial statements.  Comprehensive income includes all changes in equity
+during a period except those resulting from investments by and  distributions to
+owners.
+
+
+<PAGE>
+
+
+Note 5.  First Image Acquisition
+
+Effective   June  1,  1998,   the  Company   completed  its   acquisition   (the
+"Acquisition")  of assets  constituting  substantially  all of the  business and
+operations  (the "First Image  Businesses")  of First Image  Management  Company
+("First Image"), a division of First Financial Management  Corporation ("FFMC"),
+which in turn is a wholly owned  subsidiary of First Data  Corporation  ("FDC").
+The Company also assumed  substantially  all of the ongoing  liabilities  of the
+First  Image  Businesses.  The  purchase  price paid by the  Company to FFMC was
+$150.0 million, although a post-closing adjustment resulted in FFMC returning to
+the Company  $4.4  million to reflect a  shortfall  in the  agreed-upon  working
+capital for the First Image  Businesses.  The Acquisition was accounted for as a
+purchase and the excess of the purchase  price over the estimated  fair value of
+net assets  acquired  (referred to as "goodwill")  approximated  $100.0 million,
+which is being amortized over a 15-year period on a straight-line basis.
+
+The First Image  Businesses  consisted of (i) image access  services,  primarily
+Computer Output to Microfilm  ("COM") and Compact Disc ("CD") services (the "IAS
+Business"),  (ii) document print and  distribution  services such as laser print
+and mail and  demand  publishing  services  (the  "DPDS  Business"),  and  (iii)
+document acquisition services such as health care and insurance claims entry and
+data capture services (the "DAS  Business").  The Company sold the DPDS Business
+and the DAS Business during the three-month period ended September 30, 1998. The
+Company  retained and continues to operate the IAS Business,  whose revenues and
+earnings are included in the Company's  results of operations for the six months
+ended March 31, 1999.
+
+Note 6.  Inventories
+<TABLE>
+<CAPTION>
+                                                   March 31,    September
+                                                                   30,
+                                                  -------------------------
+                                                      1999        1998
+                                                  -------------------------
+<S>                                                    <C>            <C>    
+  Finished goods                                      $9,410       $9,248
+  Work in process                                      1,539        2,071
+  Raw materials and supplies                           5,994        5,166
+                                                  -------------------------
+                                                     $16,943      $16,485
+                                                  =========================
+</TABLE>
+
+Note 7.  Income Taxes
+
+The Company's  amortization  of the  Reorganization  Asset is not deductible for
+income tax  purposes.  Accordingly,  the Company  incurs income tax expense even
+though it reports a pre-tax loss due to such amortization.
+
+For the six months ended March 31, 1999 and 1998, income tax expense is reported
+for the  Company  based upon an  estimated  effective  tax rate of 42% of pretax
+income before amortization of the Reorganization Asset. For the six months ended
+March 31,  1999 and 1998,  the  limited  tax  benefit  of the U.S.  Federal  net
+operating loss  carryforwards  ("NOL") of the Company resulted in a reduction of
+$3.3 million and $2.4 million,  respectively,  in the  Company's  Reorganization
+Asset and did not reduce income tax expense.
+
+Note 8.  Loss Per Share
+
+Basic earnings per share is computed  based upon the weighted  average number of
+shares of the Company's common stock  outstanding  during the period  presented.
+Diluted earnings per share is computed based upon the weighted average number of
+shares of common stock outstanding and dilutive common stock equivalents  during
+the period presented. Common stock equivalents include options granted under the
+Company's  stock  option  plans using the  treasury  stock  method and shares of
+common stock  expected to be issued under the Company's  employee stock purchase
+plan.  Common stock  equivalents were not used to calculate diluted earnings per
+share because of their anti-dilutive  effect.  There are no reconciling items in
+calculating  the numerator  for basic and diluted  earnings per share for any of
+the periods presented.
+
+
+<PAGE>
+
+
+Note 9.  Acquisitions
+
+During the six months  ended March 31, 1999,  the Company  acquired the customer
+bases and other specified assets of eight businesses.  Total  consideration paid
+at closing was $9.5 million, of which approximately $7.0 million was assigned to
+goodwill.  Three of the acquisition agreements include provisions for contingent
+cash payments of up to approximately $700,000 in the aggregate.
+
+Note 10.  Subsequent Event - Sale of Magnetics Solutions Division
+
+In  February  1999,  the  Company  adopted a plan to  dispose  of its  Magnetics
+Division,  and on April 28, 1999, the Company  signed a definitive  agreement to
+sell the Magnetics  Division for a purchase  price of up to $47.5  million.  The
+price  includes  $40.0 million in cash at closing,  a $5.0 million  subordinated
+note, and incentive  payments of up to $2.5 million based upon sales of magnetic
+media  products  to the  Company's  customer  base over the next two years.  The
+transaction,  which is contingent  upon  financing and regulatory  approval,  is
+expected to close within 45 days of the signing of the Definitive Agreement. The
+Company expects to recognize a gain before taxes in excess of $10 million in the
+third quarter as a result of the sale.
+
+The  assets  and  liabilities  of the  Magnetics  Division  have  been  reported
+separately  as  "Net  assets  of  discontinued   operations"  in  the  condensed
+consolidated  balance  sheet as of March 31, 1999.  The  condensed  consolidated
+balance sheet as of September  30, 1998 has been restated to provide  consistent
+information.  The net assets of the Magnetics Division are summarized as follows
+(in thousands):
+<TABLE>
+<CAPTION>
+
+                                                             September
+                                            March 31,           30,
+                                               1999             1998
+                                           -------------    -------------
+<S>                                             <C>              <C>    
+Accounts and notes receivable                 $15,386          $15,821
+Inventories                                    12,166           12,133
+Property and equipment                          6,121            6,657
+Reorganization value in excess of                                        
+identifiable assets                             2,359            4,412
+Other assets                                      178              232
+Accounts payable and other accrued                                       
+liabilities                                    (7,598)          (9,316)
+                                           -------------    -------------
+Net assets                                    $28,612          $29,939
+                                           =============    =============
+</TABLE>
+
+
+Similarly,  the  results  of  operations  of the  Magnetics  Division  have been
+reported  separately  as "Income  from  discontinued  operations,  net of income
+taxes" in the condensed  consolidated  statements of operations  for the periods
+ended March 31, 1999 and 1998.
+
+The operating  results of the discontinued  operations are summarized as follows
+(in thousands):
+<TABLE>
+<CAPTION>
+
+                         Three Months Ended            Six Months Ended
+                             March 31,                    March 31,
+                     ---------------------------  ---------------------------
+                         1999          1998           1999          1998
+                     -------------  -----------   -------------  ------------
+<S>                      <C>            <C>            <C>            <C>        
+Revenues               $25,962        $26,279       $50,544        $51,619
+                     =============  ===========   =============  ============
+
+Operating income        $1,579         $1,634        $2,763         $3,094
+Income taxes             1,059          1,080         1,954          2,085
+                     -------------  -----------   -------------  ------------
+Net income                $520           $554          $809         $1,009
+                     =============  ===========   =============  ============
+
+</TABLE>
+
+
+<PAGE>
+
+
+Item 2.  Management's  Discussion  and  Analysis  of  Financial  Condition  and 
+Results  of Operations
+
+Certain  statements in this  "Management's  Discussion and Analysis of Financial
+Condition and Results of  Operations"  constitute  "forward-looking  statements"
+within the meaning of the Private Securities Litigation Reform Act of 1995. Such
+forward-looking  statements  involve known and unknown risks,  uncertainties and
+other  important  factors that could cause the actual  results,  performance  or
+achievements of the Company,  or industry results, to differ materially from any
+future  results,  performance  or  achievements  expressed  or  implied  by such
+forward-looking  statements.  Such  risks,  uncertainties  and  other  important
+factors  include,  among  others:  general  economic  and  business  conditions;
+industry  trends;  industry  capacity;  competition;  raw  materials  costs  and
+availability;  currency  fluctuations;  the loss of any significant customers or
+suppliers;  changes in business  strategy or  development  plans;  availability,
+terms and deployment of capital;  availability of qualified  personnel;  changes
+in, or the failure or inability to comply with, government regulation; and other
+factors referenced in this report. These  forward-looking  statements speak only
+as of the date of this report.
+
+Pro Forma Statements of Operations
+
+      As of May 31,  1996,  the Company  adopted  Fresh Start  Reporting,  which
+resulted in material  changes to the  consolidated  balance sheet. See Note 3 to
+the accompanying  Condensed  Consolidated Financial Statements for a description
+of the Company's  Reorganization  Asset. To facilitate a better understanding of
+the Company's  operating  performance  after the  Reorganization  Asset is fully
+amortized,  pro forma  condensed  consolidated  statements of operations for the
+three and six months  ended March 31, 1999 and 1998 have been  presented  below.
+The  only  difference  from  the  Company's  reported  results  is a  pro  forma
+adjustment to exclude the amortization of the Reorganization Asset.
+
+           PRO FORMA CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                          Three Months Ended March 31,
+                                      --------------------------------------
+(in thousands, except per share              1999               1998
+amounts)
+                                      --------------------------------------
+<S>                                        <C>     <C>        <C>     <C>    
+Revenues                                $112,542  100.0%    $91,314  100.0%
+                                      ------------       ------------
+
+Cost of sales                             69,180   61.5%     56,033   61.4%
+Selling, general and administrative                                         
+   expenses                               23,385   20.8%     22,948   25.1%
+Amortization of intangible assets          5,098    4.5%      2,110    2.3%
+                                      ------------       ------------
+Total operating costs and expenses        97,663   86.8%     81,091   88.8%
+                                      ------------       ------------
+
+Operating income from continuing                                            
+   operations                             14,879   13.2%     10,223   11.2%
+Interest expense and other                10,486    9.3%      7,804    8.6%
+                                      ------------       ------------
+Income before income taxes from
+   continuing operations                   4,393    3.9%      2,419    2.6%
+Provision for income taxes                 1,845    1.6%      1,020    1.1%
+                                      ------------       ------------
+Income from continuing operations          2,548    2.3%      1,399    1.5%
+Income from discontinued operations        1,464              1,492
+                                      ------------       ------------
+Net income                                $4,012             $2,891
+                                      ============       ============
+
+Basic income from continuing                                                
+   operations per share                    $0.18              $0.10         
+                                      ============       ============
+Diluted income from continuing                                              
+   operations per share                    $0.17              $0.09         
+                                      ============       ============
+
+Shares used to compute basic income                                         
+   per share                              14,233             13,873         
+                                      ============       ============
+
+Shares used to compute diluted                           
+   income per share                       15,183             14,823
+                                      ============       ============
+</TABLE>
+
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+                                           Six Months Ended March 31,
+                                      --------------------------------------
+(in thousands, except per share              1999               1998
+amounts)
+                                      --------------------------------------
+<S>                                        <C>     <C>        <C>     <C>    
+Revenues                                $226,907  100.0%   $183,788  100.0%
+                                      ------------       ------------
+
+Cost of sales                            139,803   61.6%    113,644   61.8%
+Selling, general and administrative                                         
+   expenses                               47,827   21.1%     44,558   24.2%
+Amortization of intangible assets          9,634    4.2%      4,678    2.6%
+                                      ------------       ------------
+Total operating costs and expenses       197,264   86.9%    162,880   88.6%
+                                      ------------       ------------
+
+Operating income from continuing                                            
+   operations                             29,643   13.1%     20,908   11.4%
+Interest expense and other                19,830    8.8%     15,110    8.2%
+                                      ------------       ------------
+Income before income taxes from
+   continuing operations                   9,813    4.3%      5,798    3.1%
+Provision for income taxes                 4,122    1.8%      2,414    1.3%
+                                      ------------       ------------
+Income from continuing operations          5,691    2.5%      3,384    1.8%
+Income from discontinued operations        2,698              2,883
+                                      ------------       ------------
+Net income                                $8,389             $6,267
+                                      ============       ============
+
+Basic income from continuing                                                
+   operations per share                    $0.40              $0.24         
+                                      ============       ============
+Diluted income from continuing                                              
+   operations per share                    $0.37              $0.23         
+                                      ============       ============
+
+Shares used to compute basic income                                         
+   per share                              14,250             13,843         
+                                      ============       ============
+
+Shares used to compute diluted                                              
+   income per share                       15,200             14,793         
+                                      ============       ============
+</TABLE>
+
+Results of Operations
+
+Three Months Ended March 31, 1999 vs. Three Months Ended March 31, 1998
+
+      General. Anacomp reported a net loss of $14.9 million for the three months
+ended  March 31,  1999,  compared  to a net loss of $15.9  million for the three
+months  ended  March  31,  1998.  Earnings  from  continuing  operations  before
+interest,  other income,  taxes,  depreciation and amortization  ("EBITDA") were
+$24.7 million, or 22.0% of revenues,  for the three months ended March 31, 1999.
+This  compares to EBITDA of $16.7  million,  or 18.3% of revenues  for the three
+months ended March 31, 1998.
+
+      Revenues.  The Company's  continuing  revenues  increased 23.2% from $91.3
+million for the three  months ended March 31,  1998,  to $112.5  million for the
+three months ended March 31, 1999. The Company experienced increased revenues of
+$22.8 million in its Outsource  Services business line primarily  resulting from
+the  acquisition  of the  First  Image IAS  Business  ("IAS  Business")  and the
+inclusion of the IAS  Business  operating  results for the three  months  ending
+March 31,  1999.  Digital  service  revenues,  which are  included in  Outsource
+Services, also increased significantly with quarterly revenues of $5.9 million.
+
+      The Company  experienced  increases in revenues of $3.2 million, or 33.0%,
+in Output  Systems for the  three-month  period ended March 31, 1999 compared to
+the  comparable  period ended March 31,  1998.  Of this  increase,  $1.3 million
+represented  sales of COM Systems and $1.9 million  represented sales of Digital
+Solutions.  Offsetting  this increase was a $4.4 million  decline,  or 15.3%, in
+Micrographics Supplies revenues. The decrease in Micrographics Supplies revenues
+was  the  result  of the  Company's  discontinuance  of the  sale  of  duplicate
+microfilm to the  reseller  market,  as well as declining  sales of original COM
+microfilm and duplicate microfilm, which is consistent with long-term trends.
+
+
+<PAGE>
+
+
+      Gross  Margins.  The Company's  gross margins  increased  22.9% from $35.3
+million  (38.6% of revenues) for the three months ended March 31, 1998, to $43.4
+million  (38.5% of revenues)  for the three  months ended March 31, 1999.  Total
+gross margins,  as a percentage of revenue,  remained level with the prior year.
+Outsource Service margins, as a percentage of revenue,  decreased 4.8 percentage
+points from 1998 to 1999  principally  because of decreases  in average  selling
+prices for  Outsource  Service  business  and because of costs  incurred for the
+consolidation  of IAS  Business  data  centers.  This  decrease  was  offset  by
+increased  gross margin  percentages  for COM  Systems,  Digital  Solutions  and
+Micrographics Supplies.
+
+      Included in the cost of sales and services are  engineering  costs of $2.2
+million and $2.5 million for the  three-month  periods  ended March 31, 1999 and
+1998,  respectively.  Of those amounts,  $1.7 million and $0.9 million for those
+periods,   respectively,   represent   research   and   development   activities
+predominantly  related  to  digital  products.  The  remaining  portion  of  the
+engineering  costs  represents  support costs for the Company's  current product
+offerings.
+
+      Selling,  general  and  administrative  expenses.   Selling,  general  and
+administrative  ("SG&A")  expenses  increased  1.9% from $22.9 million (25.1% of
+revenues) for the three months ended March 31, 1998 to $23.4  million  (20.8% of
+revenues) for the three months ended March 31, 1999.  This increase is primarily
+the result of operating  costs of the IAS  Business and of costs  related to new
+strategic  marketing  initiatives.  SG&A costs,  as a  percentage  of  revenues,
+decreased  4.3  percentage  points  primarily  because of the added IAS Business
+sales volume.
+
+      Amortization  of intangible  assets.  Amortization  of  intangible  assets
+increased 141.6% from $2.1 million (2.3% of revenues) for the three months ended
+March 31, 1998,  to $5.1 million  (4.5% of revenues)  for the three months ended
+March 31, 1999. This increase is principally  the result of the  amortization of
+goodwill  associated  with the IAS Business  acquisition in fiscal year 1998 and
+the eight acquisitions completed in fiscal year 1999.
+
+      Interest  Expense.  Interest expense increased 29.7% from $8.0 million for
+the three  months  ended  March 31, 1998 to $10.3  million for the three  months
+ended March 31, 1999. This increase was the result of additional borrowings used
+to finance the IAS Business acquisition.
+
+      Provision for Income Taxes.  The Company's  effective tax rate remained at
+42% of taxable income for both periods presented. See Note 7 to the accompanying
+Condensed Consolidated Financial Statements for further discussion.
+
+Six Months Ended March 31, 1999 vs. Six Months Ended March 31, 1998
+
+      General.  Anacomp  reported a net loss of $29.4 million for the six months
+ended March 31, 1999, compared to a net loss of $31.2 million for the six months
+ended March 31, 1998.  EBITDA was $49.2 million,  or 21.7% of revenues,  for the
+six months ended March 31, 1999.  This compares to EBITDA of $33.9  million,  or
+18.4% of revenues for the six months ended March 31, 1998.
+
+      Revenues.  The Company's  continuing  revenues increased 23.5% from $183.8
+million for the six months ended March 31, 1998,  to $226.9  million for the six
+months ended March 31, 1999. The Company experienced increased revenues of $49.8
+million in its Outsource  Services  business line while  experiencing  decreased
+revenues of $8.1 million in its Micrographic Supplies product line.
+
+      The increase in Outsource  Service  revenues  resulted  primarily from the
+June 1, 1998  acquisition  of IAS  Business and the  inclusion of its  operating
+results for the six months  ending March 31,  1999.  Digital  Service  revenues,
+which are included in Outsource Services,  also increased significantly with six
+month revenues of $13.2 million.
+
+      The  decrease in  Micrographics  Supplies  revenues  was the result of the
+Company's  discontinuance  of the sale of  duplicate  microfilm  to the reseller
+market,  as well as declining  sales of original  COM  microfilm  and  duplicate
+microfilm, which is consistent with long-term trends.
+
+<PAGE>
+
+      Gross  Margins.  The Company's  gross margins  increased  24.2% from $70.1
+million  (38.2% of revenues)  for the six months ended March 31, 1998,  to $87.1
+million  (38.4% of revenues) for the six months ended March 31, 1999.  Outsource
+Service  margins,  as a percentage of revenue,  decreased 3.8 percentage  points
+from 1998 to 1999 principally because of decreases in average selling prices for
+Outsource  Service business and because of costs incurred for the  consolidation
+of IAS Business data centers. This decrease was offset by increased gross margin
+percentages for COM Systems and Micrographics Supplies.
+
+      Included in the cost of sales and services are  engineering  costs of $4.4
+million and $5.0  million  for the  six-month  periods  ended March 31, 1999 and
+1998,  respectively.  Of those amounts,  $3.0 million and $1.9 million for those
+periods represent research and development  activities  predominantly related to
+digital  products.  The remaining  portion of the engineering  costs  represents
+support costs for the Company's current product offerings. The Company's digital
+research and development activities have increased to an annual spending rate of
+$6.5 million in fiscal 1999 compared to $2.5 million in the prior year.
+
+      Selling, general and administrative expenses. SG&A expenses increased 7.3%
+from $44.6  million  (24.2% of revenues) for the six months ended March 31, 1998
+to $47.8  million  (21.1% of revenues)  for the six months ended March 31, 1999.
+This increase resulted primarily from operating costs of the IAS Business.  SG&A
+costs, as a percentage of revenues,  decreased 3.1 percentage  points  primarily
+because of the added IAS Business sales volume.
+
+      Amortization  of intangible  assets.  Amortization  of  intangible  assets
+increased  105.9% from $4.7 million  (2.6% of revenues) for the six months ended
+March 31,  1998,  to $9.6 million  (4.2% of  revenues)  for the six months ended
+March 31,  1999.  This  increase is  primarily  related to the  amortization  of
+goodwill  associated  with the IAS Business  acquisition in fiscal year 1998 and
+the eight acquisitions completed in fiscal year 1999.
+
+      Interest Expense.  Interest expense increased 27.7% from $15.9 million for
+the six months  ended March 31, 1998 to $20.3  million for the six months  ended
+March 31, 1999.  This increase was the result of additional  borrowings  used to
+finance the acquisition of IAS Business.
+
+      Provision for Income Taxes.  The Company's  effective tax rate remained at
+42% of taxable income for both periods presented. See Note 7 to the accompanying
+Condensed Consolidated Financial Statements for further discussion.
+
+Liquidity and Capital Resources
+
+      Anacomp's working capital at March 31, 1999 was $28.5 million, compared to
+$27.2 million at September 30, 1998.  Net cash provided by operating  activities
+was $19.1 million for the six months ended March 31, 1999,  compared to a use of
+$4.1 million in the comparable  prior period.  The current period benefited from
+an increase in  depreciation  and  amortization of  approximately  $7.7 million,
+which was primarily the result of increased goodwill and depreciable assets from
+the  IAS  Business  acquisition.  The  remainder  of  the  improvement  resulted
+primarily from a $13.3 million  improvement  in the use of working  capital from
+the prior year,  specifically  with respect to accounts  receivable  and current
+liabilities.
+
+      Net cash used in  investing  activities  was $21.4  million in the current
+period,  compared to $21.0 million in the comparable prior period.  The decrease
+in  capital  used to  acquire  companies  and  customer  rights,  along with the
+proceeds  from the sale of  businesses,  was  offset by an  increase  in capital
+expenditures that were primarily used to integrate the IAS Business.
+
+      Net cash used in financing  activities  decreased  approximately  $330,000
+during the six months  ended March 31,  1999 with  respect to the same period in
+the prior year. During the current period the issuance of common stock decreased
+by  $843,000  and the  Company  repurchased  $2.2  million of common  stock.  In
+addition, principal payments on long-term debt decreased by $3.4 million.
+
+<PAGE>
+
+      The Company's  cash balance  (including  restricted  cash) as of March 31,
+1999 was $14.5  million  compared to $22.0  million at September  30, 1998.  The
+Company also has available an $80 million revolving credit facility.  There were
+no amounts outstanding under revolving credit facility as of March 31, 1999. The
+Company  borrowed  $12.0  million  on April 1,  1999 to fund the  $18.2  million
+semi-annual interest payment on its 10-7/8% Senior Subordinated Notes.
+
+      The Company has  significant  debt  service  obligations.  As of March 31,
+1999,  the  Company  had $335  million  of  10-7/8%  Senior  Subordinated  Notes
+outstanding. The notes are due in April 2004. The ability of the Company to meet
+its debt service and other  obligations will depend upon its future  performance
+and is subject  to  financial,  economic  and other  factors,  some of which are
+beyond its control.  However,  the Company  believes  that cash  generated  from
+operations,  cash on hand,  cash to be received  from the sale of the  Magnetics
+Division,  and cash  available  under  its  revolving  credit  facility  will be
+sufficient to fund its debt service requirements,  acquisition  strategies,  and
+working capital requirements in the foreseeable future.
+
+Year 2000
+
+      Anacomp  has  undertaken  a  comprehensive  "year  2000"  program  for the
+products that it sells or  distributes in the  marketplace.  Under this program,
+the Company has assessed all of its critical  software and hardware  products to
+determine what remediation,  if any, is necessary for the proper  functioning of
+these  systems in the year 2000 and  beyond.  The  Company  has worked  with its
+outside suppliers to ensure that they will continue to support the products that
+they supply to Anacomp for resale, including the performance by the suppliers of
+any required  year 2000  remediation.  Anacomp has also analyzed and updated for
+year  2000  purposes   certain  software  and  hardware  systems  that  it  uses
+internally.  The  Company  continues  to  consider  year 2000 issues for all new
+products  and services as well as those in  development  or included in business
+acquisitions.
+
+      State of Readiness.  Anacomp's  overall state of readiness can be assessed
+by describing its specific readiness in four key areas,  namely its products and
+services,  its suppliers' products and services,  its internal systems,  and its
+products in development.
+
+      Anacomp has completed the  assessment,  remediation  and year 2000 testing
+phases  of  nearly  all  supported   products  and  services,   including  those
+responsible  for  generating  the  material  portion  of its  revenues.  Anacomp
+summarizes the status of each  completed  product or service in a written report
+to the  Company's  year 2000  steering  committee for archiving in the Company's
+year 2000 database.  These  processes have been reviewed and approved by a third
+party consultant retained for this purpose.
+
+      The  implementation  phase of the Company's year 2000 project depends upon
+the response of the Company's  customers  who may require  upgrades or migration
+paths.  Anacomp is in the process of communicating with identified customers and
+has no reason to believe that all  customers  who require  upgrades or migration
+will not receive them.  To this end,  Anacomp has offered and continues to offer
+financial  incentives  to  encourage  early  responses  and to avoid peak demand
+loads,  although  no  assurance  can be made  that  the  demand  will be  spread
+sufficiently to eliminate  delays in  implementation.  Anacomp has also launched
+its  "Analog as a Fail Safe"  campaign to educate  customers  about the value of
+microfilm as a way to minimize the risk of the year 2000. Although customers may
+divert  expenditures away from these microfilm products and services in order to
+fund other year 2000 remediation, Anacomp encourages customers to consider these
+products and services as a cost-effective  backup to digital storage because the
+retrieval of data stored on microfilm does not require digital technology.
+
+      Anacomp has  categorized  approximately  850 of its suppliers  into one of
+four categories depending upon the criticality of the product or service and the
+amount of time  necessary to implement  the  contingency  plans that Anacomp has
+identified.  If a supplier  does not declare its  readiness to Anacomp in enough
+time to permit implementation of its contingency plans before December 31, 1999,
+Anacomp may replace the supplier, have the supplier hold additional inventory of
+the supplier's products,  or implement  alternative  contingency plans depending
+upon the product or service provided.
+
+
+<PAGE>
+
+      As of April 30, 1999,  Anacomp had received written responses to Anacomp's
+year 2000 readiness  questionnaire  from  approximately 90% of the 165 suppliers
+that  Anacomp  deems  critical to its  operations.  Anacomp has either  received
+declarations  of  readiness  from,  or  established  contingency  plans for, all
+critical suppliers.  For example,  Anacomp is currently interviewing alternative
+sources of key products as part of its contingency planning but has no reason to
+believe that any of its critical suppliers will not be ready in time.
+
+      For those Anacomp  products that incorporate the products of a third party
+supplier,  Anacomp  continues  to  request  that  its  suppliers  disclose  test
+procedures and results. Anacomp has also requested that its vendors in the human
+resources area, such as its retirement,  health and insurance providers, respond
+in  writing  as to their  readiness,  but  there can be no  assurance  that such
+vendors will either respond or achieve readiness in a timely fashion.
+
+      Anacomp has identified all internal software and hardware products used in
+its  corporate  headquarters  in  Poway,  California,  including  those  used to
+assimilate and report financial  information and to handle billing,  collections
+and electronic commerce.  In those instances where remediation or renovation was
+required,  Anacomp has either completed or has nearly completed such remediation
+or renovation. Anacomp is in the process of completing the documentation of such
+efforts for its year 2000 archives.
+
+      The Company  continues to develop new products and services and to acquire
+new businesses.  Anacomp develops and tests each new product, sometimes with the
+assistance of an outside  consultant,  for year 2000 readiness.  Businesses that
+Anacomp  acquires,  such as First  Image,  are  subject to the same  assessment,
+remediation, testing and implementation phases as those described above.
+
+      Costs.  Total  expenditures  on its year 2000 project,  including costs of
+outside  parties  such as  consultants  and  attorneys,  costs of  hardware  and
+software  remediation,  and internal labor,  travel and out of pocket  expenses,
+were  approximately $0.3 million and $2.3 million for fiscal year 1997 and 1998,
+respectively,  and is estimated  to be $1.2  million in fiscal year 1999.  These
+figures  include  estimates  from  the  engineering,  manufacturing,  legal  and
+information technology departments of the Company.
+
+      Risks.  There can be no  assurance  that the  Company  and its vendors and
+suppliers will be able to identify all year 2000 issues before problems manifest
+themselves or to complete all  remediation in the required time frame.  Further,
+it is possible  that the future level of expenses in the  Company's  remediation
+efforts could rise significantly.
+
+      The Company  relies upon the  continuous  provision of services from third
+parties such as electrical and telecommunication utilities around the world, and
+the Company plans to enhance its electronic data transmission capabilities.  Any
+sustained  disruption  of  service  or  capability  could  adversely  impact the
+Company's  ability to operate its business.  Finally,  there can be no assurance
+that,  if left  unremedied,  the products or services  that the Company sells or
+distributes would remain competitive in the marketplace or the products that the
+Company uses internally would not have a material effect upon the ability of the
+Company to report its financial results.
+
+      Contingency  Plans. In those  instances where the Company  determines that
+year 2000  problems  with its  operational  facilities  may not be identified or
+remediated in time, the Company believes that its business will still be able to
+function without substantial interruption. For example, COM services provided in
+a data center that  experiences  a loss of power due to a third party  utility's
+failure to identify or remediate an isolated  year 2000 problem could be shifted
+to another data center without substantial interruption. In addition, electronic
+transmission  of data  could be  replaced  with  manual  delivery  of data  upon
+completion of certain  modifications.  In those instances where an installed COM
+customer  experiences a year 2000 problem while operating its own COM equipment,
+Anacomp  could offer its COM services to the customer at one of its data centers
+upon  completion  of  certain  modifications.  This  seamless  nature of many of
+Anacomp's products and services forms the basis of Anacomp's ongoing contingency
+planning.
+
+
+<PAGE>
+
+
+
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk.
+
+      The Company does not have any significant financial instruments other than
+fixed rate  indebtedness.  The general level of U.S.  interest rates,  the LIBOR
+rate or both affects the  Company's  revolving  credit  facility.  However,  the
+Company had no amounts outstanding under this revolving credit facility on March
+31, 1999.
+
+
+
+<PAGE>
+
+
+PART II - OTHER INFORMATION
+
+Item 1.       Legal Proceedings.
+
+      The Company and its  subsidiaries  are  potential or named  defendants  in
+several  lawsuits and claims arising in the ordinary  course of business.  While
+the outcome of such claims,  lawsuits or other  proceedings  against the Company
+cannot be predicted with certainty,  management expects that any liability under
+the  foregoing,  to the extent not provided for through  insurance or otherwise,
+will not have a material  adverse effect on the financial  conditions or results
+of operations of the Company.
+
+      On August 29, 1997, Access Solutions  International,  Inc. ("ASI") filed a
+complaint for patent infringement in the U.S. District Court,  District of Rhode
+Island, against Data/Ware Development,  Inc. ("Data/Ware"),  of which Anacomp is
+the successor by merger, and The Eastman Kodak Company ("Kodak").  The complaint
+seeks injunctive relief and unspecified damages,  including attorney's fees, for
+the alleged  infringement  by Data/Ware and Kodak of ASI's United States Letters
+Patent No. 4,775,969 for "Optical Disk Storage Format,  Method and Apparatus for
+Emulating a Magnetic  Tape Drive" and No.  5,034,914  for "Optical  Disk Storage
+Method and  Apparatus  with  Buffered  Interface."  The  Company has assumed the
+defense  of this  matter on behalf of both  Data/Ware  and Kodak,  although  the
+Company  has  also  requested   indemnification   from  the  principal   selling
+shareholder of Data/Ware.  Discovery in this matter continues, with any trial to
+occur probably not before the third calendar quarter of 1999. Although there can
+be no assurance as to the eventual outcome of this matter,  the Company believes
+that it has numerous meritorious defenses and intends to pursue them vigorously.
+
+Item 2.  Changes in Securities and Use of Proceeds.
+
+(c) Unregistered  Securities - Pursuant to the 1996 Non-employee  Director Stock
+Option  Plan  (Amended  and  Restated  as of  December  1,  1997),  non-employee
+directors of the Company may elect to receive their annual  retainer in the form
+of options to acquire common stock of the Company.  Pursuant to such  elections,
+during the  three-month  period  ending  March 31,  1999,  an aggregate of 1,875
+options was granted to  directors  in lieu of  aggregate  cash  compensation  of
+$9,375.  The issuance of such options was effected in reliance  upon the private
+placement exemption set forth in Section 4 (2) of the Securities Act of 1933, as
+amended,  on the  basis of the  directors'  familiarity  with the  business  and
+affairs of the Company. No underwriting fees or discounts were applicable to the
+transactions.  The options are first  exercisable  six months  after the date of
+grant and remain exercisable through the tenth anniversary of the grant date, at
+an exercise price of $18.625 per share.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+      At the Company's Annual Meeting of Shareholders  held on February 8, 1999,
+the Company's shareholders:  (i) approved amendments to and a restatement of the
+Company's  1996 Long-Term  Incentive  Plan to, among other matters,  increase by
+1,000,000  the  number  of  shares  of  the  Company's   common  stock  issuable
+thereunder,  by a vote of 8,908,639 shares in favor to 2,477,524  opposed,  with
+2,461,977  shares  abstaining;  and (ii)  approved an amendment to the Company's
+Amended and Restated Articles of Incorporation to increase the authorized common
+stock issuable  thereunder from  20,000,000 to 40,000,000,  by a vote of 12,752,
+848 shares in favor to 1,085,463 opposed, with 9,829 shares abstaining.
+
+Item 6.  Exhibits and Reports on Form 8-K.
+
+(a)    Exhibit 3.1 - Amended and  Restricted  Articles of  Incorporation  of the
+       Company as of February 8, 1999.
+
+       Exhibit 3.2 - Amended and Restricted Bylaws of the Company as of February
+       9, 1998.
+
+       Exhibit 27.1 - Financial Data Schedule.
+
+(b)    The Company  filed no reports on Form 8-K during the quarter ended March 
+       31, 1999.
+
+<PAGE>
+
+                                   SIGNATURES
+
+
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                                ANACOMP, INC.
+
+
+
+                                                /s/ David B. Hiatt
+                                                David B. Hiatt
+                                                Executive Vice President and
+                                                  Chief Financial Officer
+Date: May 13, 1999
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.(I)
+<SEQUENCE>2
+<DESCRIPTION>ARTICLES OF INCORPORATION FOR ANACOMP, INC.
+<TEXT>
+
+
+
+                       AMENDED AND RESTATED ARTICLES OF INCORPORATION
+
+                                       OF
+
+                                  ANACOMP, INC.
+
+                                    ARTICLE I
+                                      NAME
+
+      The name of the Corporation is Anacomp, Inc.
+
+                                   ARTICLE II
+                               PURPOSES AND POWERS
+
+      Section  1.  Purposes  of the  Corporation.  The  purposes  for  which the
+Corporation  is formed are to transact any or all lawful  business  permitted by
+applicable law and for which  corporations  may now or hereafter be incorporated
+under the Corporation Law.
+
+      Section 2. Powers of the Corporation.  The Corporation  shall have (a) all
+powers now or hereafter authorized by or vested in corporations  pursuant to the
+provisions  of the  Corporation  Law, (b) all powers now or hereafter  vested in
+corporations  by common  law or any other  statute  or act,  and (c) all  powers
+authorized by or vested in the  Corporation  by the provisions of these Restated
+Articles of  Incorporation  or by the  provisions  of its Bylaws as from time to
+time in effect.
+
+                                   ARTICLE III
+                                TERM OF EXISTENCE
+
+      The period during which the Corporation shall continue is perpetual.
+
+                                   ARTICLE IV
+                           REGISTERED OFFICE AND AGENT
+
+      The street address of the  Corporation's  registered office at the time of
+adoption of these Amended and Restated  Articles of  Incorporation  is One North
+Capitol  Avenue,  Indianapolis,  Indiana  46204,  and the name of its registered
+agent at such  office at the time of  adoption  of these  Amended  and  Restated
+Articles of Incorporation is C T Corporation System.
+
+                                    ARTICLE V
+                                     SHARES
+
+      The total  number of shares that the  Corporation  has  authority to issue
+shall be 41,000,000  shares  consisting of 40,000,000 common shares (the "Common
+Shares"),   and  1,000,000  preferred  shares  (the  "Preferred  Shares").   The
+Corporation's  shares  shall  have  a par  value  of one  cent  per  share.  The
+Corporation  shall  have the  power to issue  fractional  shares or scrip in the
+manner and to the extent now or hereafter  permitted by the laws of the State of
+Indiana.
+
+                                   ARTICLE VI
+                                 TERMS OF SHARES
+
+      Section 1. General  Terms of All Shares.  The  Corporation  shall have the
+power to acquire (by purchase,  redemption,  or otherwise),  hold, own,  pledge,
+sell, transfer,  assign,  reissue,  cancel or otherwise dispose of the shares of
+the  Corporation  in the manner and to the extent now or hereafter  permitted by
+the laws of the State of Indiana,  including the power to purchase,  redeem,  or
+otherwise  acquire the  Corporation's  own shares,  directly or  indirectly  and
+without  pro rata  treatment  of the owners of holders of any class or series of
+shares,  unless,  after giving effect thereto, the Corporation would not be able
+to pay its debts as they  become  due in the usual  course  of  business  or the
+Corporation's  total assets would be less than its total liabilities and without
+regard to any  amounts  that  would be  needed,  if the  Corporation  were to be
+dissolved at the time of the  purchase,  redemption,  or other  acquisition,  to
+satisfy  the  preferential   rights  upon  dissolution  of  shareholders   whose
+preferential  rights are  superior  to those of the holders of the shares of the
+Corporation being purchased,  redeemed, or otherwise acquired,  unless otherwise
+expressly  provided  with  respect  to a  series  of  Preferred  Shares  in  the
+provisions of these Amended and Restated  Articles of  Incorporation  adopted by
+the Board of Directors  pursuant to Section 3(a) of Article VI hereof describing
+the terms of such series.  Shares of the  Corporation  purchased,  redeemed,  or
+otherwise  acquired  by it  shall  constitute  authorized  and  issued  but  not
+outstanding  shares,  unless  the Board of  Directors  shall at any time adopt a
+resolution providing that such shares constitute authorized but issued shares.
+
+      The Board of Directors of the Corporation may dispose of, issue,  and sell
+shares in accordance  with, and in such amounts as may be permitted by, the laws
+of the  State of  Indiana  and the  provisions  of these  Amended  and  Restated
+Articles of Incorporation and for such  consideration,  at such price or prices,
+at such  time or  times  and upon  such  terms  and  conditions  (including  the
+privilege of selectively repurchasing the same) as the Board of Directors of the
+Corporation  shall  determine  to be  adequate,  without  the  authorization  or
+approval by any  shareholders  of the  Corporation.  When disposed of, issued or
+sold, such shares will be fully paid and non-assessable.  Shares may be disposed
+of, issued,  and sold to such persons,  firms,  or  corporations as the Board of
+Directors may  determine,  without any  preemptive or other right on the part of
+the owners or holders of other shares of the Corporation of any class or kind to
+acquire such shares by reason of their ownership of such other shares.
+
+      The Corporation shall have the power to declare and pay dividends or other
+distributions upon the issued and outstanding shares of the Corporation, subject
+to the  limitation  that a dividend  or other  distribution  may not be made if,
+after giving it effect,  the  Corporation  would not be able to pay its debts as
+they  become due in the usual  course of  business  or the  Corporation's  total
+assets  would be less  than its  total  liabilities  and  without  regard to any
+amounts  that would be needed,  if the  Corporation  were to be dissolved at the
+time of the dividend or other  distribution,  to satisfy the preferential rights
+upon dissolution of shareholders whose preferential rights are superior to those
+of the holders of shares  receiving the dividend or other  distribution,  unless
+otherwise expressly provided with respect to a series of Preferred Shares in the
+provisions of these Amended and Restated  Articles of  Incorporation  adopted by
+the Board of Directors  pursuant to Section  3(a) of this Article VI  describing
+the terms of such series. The Board of Directors may base a determination that a
+distribution is not prohibited  either on financial  statements  prepared on the
+basis  of  accounting  practices  and  principles  that  are  reasonable  in the
+circumstances  or on a fair  valuation or other method that is reasonable in the
+circumstances. The Corporation shall have the power to issue shares of one class
+or series as a share dividend or other  distribution in respect of that class or
+series or one or more  other  classes  or series  without  the  approval  of the
+holders  of either  of those  classes  or  series,  except  as may be  otherwise
+provided with respect to a series of Preferred Shares in the provisions of these
+Amended and Restated Articles of Incorporation adopted by the Board of Directors
+pursuant to Section 3(a) of this Article VI describing the terms of such series.
+
+      Section 2. Terms of Common  Shares.  The Common  Shares  shall be equal in
+every respect insofar as their relationship to the Corporation is concerned, but
+such  equality of rights shall not imply  equality of treatment as to redemption
+or other acquisition of shares by the Corporation.  Subject to the rights of the
+holders of any issued and  outstanding  Preferred  Shares under this Article VI,
+the  holders  of  Common  Shares  shall be  entitled  to share  ratably  in such
+dividends or other distributions  (other than purchases,  redemptions,  or other
+acquisitions of Common Shares of the  Corporation),  if any, as are declared and
+paid from time to time on the Common  Shares at the  discretion  of the Board of
+Directors.  In the event of any liquidation,  dissolution,  or winding up of the
+Corporation, either voluntary or involuntary, after payment shall have been made
+to the holders of the Preferred Shares of the full amount to which they shall be
+entitled  under this Article VI, the holders of Common Shares shall be entitled,
+to the exclusion of the holders of the  Preferred  Shares of any and all series,
+to share,  ratably  according  to the number of shares of Common  Shares held by
+them, in all remaining  assets of the Corporation  available for distribution to
+its shareholders.
+
+
+
+
+      Section 3.  Terms of Preferred Shares.
+
+      (a)  Preferred  Shares  may be  issued  from  time  to time in one or more
+series,  each  such  series  to have such  distinguishing  designation  and such
+preferences,  limitations,  and relative voting and other rights as shall be set
+forth in these Amended and Restated  Articles of  Incorporation.  Subject to the
+requirements of the Corporation Law and subject to all other provisions of these
+Amended and Restated  Articles of  Incorporation,  the Board of Directors of the
+Corporation  may  create  one or more  series  of  Preferred  Shares  and  shall
+determine the preferences,  limitations, and relative voting and other rights of
+one or more series of Preferred Shares before the issuance of any shares of that
+series by the adoption of an amendment to these Amended and Restated Articles of
+Incorporation  that specifies the terms of that series of Preferred Shares.  All
+shares of a series of Preferred  Shares must have  preferences,  limitations and
+relative voting and other rights  identical to those of other shares of the same
+series.  No series of Preferred  Shares need have  preferences,  limitations  or
+relative  voting or other  rights  identical  with those of any other  series of
+Preferred Shares.
+
+      Before  issuing any shares of a series of Preferred  Shares,  the Board of
+Directors  shall adopt an  amendment to these  Amended and Restated  Articles of
+Incorporation,  which shall be  effective  without any  shareholder  approval or
+other action,  that fixes and sets forth the distinguishing  designation of such
+series; the number of shares that shall constitute such series, which number may
+be  increased  or  decreased  (but not below the number of shares  thereof  then
+outstanding)  from time to time by action  of the  Board of  Directors;  and the
+preferences,  limitations,  and relative  voting and other rights of the series.
+Authority  is  hereby  expressly  vested  in the  Board  of  Directors,  by such
+amendment,  to fix all of the  preferences  or rights,  and any  qualifications,
+limitations,  or restrictions of such  preferences or rights,  of such series to
+the full extent permitted by the Corporation  Law;  provided,  however,  that no
+such preferences, rights, qualifications,  limitations, or restrictions shall be
+in conflict with these  Amended and Restated  Articles of  Incorporation  or any
+amendment thereof.
+
+      (b)  Preferred  Shares of any  series  that have  been  redeemed  (whether
+through the  operation  of a sinking  fund or  otherwise)  or  purchased  by the
+Corporation,  or that, if  convertible,  have been  converted into shares of the
+Corporation  of any other  class or series,  may be  reissued  as a part of such
+series or of any other series of Preferred  Shares,  subject to such limitations
+(if any) as may be fixed by the Board of  Directors  with respect to such series
+of Preferred Shares in accordance with Section 3(a) of this Article VI.
+
+                                   ARTICLE VII
+                                  VOTING RIGHTS
+
+      Section 1. Common Shares.  Except as otherwise provided by the Corporation
+Law and subject to such shareholder disclosure and recognition procedures (which
+may  include  sanctions  for  noncompliance  therewith  to  the  fullest  extent
+permitted by the Corporation  Law) as the Corporation may by action of the Board
+of Directors establish, the Common Shares have unlimited voting rights. At every
+meeting of the  shareholders  of the  Corporation  every holder of Common Shares
+shall be entitled  to one (1) vote in person or by proxy for each  Common  Share
+standing in such holder's name on the stock transfer records of the Corporation.
+
+      Section 2. Preferred Shares.  Except as required by the Corporation Law or
+by the  provisions  of these  Amended and  Restated  Articles  of  Incorporation
+adopted by the Board of Directors  pursuant to Section 3(a) of Article VI hereof
+describing  the terms of Preferred  Shares or a series  thereof,  the holders of
+Preferred Shares shall have no voting rights or powers.  Preferred Shares shall,
+when validly  issued by the  Corporation,  entitle the record holder  thereof to
+vote as and on such  matters,  but only as and on such  matters  as the  holders
+thereof are entitled to vote under the  Corporation  Law or under the provisions
+of these Amended and Restated Articles of Incorporation  adopted by the Board of
+Directors  pursuant to Section 3(a) of Article VI hereof describing the terms of
+Preferred Shares or a series thereof (which  provisions may provide for special,
+conditional,   limited,  or  unlimited  voting  rights,  including  multiple  or
+fractional  votes  per  share,  or for no right to vote,  except  to the  extent
+required by the Corporation Law) and subject to such shareholder  disclosure and
+recognition procedures (which may include sanctions for noncompliance  therewith
+to the fullest extent  permitted by the Corporation  Law) as the Corporation may
+by action of the Board of Directors establish.
+
+      Section 3. Non-voting Equity Securities.  Notwithstanding  anything to the
+contrary  set forth in this Article  VII,  the  Corporation  shall not issue any
+non-voting equity securities;  provided, however, that this provision,  included
+in these  Amended and Restated  Articles of  Incorporation  in  compliance  with
+Section 1123(a)(6) of the United States Bankruptcy Code of 1978, as amended (the
+"Bankruptcy  Code"),  shall have no force and effect  beyond  that  required  by
+Section  1123(a)(6) of the  Bankruptcy  Code and shall be effective  only for so
+long as Section 1123(a)(6) of the Bankruptcy Code is in effect and applicable to
+the Corporation.
+
+                                  ARTICLE VIII
+                                    DIRECTORS
+
+      Section 1. Number. The Board of Directors at the time of adoption of these
+Amended and Restated Articles of Incorporation is composed of seven (7) members.
+The number of  Directors  shall be fixed by, or fixed in  accordance  with,  the
+Bylaws.  The Bylaws may also provide for  staggering the terms of the members of
+the Board of Directors by dividing the total number of Directors into two (2) or
+three (3) groups (with each group  containing  one-half (1/2) or one third (1/3)
+of the  total,  as near as may be)  whose  terms of office  expire at  different
+times.
+
+      Section 2.  Election of  Directors  by Holders of  Preferred  Shares.  The
+holders of one (1) or more series of  Preferred  Shares may be entitled to elect
+all or a specified  number of  Directors,  but only to the extent and subject to
+limitations  as may be set forth in the provisions of these Amended and Restated
+Articles of Incorporation  adopted by the Board of Directors pursuant to Section
+3(a) of  Article  VI  hereof  describing  the terms of the  series of  Preferred
+Shares.
+
+      Section 3.  Vacancies.  Vacancies  occurring in the Board of Directors 
+shall be filled in the manner  provided  in the Bylaws or, if the Bylaws do 
+not provide  for the filling of vacancies, in the manner provided by the 
+Corporation Law.
+
+      Section 4. Removal of Directors. Any or all of the members of the Board of
+Directors  may be  removed,  for good  cause,  at a meeting of the  shareholders
+called  expressly for that purpose,  by the affirmative vote of the holders of a
+majority  of the  outstanding  shares  then  entitled  to vote at an election of
+Directors.  However,  a Director elected by the holders of a series of Preferred
+Shares as  authorized  by Section 2 of Article  VIII may be removed  only by the
+affirmative vote of the holders of a majority of the outstanding  shares of that
+series then entitled to vote at an election of  Directors.  Directors may not be
+removed in the absence of good cause or by the Board of Directors.
+
+      Section 5.  Liability of  Directors.  A Director's  responsibility  to the
+Corporation shall be limited to discharging his duties as a Director,  including
+his duties as a member of any committee of the Board of Directors  upon which he
+may serve, in good faith,  with the care an ordinarily  prudent person in a like
+position  would  exercise  under  similar  circumstances,  and in a  manner  the
+Director reasonably believes to be in the best interests of the Corporation, all
+based on the facts then known to the Director.
+
+      In discharging his duties,  a Director is entitled to rely on information,
+opinions,  reports,  or  statements,  including  financial  statements and other
+financial data, if prepared or presented by:
+
+      (a) One (1) or more  officers or  employees  of the  Corporation  whom the
+Director  reasonably  believes  to be  reliable  and  competent  in the  matters
+presented;
+
+      (b)   Legal  counsel,  public  accountants,  or  other  persons  as to the
+            matters the Director  reasonably  believes are within such  person's
+            professional or expert competence; or
+
+      (c)   A  committee  of the Board of which the  Director is not a member if
+            the Director reasonably believes the Committee merits confidence;
+
+but a  Director  is not  acting  in good  faith if the  Director  has  knowledge
+concerning  the matter in question that makes  reliance  otherwise  permitted by
+this Section 5 unwarranted. A Director may, in considering the best interests of
+the Corporation, consider the effects of any action on shareholders,  employees,
+suppliers, and customers of the Corporation, and communities in which offices or
+other  facilities  of the  Corporation  are located,  and any other  factors the
+Director considers pertinent.
+
+      Directors shall be immune from personal  liability for any action taken as
+a Director,  or any failure to take any action,  to the fullest extent permitted
+by the applicable  provisions of the Corporation Law from time to time in effect
+and by general principles of corporate law.
+
+      Section 6.  Nonmonetary  Factors in Acquisition  Proposals.  In connection
+with the exercise of its judgment in  determining  what is in the best interests
+of the  Corporation and its  stockholders  when evaluating a proposal by another
+person or  persons to  acquire  some  material  part or all of the  business  or
+properties of the  Corporation  (whether by merger,  consolidation,  purchase of
+assets, stock reclassification,  or recapitalization,  spin-off, liquidation, or
+otherwise)  or to  acquire  some  material  part  or  all of  the  stock  of the
+Corporation  (whether by a tender or exchange  offer or some other  means),  the
+Board of  Directors  of the  Corporation  may, in addition  to  considering  the
+adequacy  of  the   consideration  to  be  paid  in  connection  with  any  such
+transaction, consider all of the following factors and any other factors that it
+deems  relevant:  (a) the social and economic  effects of the transaction on the
+Corporation and its subsidiaries and their employees,  customers,  and creditors
+and the communities in which the Corporation and its subsidiaries operate or are
+located;  (b) the business and financial condition and earnings prospects of the
+acquiring  person or persons,  including,  but not limited to, debt  service and
+other  existing  or likely  financial  obligations  of the  acquiring  person or
+persons  and  their  affiliates  and  associates,  the  possible  effect of such
+conditions  upon the  Corporation  and its  subsidiaries  and the communities in
+which the Corporation and its subsidiaries  operate or are located;  and (c) the
+competence, experience, and integrity of the acquiring person or persons and its
+or their management and affiliates and associates.
+
+                                   ARTICLE IX
+                      PROVISIONS FOR REGULATION OF BUSINESS
+                      AND CONDUCT OF AFFAIRS OF CORPORATION
+
+      Section 1. Bylaws.  The Board of Directors  shall have the exclusive power
+to make,  alter,  amend, or repeal, or to waive provisions of, the Bylaws of the
+Corporation  by the  affirmative  vote of a majority of the number of  Directors
+then in office at the time,  except as  provided  by the  Corporation  Law.  All
+provisions  for the  regulation of the business and management of the affairs of
+the  Corporation   not  stated  in  these  Amended  and  Restated   Articles  of
+Incorporation  shall be stated in the Bylaws.  The Board of  Directors  may also
+adopt  Emergency  Bylaws of the  Corporation  and shall have the exclusive power
+(except as may otherwise be provided therein) to make, alter,  amend, or repeal,
+or to waive  provisions of, the Emergency  Bylaws by the  affirmative  vote of a
+majority of the entire number of Directors at the time.
+
+      Section 2.  Indemnification of Officers, Directors, and Other Eligible 
+Persons.
+
+(a)         To the extent not  inconsistent  with applicable law, every Eligible
+            Person shall be indemnified by the Corporation against all Liability
+            and  reasonable  Expense  that may be incurred by him in  connection
+            with or resulting from any Claim:
+
+            (i)   if such Eligible Person is Wholly Successful with respect to 
+                  the Claim, or
+
+            (ii)  if not  Wholly  Successful,  then if such  Eligible  Person is
+                  determined,  as provided in either  Section  2(f) or 2(g),  to
+                  have acted in good faith, in what he reasonably believed to be
+                  in the best  interests  of the  Corporation  or at  least  not
+                  opposed to its best interests  and, in addition,  with respect
+                  to any criminal  Claim is  determined  to have had  reasonable
+                  cause  to  believe  that  his  conduct  was  lawful  or had no
+                  reasonable cause to believe that his conduct was unlawful.
+
+The termination of any Claim, by judgment,  order,  settlement  (whether with or
+without  court  approval),  or  conviction  or upon a plea of  guilty of or nolo
+contendere,  or its equivalent,  shall not create a presumption that an Eligible
+Person did not meet the  standards  of conduct  set forth in clause (ii) of this
+subsection  (a).  The actions of an Eligible  Person with respect to an employee
+benefit  plan  subject to the Employee  Retirement  Income  Security Act of 1974
+shall be  deemed  to have  been  taken in what the  Eligible  Person  reasonably
+believed to be the best interests of the  Corporation or at least not opposed to
+its best interests if the Eligible Person  reasonably  believed he was acting in
+conformity  with the  requirements  of such Act or he  reasonably  believed  his
+actions to be in the interests of the  participants in or  beneficiaries  of the
+plan.
+
+      (b)  The  term  "Claim"  as used in this  Section  2 shall  include  every
+pending,  threatened,  or completed claim,  action,  suit, or proceeding and all
+appeals thereof  (whether  brought by or in the right of this Corporation or any
+other   corporation  or  otherwise),   civil,   criminal,   administrative,   or
+investigative,  formal or  informal,  in which an  Eligible  Person  may  become
+involved, as a party of otherwise:  (i) by reason of his being or having been an
+Eligible  Person,  or (ii) by reason of any action  taken or not taken by him in
+his capacity as an Eligible Person, whether or not he continued in such capacity
+at the time such Liability or Expense shall have been incurred.
+
+      (c) The term  "Eligible  Person" as used in this Section  shall mean every
+person (and the estate,  heirs, and personal  representative of such person) who
+is or was a Director,  officer,  employee,  or agent of the Corporation or is or
+was serving at the request of the Corporation as a director,  officer, employee,
+agent,  or fiduciary of another  foreign or domestic  corporation,  partnership,
+joint venture,  trust,  employee benefit plan, or other  organization or entity,
+whether for profit or not. An Eligible  Person shall also be  considered to have
+been serving an employee  benefit plan at the request of the  Corporation if his
+duties to the Corporation also imposed duties on, or otherwise involved services
+by, him to the plan or to participants in or beneficiaries of the plan.
+
+      (d) The terms  "Liability"  and  "Expense" as used in this Section 2 shall
+include, but shall not be limited to, counsel fees and disbursements and amounts
+of judgments,  fines, or penalties against (including excise taxes assessed with
+respect to an employee  benefit  plan),  and amounts paid in settlement by or on
+behalf of, an Eligible Person.
+
+      (e) The term "Wholly  Successful" as used in this Section 2 shall mean (i)
+termination  of any Claim  against the Eligible  Person in question  without any
+finding of  liability  or guilt  against  him,  (ii)  approval by a court,  with
+knowledge of the indemnity  herein  provided,  of a settlement of any Claim,  or
+(iii) the  expiration of a reasonable  period of time after making or threatened
+making of any Claim without the institution of the same,  without any payment or
+promise made to induce a settlement.
+
+      (f) Every Eligible Person claiming  indemnification  hereunder (other than
+one who has been Wholly  Successful with respect to any Claim) shall be entitled
+to  indemnification  (i) if  special  independent  legal  counsel,  which may be
+regular counsel of the Corporation or other disinterested person or persons (who
+may be members of the Board of Directors),  in either case selected by the Board
+of  Directors,  whether or not a  disinterested  quorum  exists (such counsel or
+person or persons being hereinafter called the "Referee"),  shall deliver to the
+Corporation a written finding that such Eligible Person has met the standards of
+conduct  set  forth in clause  (ii) of  Section  2(a),  and (ii) if the Board of
+Directors,  acting  upon  such  written  finding,  so  determines.  The Board of
+Directors   shall,   if  an   Eligible   Person  is  found  to  be  entitled  to
+indemnification   pursuant  to  the  preceding  sentence,   also  determine  the
+reasonableness of the Eligible Person's  Expenses.  The Eligible Person claiming
+indemnification shall, if requested, appear before the Referee, answer questions
+that the Referee deems relevant, and shall be given ample opportunity to present
+to  the  Referee  evidence  upon  which  he  relies  for  indemnification.   The
+Corporation  shall,  at  the  request  of the  Referee,  make  available  facts,
+opinions,  or other  evidence in any way relevant to the Referee's  finding that
+are within the possession or control of the Corporation.
+
+      (g) If an Eligible  Person  claiming  indemnification  pursuant to Section
+2(f) is found not to be entitled thereto,  or if the Board of Directors fails to
+select a Referee under Section 2(f) within a reasonable amount of time following
+a written  request of an Eligible  Person for the selection of a Referee,  or if
+the  Referee  or the  Board of  Directors  fails to make a  determination  under
+Section 2(f) within a reasonable  amount of time  following  the  selection of a
+Referee,  the Eligible  Person may apply for  indemnification  with respect to a
+Claim to a court of competent jurisdiction, including a court in which the Claim
+is pending against the Eligible Person. On receipt of an application, the court,
+after  giving  notice  to the  Corporation  and  giving  the  Corporation  ample
+opportunity to present to the court any information or evidence  relating to the
+claim for  indemnification  that the Corporation  deems  appropriate,  may order
+indemnification  if it  determines  that the  Eligible  Person  is  entitled  to
+indemnification  with respect to the Claim because such Eligible  Person met the
+standards  of conduct  set forth in clause  (ii) of Section  2(a).  If the court
+determines  that the Eligible Person is entitled to  indemnification,  the court
+shall also determine the reasonableness of the Eligible Person's Expenses.
+
+      (h) The right of  indemnification  provided in this  Section 2 shall be in
+addition to any rights to which any Eligible  Person may  otherwise be entitled.
+Irrespective of the provisions of this Section 2, the Board of Directors may, at
+any time and from time to time,  (i)  approve  indemnification  of any  Eligible
+Person to the full extent  permitted by the provision of  applicable  law at the
+time in effect,  whether on  account  of past or future  transactions,  and (ii)
+authorize the  Corporation  to purchase and maintain  insurance on behalf of any
+Eligible Person against any Liability  asserted  against him and incurred by him
+in any such capacity,  or arising out of his status as such,  whether or not the
+Corporation would have the power to indemnify him against such liability.
+
+      (i) Expenses  incurred by an Eligible Person with respect to any Claim may
+be advanced by the Corporation (by action of the Board of Directors,  whether or
+not a disinterested  quorum exists) prior to the final disposition  thereof upon
+receipt of any undertaking by or on behalf of the recipient to repay such amount
+unless he is determined to be entitled to indemnification.
+
+      (j) The  provisions  of this  Section 2 shall be  deemed to be a  contract
+between the  Corporation  and each  Eligible  Person,  and an Eligible  Person's
+rights hereunder shall not be diminished or otherwise  adversely affected by any
+repeal,  amendment,  or modification of this Section 2 that occurs subsequent to
+such person becoming an Eligible Person.
+
+      (k) The provisions of this Section 2 shall be applicable to Claims made or
+commenced after the adoption  hereof,  whether arising from acts or omissions to
+act occurring before or after the adoption hereof.
+
+      Section 3. Amendment or Repeal. Except as otherwise expressly provided for
+in these Amended and Restated Articles of  Incorporation,  the Corporation shall
+be deemed, for all purposes,  to have reserved the right to amend, alter, change
+or repeal any  provision  contained in these  Amended and  Restated  Articles of
+Incorporation  to the extent and in the manner  now or  hereafter  permitted  or
+prescribed by statute,  and all rights herein  conferred upon  shareholders  are
+granted subject to such reservation.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.(II)
+<SEQUENCE>3
+<DESCRIPTION>AMENDED AND RESTATED BYLAWS
+<TEXT>
+
+
+
+
+                           AMENDED AND RESTATED BYLAWS
+
+                                       OF
+
+                                  ANACOMP, INC.
+
+                             As of February 9, 1998
+
+                                    ARTICLE I
+                            MEETINGS OF SHAREHOLDERS
+
+      Section 1.1 Annual  Meetings.  Annual meetings of the  shareholders of the
+Corporation  shall be held at such hour and at such place  within or without the
+State of Indiana as shall be designated by the Board of Directors.
+
+      Section 1.2 Special Meetings.  Special meetings of the shareholders of the
+Corporation  may be  called  at  any  time  by the  Board  of  Directors  or the
+President.  In  calling  such a special  meeting of  shareholders,  the Board of
+Directors or the  President,  as the case may be,  calling a special  meeting of
+shareholders  shall set the date, time, and place of such meeting,  which may be
+held within or without the State of Indiana.
+
+      Section 1.3 Notices.  A written notice,  stating the date, time, and place
+of any  meeting  of the  shareholders,  and in the  case  of a  special  meeting
+containing  a  description  of the purpose or purposes for which such meeting is
+called,  shall be delivered or mailed by the  Secretary of the  Corporation,  to
+each  shareholder of record of the Corporation  entitled to notice of or to vote
+at such  meeting no fewer than ten (10) nor more than sixty (60) days before the
+date  of  the  meeting,  or  as  otherwise  provided  by  the  Indiana  Business
+Corporation  Law  ("Corporation  Law").  Notice of  shareholders'  meetings,  if
+mailed,  shall be mailed,  postage  prepaid,  to each shareholder at his address
+shown in the Corporation's current record of shareholders.  Only business within
+the purpose or purposes  described  in the meeting  notice may be conducted at a
+special meeting of shareholders.
+
+      A shareholder  or his proxy may at any time waive notice of any meeting of
+shareholders if the waiver is in writing and is delivered to the Corporation for
+inclusion  in  the  minutes  or  filing  with  the  Corporation's   records.   A
+shareholder's attendance at a meeting, whether in person or by proxy, (a) waives
+objection  to lack of notice or  defective  notice of the  meeting,  unless  the
+shareholder or his proxy at the beginning of the meeting  objects to holding the
+meeting or  transacting  business at the  meeting,  and (b) waives  objection to
+consideration  of a  particular  matter at the  meeting  that is not  within the
+purpose or purposes  described in the meeting notice,  unless the shareholder or
+his  proxy  objects  to  considering  the  matter  when  it is  presented.  Each
+shareholder  who has in the manner above provided  waived notice or objection to
+notice of the shareholders'  meeting shall be conclusively presumed to have been
+given due notice of such meeting, including the purpose or purposes thereof.
+
+      If an annual or special  shareholders' meeting is adjourned to a different
+date, time or place, notice need not be given of the new date, time, or place if
+the new date,  time or place is  announced  at the meeting  before  adjournment,
+unless a new record date is or must be  established  for the adjourned  meeting.
+The Board of Directors must fix a new record date if the meeting is adjourned to
+a date more than one  hundred  twenty  (120)  days  after the date fixed for the
+original meeting.
+
+      Section 1.4 Voting. Except as otherwise provided by the Corporation Law or
+the Corporation's Articles of Incorporation,  each share of the capital stock of
+any  class  of the  Corporation  that is  outstanding  at the  record  date  and
+represented in person or by proxy at the annual or special meeting shall entitle
+the record holder thereof, or his proxy, to one (1) vote on each matter voted on
+at the meeting.
+
+      Section 1.5 Quorum. Unless the Corporation's  Articles of Incorporation or
+the  Corporation  Law  provide  otherwise,  at all  meetings of  shareholders  a
+majority of the votes entitled to be cast on a matter,  represented in person or
+by proxy,  constitutes a quorum for action on the matter. Action may be taken at
+a  shareholders'  meeting only on matters with respect to which a quorum exists;
+provided,  however,  that any  meeting  of  shareholders,  including  annual and
+special meetings and any adjournments  thereof, may be adjourned to a later date
+although  less than a quorum is  present.  Once a share is  represented  for any
+purpose at a meeting, it is deemed present for quorum purposes for the remainder
+of the meeting  and for any meeting  held  pursuant  to an  adjournment  of that
+meeting unless a new record date is or must be set for that adjourned meeting.
+
+      Section  1.6 Vote  Required  to Take  Action.  If a quorum  exists as to a
+matter to be  considered  at a meeting of  shareholders,  action on such  matter
+(other than the election of  Directors)  is approved if the votes  properly cast
+favoring the action exceed the votes  properly cast opposing the action,  unless
+the  Corporation's  Articles of  Incorporation  or the Corporation Law require a
+greater number of affirmative  votes.  Directors shall be elected by a plurality
+of the votes properly cast.
+
+      Section 1.7 Record Date.  Only such persons shall be entitled to notice or
+to vote, in person or by proxy, at any shareholders'  meeting as shall appear as
+shareholders  upon the books of the  Corporation  as of such  record date as the
+Board of Directors shall determine,  which date may not be earlier than the date
+seventy (70) days immediately  preceding the meeting unless otherwise  permitted
+by the Corporation  Law. In the absence of such  determination,  the record date
+shall be the fiftieth (50th) day immediately preceding the date of such meeting.
+Unless  otherwise  provided  by the Board of  Directors,  shareholders  shall be
+determined as of the close of business on the record date.
+
+      Section 1.8 Proxies. A shareholder may vote his shares either in person or
+by proxy.  A  shareholder  may appoint a proxy to vote or otherwise  act for the
+shareholder  (including authorizing the proxy to receive, or to waive, notice of
+any shareholders' meetings within the effective period of such proxy) by signing
+an appointment form, either personally or by the shareholder's attorney-in-fact.
+An  appointment  of a proxy is effective when received by the Secretary or other
+officer or agent  authorized to tabulate  votes and is effective for eleven (11)
+months unless a longer period is expressly provided in the appointment form. The
+proxy's  authority may be limited to a particular  meeting or may be general and
+authorize the proxy to represent the  shareholder  at a meeting of  shareholders
+held within the time provided in the appointment form. An appointment of a proxy
+is revocable by the shareholder unless the appointment form conspicuously states
+that it is irrevocable and the appointment is coupled with an interest.  Subject
+to the  Corporation Law and to any express  limitation on the proxy's  authority
+appearing on the face of the  appointment  form, the  Corporation is entitled to
+accept the proxy's  vote or other action as that of the  shareholder  making the
+appointment.
+
+                                   ARTICLE II
+                                    DIRECTORS
+
+      Section  2.1 Number and Term.  The  business of the  Corporation  shall be
+managed by a Board of Directors consisting of at least six Directors and no more
+than twelve Directors. The exact number of Directors of the Corporation shall be
+fixed by the Board of Directors  within the range  established  by the preceding
+sentence, and may be changed within that range from time to time by the Board of
+Directors.  Each Director shall be elected for a term of office to expire at the
+annual  meeting  of  shareholders  next  following  his  election.  Despite  the
+expiration of a Director's  term, the Director shall continue to serve until his
+successor  is  elected  and  qualified  or  until  the  earlier  of  his  death,
+resignation,  disqualification,  or removal, or until there is a decrease in the
+number of Directors. Any vacancy in the Board of Directors,  from whatever cause
+arising,  including  any increase in the size of the Board of Directors as fixed
+by the Board of  Directors,  shall be filled by  selection  of a successor  by a
+majority vote of the remaining  members of the Board of Directors  (even if less
+than a quorum);  provided,  however, that if such vacancy or vacancies leave the
+Board of Directors  with no members or if the remaining  members of the Board of
+Directors  are unable to agree upon a  successor  or  determine  not to select a
+successor, such vacancy may be filled by a vote of the shareholders at a special
+meeting called for that purpose or at the next annual  meeting of  shareholders.
+The term of a Director elected or selected to fill a vacancy shall expire at the
+end of the term for which such Director's predecessor was elected.
+
+      The  Directors  and  each of them  shall  have no  authority  to bind  the
+Corporation  except when acting as a Board of Directors or as a committee of the
+Board of Directors to the extent permitted in Section 2.7 hereof.
+
+      A majority of the members of the Board of  Directors  may elect from among
+its  members  a  Chairman  of  the  Board  or up to  two  members  to be  each a
+Co-Chairman  of the  Board.  The  Chairman  of the Board  shall  preside  at all
+meetings of the  shareholders and the Board of Directors at which he is present.
+In  addition,  the  Chairman  of the Board shall have and may  exercise  all the
+powers and duties that are  incident to his position  that are  delegated to him
+from time to time by the Board of Directors. Each Co-Chairman of the Board shall
+have and may  exercise  all the powers and duties that a single  Chairman of the
+Board could have or exercise,  and any reference to Chairman of the Board herein
+shall, if applicable, include each Co-Chairman of the Board. The Chairman of the
+Board may be an officer of the Corporation.
+
+      Section 2.2 Quorum and Vote Required to Take Action. At least one third of
+the  whole  Board of  Directors  (the  size of  which  shall  be  determined  in
+accordance with the latest action of the Board of Directors fixing the number of
+Directors)  shall be necessary to constitute a quorum for the transaction of any
+business, except the filling of vacancies. If a quorum is present when a vote is
+taken, the affirmative vote of a majority of the Directors  present shall be the
+act of the Board of Directors, unless the act of a greater number is required by
+the  Corporation  Law, the  Corporation's  Articles of  Incorporation,  or these
+Bylaws.
+
+      Section 2.3 Annual and Regular Meetings. The Board of Directors shall meet
+annually,  without  notice,  on  the  same  day  as the  annual  meeting  of the
+shareholders,  for the purpose of transacting such business as properly may come
+before  the  meeting.  Other  regular  meetings  of the Board of  Directors,  in
+addition to said meeting, may be held without notice of the date, time, place or
+purpose of the  meeting or on such dates,  at such times,  and at such places as
+shall be fixed by  resolution  adopted by the Board of  Directors  or  otherwise
+communicated to the Directors.  The Board of Directors may at any time alter the
+date for the next regular meeting of the Board of Directors.
+
+      Section 2.4 Special  Meetings.  Special meetings of the Board of Directors
+may be  called  by any  member  of the  Board of  Directors  upon not less  than
+twenty-four  (24) hours'  notice  given to each  Director of the date,  time and
+place of the  meeting,  which notice need not specify the purpose or purposes of
+the  special  meeting.  Such  notice may be  communicated  in person  (either in
+writing or orally), by telephone,  telegraph,  teletype or other form of wire or
+wireless  communication or by mail, and shall be effective at the earlier of the
+time of its receipt or, if mailed,  five (5) days after its  mailing.  Notice of
+any  meeting of the Board of  Directors  may be waived in writing at any time if
+the waiver is signed by the  Director  entitled  to the notice and is filed with
+the minutes or corporate records. A Director's attendance at or participation in
+a meeting waives any required notice to the Director of the meeting,  unless the
+Director  at the  beginning  of the  meeting (or  promptly  upon the  Director's
+arrival)  objects to holding the meeting or transacting  business at the meeting
+and does not thereafter vote for or assent to action taken at the meeting.
+
+      Section 2.5 Written Consents. Any action required or permitted to be taken
+at any meeting of the Board of Directors  may be taken  without a meeting if the
+action is taken by all  members of the Board of  Directors.  The action  must be
+evidenced  by one (1) or more  written  consents  describing  the action  taken,
+signed by each Director, and included in the minutes or filed with the corporate
+records  reflecting  the action  taken.  Action  taken under this Section 2.5 is
+effective when the last Director signs the consent, unless the consent specifies
+a different  prior or  subsequent  effective  date,  in which case the action is
+effective on or as of the  specified  date. A consent  signed under this Section
+2.5 has the  effect  of a  meeting  vote  and  may be  described  as such in any
+document.
+
+      Section 2.6 Participation by Conference Telephone.  The Board of Directors
+may permit any or all Directors to participate  in a regular or special  meeting
+by, or  through  the use of,  any  means of  communication,  such as  conference
+telephone,  by which all Directors  participating may  simultaneously  hear each
+other during the meeting.  A Director  participating  in a meeting by such means
+shall be deemed to be present in person at the meeting.
+
+      Section 2.7 Committees.
+
+      (a) The Board of  Directors  may  create  one (1) or more  committees  and
+appoint members of the Board of Directors to serve on them, by resolution of the
+Board of Directors adopted by a majority of all the Directors in office when the
+resolution is adopted.  Each committee may have one (1) or more members, and all
+the  members  of a  committee  shall  serve  at the  pleasure  of the  Board  of
+Directors.
+
+      (b) To the extent  specified by the Board of Directors in the  resolutions
+creating a committee,  each  committee  may exercise all of the authority of the
+Board of Directors; provided, however, that a committee may not:
+
+            (1)  authorize  dividends or other  distributions  as defined by the
+      Corporation   Law,   except  a  committee   may  authorize  or  approve  a
+      reacquisition  of  shares  if  done  according  to  a  formula  or  method
+      prescribed by the Board of Directors;
+
+            (2) approve or propose to shareholders action that is required to be
+      approved by shareholders;
+
+            (3)  fill  vacancies  on the  Board  of  Directors  or on any of its
+committees;
+
+            (4)   amend the Corporation's Articles of Incorporation;
+
+            (5) adopt, amend, repeal, or waive provision of these Bylaws, or
+
+            (6) approve a plan of merger not requiring shareholder approval.
+
+      (c)  Except to the extent  inconsistent  with the  resolutions  creating a
+committee,  Section 2.1 thorough  2.6 of these  Bylaws,  which govern  meetings,
+action  without  meetings,  notice  and  waiver of  notice,  quorum  and  voting
+requirements,  and telephone participation in meetings of the Board of Directors
+apply to the committee and its members as well.
+
+                                   ARTICLE III
+                                    OFFICERS
+
+      Section  3.1  Designation,  Selection,  and  Terms.  The  officers  of the
+Corporation  shall  consist of the  President  and the  Secretary.  The Board of
+Directors may also elect Vice Presidents,  Assistant  Secretaries,  a Treasurer,
+Assistant  Treasurers,  and such other officers or assistant  officers as it may
+from time to time  determine by resolution  creating the office and defining the
+duties thereof.  In addition,  the President may, from time to time,  create and
+appoint  such  assistant  officers as he deems  desirable.  The  officers of the
+Corporation  shall be elected by the Board of  Directors  (or  appointed  by the
+President as provided  above) and need not be selected from among the members of
+the  Board of  Directors.  Any two (2) or more  offices  may be held by the same
+person.  All officers shall serve at the pleasure of the Board of Directors and,
+with  respect to officers  appointed by the  President,  also at the pleasure of
+such officer.  The election or  appointment of an officer does not itself create
+contract rights.
+
+      Section 3.2 Removal and  Vacancies.  The Board of Directors may remove any
+officer at any time with or without cause. An officer appointed by the President
+may also be  removed  at any  time,  with or  without  cause,  by such  officer.
+Vacancies  in such  offices,  however  occurring,  may be filled by the Board of
+Directors at any meeting of the Board of  Directors  (or by  appointment  by the
+President, to the extent provided in Section 3.1 of these Bylaws).
+
+      Section 3.3 President.  The  President,  who need not be chosen from among
+the Directors, shall be the Chief Executive Officer of the Corporation and shall
+have  general  and  active,  executive  management  of  the  operations  of  the
+Corporation,  subject,  however,  to the control of the Board of  Directors.  He
+shall,  in general,  perform all duties  incident to the office of President and
+such other  duties as from time to time may be  assigned  to him by the Board of
+Directors.
+
+      Section 3.4 Secretary.  The Secretary shall be the custodian of the books,
+papers,  and records of the  Corporation  and of its corporate seal, if any, and
+shall be  responsible  for seeing  that the  Corporation  maintains  the records
+required by the  Corporation  Law (other than  accounting  records) and that the
+Corporation files with the Indiana Secretary of State the annual report required
+by the Corporation Law. The Secretary shall be responsible for preparing minutes
+of the  meetings  of the  shareholders  and of the  Board of  Directors  and for
+authenticating records of the Corporation, and he shall perform all of the other
+duties usual in the office of the Secretary of a corporation.
+
+                                   ARTICLE IV
+                                     CHECKS
+
+      All checks,  drafts,  or other orders for payment of money shall be signed
+in the  name  of the  Corporation  by such  officers  or  persons  as  shall  be
+designated from time to time by resolution adopted by the Board of Directors and
+included in the minute book of the Corporation.
+
+                                    ARTICLE V
+                                      LOANS
+
+      Such of the officers of the  Corporation as shall be designated  from time
+to time by any resolution  adopted by the Board of Directors and included in the
+minute  book of the  Corporation  shall  have the power,  with such  limitations
+thereon  as may be  fixed by the  Board of  Directors,  to  borrow  money in the
+Corporation's  behalf,  to establish  credit,  to discount bills and papers,  to
+pledge  collateral,  and to execute such notices,  bonds,  debentures,  or other
+evidences  of  indebtedness,  and such  mortgage,  trust  indentures,  and other
+instruments in connection  therewith,  as may be authorized from time to time by
+such Board of Directors.
+
+                                   ARTICLE VI
+                             EXECUTION OF DOCUMENTS
+
+      The President,  or any officer designed by him, may, in the  Corporation's
+name,  sign all  deeds,  leases,  contracts,  or similar  documents  that may be
+authorized by the Board of Directors unless  otherwise  directed by the Board of
+Directors  or  otherwise  provided  herein or in the  Corporation's  Articles of
+Incorporation, or as otherwise required by law.
+
+                                   ARTICLE VII
+                                      STOCK
+
+      Section 7.1 Execution. Certificates for shares of the capital stock of the
+Corporation  shall be signed  (either  manually or in facsimile) by two officers
+designated  from  time to time by the  Board  of  Directors  and the seal of the
+Corporation  (or a  facsimile  thereof),  if any,  may be thereto  affixed.  The
+Corporation may issue and deliver any such certificate  notwithstanding that any
+such officer who shall have signed, or whose facsimile signature shall have been
+imprinted on, such certificate shall have ceased to be such officer.
+
+      Section 7.2 Contents. Each certificate shall state on its face the name of
+the Corporation and that it is organized under the laws of the State of Indiana,
+the name of the  person to whom it is  issued,  and the number and class and the
+designation of the series,  if any, of shares the certificate  represents,  and,
+whenever the Corporation is authorized to issue more than one class of shares or
+different series within a class, each certificate issued after the effectiveness
+of such  authorization  shall further state  conspicuously  on its front or back
+that the Corporation will furnish the shareholder,  upon his written request and
+without charge, a summary of the designations, relative rights, preferences, and
+limitations  applicable  to each class and series and the authority of the Board
+of Directors to determine variations in rights,  preferences and limitations for
+future series.
+
+      Section  7.3  Transfers.  Except  as  otherwise  provided  by  law  or  by
+resolution of the Board of  Directors,  transfers of shares of the capital stock
+of the  Corporation  shall be made only on the books of the  Corporation  by the
+holder thereof in person or by duly authorized attorney, on payment of all taxes
+thereon and surrender for  cancellation of the  certificate or certificates  for
+such shares (except as hereinafter provided in the case of loss, destruction, or
+mutilation  of  certificates)   properly  endorsed  by  the  holder  thereof  or
+accompanied by the proper  evidence of succession,  assignment,  or authority to
+transfer and delivered to the Secretary or an Assistant Secretary.
+
+      Section 7.4 Stock Transfer Records.  There shall be entered upon the stock
+records of the Corporation the number of each certificate  issued;  the name and
+address of the  registered  holder of such  certificate;  the number,  kind, and
+class or series of shares  represented by such  certificate;  the date of issue;
+whether the shares are originally  issued or transferred;  the registered holder
+from whom transferred;  and such other information as is commonly required to be
+shown by such records. The stock records of the Corporation shall be kept at its
+principal office, unless the Corporation appoints a transfer agent or registrar,
+in which case the Corporation  shall keep at its principal office a complete and
+accurate  shareholders'  list giving the name and addresses of all  shareholders
+and the  number  and  class of  shares  held by  each.  If a  transfer  agent is
+appointed by the  Corporation,  shareholders  shall give  written  notice of any
+change in their addresses from time to time to the transfer agent.
+
+      Section 7.5 Transfer  Agents and  Registrars.  The Board of Directors  may
+appoint one or more transfer  agents and one or more  registrars and may require
+each stock certificate to bear the signature of either or both.
+
+      Section 7.6 Loss, Destruction,  or Mutilation of Certificates.  The holder
+of any of the capital  stock of the  Corporation  shall  immediately  notify the
+Corporation of any loss, destruction, or mutilation of the certificate therefor,
+and the Board of Directors may, in its  discretion,  cause to be issued to him a
+new  certificate  or  certificates  of stock upon the surrender of the mutilated
+certificate, or, in the case of loss or destruction,  upon satisfactory proof of
+such loss or destruction. The Board of Directors may, in its discretion, require
+the holder of the lost or destroyed  certificate or his legal  representative to
+give the  Corporation a bond in such sum and in such form,  and with such surety
+or sureties as it may direct, to indemnify the Corporation, its transfer agents,
+and its registrars,  if any,  against any claim that may be made against them or
+any of them with respect to the capital stock  represented by the certificate or
+certificates alleged to have been lost or destroyed,  but the Board of Directors
+may, in its discretion,  refuse to issue a new certificate or certificate,  save
+upon the order of a court having jurisdiction in such matters.
+
+      Section 7.7 Form of Certificates. The form of the certificate of shares of
+the  capital  stock of the  Corporation  shall  conform to the  requirements  of
+Section 7.2 of these  Bylaws and be in such  printed  form as shall from time to
+time be approved by resolution of the Board of Directors.
+
+      Section 7.8 Direct Registration  System.  Nothing in these Bylaws shall be
+construed as limiting the  authority of the Board of Directors of the Company to
+authorize a direct  registration system whereby the registration of the issuance
+and transfer of any or all of the shares of any or all classes of capital  stock
+of the  Company  (or of any or all series of such  shares) may be entered in the
+Company's  stock records in book-entry form without the issuance of certificates
+therefor.
+
+                                  ARTICLE VIII
+                                      SEAL
+
+      The corporate seal of the Corporation  shall, if the Corporation elects to
+have  one,  be in the form of a disc,  with the name of the  Corporation  on the
+periphery  thereof  and the word  "SEAL" in the  center.  However,  the use of a
+corporate seal or an impression  thereof is not required and does not affect the
+validity of any instrument whatsoever.
+
+                                   ARTICLE IX
+                                  MISCELLANEOUS
+
+      Section 9.1  Corporation  Law. The  provision of the  Corporation  Law, as
+amended, applicable to all matters relevant to, but not specifically covered by,
+these Bylaws are hereby, by reference,  incorporated in and made a part of these
+Bylaws.
+
+      Section 9.2 Fiscal Year. The fiscal year of the  Corporation  shall end 
+on the 30th of September of each year.
+
+      Section 9.3 Business Combination Chapter Applicable. The provisions of the
+Business  Combinations Chapter of the Corporation Law (Indiana Code 23-1-43) are
+applicable to the Corporation.  The provisions of the Control Shares Acquisition
+Chapter of the  Corporation  Law  (Indiana  Code  23-1-42) are  inapplicable  to
+"control share acquisitions" (as therein defined) of shares of the Corporation.
+
+      Section 9.4 Definition of Articles of Incorporation. The term "Articles of
+Incorporation"  as used in these Bylaws means the Articles of  Incorporation  of
+the Corporation, as amended and restated from time to time.
+
+      Section  9.5  Amendments.  These  Bylaws  may be  rescinded,  changed,  or
+amended,  and  provisions  hereof may be waived,  at any meeting of the Board of
+Directors by the affirmative  vote of a majority of the number of Directors then
+in  office  at the  time,  except as  otherwise  required  by the  Corporation's
+Articles of Incorporation or by the Corporation Law.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM ANACOMP
+INC.'S MARCH 31,1999 FORM 10-Q QUARTERLY REPORT AND IS QUALIFIED IN ITS ENTIRETY
+BY REFERENCE TO SUCH FINANCIAL STATEMENTS. 
+</LEGEND>                                               
+<MULTIPLIER>                                   1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                              SEP-30-1999
+<PERIOD-START>                                 OCT-01-1998
+<PERIOD-END>                                   MAR-31-1999
+<CASH>                                         14,523
+<SECURITIES>                                   0
+<RECEIVABLES>                                  70,261
+<ALLOWANCES>                                   6,850
+<INVENTORY>                                    16,943
+<CURRENT-ASSETS>                               138,769
+<PP&E>                                         52,871
+<DEPRECIATION>                                 9,600
+<TOTAL-ASSETS>                                 368,139
+<CURRENT-LIABILITIES>                          109,135
+<BONDS>                                        339,619
+<PREFERRED-MANDATORY>                          0
+<PREFERRED>                                    0
+<COMMON>                                       142
+<OTHER-SE>                                     (80,757)
+<TOTAL-LIABILITY-AND-EQUITY>                   368,139
+<SALES>                                        77,584
+<TOTAL-REVENUES>                               226,907
+<CGS>                                          48,977
+<TOTAL-COSTS>                                  233,155
+<OTHER-EXPENSES>                               0
+<LOSS-PROVISION>                               0
+<INTEREST-EXPENSE>                             20,728
+<INCOME-PRETAX>                                (26,078)
+<INCOME-TAX>                                   4,122
+<INCOME-CONTINUING>                            (30,200)
+<DISCONTINUED>                                 809
+<EXTRAORDINARY>                                0
+<CHANGES>                                      0
+<NET-INCOME>                                   (29,391)
+<EPS-PRIMARY>                                  (2.06)
+<EPS-DILUTED>                                  (2.06)
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

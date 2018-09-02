@@ -1,0 +1,1789 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HmanKiAd6XMfkHXgt581xuZtt2u7E1eOk8GazBZyVzlNQ+FF5/Lg94b3pj0gGPFc
+ wWSRYJIeUebcHAjw/g+J0g==
+
+<SEC-DOCUMENT>0000006260-98-000001.txt : 19980218
+<SEC-HEADER>0000006260-98-000001.hdr.sgml : 19980218
+ACCESSION NUMBER:		0000006260-98-000001
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19971231
+FILED AS OF DATE:		19980217
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANACOMP INC
+		CENTRAL INDEX KEY:			0000006260
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				351144230
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-08328
+		FILM NUMBER:		98541377
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11550 N MERIDIAN ST SUITE 600
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178449666
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 40888
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMPUTEC INC
+		DATE OF NAME CHANGE:	19740314
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDING 12/31/97
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    Form 10-Q
+
+
+              (X) QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended December 31, 1997
+
+                                       OR
+
+             ( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                 For the transition period from _______ to _______
+
+                          Commission File Number 1-8328
+
+
+                                  ANACOMP, INC.
+
+                               Indiana 35-1144230
+                            12365 Crosthwaite Circle
+                             Poway, California 92064
+
+                 Registrant's Telephone Number is (619) 679-9797
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.
+
+                                    YES X NO
+
+Indicate  by check mark  whether  the  registrant  has filed all  documents  and
+reports  required  to be  filed by  Section  12,  13 or 15(d) of the  Securities
+Exchange Act of 1934 subsequent to the  distribution of securities  under a plan
+confirmed by a court.
+
+                                    YES X NO
+
+The  number of shares  outstanding  of the  Common  Stock of the  registrant  on
+December  31,  1997,  the  close  of the  period  covered  by this  report,  was
+13,851,927.
+
+<PAGE>
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+
+                                      INDEX
+
+
+
+PART I.            FINANCIAL INFORMATION                               PAGE NO.
+
+Item 1.            Financial Statements:
+
+                   Condensed Consolidated Balance Sheets
+                   December 31, 1997 and September 30, 1997.................  3
+
+                   Condensed Consolidated Statements of Operations
+                   Three Months Ended December 31, 1997 and 1996............  4
+
+                   Condensed Consolidated Statements of Cash Flows
+                   Three Months Ended December 31, 1997 and 1996............  5
+
+                   Condensed Consolidated Statements of
+                   Stockholders' Equity
+                   Three Months Ended December 31, 1997 and 1996............  7
+
+                   Notes to Condensed Consolidated Financial Statements.....  8
+
+Item 2.            Management's Discussion and Analysis of
+                   Financial Condition and Results of Operations............ 11
+
+
+PART II.           OTHER INFORMATION
+
+Item 2.            Changes in Securities.................................... 14
+
+Item 6.            Exhibits and Reports on Form 8-K......................... 14
+
+SIGNATURES.................................................................. 15
+
+
+
+
+
+
+
+<PAGE>
+
+
+PART I.  FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS
+<TABLE>
+<CAPTION>
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+Anacomp, Inc. and Subsidiaries
+                                                                         December 31,      September 30,
+(Dollars in thousands, except per share amounts)                             1997               1997
+- ---------------------------------------------------------------------- ----------------- -------------------
+ASSETS                                                                   (unaudited)
+Current assets:
+<S>                                                                        <C>                  <C>      
+    Cash and cash equivalents....................................          $  31,909            $  58,060
+    Restricted cash..............................................              4,552                7,433
+    Accounts and notes receivable, less allowances for doubtful
+        accounts of $5,732 and $5,501,  respectively.............             63,889               58,628
+    Current portion of long-term receivables.....................              3,571                3,647
+    Inventories..................................................             26,298               25,261
+    Prepaid expenses and other...................................              7,677                6,853
+                                                                       ----------------- -------------------
+Total current assets.............................................            137,896              159,882
+
+Property and equipment, at cost less accumulated depreciation and
+    amortization.................................................             32,628               29,063
+Long-term receivables, net of current portion....................              6,446                6,587
+Excess of purchase price over net assets of businesses acquired and
+    other intangibles, net.......................................             23,688               17,800
+Reorganization value in excess of identifiable assets............            143,651              163,856
+Other assets.....................................................             14,360               14,763
+                                                                       ================= ===================
+                                                                            $358,669             $391,951
+                                                                       ================= ===================
+LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities:
+    Current portion of long-term debt............................         $    8,234           $    9,595
+    Accounts payable.............................................             38,213               39,270
+    Accrued compensation, benefits and withholdings..............             15,082               16,481
+    Accrued income taxes.........................................             14,959               13,471
+    Accrued interest.............................................              8,892               14,738
+    Other accrued liabilities....................................             27,644               34,529
+                                                                       ----------------- -------------------
+Total current liabilities........................................            113,024              128,084
+                                                                       ----------------- -------------------
+
+Noncurrent liabilities:
+    Long-term debt, net of current portion.......................            245,446              247,889
+    Other noncurrent liabilities.................................              1,112                1,458
+                                                                       ----------------- -------------------
+Total noncurrent liabilities.....................................            246,558              249,347
+                                                                       ----------------- -------------------
+
+Stockholders' equity:
+    Preferred stock, 1,000,000 shares authorized, none issued....                 --                   --
+    Common stock, $.01 par value; 20,000,000 shares authorized;
+        13,851,927 and 13,789,764 issued and outstanding,
+        respectively.............................................                139                  138
+    Capital in excess of par value...............................            105,870              105,329
+    Cumulative translation adjustment from May 31, 1996..........             (1,735)              (1,128)
+    Accumulated deficit from May 31, 1996........................           (105,187)             (89,819)
+                                                                       ----------------- -------------------
+Total stockholders' equity.......................................               (913)              14,520
+                                                                       ================= ===================
+                                                                            $358,669             $391,951
+                                                                       ================= ===================
+            See notes to condensed consolidated financial statements
+</TABLE>
+
+
+<PAGE>
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+Anacomp, Inc. and Subsidiaries
+<TABLE>
+<CAPTION>
+
+
+                                                                         Three Months       Three Months
+                                                                            Ended              Ended
+                                                                         December 31,       December 31,
+(Amounts in thousands, except per share amounts)                             1997               1996
+- ---------------------------------------------------------------------- -----------------
+                                                                                         -------------------
+Revenues:
+<S>                                                                       <C>                 <C>       
+    Services provided............................................         $   48,507          $   45,425
+    Equipment and supply sales...................................             69,307              71,028
+                                                                       ----------------- -------------------
+                                                                             117,814             116,453
+                                                                       ----------------- -------------------
+
+Operating costs and expenses:
+    Costs of services provided...................................             27,199              24,107
+    Costs of equipment and supplies sold.........................             51,071              50,932
+    Selling, general and administrative expenses.................             26,461              21,448
+    Amortization of reorganization asset.........................             18,745              19,247
+                                                                       ----------------- -------------------
+                                                                             123,476             115,734
+                                                                       ----------------- -------------------
+Income (loss) from operations before interest, other income and
+    income taxes.................................................             (5,662)                719
+                                                                       ----------------- -------------------
+
+Interest income..................................................                785                 984
+Interest expense and fee amortization............................             (7,921)             (9,802)
+Other expense....................................................               (170)                (15)
+                                                                       ----------------- -------------------
+                                                                              (7,306)             (8,833)
+                                                                       ----------------- -------------------
+
+Loss before income taxes ........................................            (12,968)             (8,114)
+Provision for income taxes.......................................              2,400               4,800
+                                                                       ================= ===================
+Net loss available to common stockholders........................          $ (15,368)          $ (12,914)
+                                                                       ================= ===================
+
+Weighted average common shares outstanding.......................             13,814              12,818
+                                                                       ================= ===================
+
+Earnings (loss) per common share:
+
+    Net loss available to common stockholders....................        $        (1.11)     $        (1.01)
+                                                                       ================= ===================
+
+
+
+
+            See notes to condensed consolidated financial statements
+
+</TABLE>
+
+<PAGE>
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS  (Unaudited)
+Anacomp, Inc. and Subsidiaries
+<TABLE>
+<CAPTION>
+
+                                                                          Three Months      Three Months
+                                                                              Ended             Ended
+                                                                          December 31,      December 31,
+(Dollars in thousands)                                                        1997              1996
+- ------------------------------------------------------------------------ ----------------
+                                                                                          ------------------
+
+Cash flows from operating activities:
+<S>                                                                           <C>                <C>      
+    Net loss.........................................................         $(15,368)          $(12,914)
+    Adjustments to reconcile net loss to net
+      cash provided by (used in) operating activities:
+      Depreciation and amortization..................................           24,993             22,967
+      Non-cash compensation..........................................              251                259
+      Non-cash charge in lieu of taxes...............................            1,460              2,625
+      Other non-cash items...........................................               38                184
+      Restricted cash requirements...................................            2,881                 --
+      Change in assets and liabilities, net of effects from acquisitions:
+         Increase in accounts and long-term receivables..............           (2,812)              (534)
+         Decrease in inventories and prepaid expenses................              247              2,318
+         Increase in other assets....................................             (207)              (225)
+         Increase (decrease) in accounts payable and accrued
+            expenses.................................................          (17,637)             2,205
+         Decrease in other noncurrent liabilities....................             (338)              (605)
+                                                                         ---------------- ------------------
+           Net cash provided by (used in) operating activities.......           (6,492)            16,280
+                                                                         ---------------- ------------------
+
+Cash flows from investing activities:
+    Purchases of property, plant and equipment.......................           (2,331)            (3,202)
+    Payments to acquire companies and customer rights................          (13,020)            (3,379)
+                                                                         ---------------- ------------------
+           Net cash used in investing activities.....................          (15,351)            (6,581)
+                                                                         ---------------- ------------------
+
+Cash flows from financing activities:
+    Proceeds from exercise of common stock rights ...................               --             24,574
+    Proceeds from exercise of common stock options ..................              421                 --
+    Principal payments on long-term debt.............................           (3,951)              (482)
+                                                                         ---------------- ------------------
+           Net cash provided by (used in) financing activities.......           (3,530)            24,092
+                                                                         ---------------- ------------------
+
+Effect of exchange rate changes on cash..............................             (778)              (415)
+                                                                         ---------------- ------------------
+Increase (decrease) in cash and cash equivalents.....................          (26,151)            33,376
+
+Cash and cash equivalents at beginning of period.....................           58,060             38,198
+                                                                         ---------------- ------------------
+
+Cash and cash equivalents at end of period...........................          $31,909            $71,574
+                                                                         ================ ==================
+
+
+            See notes to condensed consolidated financial statements
+
+</TABLE>
+<PAGE>
+
+
+
+
+
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+<TABLE>
+<CAPTION>
+
+
+                                                                   Three Months           Three Months
+                                                                      Ended                   Ended
+                                                                   December 31,           December 31,
+(Dollars in thousands)                                                 1997                   1996
+- ------------------------------------------------------------- ----------------------- ----------------------
+Cash paid during the period for:
+<S>                                                                  <C>                      <C>  
+    Interest.............................................            $12,834                  $ 269
+    Income taxes.........................................            $ 1,090                 $ 2,080
+
+
+
+SUPPLEMENTAL SCHEDULE OF NON-CASH INVESTING
+   AND FINANCING ACTIVITIES:
+
+
+                                                                   Three Months           Three Months
+                                                                      Ended                   Ended
+                                                                   December 31,           December 31,
+(Dollars in thousands)                                                 1997                   1996
+- ------------------------------------------------------------- ----------------------- ----------------------
+Assets acquired by assuming liabilities .................             $ 702                   $ 670
+Interest on subordinated notes satisfied with
+ additional notes........................................              $ --                  $ 11,960
+
+
+
+
+
+            See notes to condensed consolidated financial statements
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (Unaudited)
+Anacomp, Inc. and Subsidiaries
+<TABLE>
+<CAPTION>
+
+
+THREE MONTHS ENDED DECEMBER 31, 1997
+
+                                                                Capital in    Cumulative
+                                                    Common       excess of   Translation     Accumulated
+(Dollars in thousands)                               Stock       par value    Adjustment       Deficit         Total
+- ------------------------------------------------ -------------- ------------ ------------- ---------------- -------------
+
+<S>                                                       <C>      <C>           <C>             <C>            <C>     
+BALANCE AT SEPTEMBER 30, 1997                             $138     $105,329      $(1,128)        $(89,819)      $ 14,520
+Common stock issued for exercise of options                  1          541                                          542
+Translation adjustments for period.........                                         (607)                          (607)
+Net loss for the period....................                                                       (15,368)      (15,368)
+                                                 -------------- ------------ ------------- ---------------- -------------
+BALANCE AT DECEMBER 31, 1997                              $139     $105,870      $(1,735)       $(105,187)    $    (913)
+                                                 ============== ============ ============= ================ =============
+
+
+THREE MONTHS ENDED DECEMBER 31, 1996
+
+                                                                Capital in    Cumulative
+                                                    Common       excess of   Translation     Accumulated
+(Dollars in thousands)                               Stock       par value    Adjustment       Deficit         Total
+- ------------------------------------------------ -------------- ------------ ------------- ---------------- -------------
+
+BALANCE AT SEPTEMBER 30, 1996                             $101      $80,318          $159        $(22,009)       $58,569
+Common stock issued for exercise of rights                  36       24,538            --               --        24,574
+Translation adjustments for period.........                 --           --           344               --           344
+Other......................................                 --           --            --                1             1
+Net loss for the period....................                 --           --            --         (12,914)      (12,914)
+                                                 ============== ============ ============= ================ =============
+BALANCE AT DECEMBER 31, 1996                              $137     $104,856          $503        $(34,922)       $70,574
+                                                 ============== ============ ============= ================ =============
+
+
+            See notes to condensed consolidated financial statements
+
+</TABLE>
+
+
+<PAGE>
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+Anacomp, Inc. and Subsidiaries
+
+NOTE 1.  GENERAL:
+
+         The   Condensed    Consolidated    Financial   Statements   ("Financial
+         Statements")  included  herein have been prepared by Anacomp,  Inc. and
+         its wholly owned  subsidiaries  ("Anacomp"  or the  "Company")  without
+         audit,  pursuant to the rules and  regulations  of the  Securities  and
+         Exchange  Commission.  Certain  information  and  footnote  disclosures
+         normally included in financial  statements  prepared in accordance with
+         generally accepted accounting principles have been condensed or omitted
+         pursuant to such rules and regulations;  however,  the Company believes
+         that the disclosures are adequate to make the information presented not
+         misleading.  The Financial Statements included herein should be read in
+         conjunction  with  the  financial  statements  and  the  notes  thereto
+         included  in the  Company's  Annual  Report on Form 10-K for the fiscal
+         year ended September 30, 1997.
+
+         In the opinion of management,  the  accompanying  Financial  Statements
+         contain  all  material  adjustments  necessary  to  present  fairly the
+         consolidated financial condition, results of operations, and changes in
+         financial  position  and  stockholders'   equity  of  Anacomp  and  its
+         subsidiaries for the interim periods presented.  Certain amounts in the
+         prior  consolidated  financial  statements  included  herein have been
+         reclassified to conform to the current period presentation.
+
+
+NOTE 2.  COMPONENTS OF CERTAIN BALANCE SHEET ACCOUNTS:
+
+         Inventories
+
+         Inventories are stated at the lower of cost or market,  with cost being
+         determined by methods approximating the first-in,  first-out basis. The
+         cost of the inventories is distributed as follows:
+
+<TABLE>
+<CAPTION>
+                                                                          December 31,      September 30,
+           (Dollars in thousands)                                             1997               1997
+           ----------------------------------------------------------- ------------------- -----------------
+
+           <S>                                                                   <C>               <C>     
+           Finished goods.......................................                 $ 14,326          $ 14,887
+           Work in process......................................                    3,209             3,299
+           Raw materials and supplies...........................                    8,763             7,075
+                                                                       =================== =================
+                                                                                 $ 26,298          $ 25,261
+                                                                       =================== =================
+</TABLE>
+
+         Property and Equipment
+
+         Property  and   equipment  are  carried  at  cost.   Depreciation   and
+         amortization of property and equipment are generally provided under the
+         straight-line  method for financial reporting purposes over the shorter
+         of the  estimated  useful lives or the lease terms.  Tooling  costs are
+         amortized over the total estimated  units of production,  not to exceed
+         three years.
+
+         Restricted Cash
+
+         Restricted  cash  represents cash reserved as collateral for letters of
+         credit issued by the Company or cash held in escrow primarily to secure
+         certain   contingent   obligations  of  the  Company.   The  contingent
+         obligations  are primarily  related to  environmental  liabilities  and
+         certain insurance policies.
+
+
+NOTE 3.  INCOME TAXES:
+
+         Amortization of "Reorganization value in excess of identifiable assets"
+         is not  deductible  for income tax purposes.  Accordingly,  the Company
+         incurs  income tax expense even though it reports a pre-tax loss due to
+         such amortization.
+
+         For the three months ended  December  31,  1997,  and 1996,  income tax
+         expense is reported for the Company based upon the estimated  effective
+         tax rates.  For fiscal 1998 and 1997,  the effective tax rates were 42%
+         and 43% of pretax income before amortization of reorganization value in
+         excess of identifiable assets, respectively. Also, for the three months
+         ended  December 31, 1997, and 1996, the limited tax benefit of the U.S.
+         Federal  net  operating  loss  carryforwards  ("NOLs")  of the  Company
+         resulted in a reduction of $1.5 million and $2.6 million, respectively,
+         to "Reorganization value in excess of identifiable assets" and does not
+         reduce income tax expense.
+
+         At  December  31,  1997,  the Company  had NOLs of  approximately  $145
+         million  available to offset future  taxable  income.  This amount will
+         increase to $195 million as certain  temporary  differences  reverse in
+         future  periods.  Usage of these  NOLs by the  Company  is  limited  to
+         approximately $4 million annually.  However,  the Company may authorize
+         the use of other tax  planning  techniques  to utilize a portion of the
+         remaining NOLs before they expire.  In any event,  the Company  expects
+         that substantial amounts of the NOLs will expire unused. NOLs available
+         to offset  taxable  income for fiscal year 1998 are estimated to be $11
+         million.
+
+
+NOTE 4.  EARNINGS (LOSS) PER SHARE:
+
+         The computation of basic earnings (loss) per common share is based upon
+         the weighted  average  number of common shares  outstanding  during the
+         periods.  Diluted  earnings  (loss)  per  share  are the  same as basic
+         earnings per share for the periods presented due to the losses reported
+         for the periods.
+
+
+NOTE 5.  ACQUISITIONS:
+
+         During the three months ended December 31, 1997,  the Company  acquired
+         either the customer  bases and other  specified  assets or the stock of
+         five businesses.  Total  consideration at closing was $13.7 million, of
+         which  approximately  $9.3  million was  assigned to excess of purchase
+         price over net assets acquired.
+
+         The  aggregate  purchase  prices  consisted  of $13.0  million  cash at
+         closing,  $0.7  million  in assumed  liabilities  and  contingent  cash
+         payments of up to $6.7 million based upon future operating results over
+         the next 10 years.
+
+
+
+<PAGE>
+
+
+
+NOTE 6.    RIGHTS OFFERING:
+
+         On October 30,  1996,  the Company  completed a rights  offering to its
+         existing  shareholders  that  resulted  in the  issuance of 3.6 million
+         shares of common stock.  For each share of Anacomp common stock held as
+         of the close of business on September 18, 1996, the Company distributed
+         0.36  rights to  purchase  an  additional  share of  common  stock at a
+         subscription  price of $6.875 per share.  The Company used the proceeds
+         of the rights offering,  approximately $25 million, for the acquisition
+         of businesses, assets and technologies.
+
+
+NOTE 7.    SUBSEQUENT EVENTS:
+
+          Subsequent to December 31, 1997, the Company acquired two businesses.
+          Total consideration at closing was $2.6 million, of which 
+          approximately $2.4 million  was  assigned  to excess of  purchase  
+          price  over net assets acquired.
+
+         The purchase  price  consisted  of $2.4  million cash at closing,  $0.2
+         million in assumed  liabilities  and contingent  cash payments of up to
+         $4.2  million  based upon future  operating  results over the next five
+         years.
+
+
+
+
+
+
+<PAGE>
+
+
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                 AND RESULTS OF OPERATIONS
+
+Results of Operations
+
+General
+Anacomp reported a net loss of $15.4 million for the three months ended December
+31,  1997,  compared to a net loss of $12.9  million for the three  months ended
+December 31, 1996.  Included in the net loss for the three months ended December
+31, 1997 is non-cash amortization of the Company's reorganization value asset of
+$18.7 million.  Included in the net loss for the three months ended December 31,
+1996 is non-cash  amortization  of the Company's  reorganization  value asset of
+$19.2  million and receipt of a one-time $3.6 million  prepayment  relating to a
+long-standing OEM purchase agreement with the Eastman Kodak Company ("Kodak").
+
+Pursuant to the 1990 OEM agreement noted above,  Kodak was obligated to purchase
+an additional  151 XFP 2000 systems by October 1997 or pay a cash penalty to the
+Company.  In an  amendment  to this  agreement,  the Company  accepted  the $3.6
+million  prepayment  and a  commitment  to  purchase an  additional  41 XFP 2000
+systems by October 1997. As of December 31, 1997,  the purchase  commitment  was
+completed.
+
+Earnings before interest,  other expense,  taxes,  depreciation and amortization
+("EBITDA")  was $19.1  million  for the three  months  ended  December  31, 1997
+compared  to $23.3  million  for the  three  months  ended  December  31,  1996.
+Excluding the Kodak prepayment, EBITDA was $19.7 million for the prior period.
+
+Total revenues for the first quarter of $117.8 million represents a $1.4 million
+increase  from the revenues for the first  quarter of the prior year.  Excluding
+the Kodak  prepayment  from the  prior  year  revenues,  the  increase  was $5.0
+million,  or 4.4%.  A variety of  factors  contributed  to the higher  revenues,
+including  large  contracts with new customers,  higher volumes in the Company's
+COM  services  business,  strong  sales of the XFP2000 COM  recorder,  higher CD
+system and services sales and the positive effect of acquisitions.
+
+Cost of services  provided as a percentage  of services  revenue was 56% for the
+three months ended December 31, 1997, compared to 53% for the same period of the
+prior year. Cost of equipment and supplies sold as a percentage of equipment and
+supplies sales was 74% for the three months ended December 31, 1997, compared to
+76% for the same period of the prior year,  excluding  the one-time $3.6 million
+payment noted above.
+
+Selling, general and administrative expenses were 22% of revenue in 1997 and 19%
+in 1996,  excluding  the  one-time  $3.6  million  payment  noted  above.  These
+increased  costs are due to investments in the Company's  sales force  including
+one-time  training costs, to costs incurred in the transitioning of acquisitions
+into  the  company  and  to  additional  amortization  expense  associated  with
+acquisitions subsequent to December 31, 1996.
+
+Interest expense and fee amortization of $7.9 million for the three months ended
+December 31, 1997,  decreased  $1.9 million over the prior year,  as a result of
+the  refinancing of the Company's  indebtedness  in the second quarter of fiscal
+1997.
+
+Products and Services
+
+Output services  revenues  increased $5.4 million,  or 22%, for the three months
+ended  December 31, 1997  compared to the same three months of fiscal 1997.  COM
+services volumes increased 13%, while the average selling price decreased 11.0%.
+Data  center  acquisitions  in the  United  States and Europe as well as several
+large  customer  gains have  contributed to both the increase in volumes and the
+decrease  in average  selling  price.  The  acquired  data  centers  contributed
+volumes, but at somewhat lower selling prices. The large customer gains received
+favorable pricing due to their volumes. Gross margins as a percentage of revenue
+decreased by 3.2 percentage points due to the aforementioned impact of the lower
+average selling price.
+
+Technology services (primarily  maintenance) revenues decreased $1.0 million for
+the three months ended  December 31, 1997 compared to the prior year,  primarily
+due to the continuing decrease in the population of older generation COM systems
+in the customer  base.  Gross  margins as a percentage  of revenue  improved 2.1
+percentage points as a result of decreased personnel and equipment costs.
+
+COM systems revenues for the three months ended December 31, 1997 increased $3.3
+million  compared to the same period of the prior year.  The increase in revenue
+is mainly  attributable  to the sale of 12 XFP COM systems  sold to Kodak in the
+current period compared to zero systems in the same period of the prior year. In
+total,  the  Company  sold or leased 29 XFP COM  systems in the  current  period
+compared to 20 XFP COM systems sold in the same period of the prior year.
+
+Digital systems  revenues for the three months ended December 31, 1997 were $3.8
+million  compared to $1.6 in the prior year.  The increase was  primarily due to
+the sales of DataWare CD systems,  a product line acquired in January 1997,  and
+the sale of COLD systems by a business acquired in October 1997.
+
+Micrographics  supplies  revenues for the three  months ended  December 31, 1997
+decreased  $4.9  million  compared to the same  period of the prior  year.  This
+decrease is due to the decline in original COM film ($2.9 million) and duplicate
+film ($2.2 million), which is consistent with long-term trends. Gross margins as
+a percentage of revenue were comparable between periods.
+
+Magnetic  media  revenues for the three months ended  December 31, 1997 remained
+level compared to the same period of the prior year.  Magnetics gross margins as
+a percentage of revenue were comparable between periods.
+
+Liquidity and Capital Resources
+
+Anacomp's working capital at December 31, 1997, excluding the current portion of
+long-term  debt, was $33.1  million,  compared to $41.4 million at September 30,
+1997. Net cash used in operating activities was $6.5 million for the first three
+months of fiscal 1998, compared to net cash provided by operating  activities of
+$16.3 million in the comparable prior period. The change in net cash provided by
+(used in) operating  activities was caused by a semi-annual  interest payment on
+the 10 7/8% Senior  Subordinated Notes along with usual working capital changes.
+Net cash used in investing  activities  was $15.4 million in the current  period
+compared to $6.6 million in the comparable prior period.  The change in net cash
+used in investing  activities  was caused by a large  acquisition in Switzerland
+during the current period.
+
+Net cash used in  financing  activities  was $3.5  million for the three  months
+ended December 31, 1997,  compared to net cash provided by financing  activities
+of $24.1 million in the comparable prior period.
+
+The Company's cash balance  (including  restricted cash) as of December 31, 1997
+was $36.5  million,  compared to $65.5 million at September 30, 1997,  primarily
+due to cash used for  acquisitions.  The Company also has  availability of $22.6
+million on its $25 million revolving credit facility at December 31, 1997.
+
+The Company has significant debt service obligations. The ability of the Company
+to meet its debt  service  and other  obligations  will  depend  upon its future
+performance  and is subject to financial,  economic and other  factors,  some of
+which are beyond its control.  However,  the Company  believes that cash on hand
+and cash generated from  operations  will be sufficient to fund its debt service
+requirements,  acquisition  strategies and working  capital  requirements in the
+foreseeable future.
+
+
+
+
+
+
+
+Year 2000
+
+Anacomp has undertaken a comprehensive "Year 2000" program for the products that
+it sells or distributes in the marketplace.  Under this program, the Company has
+sought to assess all of its critical software and hardware products to determine
+what  remediation,  if any, is  necessary  for the proper  functioning  of these
+systems  in the year 2000 and  beyond.  The  Company  is also  working  with its
+outside  vendors to ensure that they will  continue to support the products that
+the vendors  supply to Anacomp  for resale,  including  the  performance  by the
+vendors of any required Year 2000 remediation.
+
+Anacomp is also in the process of analyzing  the  software and hardware  systems
+that it uses  internally  to determine if there are any Year 2000 issues.  Where
+necessary,  the Company is updating  its  internal  systems and working with the
+vendors of any products from whom the Company still receives support.
+
+Based upon its  assessment  to date,  Anacomp  believes  that it will be able to
+complete all required  remediation  of its supported and internal  products in a
+timely fashion,  and that the effort and the cost of such  remediation  will not
+have a material  effect upon the Company's  results of operations,  liquidity or
+capital resources. The Company expenses these costs as they are incurred.
+
+Nevertheless,  there  can be no  assurance  that  the  Company  will  be able to
+complete all of such remediation in the required time frame, or that the Company
+will  be able  to  identify  all  Year  2000  issues  before  problems  manifest
+themselves.  Further,  it is possible  that the future  level of expenses in the
+Company's remediation efforts could rise significantly. Finally, there can be no
+assurance  that,  if left  unremedied,  the products  that the Company  sells or
+distributes would remain competitive in the marketplace or the products that the
+Company uses internally would not have a material effect upon the ability of the
+Company to report its financial results.
+
+Anacomp  has set a goal of  completing  its Year  2000  program,  including  all
+required  remediation  work, by December 31, 1998, both for the products that it
+supports and for the products that it uses  internally.  The Company is hopeful,
+however,  that it will  complete its program for certain of its products  before
+that internal deadline.
+
+
+
+<PAGE>
+
+
+
+
+
+                         ANACOMP, INC. AND SUBSIDIARIES
+
+
+                           PART II: OTHER INFORMATION
+
+
+
+ITEM 2.        CHANGES IN SECURITIES
+
+      (c)      Unregistered sales of securities
+
+               Pursuant  to the 1996  Non-Employee  Director  Stock  Option Plan
+               (Amended  and  Restated as of  December  1,  1997),  non-employee
+               directors  of the  Company  may  elect to  receive  their  annual
+               retainer  in the form of options to acquire  Common  Stock of the
+               Company. Pursuant to such elections, during the period covered by
+               this  report,  an  aggregate  of 625 options  were granted to one
+               director in lieu of aggregate cash  compensation  of $3,125.  The
+               issuance of such  options was effected in reliance on the private
+               placement  exception set forth in Section 4(2) of the  Securities
+               Act of 1933, as amended,  on the basis of the familiarity of such
+               directors  with the  business  and  affairs  of the  Company.  No
+               underwriting   fees  or   discounts   were   applicable   to  the
+               transactions.  The options are first exercisable six months after
+               the  date of grant  and  remain  exercisable  through  the  tenth
+               anniversary  of the grant date,  at an exercise  price of $15.125
+               per share.
+
+ITEM 6.        EXHIBITS AND REPORTS ON FORM 8-K
+
+      (a)      Exhibits
+
+               (10) Employment Agreement, effective October 1, 1997, between the
+                    Company and Ralph W. Koehrer
+
+               (27)  Financial data schedule (required for electronic filing 
+                     only)
+
+      (b)      Reports on Form 8-K
+
+               There were no reports on Form 8-K filed during the quarter  ended
+               December 31, 1997.
+
+
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+Registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+ANACOMP, INC.
+
+
+
+/s/ Donald L. Viles
+Donald L. Viles
+Executive Vice President and
+  Chief Financial Officer
+
+
+Dated this 17th day of February, 1998
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>MATERIAL CONTRACTS
+<TEXT>
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+                              EMPLOYMENT AGREEMENT
+
+                                     BETWEEN
+
+                                  ANACOMP, INC.
+
+                                   ("ANACOMP")
+
+
+                             with offices located at
+
+                           11550 North Meridian Street
+
+                                    Suite 600
+
+                              Carmel, Indiana 46032
+
+
+                                       and
+
+
+                                RALPH W. KOEHRER
+
+                                  ("EMPLOYEE")
+
+
+
+
+
+
+
+
+
+
+
+                       Date of Agreement: December 7, 1997
+
+                  Effective Date of Agreement: October 1, 1997
+
+               Date of Expiration of Agreement: September 30, 2000
+
+
+
+
+<PAGE>
+
+
+
+                              EMPLOYMENT AGREEMENT
+
+
+         This  Agreement  is entered into  between  ANACOMP,  INC. or any of its
+subsidiaries or affiliates  (herein referred to as "ANACOMP") and EMPLOYEE.  The
+full  identification  of  each  party,  date  of  Agreement,  effective  date of
+Agreement,  and date of  expiration  of Agreement  are all included on the cover
+sheet  immediately  preceding  this page  which is  incorporated  herein by this
+reference. The following conditions and terms shall apply:
+
+                                    SECTION I
+
+                         Merger of All Prior Agreements
+
+         1.1 Merger.  This  Agreement  between the parties  shall  supersede and
+terminate all prior  employment  contracts and agreements  between  EMPLOYEE and
+ANACOMP. In the event of any conflict, the terms of this Agreement shall govern.
+
+                                   SECTION II
+
+                   Scope and Term of Employment, Compensation
+
+         2.1 Scope of  Employment.  ANACOMP  and  EMPLOYEE  mutually  agree that
+Addendum  I,  attached  hereto and  incorporated  herein by this  reference,  is
+intended  to  define  the  scope  of  employment,  base  salary,  and  incentive
+compensation.
+
+         2.2  Employment  Term.  Subject  always to  termination  provisions  as
+provided elsewhere in this Agreement,  the term of this Agreement shall begin on
+the Effective Date of Agreement and shall terminate on the Date of Expiration of
+Agreement,  both as shown on the cover sheet.  Unless  otherwise  terminated  as
+provided  elsewhere  herein,  this  Agreement  shall  automatically  renew after
+expiration  date on an annual  basis  unless  either party gives the other party
+thirty (30) days prior  written  notice  requesting  that said  Agreement not be
+renewed.  If this Agreement is not renewed and EMPLOYEE continues working beyond
+Termination  Date at the  request  of  ANACOMP,  said  employment  shall be on a
+month-to-month  basis. If, at the expiration of the original  three-year term or
+any renewal term,  ANACOMP declines to renew this Agreement and does not request
+that EMPLOYEE  continue  working,  of if ANACOMP  terminates the month-to- month
+employment basis described in the previous sentence,  EMPLOYEE shall be entitled
+to all  benefits  due him  under  this  Agreement  and not  previously  paid,  a
+severance payment equal to EMPLOYEE's prior twelve months' salary,  payable in a
+lump  sum  or  biweekly  at  EMPLOYEE's  option,  health  benefits  until  other
+employment  is secured  or for  twelve  months,  whichever  is  sooner,  and the
+immediate  vesting of all of  EMPLOYEE's  existing  already  awarded  options to
+acquire  ANACOMP  common stock.  If, on the other hand,  EMPLOYEE  elects not to
+renew the  Agreement,  EMPLOYEE  shall only be entitled to all  benefits due him
+under the Agreement through the end of the then term of the Agreement.
+
+         2.3  Compensation.  Compensation is confidential and is to be discussed
+only with the Board of Directors of ANACOMP, as required.
+
+
+
+
+                                   SECTION III
+
+                                 Fringe Benefits
+
+         3.1 Benefits. In addition to the regular  compensation,  EMPLOYEE shall
+be entitled to the normally available employee fringe benefits including regular
+holidays,  vacations and health insurance.  ANACOMP, however, reserves the right
+to  change  or  alter  these  fringe   benefits  from  time  to  time  with  the
+understanding  that the  EMPLOYEE  will be treated on an equal  basis with other
+employees of similar status.
+
+                                   SECTION IV
+
+                              Insurance on Employee
+
+         4.1  Insurance.  EMPLOYEE  agrees that  ANACOMP  may, at its option and
+expense,  obtain life insurance on the life of the EMPLOYEE and the ownership of
+all such  policies  and the  proceeds  therefrom  shall be the sole  property of
+ANACOMP. EMPLOYEE agrees to undergo a routine physical examination for insurance
+purposes  within  fifteen  (15)  days upon the  request  and at the  expense  of
+ANACOMP.
+
+                                    SECTION V
+
+                                   Termination
+
+         5.1 Compensation and Benefits Upon  Termination.  This Agreement may be
+terminated  prior to the  expiration  of the initial term or any renewal term by
+any of the following events:
+
+         (a) mutual written  agreement  expressed in a single document signed by
+both ANACOMP and EMPLOYEE;
+
+         (b) voluntary  written  resignation by EMPLOYEE given to ANACOMP ninety
+(90) days prior to the date of resignation;
+
+         (c)  death of EMPLOYEE;
+
+         (d) written notice of  termination by ANACOMP  without cause as defined
+in Section 5.2;
+
+         (e) written  notice of  termination by ANACOMP with cause as defined in
+Section 5.3; or
+
+         (f) the  occurrence  of any of the events  specified in Section  5.4.1,
+which EMPLOYEE elects to treat as a termination.
+
+         (g) the  occurrence  of any of the events  specified in Section  5.4.2,
+which EMPLOYEE elects to treat as a termination.
+
+
+         Upon  termination  for any of the  foregoing  reasons,  EMPLOYEE  shall
+continue to render his services and shall be paid his regular  compensation  and
+benefits up to the date of  termination.  If this Agreement is terminated  under
+Sections  5.1(b),  5.1(c) or 5.1(e),  no Severance  Allowance (as defined below)
+shall be paid to EMPLOYEE (except,  with respect to any termination  pursuant to
+Section  5.1(e),  as otherwise  provided in Section 5.3).  If this  Agreement is
+terminated under Sections 5.1(a),  5.1(d),  5.1(f) or 5.1(g), then ANACOMP shall
+pay to EMPLOYEE a severance  allowance equal to the EMPLOYEE's prior twenty-four
+months cash compensation ($1 million maximum), payable in a lump sum or biweekly
+at EMPLOYEE's  option,  health benefits until other employment is secured or for
+twenty-four months,  whichever is sooner, and all of EMPLOYEE's existing already
+awarded  options  to  acquire  ANACOMP  common  stock  shall   immediately  vest
+(collectively,  the  "Severance  Allowance").  This  Severance  Allowance  is in
+addition to the regular  compensation  and benefits which EMPLOYEE shall receive
+up to the date of termination. In the event of such termination,  this Agreement
+shall be deemed  terminated  for all  purposes  except to the  extent  otherwise
+herein provided.
+
+         5.2  Termination  Without Cause.  If ANACOMP  concludes that EMPLOYEE's
+services are no longer required,  this Agreement may be terminated without cause
+by giving EMPLOYEE  written notice  thereof.  The  noninsurability  of EMPLOYEE,
+either present or future, does not constitute grounds for termination under this
+or any other  section of the  Agreement.  If EMPLOYEE is  terminated  under this
+section,  ANACOMP  shall pay EMPLOYEE the  compensation,  benefits and Severance
+Allowance provided in Section 5.1 above.
+
+         5.3  Termination With Cause.
+
+              5.3.1 ANACOMP may immediately terminate this Agreement at any time
+with  cause  upon  written  notice  to the  EMPLOYEE  specifying  the  cause and
+effective date of termination.  As used in this section, "cause" shall mean only
+the following:
+
+             (i) Inability of EMPLOYEE,  as  determined  by ANACOMP,  to perform
+EMPLOYEE's  assigned duties on a fulltime basis for any continuous period of one
+hundred  twenty  (120) days or a total of one hundred  eighty  (180) days in any
+twelve (12) month  period,  which period  shall  commence on the initial date of
+this Agreement and every anniversary thereafter.
+
+              (ii) The willful and continued  failure by EMPLOYEE  substantially
+to perform his duties and obligations,  including the continued  failure to meet
+business  goals,  or the willful  engagement by EMPLOYEE in misconduct  which is
+materially injurious to ANACOMP,  monetarily or otherwise.  For purposes of this
+subsection,  no act or failure  to act on  EMPLOYEE's  part shall be  considered
+"willful" unless done or omitted to be done by EMPLOYEE in bad faith and without
+reasonable  belief  that his action or  omission  was in the best  interests  of
+ANACOMP.
+
+              5.3.2  Employee  agrees  that  in  the  event  written  notice  of
+termination  is given under this Section  5.3, the EMPLOYEE  agrees to treat the
+contents of said notice as privileged  and EMPLOYEE shall have no action against
+ANACOMP or any of its officers,  agents or employees due to the contents of said
+notice unless the contents are intentionally false and malicious. If EMPLOYEE is
+terminated  under this Section 5.3, he shall  receive no Severance  Allowance at
+the time of such  termination.  If EMPLOYEE is given notice of termination under
+this Section 5.3 and it is later  established that no "cause" existed,  EMPLOYEE
+shall be entitled to all  compensation,  benefits and allowances due him for the
+period  following  such  alleged  termination  and  through  the  date  of  such
+determination  and shall be  entitled  to the  Severance  Allowance,  plus legal
+interest  from  the  date of  termination  and all  reasonable  attorneys'  fees
+incurred by EMPLOYEE in contesting the notice of termination.
+
+
+         5.4  Demotion, Transfer or Reduction in Compensation, Merger, Transfer
+ of Assets, Change in Control or Business Discontinuation.
+
+              5.4.1  Demotion, Transfer, or Reduction in Compensation.
+If any of the following takes place:
+
+         (1) EMPLOYEE is demoted,  including for these purposes (i) any material
+change  in the title or  duties  described  in  Addendum  I hereto,  or (ii) any
+significant  reduction  or  change  by  ANACOMP  in  the  functions,  duties  or
+responsibilities of EMPLOYEE under this Agreement,
+
+         (2) any  reduction in annual base salary (but not including a reduction
+in the  incentive  bonus  received by EMPLOYEE  resulting  from his or ANACOMP's
+performance under any of the bonus plans discussed in Addendum II hereof),
+
+EMPLOYEE may, in his sole  discretion,  elect to treat any such  occurrence as a
+termination  of this  Agreement  by giving  written  notice of such  election to
+ANACOMP,  entitling  EMPLOYEE  to  payment  of the  compensation,  benefits  and
+Severance Allowance provided in Section 5.1 above. In the event ANACOMP disputes
+any election  made by EMPLOYEE  pursuant to this Section  5.4.1,  ANACOMP  shall
+notify  EMPLOYEE in writing of such  dispute  within ten (10) days of  receiving
+EMPLOYEE's  written  election  and both  parties  shall  proceed to  negotiate a
+resolution of such dispute in good faith. If ANACOMP does not so notify EMPLOYEE
+within  the ten (10)  day  period,  ANACOMP  shall be  deemed  to have  accepted
+EMPLOYEE's  election  and shall pay all  compensation,  benefits  and  Severance
+Allowance provided in Section 5.1 above.
+
+              5.4.2  Merger, Transfer of Assets, Change in Control or Business
+ Discontinuation.  In the event of any:
+
+              (a) merger or consolidation  where ANACOMP is not the consolidated
+or surviving  company and the surviving or resulting  company does not expressly
+agree to be bound by and have the benefits of the provisions of this  Agreement,
+or
+
+              (b) transfer of all or substantially  all of the assets of ANACOMP
+and the transferee of ANACOMP's  assets does not expressly  agree to be bound by
+and have the benefits of the provisions of this Agreement, or
+
+              (c)  change  in  control  of  ANACOMP  of a nature  that  would be
+required to be reported in response to Item 6(e) of Schedule  14A of  Regulation
+14A  promulgated  under the Securities  Exchange Act of 1934 as in effect on the
+day thereof (the "Exchange  Act"),  provided that,  without  limitation,  such a
+change in control  shall be deemed to have occurred if: (i) during any period of
+two (2)  consecutive  years,  individuals  who at the  beginning  of such period
+constitute  the Board  cease for any reason to  constitute  a majority  thereof,
+unless the election or nomination for election by ANACOMP's shareholders of each
+new director was  approved by a vote of at least 2/3 of the  directors  who were
+directors  at  the  beginning  of  such  period;  or  (ii)  transfer  of  all or
+substantially  all of the stock of ANACOMP and the transferee of ANACOMP's stock
+does not expressly  agree to be bound by and have the benefits of the provisions
+of this Agreement, or
+
+
+
+
+              (d) discontinuation of the business by ANACOMP, then, (i) EMPLOYEE
+may, in his sole discretion, elect to treat any such occurrence as a termination
+of this  Agreement  by giving  written  notice of such  election  and  immediate
+termination  of his  employment to ANACOMP,  and (ii) ANACOMP shall pay EMPLOYEE
+within thirty (30) days of EMPLOYEE's  election and  termination of employment a
+payment equal to the Severance  Allowance.  This Severance Allowance shall be in
+addition to the regular  compensation  and benefits that EMPLOYEE is entitled to
+receive up to the date EMPLOYEE's employment with ANACOMP terminates.
+
+         5.5 Return of Company Property.  EMPLOYEE agrees to return all property
+of  ANACOMP,  including  but not  limited  to,  details  of  equipment,  prices,
+specifications,  programs, customer and prospective customer lists and any other
+proprietary  data or objects  acquired  through the EMPLOYEE's  employment  with
+ANACOMP,  within seven (7) days after  termination of employment,  regardless of
+the reason therefor.
+
+         5.6 Waiver of Claims. All Severance  Allowance payments made by ANACOMP
+to EMPLOYEE pursuant to Section II hereof or this Section V shall be in full and
+complete  payment of any and all claims that  EMPLOYEE may have against  ANACOMP
+regarding  his  employment  or the  termination  thereof,  and  EMPLOYEE  hereby
+expressly  waives all rights that he may have to any other  payments or to bring
+any other claims based upon his employment or the  termination  thereof.  Except
+for the qualification  with respect to employee benefits described in Section II
+above, all Severance  Allowance payments due from ANACOMP to EMPLOYEE under this
+Agreement  are absolute,  and shall not be  diminished or otherwise  affected by
+virtue of EMPLOYEE's securing  alternative  employment.  At the time he receives
+his  Severance  Allowance,  EMPLOYEE  agrees  that he  will  execute  a  release
+agreement in favor of ANACOMP.
+
+                                   SECTION VI
+
+                    Restrictive Covenant and Non-Competition
+                            Confidential Information
+
+         6.1  Non-Competition.   EMPLOYEE  and  ANACOMP  shall  enter  into  the
+"Confidentiality,  Non-Competition and Non-Disclosure Agreement" attached hereto
+as  Addendum  III.  In the  event  of any  conflict  between  the  terms of this
+Agreement and such  Non-Disclosure  Agreement,  this Agreement shall govern.  If
+EMPLOYEE violates such Non-Disclosure Agreement, ANACOMP shall have the right to
+stop all termination  payments due under Sections II and/or V hereof, which have
+not yet been fully paid to EMPLOYEE.
+
+         The  provisions  of  this  Section  shall  not  prevent  EMPLOYEE  from
+complying  with the terms of this  Agreement  with  ANACOMP  nor from owning any
+shares  of  stock  of any  competitor  of  ANACOMP  so long as such  shares  are
+regularly  traded on a recognized  security  exchange or are listed for trade by
+NASDAQ in the Over-the-Counter Market.
+
+                                   SECTION VII
+
+                         Warranties and Representations
+
+         7.1 EMPLOYEE hereby warrants and represents as follows:
+
+         (1)  That  the  execution  of  this  Agreement  and  the  discharge  of
+EMPLOYEE's  obligations  hereunder  will not breach or  conflict  with any other
+contract,  agreement or  understanding  between  EMPLOYEE and any other party or
+parties.
+
+         (2) That EMPLOYEE has ideas,  information and know-how  relating to the
+type of business  conducted by ANACOMP and EMPLOYEE's  disclosure of such ideas,
+information and know-how to ANACOMP will not conflict with or violate the rights
+of any third party or parties with respect thereto.
+
+                                  SECTION VIII
+
+                                    Remedies
+
+         8.1 The  parties  agree that the  remedy  for breach of this  Agreement
+shall include actions in equity for injunctive  relief as well as money damages.
+The remedies  given to or reserved by each party  hereunder  shall be cumulative
+and not exclusive of any other remedy available under law.
+
+                                   SECTION IX
+
+                                    No Waiver
+
+         9.1 The failure of EMPLOYER to terminate  this Agreement for the breach
+of any condition or covenant herein by the EMPLOYEE shall not affect  EMPLOYER's
+right to terminate for  subsequent  breaches of the same or other  conditions or
+covenants.  The failure of either party to enforce at any time or for any period
+of time any of the  provisions  of this  Agreement  shall not be  construed as a
+waiver of such  provisions  or of the right of the party  thereafter  to enforce
+each and every such provision.
+
+                                    ARTICLE X
+
+                                     Benefit
+
+         10.1 This Agreement shall bind, benefit, and be enforceable by ANACOMP,
+its  successors  and assigns,  and by  EMPLOYEE,  EMPLOYEE's  heirs,  executors,
+administrators, and legal representatives.
+
+                                   ARTICLE XI
+
+                                  Severability
+
+         11.1 Should any provision of this  Agreement not be  enforceable in any
+jurisdiction, the remainder of the Agreement shall not be affected thereby.
+
+                                   ARTICLE XII
+
+                                    Survival
+
+         12.1 The obligations  contained in Sections II, V, and VI shall survive
+the termination of this Agreement.
+
+         IN WITNESS  WHEREOF,  the parties  hereto have  executed or caused this
+Agreement to be executed as of the day,  month and year stated on the cover page
+of this  Agreement,  which  Agreement  shall be effective  only upon approval by
+ANACOMP, INC., as evidenced by the authorized signature of an officer of ANACOMP
+below.
+
+
+
+APPROVED BY:
+
+ANACOMP, INC.                                                 EMPLOYEE:
+
+
+
+By: /Talton R. Embry/                                         /Ralph W. Koehrer
+   Talton R. Embry                                   Ralph W. Koehrer
+   Chairman, Compensation Committee
+
+
+
+
+<PAGE>
+
+
+                                   ADDENDUM I
+
+                                       TO
+
+                   EMPLOYMENT AGREEMENT DATED DECEMBER 7, 1997
+
+                                     BETWEEN
+
+                            ANACOMP, INC. ("ANACOMP")
+
+                                       AND
+
+                          RALPH W. KOEHRER ("EMPLOYEE")
+
+
+
+
+Scope of Employment
+
+         ANACOMP will employ the EMPLOYEE in the capacity of President and Chief
+Executive  Officer of ANACOMP.  EMPLOYEE will be  responsible  for  establishing
+ANACOMP's  strategic  direction  and  operational  priorities,  determining  the
+organizational  structure for all of ANACOMP's operating divisions and strategic
+business  units,  establishing  all ANACOMP  management  compensation  plans and
+submitting such plans to ANACOMP's Board of Directors,  and developing ANACOMP's
+policies and procedures.
+
+Location
+
+        EMPLOYEE will be based at ANACOMP's Poway, California facility.
+
+Base Salary
+
+         For all services  rendered by EMPLOYEE under this  Agreement,  EMPLOYEE
+shall  receive a Base Salary of $400,000 per year payable  bi-weekly.  This Base
+Salary will take effect on October 1, 1997.  Base Salary will be reviewed at the
+beginning of each fiscal year.
+
+Incentive Compensation
+
+Bonuses
+
+         In addition to Base  Salary,  EMPLOYEE  shall  receive an annual  bonus
+opportunity of $266,667 payable quarterly, as more particularly described in the
+EMPLOYEE's  Compensation  Plan attached hereto as Addendum II. This annual bonus
+will take effect on October 1, 1997.  The annual bonus shall be  established  at
+the beginning of each fiscal year.
+
+Stock Options
+
+       ANACOMP has  awarded  EMPLOYEE  with an  additional  non-qualified  stock
+option to purchase  42,500  shares of ANACOMP  Common Stock at a price of $13.50
+per share, vesting on 9/30/98.
+
+
+<PAGE>
+
+
+
+
+ANACOMP, INC.                                                 EMPLOYEE
+
+
+
+By: /Talton R. Embry/                                /Ralph W. Koehrer/
+   Talton R. Embry                          Ralph W. Koehrer
+   Chairman, Compensation Committee
+
+
+
+
+<PAGE>
+
+
+                                   ADDENDUM II
+
+                                       TO
+
+                           EMPLOYMENT AGREEMENT DATED
+
+                                     BETWEEN
+
+                            ANACOMP, INC. ("ANACOMP")
+
+                                       AND
+
+                          RALPH W. KOEHRER ("EMPLOYEE")
+
+                                  MANAGEMENT 1A
+<TABLE>
+<CAPTION>
+
+PERIOD:  10/1/97 TO 9/30/98                                   NAME:  Ralph W. Koehrer
+
+You are assigned the following compensation related items:
+(Percentage Total Compensation)
+<S>                                          <C>             <C>              <C>             <C>              <C>    
+                                                  1 QTR           2 QTR            3 QTR           4 QTR             YEAR
+1.  Base Salary                                                                                                $       400,000
+
+2.  Area Profit Bonus (10%)                  $                $               $                $               $         66,667
+                                             16,667           16,667          16,667           16,667
+     Area Profit Goal                        $    3,919,000   $    4,332,000  $    6,384,000   $    7,821,000  $  22,455,000
+     Area Profit Center(s)
+                                                                                                               0001
+
+3.  Area Revenue Bonus (16%)                 $                $               $                $               $       106,667
+                                             26,667           26,667          26,667           26,667
+     Area Revenue Goal                       $118,675,000     $121,008,000    $127,589,000     $129,628,000    $496,900,000
+     Area Revenue Center(s)
+                                                                                                               0001
+
+4.  Asset Management Bonus(6%)               $                $               $                $               $         40,000
+                                             10,000           10,000          10,000           10,000
+     Asset Management Target - Inventory                                                                       $    3,200,000
+     Asset Management Center(s)                      See Attached Schedule for A/R Target Information
+                                                                                                               0001
+
+5.  Corporate EBITDA Bonus (8%)              $                $               $                $               $         53,333
+                                             13,333           13,333          13,333           13,333
+     Corporate EBITDA Goal                   $  19,918,000    $  20,736,000   $  23,911,000    $  26,151,000   $  90,716,000
+
+</TABLE>
+
+COMPENSATION COMPUTATIONS:
+
+AREA PROFIT  BONUS:  Upon the  quarterly  closing of the  corporate  books,  the
+quarter's  actual  performance  as  a  percentage  of  the  quarter's  quota  is
+calculated and computed for Anacomp Adjusted Net Income.  Payment  percentage is
+calculated per the attached Accelerator and Decelerator Schedule.
+
+
+AREA REVENUE  BONUS:  Upon the  quarterly  closing of the corporate  books,  the
+quarter's  actual  performance  as  a  percentage  of  the  quarter's  quota  is
+calculated  and  computed  for Anacomp  Total  Revenue.  Payment  percentage  is
+calculated per the attached Accelerator and Decelerator Schedule.
+
+ASSET MANAGEMENT BONUS:  Paid quarterly on Anacomp's  quarterly asset management
+targets.  Asset Management Targets include $3,200,000 in inventory reductions as
+well as an Accounts Receivable DSO and Percentage Past Due calculation.  Nothing
+paid for performance less than 90% of goal. For performance  >=90% and <=100% of
+goal,  payment   percentage  is  calculated  as  follows:   Payment  %  =  50  +
+((Performance % - 90) * 5)
+
+         .........Examples Performance      Payment
+         .........                  <  90%                0%
+         .........                      90%              50%
+         .........                    100%              100%
+         .........                  >100%               100%
+
+         .........Maximum payment percentage is 100% of bonus amount
+
+CORPORATE EBITDA BONUS:  Paid quarterly based on Anacomp,  Inc. EBITDA quarterly
+goals. Nothing paid for performance less than 90% of goal. Payment percentage is
+calculated as follows: Payment % = 50+((Performance % - 90) * 5)
+         .........Examples Performance      Payment
+         .........                  <  90%                 0%
+         .........                      90%               50%
+         .........                    100%               100%
+         .........                  >120%                200%
+
+SCHEDULE OF ACCELERATORS AND DECELERATORS
+
+         .........% Goal            % Paid           Scale
+                  ----------------------------------------
+         .........150               185              1.75
+         .........140               167              1.75
+         .........130               150              1.75
+         .........120               132              1.75
+         .........110               115              1.75
+         .........106               108              1.5
+         .........105               106              1.5
+         .........104               105              1.5
+         .........103               103              1
+         .........102               102              1
+         .........101               101              1
+         .........100               100              1
+         .........  99                99             1
+         .........  98                98             1
+         .........  97                97             1
+         .........  96                95             1.625
+         .........  95                94             1.625
+         .........  94                92             1.625
+         .........  90                84             2
+         .........  80                64             2
+         .........  70                44             2
+         .........  60                24             2
+         .........  50                  4            2
+
+
+ADMINISTRATIVE PROCEDURES:
+
+1.       Achievement  numbers  for  compensation  are  taken  from  the  Company
+         financial statements prepared in accordance with Anacomp's policies.
+
+2. There will be no draws against the incentive base.
+
+3.       Any Incentive Base payments  discussed herein are earned by and payable
+         only to those managers employed by Anacomp, Inc. on the last day of the
+         period when such payment would be due.
+
+4.       The corporation  has the right, at any time, to adjust  prospectively a
+         manager's  salary or goals, or to change any other term or condition of
+         this plan.  All  elements  of the CEO's  compensation  plan,  including
+         salary, incentive base and goals, need the approval of the compensation
+         committee of the Board of Directors.
+
+5.       Goals are assigned  annually.  All computations and resulting  payments
+         are based on approved  quarterly  goals.  Each quarter stands alone for
+         compensation purposes.
+
+
+<PAGE>
+
+
+                                  ADDENDUM III
+
+                                       TO
+
+                   EMPLOYMENT AGREEMENT DATED DECEMBER 7, 1997
+
+                                     BETWEEN
+
+                            ANACOMP, INC. ("ANACOMP")
+
+                                       AND
+
+                          RALPH W. KOEHRER ("EMPLOYEE")
+
+
+In  consideration  of the  employment  or  continued  employment  of EMPLOYEE by
+Anacomp,  Inc. and its  successors,  assigns,  subsidiaries,  or duly authorized
+representatives  (hereinafter  collectively referred to as "Anacomp") and of the
+award of an option for the  purchase of 42,500  shares of Anacomp,  Inc.  Common
+Stock,  par value $.01 per share, at a price of $13.50 (price as set on the date
+of award), EMPLOYEE hereby agrees as follows:
+
+1.  Confidentiality and Trade Secrets.  The EMPLOYEE recognizes and acknowledges
+that  during the course of his/her  employment,  he/she  will have access to and
+become acquainted with  confidential,  trade secret and proprietary  information
+about Anacomp's businesses and customers  (hereinafter  collectively referred to
+as the "Protected Information"). The parties hereto recognize that the Protected
+Information  available to EMPLOYEE  may pertain  both to customers  and accounts
+handled by EMPLOYEE  personally as well as accounts  with which  EMPLOYEE is not
+personally   involved.   The  parties  agree  that  all  Protected   Information
+constitutes a trade secret of Anacomp. Protected Information may include, but is
+not  limited  to, the names,  addresses,  and  requirements  of any  customer or
+prospective   customer  of  Anacomp;   the  terms  (including  price  terms)  of
+contractual  relations  with  such  customers;   special  requirements  of  such
+customers;  the  identities of individual  contacts at such  customers;  and any
+other  information   relating  to  Anacomp's  research,   operations,   business
+relationships,  engineering data or results, specifications,  concepts, methods,
+processes,  rates  or  schedules,  vendor  information,   products  or  services
+(including prices, costs, sales or content),  financial information or measures,
+business methods, future business plans, data bases, computer programs, designs,
+models,  operating procedures,  and knowledge of the organization.  The EMPLOYEE
+recognizes and acknowledges  that all of the Protected  Information is valuable,
+special and  essential  to the  successful  and  effective  conduct of Anacomp's
+business.  Therefore,  the EMPLOYEE shall not,  during his/her  employment  with
+Anacomp or at any time  thereafter,  regardless  of the reasons for leaving that
+employment, use, disclose or communicate,  directly or indirectly, any Protected
+Information to any third party for any reason or purpose  whatsoever,  except as
+required in the course of his/her  employment  with Anacomp.  Further,  upon the
+termination  of his/her  employment  with  Anacomp,  for any reason  whatsoever,
+EMPLOYEE  shall  promptly  return  any and all copies of any  written  material,
+documents,  computer  hardware and software,  tools and  equipment  belonging to
+Anacomp or relating to the business of Anacomp in his/her possession.
+
+
+
+2.  Non-Competition.
+
+    2.1  Non-Competition  While an EMPLOYEE or Consultant.  While an employee of
+Anacomp,  or as a consultant to Anacomp  after his  termination  of  employment,
+EMPLOYEE  agrees not to compete in any manner,  either directly or indirectly as
+an  employee,  consultant,  investor  or  owner,  whether  for  compensation  or
+otherwise, with Anacomp, or to assist any other person or entity to compete with
+Anacomp. Further, while an employee of Anacomp, EMPLOYEE agrees not to engage in
+any other employment without the prior written permission of Anacomp.
+
+3.   Non-Solicitation.
+
+     3.1 Non-Solicitation of Employees. During the term of his/her employment at
+Anacomp and for two (2) years  following the  termination for any reason of such
+employment,  EMPLOYEE  agrees,  either on his/her own behalf or on behalf of any
+other  person or  entity,  directly  or  indirectly,  not to hire,  solicit,  or
+encourage  to leave the employ of Anacomp  any person who is then an employee of
+Anacomp.  The  foregoing  restrictions  shall apply to employees  located in all
+geographical  areas where  EMPLOYEE  performed  services for Anacomp  during the
+two-year period prior to his/her termination, including areas for which EMPLOYEE
+had supervisory authority.
+
+     3.2  Non-Solicitation  of  Customers.   Because  of  EMPLOYEE's  access  to
+Protected  Information  of Anacomp,  EMPLOYEE  agrees  that,  during the term of
+his/her  employment at Anacomp and for two (2) years  following the  termination
+for any reason of such employment,  he/she will not, directly or indirectly,  in
+connection with the products and services  offered by Anacomp and those products
+and services  which are  competitive  with the products and services of Anacomp:
+(a)  solicit,  attempt  to  obtain,  or in any way  transact  business  with any
+customers  which were customers of Anacomp  during his/her  employment or at the
+time  of  his/her  termination;  (b)  aid  or  assist  any  other  party  in the
+solicitation   of  any  such   customers;   or  (c)  interfere   with  Anacomp's
+relationships with any of its customers by soliciting such customers or inducing
+them to  discontinue  their  relationships  with Anacomp.  Products and services
+which are competitive  with the products and services of Anacomp include but are
+not    limited    to:    Micrographics     Products    (computer    output    to
+microfilm-COM-equipment and software, cameras and film, processors, duplicators,
+retrieval    and   display    equipment    and    software,    computer    aided
+retrieval-CAR-systems,  readers, reader printers, other micrographics equipment,
+micrographics  equipment  maintenance,  micrographics  consumable  supplies  and
+accessories,  records management software);  Output Services (computer output to
+microfilm-COM,  source  document  microfilming,  output of data to compact disk,
+laser printing,  conversion of paper and film to electronic images, micrographic
+or  electronic   imaging  system  design,   consulting  and  education,   system
+implementation and integration); Electronic Image Management Products (hardware,
+software,  magnetics  products  including  tapes,  tape drives and optical media
+supplies,  maintenance  of  electronic  imaging  equipment);   Electronic  Image
+Management  Services  (conversion of computer generated data to optical or laser
+disk,  COLD,  electronic  document  imaging and  workflow,  conversion  of paper
+documents to electronic images,  system design consulting and education,  system
+implementation and integration,  conversion of microfilm to electronic  images);
+and  Archival  Services  (storage,  management  and  retrieval  of all  forms of
+customer  information and business records,  including but not limited to paper,
+microfiche,   magnetic  media  and  digital   storage   media).   The  foregoing
+restrictions  shall apply to all  geographical  areas where  EMPLOYEE  performed
+services for Anacomp  during the two-year  period prior to his/her  termination,
+including areas for which EMPLOYEE had supervisory authority.
+
+4. Remedies.  EMPLOYEE  acknowledges that compliance with Sections 1, 2 and 3 of
+this Agreement is necessary to protect the business and good will of Anacomp and
+that a breach of those sections will irreparably and continually  damage Anacomp
+for which money damages may not be adequate. Therefore, EMPLOYEE agrees that, in
+the event he/she breaches or threatens to breach any of these Sections,  Anacomp
+shall be entitled to both a  preliminary  or  permanent  injunction  in order to
+prevent the  continuation  of such harm and money damages insofar as they can be
+determined.  Nothing in this Agreement,  however, shall be construed to prohibit
+Anacomp from also pursuing any other remedy,  the parties having agreed that all
+remedies shall be cumulative.
+
+5. Inventions. EMPLOYEE agrees that all inventions,  improvements,  discoveries,
+systems, techniques, ideas, processes,  programs, and other things of value made
+or conceived in whole or in part by EMPLOYEE  while an employee of Anacomp shall
+be and  remain the sole and  exclusive  property  of  Anacomp,  and he/she  will
+disclose all such things of value to Anacomp and will  cooperate with Anacomp to
+insure  that the  ownership  by  Anacomp of such  things of value is  protected.
+Nothing  in this  Section  is  meant  to  apply  to an  invention  for  which no
+equipment,  supplies,  facility or trade secret information of Anacomp was used,
+which was developed  entirely on EMPLOYEE's  own time, and which does not relate
+to  Anacomp's  business,  research,  development  or from any work  performed by
+EMPLOYEE for Anacomp.
+
+6.  Employment.  This  Agreement  does not confer  upon  EMPLOYEE  any rights to
+continue  in the  employ of  Anacomp  or affect  in any way  Anacomp's  right to
+terminate his/her employment at any time.
+
+7.  Severability.  If any  provision  or clause of this  Agreement,  or  portion
+thereof,  shall be held by any court or other tribunal of competent jurisdiction
+to be illegal, void or unenforceable in such jurisdiction, the remainder of such
+provisions shall not thereby be affected and shall be given full effect, without
+regard to the invalid  portion.  It is the intention of the parties that, if any
+court  construes  any  provision  or clause of this  Agreement,  or any  portion
+thereof,  to be illegal,  void or unenforceable  because of the duration of such
+provision  or the area or matter  covered  thereby,  such court shall reduce the
+duration,  area or matter of such  provision  and,  in its  reduced  form,  such
+provision shall then be enforceable and shall be enforced.
+
+8. Binding  Effect.  The rights and obligations of this Agreement shall inure to
+and be binding  upon the  parties and their  respective  heirs,  successors  and
+assigns.
+
+9.  Attorneys'  Fees.  In the event of any  dispute,  proceeding  or  litigation
+concerning any controversy, claim or dispute between the parties hereto, arising
+out of or relating to this Agreement or the  interpretation  or breach  thereof,
+each party shall pay its own expenses,  attorneys' fees,  expert fees, and costs
+incurred  therein or in the  enforcement  or collection of any judgment or award
+rendered therein.
+
+10. No Waiver.  Anacomp's  failure to enforce any  provision  of this  Agreement
+shall not in any way be construed as a waiver of any such provision,  or prevent
+Anacomp thereafter from enforcing each and every provision of this Agreement.
+
+11. Entire  Agreement.  This Agreement  represents the entire agreement  between
+EMPLOYEE and Anacomp, with respect to the subject matter hereof, superseding all
+previous oral and written  communications,  representations,  understandings  or
+agreements.
+
+12. EMPLOYEE's  Understanding.  EMPLOYEE represents and warrants that he/she has
+read each and every term of this  Agreement and  understands  the serious duties
+and obligations  imposed upon EMPLOYEE thereby.  EMPLOYEE further represents and
+warrants  that he/she has had full and ample  opportunity  to  question  Anacomp
+about this Agreement and each of its terms and to consult an attorney  regarding
+this Agreement and each of its terms. EMPLOYEE represents that he/she is free to
+enter this  Agreement and to perform each of its terms and  covenants.  EMPLOYEE
+represents  that  he/she  is not  restricted  or  prohibited,  contractually  or
+otherwise, from entering into and performing this Agreement, and that his or her
+execution and  performance of this Agreement is not a violation or breach of any
+other agreement between EMPLOYEE and any other person or entity.
+
+
+DATED:  January 27, 1998
+
+
+ANACOMP, INC.
+
+
+By: /William C. Ater/                                /Ralph W. Koehrer/
+    William C. Ater                         EMPLOYEE (signature)
+
+Its: Senior Vice President & CAO            Ralph W. Koehrer
+                                            ----------------
+              ....                          EMPLOYEE (printed)
+
+
+         .........                          President & Chief Executive Officer
+                                            -----------------------------------
+         .........                          Current position
+
+
+         .........                          Poway, California
+                                            -----------------
+         .........                          Current location
+
+
+         .........                          ###-##-####
+                                            -----------
+         .........                          Social Security Number
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+THIS SCHEDULE  CONTAINS SUMMARY  FINANCIAL  INFORMATION  EXTRACTED FROM ANACOMP,
+INC.'S  DECEMBER  31, 1997 FORM 10-Q  QUARTERLY  REPORT AND IS  QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS. 
+</LEGEND>
+<MULTIPLIER>                                   1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                              SEP-30-1998
+<PERIOD-START>                                 OCT-01-1997
+<PERIOD-END>                                   DEC-31-1997
+<CASH>                                         36,461
+<SECURITIES>                                   0
+<RECEIVABLES>                                  69,621
+<ALLOWANCES>                                   5,732
+<INVENTORY>                                    26,298
+<CURRENT-ASSETS>                               137,896
+<PP&E>                                         42,413
+<DEPRECIATION>                                 9,785
+<TOTAL-ASSETS>                                 358,669
+<CURRENT-LIABILITIES>                          104,790
+<BONDS>                                        253,680
+<PREFERRED-MANDATORY>                          0
+<PREFERRED>                                    0
+<COMMON>                                       139
+<OTHER-SE>                                     (1,052)
+<TOTAL-LIABILITY-AND-EQUITY>                   358,669
+<SALES>                                        69,307
+<TOTAL-REVENUES>                               117,814
+<CGS>                                          51,071
+<TOTAL-COSTS>                                  125,876
+<OTHER-EXPENSES>                               0
+<LOSS-PROVISION>                               0
+<INTEREST-EXPENSE>                             7,921
+<INCOME-PRETAX>                                (12,968)
+<INCOME-TAX>                                   2,400
+<INCOME-CONTINUING>                            (15,368)
+<DISCONTINUED>                                 0
+<EXTRAORDINARY>                                0
+<CHANGES>                                      0
+<NET-INCOME>                                   (15,368)
+<EPS-PRIMARY>                                  (1.11)
+<EPS-DILUTED>                                  (1.11)
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

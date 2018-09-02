@@ -1,0 +1,2242 @@
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+                       management's discussion and analysis of
+                    results of operations and financial condition
+
+overview
+at&amp;t; corporation (at&amp;t;) is among the world's communications  leaders,  providing
+voice, data and video telecommunications services to large and small businesses,
+consumers and government  agencies.  we provide domestic and international  long
+distance, regional, local and wireless communications services, cable television
+and internet communications services. we also provide directory and calling-card
+services to support our communications business.
+
+on june 15, 2000, at&amp;t; completed a merger with mediaone group,  inc.  (mediaone)
+in a cash and stock transaction  valued at approximately  $56 billion.  for each
+share of mediaone stock, mediaone shareholders received, in the aggregate,  0.95
+of a share of at&amp;t;  common  stock and  $36.27 per share in cash,  consisting  of
+$30.85 per share as stipulated in the merger agreement and $5.42 per share based
+on at&amp;t;'s  stock price  preceding  the merger,  which was below a  predetermined
+amount.  at&amp;t; issued  approximately 603 million shares of common stock, of which
+approximately  60 million were  treasury  shares.  the merger with  mediaone was
+accounted for under the purchase method of accounting, accordingly the operating
+results  of  mediaone  have  been  included  in  the  accompanying  consolidated
+financial  statements  since the date of  acquisition  as part of our  broadband
+segment.
+
+on april  27,  2000,  at&amp;t;  created a new class of stock  when we  completed  an
+initial  public  offering of 360 million  shares of at&amp;t; wireless group tracking
+stock.  this  stock is  designed  to track the  economic  performance  of at&amp;t;'s
+wireless  services  business and  represented a 15.6% interest in that business.
+at&amp;t;  retained the  remaining  84.4%  interest in the at&amp;t;  wireless  group.  in
+connection  with our first quarter 1999 merger with  tele-communications,  inc.,
+(tci) renamed at&amp;t; broadband (broadband), we issued a separate tracking stock to
+reflect the  economic  performance  of liberty  media group  (lmg),  broadband's
+former programming and technology investment businesses. all other businesses of
+at&amp;t; comprise at&amp;t; common stock group,  including at&amp;t;'s retained 84.4% interest
+in at&amp;t; wireless group, the economic performance of which is represented by at&amp;t;
+common stock.
+
+the consolidated  results of at&amp;t; include at&amp;t; wireless group in its entirety on
+a fully consolidated  basis. we do not have a controlling  financial interest in
+liberty media group for financial accounting purposes;  therefore, our ownership
+in lmg is reflected as an  investment  accounted  for under the equity method in
+at&amp;t;'s consolidated financial statements.
+
+the earnings attributable to at&amp;t; wireless group represent 15.6% of the earnings
+for the third  quarter,  and 15.6% of the earnings from april 27, 2000, the date
+of the initial public offering, through september 30, 2000, for the year-to-date
+period. the remaining earnings of at&amp;t;'s wireless services business are included
+in the earnings attributable to at&amp;t; common stock group. similarly, the earnings
+or losses related to lmg are excluded from the earnings available to at&amp;t; common
+stock group.
+
+ownership of shares of at&amp;t; common stock,  at&amp;t; wireless group tracking stock or
+liberty media group tracking stock does not represent a direct legal interest in
+the assets and  liabilities of any of these groups,  but an ownership of at&amp;t; in
+total. each of these shares  represents an interest in the economic  performance
+of each of these groups.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+on january 5, 2000,  at&amp;t; and  british  telecommunications,  plc (bt)  announced
+financial closure of concert,  their global  communications joint venture.  at&amp;t;
+contributed all of its international  gateway-to-gateway assets and the economic
+value of approximately 270 multinational  customers. in addition, we contributed
+our international settlement business (revenue and expenses) to concert. results
+for 2000 reflect the impact of these contributions.
+
+the  discussion  and  analysis  that  follows  provides  information  management
+believes is relevant to an assessment and  understanding of at&amp;t;'s  consolidated
+results  of  operations  and cash  flows  for the three  and nine  months  ended
+september 30, 2000 and 1999,  and financial  condition as of september 30, 2000,
+and december 31, 1999.
+
+forward-looking statements
+except  for  the  historical   statements  and  discussions   contained  herein,
+statements herein constitute "forward-looking  statements" within the meaning of
+section 27a of the  securities  act of 1933 and  section  21e of the  securities
+exchange  act  of  1934,  including   statements   concerning  future  operating
+performance,  at&amp;t;'s  share  of new and  existing  markets,  at&amp;t;'s  short-  and
+long-term  revenue and earnings growth rates,  and general industry growth rates
+and at&amp;t;'s performance relative thereto.  these forward-looking  statements rely
+on a number of assumptions concerning future events,  including the adoption and
+implementation  of balanced and effective  rules and  regulations by the federal
+communications  commission (fcc) and the state public regulatory  agencies,  and
+at&amp;t;'s ability to achieve a significant market penetration in new markets. these
+forward-looking  statements are subject to a number of  uncertainties  and other
+factors,  many of which are  outside  at&amp;t;'s  control  that could  cause  actual
+results to differ materially from such statements.  at&amp;t; disclaims any intention
+or obligation to update or revise any forward-looking  statements,  whether as a
+result of new information, future events or otherwise.
+
+consolidated results of operations
+
+revenue
+
+                                        three months         nine months
+                                           ended                ended
+                                        september 30,        september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+business services                   $ 7,108   $ 7,056    $21,391   $20,268
+consumer services                     4,672     5,578     14,715    16,527
+wireless services                     2,799     2,050      7,474     5,490
+broadband                             2,417     1,505      5,691     3,479
+corporate and other                     (21)      144       (174)      438
+total revenue                       $16,975   $16,333    $49,097   $46,202
+
+revenue increased $642 million in the third quarter of 2000, or 3.9%, to $16,975
+million compared with the third quarter of 1999, and increased $2,895 million in
+the first nine months of 2000,  or 6.3%,  to $49,097  million  compared with the
+first nine months of 1999.  normalized  revenue,  which adjusts  revenue for the
+acquisitions of mediaone and the ibm global network (renamed at&amp;t; global network
+services,  or agns),  the  impact of  businesses  contributed  to  concert,  the
+elimination of per-line  charges by the fcc, the  consolidation of at home corp.
+(excite@home), certain international divestments, and closed cable partnerships,
+increased  $612  million in the third  quarter of 2000,  or 3.7%,  from  $16,363
+million in the third quarter of 1999.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+the increase was led by wireless  services,  broadband,  and business  services,
+partially offset by a decline in consumer services. for the first nine months of
+2000  normalized  revenue,  which also adjusts for the  acquisition of tci, rose
+$2,261 million,  or 4.7%, from $48,234 million in the first nine months of 1999.
+the increase was led by wireless  services,  business  services,  and broadband,
+partially offset by a decline in consumer services.
+
+operating expenses
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000       1999
+dollars in millions
+access and other connection          $3,255    $3,654    $10,460    $11,054
+
+access and other connection  expenses decreased 10.9%, to $3,255 million for the
+three  months  ended  september  30,  2000.  included  within  access  and other
+connection  expenses  are costs  that we pay to  connect  domestic  calls on the
+facilities of other service  providers.  these costs decreased  primarily due to
+mandated  reductions in per-minute  access costs and decreased  per-line charges
+(primary  interexchange  carrier  charges).  effective  july 1,  2000,  per-line
+charges  at&amp;t; pays for  residential  and  single-line  business  customers  were
+eliminated by the fcc. these decreases were partially offset by volume increases
+and higher universal service fund contributions.
+
+also  included  within  access and other  connection  expenses are costs paid to
+foreign  telephone   companies  to  connect  calls  made  to  foreign  countries
+(international  settlements).  as result of the  commencement  of  operations of
+concert,  most of our  international  settlements  are  incurred by concert.  in
+addition,  most of our  foreign  billed  revenue is now earned by  concert.  the
+amount charged by concert in 2000 is lower than interconnection expense incurred
+in 1999, since at&amp;t; recorded these transactions  within revenue and expense,  as
+applicable. concert bills us a net expense comprised of international settlement
+(interconnection)  expense and foreign billed revenue.  partially offsetting the
+decline were costs incurred  related to concert  products that at&amp;t; now sells to
+its customers.
+
+access and other connection  expenses decreased 5.4%, to $10,460 million for the
+nine months ended september 30, 2000. the decrease was primarily attributable to
+lower  net  interconnection  expense  largely  related  to the  commencement  of
+operations of concert.
+
+also contributing to the decrease were mandated  reductions in per-minute access
+costs as well as the sale of acc international, more efficient network usage and
+reduced primary  interexchange carrier charges resulting from the elimination of
+certain per-line charges by the fcc effective july 1, 2000. these decreases were
+partially  offset  by  volume  increases  and  higher  universal   service  fund
+contributions.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000       1999
+dollars in millions
+costs of services and products       $4,547    $3,932    $12,578    $10,660
+
+costs of services and products  increased  15.7%, to $4,547 million in the third
+quarter of 2000 compared with the third quarter of 1999. excluding the impact of
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+the  acquisitions  of mediaone  and agns,  the  formation  of  concert,  certain
+international  divestments  and  the  consolidation  of  excite@home,  costs  of
+services and  products  increased  approximately  8% in the third  quarter.  the
+increase was primarily due to higher  equipment costs associated with the growth
+of  the  wireless  subscriber  base,   increased  costs  to  support  growth  in
+outsourcing  contracts and increased broadband  programming expenses due to rate
+increases.  these  increases  were  partially  offset by continued  cost control
+efforts  and a higher  pension  credit  in 2000,  primarily  driven  by a higher
+pension trust asset base resulting from increased investment returns.
+
+costs of services and products  increased 18.0%, to $12,578 million in the first
+nine months of 2000 compared with the same period in 1999.  excluding the impact
+of the acquisitions of tci, mediaone and agns, the formation of concert, certain
+international  divestments  and  the  consolidation  of  excite@home,  costs  of
+services and products  increased  approximately  8%. this increase was primarily
+due to higher costs  associated  with our growing  wireless  subscriber base and
+wireless network, increased costs to support growth in outsourcing contracts and
+higher  video  programming  costs  principally  due  to  rate  increases.  these
+increases were  partially  offset by continued  cost control  efforts,  a higher
+pension credit and a lower provision for uncollectible  receivables primarily in
+consumer services.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+selling, general and administrative  $3,397    $3,442     $9,796    $10,060
+
+selling,  general and administrative (sg&amp;a;) expenses decreased 1.3% in the third
+quarter of 2000,  and decreased  2.6% for the first nine months of 2000 compared
+with the same periods of 1999.  excluding the impact of the acquisitions of tci,
+mediaone and agns, the formation of concert,  certain international  divestments
+and the consolidation of excite@home, sg&amp;a; expenses declined approximately 6% in
+both periods.  the decrease was primarily the result of cost control  efforts as
+well as a larger  pension  credit  in  2000.  these  were  partially  offset  by
+increased  customer  acquisition and customer care expenses  associated with our
+growth businesses of wireless and broadband.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+depreciation and other amortization  $1,919    $1,558     $5,182    $4,408
+
+depreciation  and  other  amortization  expenses  increased  23.2% in the  third
+quarter of 2000 and  increased  17.5% in the first nine months of 2000  compared
+with the same periods in 1999.  excluding the impact of the acquisitions of tci,
+mediaone and agns, the formation of concert,  certain international  divestments
+and the  consolidation  of  excite@home,  depreciation  and  other  amortization
+expenses increased  approximately 12% in the third quarter of 2000 and increased
+approximately  11% in the  first  nine  months  of 2000.  these  increases  were
+primarily due to a higher asset base  resulting  from  continued  infrastructure
+investment.  capital  expenditures  were $3.6  billion  for the  third  quarter,
+bringing  year-to-date  capital  expenditures  to $10.1 billion.  we continue to
+focus the majority of our capital spending on our growth businesses of wireless,
+broadband, data and internet protocol (ip) and local voice.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+amortization of goodwill, franchise
+  costs and other purchased
+  intangibles                          $879      $358     $1,661      $900
+
+amortization  of goodwill,  franchise  costs,  and other  purchased  intangibles
+increased  $521  million to $879 million in the third  quarter of 2000  compared
+with the third quarter of 1999. the increase was primarily  attributable  to the
+consolidation of excite@home beginning september 1, 2000, and the acquisition of
+mediaone in 2000.  in the first nine months of 2000,  amortization  of goodwill,
+franchise costs and other purchased intangibles increased $761 million to $1,661
+million  compared  with the  first  nine  months of 1999,  primarily  due to the
+acquisition of mediaone in 2000, the  acquisitions  of tci and agns in 1999, and
+the consolidation of excite@home in 2000.
+
+at&amp;t;  also  has  amortization  of  goodwill   associated  with   nonconsolidated
+investments  recorded as a reduction of other income.  this totaled $238 million
+and $164  million in the third  quarter  of 2000,  and 1999,  respectively,  and
+totaled  $471  million  and $356  million  for the first nine months of 2000 and
+1999, respectively.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+net restructuring and other charges     $24       $ -       $797      $702
+
+during the third quarter of 2000, at&amp;t; recorded $24 million of net restructuring
+and other charges, which had a minimal impact on diluted earnings per share. the
+charge  resulted from synergies  associated with the mediaone merger and related
+to cash termination benefits associated with the involuntary separation of about
+490  employees.  approximately  one-half  of  the  individuals  were  management
+employees and one-half were nonmanagement employees.
+
+this  restructuring  initiative  is  projected  to  yield a net cash  payout  of
+approximately  $18 million in 2000, with  approximately  $27 million per year in
+cash savings per year thereafter,  as well as earnings before interest and taxes
+(ebit) savings of approximately $6 million in 2000 and approximately $27 million
+per year thereafter. we expect that increased spending in growth businesses will
+largely  offset  these  cash  and ebit  savings.  the  ebit  savings,  primarily
+attributable  to reduced  personnel-related  expenses,  will be realized in sg&amp;a;
+expenses and costs of services and products.
+
+net  restructuring  and other  charges for the nine months ended  september  30,
+2000,  totaled $797 million,  which had an approximate  $0.14 impact on earnings
+per diluted  share.  the charge  included  restructuring  and exit costs of $706
+million and a $91 million  charge  related to the mandated  disposition  of at&amp;t;
+communications (u.k.) ltd. (comms u.k.), which would have competed directly with
+concert.  the  restructuring and exit costs related to actions across several of
+our business  units and included  severance  costs  associated  with about 6,700
+employees.  these actions were  primarily  driven by our  continuing  efforts to
+streamline operations and reduce costs by $2 billion by the end of the year.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+the charge for the nine months  ended  september  30,  2000,  also  included $62
+million of network lease and other contract  termination  costs  associated with
+penalties  incurred as part of  notifying  vendors of the  termination  of these
+contracts  during the first quarter of 2000.  additionally,  the charge included
+$144 million of benefit  curtailment costs associated with employee  separations
+as part of these exit plans.  we also recorded an $18 million  asset  impairment
+charge related to the write-down of unrecoverable  assets in certain  businesses
+in which the carrying value is no longer supported by future cash flows.
+
+net  restructuring  and other  charges for the nine months ended  september  30,
+1999,  totaled $702 million,  which had an approximate  $0.21 impact on earnings
+per  diluted  share.  the  charge  included  a pretax  in-process  research  and
+development  charge  of $594  million  related  to the tci  acquisition,  a $128
+million  pretax net charge  primarily  related  to the exit from  certain  joint
+ventures that would have competed directly with concert and a $50 million pretax
+charge related to a contribution  agreement entered into by broadband to satisfy
+certain liabilities of phoenixstar,  inc. these charges were partially offset by
+a $70 million pretax gain related to the settlement of pension  obligations  for
+former  employees who accepted at&amp;t;'s  voluntary  retirement  incentive  program
+offer.
+
+the $594  million  in-process  research and  development  charge  reflected  the
+estimated fair value of research and development projects at tci, as of the date
+of the acquisition,  which had not yet reached technological feasibility or that
+had no  alternative  future  use.  although  there are  technological  issues to
+overcome  to  successfully   complete  the  acquired   in-process  research  and
+development,  we believe we are on track for successful completion. the projects
+identified  related to  efforts to offer  voice  over  internet  protocol  (ip),
+product-integration  efforts for advanced set-top devices,  cost-savings efforts
+for cable  telephony  implementation  and  in-process  research and  development
+related  to  excite@home.  we expect to test ip  telephony  equipment  for field
+deployment and begin field trials related to our product integration efforts for
+set-top devices late in the fourth quarter into early 2001.  in addition, trials
+related to our telephony  cost  reductions are complete and  implementation  has
+begun in certain markets.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+operating income                     $2,954    $3,389     $8,623    $8,418
+
+operating income decreased 12.9% in the third quarter of 2000 primarily due to a
+decline in consumer  services  revenue,  the  acquisition  of  mediaone  and the
+consolidation of excite@home.  these decreases were partially offset by a higher
+pension credit in 2000 and cost control efforts within business services.
+
+operating income increased 2.4% for the first nine months of 2000, primarily due
+to operational  efficiencies  within business  services and wireless services as
+well as corporate  staff  functions,  and a higher  pension  credit in 2000. the
+year-to-date  increase was partially  offset by the  acquisition of mediaone,  a
+decline in consumer  services  revenue,  the  consolidation of excite@home,  the
+acquisition of tci and higher  restructuring  charges.  operating  income margin
+(operating  income as a percent of revenue) was 17.4% for the third  quarter and
+17.6% for the nine months  ended  september  30, 2000,  compared  with 20.8% and
+18.2% in the comparable 1999 periods, respectively.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+other income (expense)                  $71     $(375)      $486     $(254)
+
+other income  (expense)  increased  $446 million to income of $71 million in the
+third  quarter of 2000,  compared  with an expense of $375  million in the third
+quarter of 1999.  the increase was  primarily  attributable  to higher  minority
+interest  and  lower  equity   losses  on   investments   associated   with  the
+consolidation of excite@home  effective  september 1, 2000. also contributing to
+the increase was higher  interest and dividend income and greater gains on sales
+of businesses and investments.
+
+other income (expense)  increased $740 million to income of $486 million for the
+nine months ended  september 30, 2000,  compared with an expense of $254 million
+for the same prior year  period.  the  increase was  primarily  attributable  to
+greater gains on sales of businesses  and  investments  and higher  interest and
+dividend income.  further contributing to the increase were equity earnings from
+concert.  these  increases  were  partially  offset by  higher  losses on equity
+investments, primarily from excite@home through august 31, 2000.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+ebit, excluding lmg                  $3,025    $3,014     $9,109    $8,164
+
+ebit,  excluding lmg,  remained  essentially  flat for the third quarter of 2000
+compared with the third quarter of 1999, with the increase in other income being
+virtually offset by the decrease in operating income.  for the first nine months
+of 2000,  ebit grew  11.6%  compared  with the same  period  in 1999,  which was
+attributable  to increases in both other income and operating  income.  the ebit
+growth  was  impacted  by  gains on sales of  businesses  and  investments,  our
+ownership interests in cablevision  systems corp.  (cablevision) and time warner
+entertainment  (twe) and net  restructuring  and other charges.  excluding these
+items,  ebit  increased  6.8% and 11.3% for the third  quarter and  year-to-date
+periods,  respectively.  the  improvement  for the third  quarter was  primarily
+attributable  to  increased  other  income  partially  offset by a  decrease  in
+operating income. the improvement for the year-to-date  period was primarily due
+to both higher other income and operating income.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+equity earnings (losses) from
+  liberty media group                $1,756     $(217)    $2,965     $(818)
+
+equity  earnings  from  liberty  media  group were  $1,756  million in the third
+quarter of 2000,  compared  with  losses of $217  million in the same prior year
+quarter.  the  increase  was  primarily  due  to  a  gain  associated  with  the
+acquisition  of tv guide by  gemstar - tv guide  international,  inc.  (gemstar)
+reflecting the difference between the carrying value of lmg's interest in tv
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+guide, inc. (tv guide) and the fair value of the gemstar securities  received in
+the  acquisition.  equity  earnings from lmg for the nine months ended september
+30, 2000,  were $2,965 million  compared with losses of $818 million in 1999. in
+addition to the gain associated with the tv guide  acquisition,  the increase in
+equity  earnings for the nine months ended september 30, 2000, was also impacted
+by a gain  associated  with the  acquisition  of flextech  p.l.c.  (flextech) by
+telewest   communications   plc  (telewest)  and  a  gain  associated  with  the
+acquisition of general instrument  corporation (general instrument) by motorola,
+inc. (motorola).  these gains also represent the difference between the carrying
+value of lmg's interest in the acquired company and the fair value of securities
+received in the merger.  these gains were partially offset by impairment charges
+recorded on liberty  media's  investments in teligent,  inc.  (teligent) and icg
+communications, inc. (icg) to reflect other than temporary declines in value.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+interest expense                       $946      $493     $2,158    $1,188
+
+interest  expense  increased  92.2% to $946 million in the third quarter of 2000
+compared with the third quarter of 1999,  primarily due to a higher average debt
+balance as a result of our june 15, 2000,  acquisition  of  mediaone,  including
+outstanding debt of mediaone and debt issued to fund the mediaone acquisition.
+
+interest  expense  increased  81.6% to $2,158  million for the nine months ended
+september 30, 2000,  compared with the nine months ended september 30, 1999. the
+increase was primarily  due to a higher  average debt balance as a result of our
+march  1999  acquisition  of tci,  and our june 2000  acquisition  of  mediaone,
+including  outstanding  debt of mediaone  and debt  issued to fund the  mediaone
+acquisition.
+
+                                        three months          nine months
+                                    ended september 30,   ended september 30,
+                                       2000      1999       2000      1999
+dollars in millions
+provision for income taxes             $763      $888     $2,127    $2,679
+
+the provision for income taxes decreased $125 million, or 14.2%, to $763 million
+in the third  quarter  of 2000  compared  with the third  quarter  of 1999.  the
+decrease was primarily due to lower earnings before taxes, partially offset by a
+slightly higher effective tax rate. the effective tax rate for the third quarter
+of 2000 was 36.7%,  up from 35.2% in the third quarter of 1999. the increase was
+due to impact of the consolidation of excite@home, which is unable to record tax
+benefits on its pretax losses, as well as the positive impact of certain foreign
+legal entity restructurings in 1999.
+
+the  provision  for income taxes for the nine months ended  september  30, 2000,
+decreased $552 million  compared with the same period in 1999. the effective tax
+rate for the nine months ended  september 30, 2000,  was 30.6%,  down from 38.4%
+for the same prior year period.  in 2000,  the effective tax rate was positively
+impacted  by a tax-free  gain  resulting  from an  exchange of at&amp;t; stock for an
+entity owning  certain  cable  systems and other assets with cox  communications
+inc.  (cox),  and the  benefit of the  write-off  of the  related  deferred  tax
+liability.  the 1999  effective  rate was  negatively  impacted by an in-process
+research and development  charge which was not tax deductible,  which was offset
+by the positive
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+impact of a change in net operating loss  utilization  tax rules.  excluding the
+impacts of the cox transaction,  the in-process research and development charge,
+and the change in the net operating loss rules,  the effective  income tax rates
+were 36.8% and 36.4% for the nine  months  ended  september  30,  2000 and 1999,
+respectively.
+
+                                        three months         nine months
+                                      ended september 30,  ended september 30,
+                                        2000      1999       2000      1999
+
+at&amp;t; common stock group earnings per
+ at&amp;t; common share:
+  basic                               $ 0.35    $ 0.51      $1.41    $ 1.41
+  diluted                             $ 0.35    $ 0.50      $1.40    $ 1.39
+at&amp;t; wireless group earnings per at&amp;t;
+ common share:
+  basic and diluted                   $(0.01)        -      $0.05    $    -
+liberty media group earnings (loss)
+ per share:
+  basic and diluted                   $ 0.68    $(0.09)     $1.15    $(0.33)
+
+as reported,  diluted earning per share (eps)  attributable to at&amp;t; common stock
+group decreased  30.0% to $0.35 in the third quarter of 2000,  compared with the
+third quarter of 1999. the decrease was primarily  driven by the  acquisition of
+mediaone, including the impact of shares issued, additional interest expense and
+operating  losses  generated by mediaone  largely  attributable  to depreciation
+expense and  amortization  of  franchise  costs,  goodwill  and other  purchased
+intangibles.  the decrease was  partially  offset by an increase in other income
+primarily associated with higher interest and dividend income and gains on sales
+of businesses and investments.
+
+as reported,  diluted eps attributable to at&amp;t; common stock group increased 0.7%
+to $1.40 in the nine months ended  september  30, 2000,  compared  with the nine
+months ended  september 30, 1999. the increase was primarily due to higher other
+income,  and  improved  operating  income in the period  resulting  from  margin
+improvements.  these  improvements  were partially  offset by the acquisition of
+mediaone, including the impact of shares issued, additional interest expense and
+operating  losses  generated by mediaone  largely  attributable  to depreciation
+expense and  amortization  of  franchise  costs,  goodwill  and other  purchased
+intangibles.
+
+included in eps for the third quarter are the following items:
+ ..losses of $0.03 in the third quarter of 2000 and $0.02 in the third quarter of
+  1999,  reflecting   the  earnings  impact  of  our  investments   in  twe  and
+  cablevision;
+ ..gain on sale of a business of $0.02 in the third quarter of 1999.
+
+included  in eps for the first  nine  months of 2000 and 1999 are the  following
+items:
+ ..net  restructuring and other charges of $0.14 in the first nine months of 2000
+  and $0.21 in the same period of 1999;
+ ..losses of $0.05 in the first nine months of 2000 and $0.05 in  the same period
+  of 1999,  reflecting the earnings impact of our investments in cablevision and
+  twe;
+ ..net gains on sales of  businesses  and  investments  and other of $0.21 in the
+  first nine months of 2000 and $0.07 in the same period of 1999;
+ ..a $0.02  benefit  in the first nine  months of 1999 from  changes in tax rules
+  with respect to the utilization of acquired net operating losses.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+the total  impact of these  items to diluted eps was a decrease of $0.03 for the
+three months  ended  september  30, 2000,  and an increase of $0.02 for the nine
+months ended  september  30, 2000.  these items had no net impact to diluted eps
+for the third  quarter of 1999 and  decreased  diluted eps by $0.17 for the nine
+months ended  september  30, 1999.  we quantify the impact on our results of our
+investments  in  cablevision  and twe  since  these  businesses  have  financial
+information  publicly available and their results can be reviewed  independently
+of at&amp;t;'s results.
+
+eps  excluding  these items was $0.38 per diluted  share in the third quarter of
+2000, a decrease of 24.0%, or $0.12, over the comparable prior year quarter. eps
+excluding  these  items was $1.38 per diluted  share for the nine  months  ended
+september 30, 2000,  compared with $1.56 for the same period in 1999, a decrease
+of 11.5%.
+
+eps for  liberty  media  group was $0.68  per share for the three  months  ended
+september 30, 2000, compared with a loss of $0.09 per share for the three months
+ended  september 30, 1999. the increase in eps for the third quarter of 2000, is
+primarily due to a gain  associated  with the acquisition of tv guide by gemstar
+reflecting  the  difference  between the carrying  value of lmg's interest in tv
+guide and the fair value of the gemstar securities  received in the acquisition.
+eps for  liberty  media  group was $1.15 per share for the first nine  months of
+2000,  compared with a loss of $0.33 per share in 1999. the first nine months of
+2000 results  include nine months of liberty media group  results  compared with
+seven months in 1999,  reflecting the march 1999  acquisition of tci by at&amp;t.; in
+addition to the gain associated with the tv guide  acquisition,  the increase in
+eps for the nine months ended  september  30, 2000,  was also impacted by a gain
+associated  with the  acquisition of flextech by telewest and a gain  associated
+with the  acquisition  of  general  instrument  by  motorola.  these  gains also
+represent the  difference  between the carrying  value of lmg's  interest in the
+acquired company and the fair value of securities received in the mergers. these
+gains were partially  offset by impairment  charges  recorded on liberty media's
+investments  in teligent  and icg to reflect  other than  temporary  declines in
+value.
+
+segment results
+
+in support of the  services we provide,  we segment our results by the  business
+units that support our primary lines of business:  business  services,  consumer
+services,  wireless  services and  broadband.  a fifth  category,  corporate and
+other,  includes  corporate staff  functions,  the elimination of  inter-segment
+business as well as the results of  international  operations  and  ventures and
+excite@home. although not a segment, we also discuss the results of lmg.
+
+the discussion of segment results includes  revenue;  earnings,  including other
+income,  before  interest and taxes (ebit);  earnings,  including  other income,
+before interest,  taxes,  depreciation and  amortization,  and minority interest
+(ebitda);  total assets;  and capital  additions.  the  discussion of ebitda for
+wireless  services and broadband is modified to exclude other income  (expense).
+total assets for each segment generally  exclude  intercompany  assets.  prepaid
+pension assets and  corporate-owned  or leased real estate are generally held at
+the corporate level and therefore are included in the corporate and other group.
+shared  network  assets are  allocated  to the  segments  and  reallocated  each
+january,  based on two years of  volumes.  capital  additions  for each  segment
+include capital expenditures for property, plant and equipment,  acquisitions of
+licenses, additions to nonconsolidated investments, increases in franchise costs
+and additions to internal-use software.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+ebit is the primary  measure used by at&amp;t;'s chief  operating  decision makers to
+measure  at&amp;t;'s  operating  results  and to measure  segment  profitability  and
+performance.  at&amp;t;  calculates  ebit as operating  income plus other income.  in
+addition,  management also uses ebitda as a measure of segment profitability and
+performance,  and is  defined as ebit plus  depreciation  and  amortization  and
+minority  interest.  interest and taxes are not factored into the  profitability
+measure used by the chief operating decision makers; therefore, trends for these
+items  are  discussed  on a  consolidated  basis.  management  believes  ebit is
+meaningful to investors  because it is used by at&amp;t;'s chief  operating  decision
+makers  and  provides a measure  of return on total  capitalization.  we believe
+ebitda is meaningful to investors as a measure of each  segment's  liquidity and
+is utilized by our chief operating decision makers. in addition, we believe that
+both ebit and ebitda allow  investors a means to evaluate the financial  results
+of each segment in relation to at&amp;t.;  our  calculation of ebit and ebitda may or
+may not be consistent  with the  calculation  of these  measures by other public
+companies.  ebit and ebitda should not be viewed by investors as an  alternative
+to  generally  accepted  accounting  principles  (gaap)  measures of income as a
+measure of performance or to cash flows from operating,  investing and financing
+activities  as a measure of  liquidity.  in addition,  ebitda does not take into
+account changes in certain assets and liabilities that can affect cash flow.
+
+our existing segments reflect certain  managerial  changes since the publication
+of our 1999 annual  results.  all prior  period  results  have been  restated to
+reflect these changes.
+
+to provide comparability,  we normalize revenue to reflect the impact of certain
+1999 and 2000  transactions.  for  example,  when we normalize  for concert,  we
+remove the revenue associated with  businesses/customers  contributed to concert
+from 1999  results.  the  acquisitions  of tci,  agns and  mediaone  and certain
+international  divestments are normalized as if those  acquisitions/dispositions
+occurred on january 1, 1999. the  elimination of per-line  charges by the fcc is
+normalized  in 1999  results  as if the  elimination  occurred  on july 1, 1999.
+finally, certain 2000 broadband cable swaps are normalized in 1999 results as if
+those swaps happened on the corresponding date in 1999.
+
+business services
+our business services segment offers a variety of global communications services
+including long distance, local and data and internet protocol (ip) networking to
+small and medium-sized  businesses,  large domestic and multinational businesses
+and government agencies. business services is also a provider of voice, data and
+ip transport to service resellers  (wholesale  services).  also included in this
+segment is at&amp;t;  solutions,  which is composed of the solutions  outsourcing and
+network  management  business unit and the internal at&amp;t; information  technology
+services unit.
+
+                                  for the three        for the nine
+                                  months ended         months ended
+                                  september 30,        september 30,
+
+dollars in millions             2000       1999      2000       1999
+external revenue             $ 6,895    $ 6,859   $20,818    $19,715
+internal revenue                 213        197       573        553
+total revenue                  7,108      7,056    21,391     20,268
+
+ebit                           1,733      1,509     4,870      4,536
+ebitda                         2,664      2,347     7,594      6,948
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+other items
+capital additions            $ 1,517    $ 1,963   $ 4,169    $ 4,544
+
+                          at september 30,      at december 31,
+                                2000                 1999
+total assets                 $33,360              $32,010
+
+
+revenue
+business services revenue  increased $52 million,  or 0.7%, in the third quarter
+of 2000,  and increased  $1,123  million,  or 5.5%, for the first nine months of
+2000,  compared with the prior year.  normalized for the impact of concert,  the
+1999  acquisition of agns and the elimination of picc for  single-line  business
+customers  by the fcc,  revenue  increased  2.5% and  4.1% for the  quarter  and
+year-to-date  periods,  respectively.  the  increases  were driven  primarily by
+strength in data/ip and outsourcing  services,  partially offset by a decline in
+long distance voice services.
+
+normalized data/ip services revenue grew over 20% for the quarter, led by growth
+in frame relay,  high-speed  private line and ip services.  for the year-to-date
+period,  normalized  data/ip  services  revenue grew at a high-teens rate led by
+growth in frame relay,  ip and high-speed  private line  services.  ip services,
+which include at&amp;t; worldnet services and virtual private network services (vpn),
+grew over 50% for both the three  and nine  months  ended  september  30,  2000,
+compared with the same periods in 1999.  on a combined  basis,  packet  services
+(frame relay,  atm  (asynchronous  transfer  mode) and ip) grew over 50% for the
+quarter and over 45% for the year-to-date period, compared with the same periods
+in 1999.
+
+at&amp;t; solutions outsourcing revenue, normalized for the acquisition of agns, grew
+20.2% in the third quarter of 2000,  and grew 22.5% for the first nine months of
+2000,  compared with the same periods in the prior year.  these  increases  were
+primarily  due to growth from new  contract  signings and add-on  business  from
+existing clients.
+
+normalized long distance voice revenue declined at a mid  single-digit  rate for
+the third  quarter,  as  pricing  declines  outpaced  high  single-digit  volume
+increases.  for the year-to-date period,  normalized long distance voice revenue
+declined  at a low  single-digit  rate,  as  pricing  declines  outpaced  volume
+increases of over 10%.  business  services revenue  continues to shift to higher
+growth products such as data/ip and  outsourcing.  this shift, and the continued
+pricing pressures, have resulted in a decline in long distance voice revenue. we
+expect competition and the resulting pricing pressures to continue to negatively
+impact business services long distance voice revenue.
+
+normalized local voice revenue grew at a mid-teen rate for the quarter, and grew
+over 20% for the year-to-date period. revenue growth was negatively impacted, in
+the year-to-date period, by the settlement of public utility commission rulings.
+there were eight additional switches activated in third quarter,  for a total of
+29 new local switches activated  year-to-date  through september 30, 2000. these
+local switches  enhance  at&amp;t;'s  network  capacity for the provision of business
+local voice services. at&amp;t;'s integrated business local operations added over 130
+thousand  access  lines in the third  quarter  bringing  total  access  lines in
+service as of  september  30, 2000,  to almost 2.1 million.  access lines enable
+at&amp;t; to provide local service to customers by allowing  direct  connection  from
+customer equipment to the at&amp;t; network.  on-net buildings  (buildings where at&amp;t;
+owns the fiber that runs into the building) totaled 5,969 at september 30, 2000,
+a 4.1% increase over september 30, 1999.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+ebit/ebitda
+ebit  increased  $224  million,  or 14.8%,  in the third  quarter  of 2000,  and
+increased $334 million, or 7.4%, in the first nine months of 2000, compared with
+the same prior year periods.  ebitda  increased $317 million,  or 13.5%,  in the
+third quarter of 2000,  and increased  $646 million,  or 9.3%, in the first nine
+months of 2000,  compared  with the same prior year  periods.  excluding a first
+quarter 2000 restructuring charge of $93 million, ebit increased 9.4% and ebitda
+increased 10.6% in the first nine months of 2000,  compared with the same period
+of 1999.  the quarterly  increases  were  primarily  due to continued  sg&amp;a; cost
+control  efforts  and  revenue  growth,  partially  offset by the  impact of the
+customers contributed to concert. the year-to-date  increases were primarily due
+to revenue growth and continued sg&amp;a; cost control  efforts,  partially offset by
+the  impact  of the  customers  contributed  to  concert.  in  addition,  higher
+depreciation  expense also  partially  offset the ebit  improvement.  the equity
+earnings of concert are reported within corporate and other.
+
+other items
+capital  additions  decreased $446 million,  or 22.7%,  to $1,517 million in the
+third quarter of 2000 compared with the third quarter of 1999.  the decrease was
+primarily driven by reduced capital expenditures for network assets that support
+long  distance  voice  and data  services.  for the first  nine  months of 2000,
+capital  additions  decreased $375 million,  or 8.2%, to $4,169 million compared
+with the first nine months 1999.  the decrease was  primarily  driven by reduced
+capital  expenditures  for  network  assets that  support  long  distance  voice
+services.
+
+total assets increased $1,350 million,  or 4.2%, to $33,360 million at september
+30, 2000,  compared with december 31, 1999. the increase was primarily driven by
+a higher accounts receivable balance due to timing of cash receipts, an increase
+in the age of  outstanding  receivables  and higher  revenue in our  outsourcing
+business.  in addition,  property,  plant and equipment increased as a result of
+capital  expenditures,  partially offset by depreciation expense for the period,
+as well as the contribution of assets to concert.
+
+consumer services
+our consumer services segment provides a variety of any-distance  communications
+services  including  long  distance,  local toll  (intrastate  calls outside the
+immediate local area) and internet access to residential customers. in addition,
+consumer services provides transaction services such as prepaid calling card and
+operator-handled  calling  services.  local  phone  service is also  provided in
+certain areas.
+
+                                  for the three        for the nine
+                                  months ended         months ended
+                                  september 30,        september 30,
+dollars in millions             2000       1999      2000       1999
+revenue                       $4,672     $5,578   $14,715    $16,527
+ebit                           1,854      2,159     5,425      5,852
+ebitda                         1,996      2,352     5,853      6,425
+
+other items
+capital additions             $   76      $ 133   $   204    $   341
+
+                         at september 30,        at december 31,
+                                2000                 1999
+total assets                  $4,945              $ 6,279
+
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+revenue
+consumer  services  revenue  decreased  16.2% in the third quarter of 2000,  and
+declined 11.0% for the first nine months of 2000, compared with the same periods
+in 1999.  normalized  for the impact of concert and the  elimination of per-line
+charges,  revenue decreased 10.9% in the third quarter and declined 7.9% for the
+first nine months of the year as long  distance  calling  volumes  continued  to
+decline at a mid single-digit  rate during these periods.  these results reflect
+the ongoing competitive nature of the consumer long distance industry, which has
+resulted  in  pricing  pressures  and a loss of market  share.  also  negatively
+impacting revenue was product substitution and market migration away from direct
+dial  wireline  and  calling  card  services  to the  rapidly  growing  wireless
+services.  we  expect  competition  and  product  substitution  to  continue  to
+negatively impact consumer services revenue.
+
+ebit/ebitda
+ebit  declined  14.1% and ebitda  declined  15.2% in the third  quarter of 2000,
+compared  with the same  period of 1999.  for the first nine months of the year,
+ebit decreased 7.3% and ebitda decreased 8.9%,  compared with the same period in
+1999.  ebit and ebitda  continue  to be  negatively  impacted  by the decline in
+revenue,  however,  reflecting  our cost  control  initiatives,  ebit and ebitda
+margins continue to improve. the ebit margin was 39.7% and the ebitda margin was
+42.7% in the third quarter of 2000, compared with an ebit margin of 38.7% and an
+ebitda  margin of 42.2% for the same period in 1999.  ebit and ebitda  include a
+$96 million  restructuring charge for the first nine months of 2000, and include
+a $153  million  gain on the sale of  language  line  services in the first nine
+months of 1999.  excluding these items,  the ebit and ebitda margins improved to
+37.5% and 40.4%, respectively,  for the first nine months of 2000, compared with
+34.5% and 37.9%, respectively, for the same period in 1999, primarily due to our
+cost control initiatives, partially offset by lower revenue.
+
+other items
+capital  additions  declined $57 million,  or 43.0%, to $76 million in the third
+quarter of 2000,  compared  with the third  quarter of 1999.  for the first nine
+months of 2000,  capital additions  decreased $137 million,  or 40.1%,  compared
+with the first nine months of 1999. these decreases were primarily  attributable
+to reduced  capital  expenditures  for network assets that support long distance
+voice services and decreased spending on internal-use software.
+
+total assets decreased $1,334 million,  or 21.3%, to $4,945 million at september
+30,  2000,  compared  with  december 31,  1999,  primarily  due to a decrease in
+property,  plant and equipment as a result of the contribution of certain assets
+to concert,  coupled with  depreciation  expense during the period. in addition,
+accounts receivable declined as a result of lower revenue.
+
+wireless services
+our  wireless  services  segment  offers  wireless  voice and data  services and
+products  to  customers  in our 850  megahertz  (cellular)  and  1900  megahertz
+(personal  communications  services,  or pcs)  markets.  wireless  services also
+includes certain  interests in partnerships and affiliates that provide wireless
+services  in the united  states  and  internationally,  aviation  communications
+services, and fixed wireless. fixed wireless provides high-speed internet access
+and  any-distance  voice services using wireless  technology to residential  and
+small business customers.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+                                 for the three        for the nine
+                                 months ended         months ended
+                                 september 30,        september 30,
+
+dollars in millions             2000       1999      2000       1999
+revenue                      $ 2,799     $2,050   $ 7,474     $5,490
+ebit                             105         54       551        128
+ebitda excluding other income    472        397     1,381        902
+
+other items
+capital additions            $ 1,028     $  704   $ 3,782     $1,564
+
+                        at september 30,        at december 31,
+                                2000                 1999
+total assets                 $33,045              $23,312
+
+
+revenue
+wireless services revenue grew $749 million,  or 36.6%, to $2,799 million in the
+third quarter of 2000, compared with the third quarter of 1999, including growth
+in  services  revenue  of 34.3% to  $2,509  million.  revenue  increased  $1,984
+million,  or 36.2%, to $7,474 million in the first nine months of 2000, compared
+with the same period of 1999,  including  growth in services revenue of 36.8% to
+$6,741  million.  revenue,  adjusted  to exclude  the june 2000  acquisition  of
+properties in the san francisco bay area from the quarter and year-to-date  2000
+periods as well as the year-to-date  impact of vanguard cellular  systems,  inc.
+for the months prior to the may 1999 acquisition,  grew 27.3% in the quarter and
+29.7% for the first nine months of 2000.  the  increases  were due to subscriber
+growth reflecting the continued successful execution of at&amp;t;'s wireless strategy
+of targeting and retaining  specific customer  segments,  expanding the national
+wireless footprint, focusing on digital service, and offering simple rate plans.
+in addition,  an increase in average monthly revenue per user contributed to the
+year-to-date  growth.  equipment revenue grew 59.9% to $290 million in the third
+quarter of 2000,  and grew 30.6% to $733  million  for the first nine  months of
+2000, compared with the respective prior year periods.
+
+at&amp;t; continues to experience strong growth in wireless subscribers. consolidated
+subscribers  grew to over 12.6 million at september  30, 2000,  representing  an
+increase  of 38.4%  over the prior year  quarter,  including  approximately  1.3
+million subscribers  associated with the completed acquisitions of our remaining
+interest in cmt partners  (which owned wireless  properties in the san francisco
+bay area),  wireless  one network,  l.p.  (which owned  wireless  properties  in
+northwest  and  southwest  florida) and  properties  in the san diego area.  net
+consolidated   wireless  subscriber  additions  in  the  third  quarter  totaled
+approximately  750,000,  a 195.1%  increase over the prior year  quarter.  total
+subscribers,  including  partnership  markets  in  which  at&amp;t;  does  not  own a
+controlling interest,  were nearly 15 million at the end of the third quarter, a
+26.2% increase over the prior year quarter. this includes  approximately 450,000
+subscribers  associated  with the  acquisition of american  cellular in february
+2000.  at&amp;t;'s average  monthly churn rate in the third quarter of 2000 was 2.9%,
+compared with 2.6% in the third quarter of 1999.  at&amp;t;'s  average  monthly churn
+rate in the first nine months of 2000 was 2.8%  compared  with 2.6% in the first
+nine months of 1999.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+ebit/ebitda excluding other income
+ebit  increased $51 million,  or 97.2%,  to $105 million in the third quarter of
+2000, and increased $423 million,  or 331.1%,  to $551 million in the first nine
+months of the year, compared with the same prior year periods.  the year-to-date
+increase was  impacted by a second  quarter 2000 gain of $95 million on the sale
+of  celumovil  and a second  quarter  1999  gain of $88  million  on the sale of
+wood-tv.  excluding these gains,  ebit improved $416 million to $456 million for
+the  first  nine  months of the  year.  the  improvement  for both  periods  was
+primarily  the result of revenue  growth,  as well as higher other income due to
+intercompany  interest income on the initial public offering proceeds attributed
+to at&amp;t;  wireless  group.  these were  partially  offset by  increased  customer
+acquisition  and customer care costs and higher  depreciation  and  amortization
+expenses as a result of an increased asset base.  also partially  offsetting the
+improvements were higher network costs attributable to the growth in subscribers
+and  their  minutes  of use,  as well as  higher  information  technology  costs
+associated with growth in the subscriber base.
+
+ebitda, excluding other income, increased $75 million, or 18.6%, to $472 million
+in the third quarter of 2000,  and increased $479 million,  or 53.1%,  to $1,381
+million for the first nine months of the year, compared with the same prior year
+periods.  the  improvement  for both  periods  was  primarily  driven  by higher
+revenue,  partially offset by increased  customer  acquisition and customer care
+costs,  as well as higher  network  costs and increased  information  technology
+costs.
+
+other items
+in the third quarter of 2000, capital additions increased $324 million to $1,028
+million  compared with the third  quarter of 1999.  for the first nine months of
+2000, capital additions increased $2,218 million to $3,782 million compared with
+the first nine months of 1999.  these increases were primarily driven by capital
+expenditures  on capacity  upgrades and  improvements to network  quality.  also
+contributing  to the increase in capital  additions for the first nine months of
+the year was our investment in american cellular in the first quarter of 2000.
+
+total assets increased $9,733 million, or 41.8%, to $33,045 million at september
+30, 2000,  compared with december 31, 1999. the increase was primarily driven by
+the  acquisitions  of our  remaining  interest  in cmt  partners,  wireless  one
+network,  l.p. and properties in the san diego area. these acquisitions resulted
+in increases to licensing  costs,  goodwill,  property,  plant and equipment and
+other assets.  also  contributing  to the increase in assets was an intercompany
+note receivable for the remaining initial public offering proceeds attributed to
+the at&amp;t; wireless  group, as well as higher  property,  plant and equipment as a
+result of capital  expenditures in support of the continued  expansion and build
+out of our wireless  network,  partially offset by depreciation  expense for the
+period.
+
+broadband
+our broadband  segment offers a variety of services  through our cable broadband
+network,  including  traditional  analog video and new services  such as digital
+video service, high-speed data service and telephony service.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+                                  for the three        for the nine
+                                  months ended         months ended
+                                  september 30,        september 30,
+
+dollars in millions              2000       1999      2000       1999
+revenue                      $  2,417     $1,505   $ 5,691    $ 3,479
+ebit                             (627)      (310)     (717)    (1,187)
+ebitda excluding other income     514        389     1,253        420
+
+other items
+
+capital additions            $  1,247     $1,007   $ 3,577    $ 2,155
+
+                          at september 30,       at december 31,
+                                 2000                 1999
+total assets                 $117,289              $53,810
+
+the three months ended september 30, 2000,  includes the results of mediaone for
+the full quarter and the nine months  ended  september  30,  2000,  includes the
+results of mediaone  since the june 15,  2000,  date of  acquisition,  while the
+comparable periods for 1999 do not include any results of mediaone. in addition,
+year-to-date 2000 results include a full nine months of tci results,  while 1999
+includes only seven months of tci results reflecting the march 1999 acquisition.
+
+revenue
+broadband's  revenue increased $912 million,  or 60.7%, for the third quarter of
+2000,  and  increased  $2,212  million,  or  63.6%,  for the nine  months  ended
+september 30, 2000, compared with the same periods of last year. the increase in
+revenue was primarily due to the inclusion of mediaone results since the date of
+acquisition,  higher revenue from new services  (digital video,  high-speed data
+and  telephony) and a basic cable rate  increase.  in addition,  revenue for the
+nine months ended  september 30, 2000, was impacted by the acquisition of tci in
+march of 1999. revenue, normalized for the mediaone acquisition and adjusted for
+the net disposition of cable properties, increased 10.8% in the third quarter of
+2000 compared with the third quarter of 1999.  revenue for the nine months ended
+september 30, 2000, on this same basis and normalized  for the tci  acquisition,
+increased 9.9% compared with the same prior year period.
+
+broadband  ended  the  third  quarter  of 2000 with  16.1  million  basic  cable
+customers,  passing  approximately  28  million  homes,  more  than 2.5  million
+digital-video  customers,  approximately 888,000 high-speed data customers,  and
+provided  telephony  service  to  nearly  350,000  customers.  while  we  expect
+broadband  revenue to  continue  to grow,  the rate of growth may be impacted by
+slower  than  anticipated  telephony  and  basic  subscriber  additions  due  to
+increased competition.
+
+ebit/ebitda excluding other income
+ebit was a deficit of $627  million for the quarter  ended  september  30, 2000,
+compared  with a deficit of $310  million in 1999.  excluding  the impact of our
+ownership  interests in cablevision and twe and restructuring and other charges,
+ebit for the third quarter of 2000, was a deficit of $431 million,  a decline of
+$233 million from the third quarter of 1999.  this decrease was primarily due to
+the acquisition of mediaone,  increased spending associated with cable telephony
+and high-speed data services and higher  programming costs. these were partially
+offset by higher revenue and lower equity losses due to  dispositions of certain
+investments  in 1999.  ebit for the nine months ended  september 30, 2000, was a
+deficit of $717 million compared with a deficit of $1,187 million in 1999.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+excluding the impact of our ownership  interests in cablevision and twe, certain
+gains and  restructuring  and other charges,  ebit was a deficit of $720 million
+for the nine months ended  september  30, 2000,  compared with a deficit of $439
+million in 1999.  the decrease was primarily due to higher  expenses  associated
+with  high-speed  data and telephony  services,  the acquisition of mediaone and
+increased  programming costs.  partially  offsetting these decreases to ebit was
+higher  revenue  and lower  equity  losses  due to the  disposition  of  certain
+investments in 1999.
+
+ebitda,  excluding  other income,  for the third  quarter was $514  million,  an
+increase of 32.1%,  compared with the third quarter of 1999.  excluding the 2000
+restructuring and other charges, ebitda, excluding other income, increased 38.2%
+to $538 million in the third quarter of 2000. this increase was primarily due to
+the mediaone acquisition and higher revenue, partially offset by higher expenses
+associated  with  high-speed  data and  telephony  services as well as increased
+programming  costs.  ebitda,  excluding  other  income for the nine months ended
+september 30, 2000, was $1,253  million  compared with $420 million for the same
+period of 1999.  excluding the 2000 and 1999  restructuring  and other  charges,
+ebitda,  excluding other income, increased 42.1% to $1,293 million in 2000. this
+increase  was  primarily  due to higher  revenue,  the  inclusion of a full nine
+months of tci and the  acquisition of mediaone.  these  increases were partially
+offset by higher expenses associated with high-speed data and telephony services
+as well as increased programming costs.
+
+other items
+
+capital  additions  in the  third  quarter  of 2000  increased  23.8% to  $1,247
+million,  and  increased  66.0% to  $3,577  million  for the nine  months  ended
+september  30, 2000.  the  increases  were due to capital  expenditures  for the
+launch of new services as well as the mediaone acquisition. in addition, capital
+expenditures  for the  year-to-date  period  increased  due to  spending  on the
+upgrade of the cable plant.  capital additions for the year-to-date  period were
+also impacted by increased contributions to various nonconsolidated investments.
+
+total assets were $117,289 million at september 30, 2000,  compared with $53,810
+million at december 31, 1999. the increase was due to the mediaone  acquisition,
+and an  increase  in  property,  plant  and  equipment  as a result  of  capital
+expenditures,  partially  offset by depreciation  expense for the period.  these
+increases were partially offset by a decrease in the mark-to-market valuation of
+certain  investments and lower franchise costs and property,  plant property and
+equipment as a result of the exchange of an entity owning  certain cable systems
+and other assets with cox for at&amp;t; stock.
+
+corporate and other
+this group reflects  corporate staff functions,  the elimination of transactions
+between segments as well as the results of international operations and ventures
+and excite@home.
+
+                                  for the three        for the nine
+                                  months ended         months ended
+                                  september 30,        september 30,
+
+dollars in millions             2000       1999      2000       1999
+revenue                      $   (21)      $144   $  (174)   $   438
+ebit                             (40)      (398)   (1,020)    (1,165)
+ebitda                           219       (180)     (398)      (642)
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+other items
+capital additions            $ 1,763       $832   $ 1,955    $ 1,298
+
+                        at september 30,        at december 31,
+                                2000                 1999
+total assets                 $24,484              $15,535
+
+revenue
+revenue  for  corporate  and  other   primarily   includes  the  elimination  of
+inter-segment  revenue of negative $222 million (an increase of $32 million from
+the third quarter of 1999),  revenue from  excite@home of $79 million (which was
+consolidated beginning on september 1, 2000), and revenue from our international
+operations and ventures of $78 million (a decline of $242 million from the third
+quarter of 1999). the international operations and ventures revenue decrease was
+largely due to the revenue  impact of businesses  contributed to concert and due
+to  lower  revenue  associated  with the  divestment  of  certain  international
+businesses.  corporate and other  revenue,  normalized  for the  divestments  of
+international businesses, the impact of concert and excite@home was negative $21
+million in the third quarter of 2000, compared with negative $47 million for the
+third quarter of 1999. the  improvement was primarily due to higher revenue from
+excite@home.
+
+for the first nine months of 2000,  revenue for  corporate  and other  primarily
+included the elimination of  inter-segment  revenue of negative $585 million (an
+increase of $29 million  from the first nine months of 1999),  revenue  from our
+international operations and ventures of $262 million (a decline of $682 million
+from the first nine months of 1999) and revenue from  excite@home of $79 million
+(which  was  consolidated   beginning  september  1,  2000).  the  international
+operations and ventures  revenue  decrease was largely due to the revenue impact
+of businesses  contributed to concert and due to lower revenue  associated  with
+the divestment of certain international businesses. corporate and other revenue,
+normalized  for the  divestments  of  international  businesses,  the  impact of
+concert and  excite@home,  was negative $174 million in the first nine months of
+2000  compared  with  negative  $223  million for the first nine months of 1999,
+primarily due to higher revenue from  excite@home as well as higher revenue from
+international operations and ventures.
+
+ebit/ebitda
+ebit and ebitda for  corporate  and other  improved $358 million to a deficit of
+$40 million and improved  $399  million to $219  million,  respectively,  in the
+third quarter of 2000,  compared  with the third quarter of 1999.  excluding the
+third  quarter  1999 gain on the sale of at&amp;t; canada of $110  million,  ebit and
+ebitda  for  corporate  and  other  increased  $468  million  and $509  million,
+respectively,  in the third quarter of 2000,  compared with the third quarter of
+1999.  the  increases  were  primarily  due to a larger  pension  credit in 2000
+primarily  driven by a higher  pension trust asset base resulting from increased
+investment  returns,  lower sg&amp;a; expenses,  including cost control efforts,  and
+higher  other income as a result of  increased  gains on sales of  miscellaneous
+investments.  in addition,  equity  earnings for concert were $25 million during
+the third quarter.
+
+ebit and ebitda for  corporate  and other  improved $145 million to a deficit of
+$1,020  million and  improved  $244  million to a deficit of $398 million in the
+first nine months of 2000, compared with the same period in 1999, respectively.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+excluding net restructuring  charges of $568 million in 2000 and $212 million in
+1999, as well as the 1999 gain on the sale of at&amp;t; canada of $110 million,  ebit
+and ebitda  increased  $611 million to a deficit of $452  million and  increased
+$710 million to $170 million in the first nine months of 2000, compared with the
+same period in 1999, respectively.  the increases were primarily due to a larger
+pension  credit in 2000  primarily  driven by a higher  pension trust asset base
+resulting from increased investment returns,  higher other income as a result of
+increased  gains on sales of  miscellaneous  investments and higher interest and
+dividend income as well as cost control  efforts.  in addition,  equity earnings
+for  concert  were $91 million  during the first nine months of 2000.  partially
+offsetting  these  improvements  were higher equity losses from  excite@home and
+greater distributions on trust preferred securities.
+
+other items
+
+capital additions for corporate and other increased $931 million,  or 111.8%, to
+$1,763  million in the third quarter of 2000,  compared with the same quarter of
+1999.  for the first  nine  months of 2000,  capital  additions  increased  $657
+million,  or 50.6%,  to $1,955  million  compared  with the first nine months of
+1999.  the increase in both periods was  primarily  driven by our  investment in
+net2phone,    partially   offset   by   lower   investments   in   international
+nonconsolidated subsidiaries.
+
+total assets  increased  $8,949 million during the first nine months of 2000, to
+$24,484  million  primarily  due  to  the  consolidation  of  excite@home,   our
+investment in concert, including the assets contributed by business services and
+consumer services, and our investment in net2phone.
+
+liberty media group results
+liberty  media group (lmg)  produces,  acquires and  distributes  entertainment,
+educational and informational programming services through all available formats
+and  media.  lmg is  also  engaged  in  electronic  retailing  services,  direct
+marketing  services,   advertising  sales  relating  to  programming   services,
+infomercials and transaction  processing.  equity earnings (losses) from liberty
+media group were $1,756  million for the quarter ended  september 30, 2000,  and
+were $(217) million in the comparable 1999 period. equity earnings (losses) from
+lmg were $2,965 million for the first nine months of 2000,  compared with $(818)
+million for the period from the date of acquisition  through september 30, 1999.
+these  increases were primarily due to gains  associated with the acquisition of
+companies  that lmg has an investment  in. the gains  represent  the  difference
+between the carrying  value of lmg's  interest in the  acquired  company and the
+fair value of securities received in the acquisitions.  in particular,  tv guide
+was acquired by gemstar in the third  quarter of 2000,  flextech was acquired by
+telewest in the second  quarter of 2000 and general  instrument  was acquired by
+motorola in the first quarter of 2000.  these gains were partially offset by the
+impairment  charges recorded on lmg's investments in teligent and icg to reflect
+other than temporary declines in value.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+liquidity
+
+                                                              for the nine
+                                                              months ended
+                                                              september 30,
+dollars in millions                                         2000        1999
+cash flows:
+  provided by operating activities                      $  9,174    $  7,050
+  used in investing activities                           (33,176)    (21,353)
+  provided by financing activities                        23,294      11,143
+
+ebitda                                                  $ 16,448    $ 13,921
+
+
+net cash provided by operating  activities increased $2,124 million for the nine
+months ended  september  30,  2000,  compared  with the prior year  period.  the
+increase  was  primarily  driven  by an  increase  in  operating  income  before
+depreciation  and  amortization  expense  and a  decrease  in cash tax  payments
+primarily  resulting  from the first quarter 1999 tax payment on the gain on the
+1998 sale of universal card services inc. these were partially  offset by higher
+interest payments in 2000.
+
+net cash used by investing  activities  for the nine months ended  september 30,
+2000,  increased  $11,823  million  compared  with the prior  year  period.  the
+increase was primarily  driven by increased  acquisitions in 2000,  particularly
+mediaone and various wireless properties, increased capital expenditures in 2000
+primarily  attributable to growth in wireless and broadband,  and our investment
+in net2phone,  partially  offset by the  contribution of $5.5 billion of cash to
+lmg in 1999.
+
+during the first nine months of 2000, net cash provided by financing  activities
+increased by $12,151 million  compared with the prior year period.  the increase
+was primarily due to higher  proceeds  from  issuance of  short-term  debt,  the
+proceeds from the initial  public  offering of at&amp;t; wireless  group shares and a
+decrease in the purchase of treasury stock. these were partially offset by lower
+proceeds from the issuance of long-term debt and redeemable securities in 1999.
+
+at  september  30,  2000,  we had  current  assets of $15.5  billion and current
+liabilities of $51.3 billion. a significant portion of the current  liabilities,
+$32.3 billion,  relate to short-term notes, the majority of which was commercial
+paper or debt with an original  maturity of one year or less.  we expect that we
+will retire a portion of the  short-term  debt with funds that will be generated
+from the expected  mid-2001  initial public offering of at&amp;t; broadband  tracking
+stock.  in addition,  we continue to investigate  and negotiate  other financing
+alternatives including, the monetization of publicly-held  securities,  sales of
+certain non-strategic assets and investments, securitization of certain accounts
+receivable,  and a potential  separate  debt  offering by at&amp;t;  wireless.  since
+september 30, 2000, we have monetized  certain publicly held securities  through
+the issuance of approximately $1 billion of asset-backed  debt.  lastly,  we are
+presently  in  negotiations  to increase  our $10 billion  line of credit to $25
+billion.  at  september  30,  2000,  all of the $10  billion  line of credit was
+available for our use.  there can be no assurance that we will be able to obtain
+financing on terms that are acceptable to us.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+as a result of the announced  restructuring  plans to create four new companies,
+at&amp;t;'s debt ratings have been under review by the applicable rating agencies. as
+a result of this review,  at&amp;t;'s ratings have been either downgraded and /or put
+on credit watch with negative outlook. these actions will result in an increased
+cost of future borrowings.
+
+also in connection with our restructuring,  we are reviewing our dividend policy
+as it  relates  to each of the  new  companies  we will  create.  the  board  of
+directors' review of at&amp;t;'s dividend policy will be completed and implemented by
+the end of the year. we expect that at&amp;t;'s dividend prior to the creation of the
+four new  companies as well as the combined  dividend of the four new  companies
+will be substantially lower than our current dividend.
+
+during the  quarter,  we granted  put  options  to cox and  comcast  corporation
+(comcast)  on  shares  of  excite@home  series a common  stock  having a maximum
+combined put price of $2.9 billion. the put options provide cox and comcast with
+the right to convert their excite@home  shares into either at&amp;t; stock or cash at
+their  option,  at any time  between  january 1, 2001 and june 4,  2002,  at the
+higher of (i) $48 per share or (ii) the 30 day average trading price at the time
+of the  exercise.  as a  result,  at&amp;t;  could  be  required  to pay the  maximum
+aggregate $2.9 billion put price in january,  2001.  assuming a put price of $48
+per share, the maximum number of excite@home  shares covered by the put would be
+approximately 60.4 million shares.
+
+earnings,  including other income,  before  interest,  taxes,  depreciation  and
+amortization,  and  minority  interest  (ebitda)  is a measure of our ability to
+generate  cash flow and  should  be  considered  in  addition  to,  but not as a
+substitute for, other measures of financial  performance  reported in accordance
+with generally accepted  accounting  principles.  ebitda was $16,448 million for
+the first  nine  months of the year,  an  increase  of 18.1% over the first nine
+months  of last  year.  the  ebitda  growth  was  impacted  by gains on sales of
+businesses and investments and other, net restructuring  and other charges,  and
+our ownership  interests in cablevision and twe.  excluding these items,  ebitda
+increased $2,441 million,  or 16.9%,  over the first nine months of last year to
+$16,841 million.  the improvement was primarily due to operational  efficiencies
+which resulted in higher operating income before  depreciation and amortization,
+and increased other income.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+euro conversion
+on january 1, 1999,  certain  members of the european  union  established  fixed
+conversion  rates between their  existing  currencies  and the european  union's
+currency (euro).  the transition period is anticipated to extend between january
+1, 1999,  and july 1, 2002.  we have  assessed the impact of the  conversion  on
+information-technology  systems,  currency  exchange rate risk,  derivatives and
+other financial instruments,  continuity of material contracts as well as income
+tax and accounting issues. we do not expect the conversion during the transition
+period to have a material impact on our consolidated financial statements.
+
+financial condition
+total  assets  increased  $82,946  million,  or 49.0%,  to  $252,352  million at
+september 30, 2000, compared with december 31, 1999, primarily due to the impact
+of  the  mediaone  acquisition  and  the  consolidation  of  excite@home.  other
+significant  activity included  increased  property,  plant and equipment due to
+capital  expenditures,  net of  depreciation  expense;  an  increase in licenses
+resulting  from  our  wireless   acquisitions,   increased  accounts  receivable
+attributable  to  transactions  with concert;  our investment in net2phone;  and
+at&amp;t;'s investment in concert,  consisting of $1.7 billion of property, plant and
+equipment and a loan of $1.0 billion.
+
+total liabilities  increased  $45,102 million,  or 54.1%, to $128,490 million at
+september 30, 2000, compared with december 31, 1999, primarily due to the impact
+of the mediaone  acquisition and the consolidation of excite@home.  in addition,
+total debt increased due to borrowings to fund the mediaone acquisition.
+
+minority   interest   increased  $6,655  million  to  $9,046  million  primarily
+reflecting the minority interest of excite@home.
+
+total  shareowners'  equity  increased  $31,181  million,  or 39.5%, to $110,108
+million at september 30, 2000, compared with december 31, 1999. the increase was
+primarily  driven  by the  issuance  of  at&amp;t;  common  stock  for  the  mediaone
+acquisition as well the issuance of at&amp;t; wireless group tracking stock.
+
+the ratio of total debt to total  capital,  excluding lmg (debt divided by total
+debt and  equity  of at&amp;t;,  excluding  lmg) was  45.0% at  september  30,  2000,
+compared with 44.3% at december 31, 1999. the equity portion of this calculation
+includes  convertible  trust  preferred  securities.  the increase was primarily
+driven by higher debt  associated  with the  mediaone  merger,  almost  entirely
+offset by a higher equity base  associated with the mediaone merger and the at&amp;t;
+wireless group initial public offering.  included in debt is approximately  $5.2
+billion of notes,  which are exchangeable  into or  collaterialized  by vodafone
+american  depository  receipts (adrs) we own.  excluding this debt, the ratio of
+debt to total capital at september 30, 2000,  was 42.8%.  the ratio of debt (net
+of cash) to  operational  ebitda was 2.74x at september 30, 2000,  compared with
+1.75x at december 31,  1999,  reflecting  additional  debt  associated  with the
+mediaone merger.
+
+risk management
+
+we are exposed to market risk from changes in interest,  foreign exchange rates,
+and  equity  prices.  on a limited  basis we use  certain  derivative  financial
+instruments,   including  interest  rate  swaps,  options,  forwards  and  other
+derivative contracts to manage these risks. we do not use financial  instruments
+for trading or  speculative  purposes.  all  financial  instruments  are used in
+accordance with board-approved policies.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+assuming a 10% downward  shift in interest rates at september 30, 2000, the fair
+value of unhedged debt would have increased by approximately $1.1 billion.
+
+new accounting pronouncements
+in june 1998, the financial  accounting  standards board (fasb) issued statement
+of financial  accounting  standards  (sfas) no. 133,  "accounting for derivative
+instruments and hedging  activities."  among other provisions,  it requires that
+entities  recognize  all  derivatives  as either  assets or  liabilities  in the
+statement of financial  position and measure  those  instruments  at fair value.
+gains and losses resulting from changes in the fair values of those  derivatives
+would be accounted  for  depending on the use of the  derivative  and whether it
+qualifies for hedge accounting. the effective date for this standard was delayed
+via the issuance of sfas no. 137. the effective date for sfas no. 133 is now for
+fiscal  years  beginning  after  june  15,  2000,  though  earlier  adoption  is
+encouraged and retroactive application is prohibited.  for at&amp;t;, this means that
+the standard must be adopted no later than january 1, 2001.
+
+in june 2000, the fasb issued sfas no. 138,  "accounting for certain  derivative
+instruments  and certain  hedging  activities"  as an amendment to sfas no. 133.
+this  statement  provides  clarification  with regard to certain  implementation
+issues under sfas no. 133 on specific types of hedges.
+
+the impact of the  adoption  of sfas no.  133,  as amended by sfas no.  138,  on
+at&amp;t;'s  results  of  operations  is  dependent  upon  the  fair  values  of  our
+derivatives and related financial  instruments at the date of adoption and could
+result in more pronounced  quarterly  fluctuations in other income  (expense) in
+future  periods.  however,  had we adopted sfas no. 133 in the third  quarter of
+2000, we would have recorded a cumulative effect of an accounting change, net of
+applicable taxes, of approximately  $325 million of income, or $0.08 per diluted
+share,  primarily  attributable  to fair value  adjustments  of  monetized  debt
+instruments  acquired in conjunction with the mediaone merger, as well as to our
+warrant portfolio. management does not expect the impact of the adoption of sfas
+no. 133 on our interest rate swap and foreign exchange portfolios to be material
+to at&amp;t;'s results of operations, financial condition, or cash flows.
+
+in addition,  management is currently reassessing the appropriate classification
+of certain  investment  securities  that  support debt which is indexed to those
+securities.  had these securities been reclassified from  available-for-sale  to
+trading securities during the third quarter, a charge of $235 million,  or $0.06
+per diluted share,  net of applicable  taxes,  would have been recorded to other
+income  (expense),  concurrently  with  the  adoption  of sfas  no.  133.  as an
+available-for-sale  security,  changes in fair value are  included  within other
+comprehensive income.
+
+in december 1999, the securities and exchange commission issued staff accounting
+bulletin no. 101 (sab no. 101), "revenue  recognition in financial  statements."
+the sec  delayed the date by which  registrants  must apply the  accounting  and
+disclosures  described  in sab  no.  101  until  the  fourth  quarter  of  2000.
+management does not expect the adoption of sab no. 101 to have a material impact
+on our results of operations.
+
+<page>
+                                                         at&amp;t; form 10-q - part i
+
+
+subsequent events
+
+restructuring plan
+on october 25, 2000, at&amp;t; announced a restructuring plan designed to create four
+publicly  traded  companies  from  each  of  our  major  operating  units.  at&amp;t;
+shareowners  would  ultimately  own stock in each of the four  businesses.  upon
+completion of the plan, at&amp;t; wireless,  at&amp;t;  broadband,  at&amp;t; consumer and at&amp;t;
+business will all be represented by asset-based or tracking stocks.
+
+in the  first  phase of the  restructuring  plan,  at&amp;t;  intends  to offer  at&amp;t;
+shareowners  the  opportunity  to  exchange  their  at&amp;t;  common  stock for at&amp;t;
+wireless group tracking stock.  we plan to distribute our remaining  interest in
+at&amp;t; wireless group to at&amp;t; shareowners in 2001.
+
+at&amp;t; also plans to create a new class of stock to track the economic performance
+of our at&amp;t; consumer business and plans to distribute 100% of the tracking stock
+to at&amp;t; shareowners in the second half of 2001. in addition, depending on market
+conditions,  at&amp;t; plans to conduct an initial public offering of stock that will
+track the economic  performance of our broadband unit during the summer of 2001.
+at&amp;t;'s ownership  interest in excite@home will be part of the broadband  entity.
+at&amp;t; plans to  recapitalize  the broadband  tracking  stock into an  asset-based
+common stock within twelve months of the initial public offering.
+
+at&amp;t; business  will be the legal owner of the at&amp;t; brand,  which it will license
+to the other companies.  it will also be the parent company of the at&amp;t; consumer
+business.
+
+the board of directors is reviewing  the dividend  policy of at&amp;t; before the end
+of 2000 and at&amp;t; expects that at&amp;t;'s  dividend prior to the creation of the four
+new companies as well as the combined dividend of the four new companies will be
+substantially lower than our current dividend.
+
+at&amp;t; does not expect significant  downsizing to result from our plans,  although
+each company will continue to size its operations as  appropriate.  at&amp;t; expects
+these transactions will be tax-free to u.s. shareholders. certain aspects of the
+above transactions remain subject to regulatory and other approvals.
+
+other events
+
+at&amp;t;  currently  holds a 55.62% equity  interest in ab cellular  holding llc (ab
+cellular), which was formed in 1998 with bellsouth, with each party having a 50%
+voting interest.  ab cellular owns,  controls and supervises wireless properties
+in los  angeles,  houston and  galveston.  public  documents  filed by bellsouth
+indicate  that  bellsouth  anticipates  exercising  an option  available to them
+pursuant to the ab cellular  llc  agreement,  which would  result in ab cellular
+redeeming  at&amp;t;'s  interest in ab cellular in  consideration  of 100% of the net
+assets of the los  angeles  property.  if this  transaction  takes  place,  at&amp;t;
+anticipates recording a gain and will begin consolidating the results of the los
+angeles property.
+
+on november 13, 2000,  two of at&amp;t;'s  wireless  affiliates,  telecorp  pcs, inc.
+(telecorp)  and  tritel,  inc.,  merged  as  part  of a  stock  transaction.  in
+connection  with the merger,  at&amp;t;  contributed  to  telecorp  rights to acquire
+wireless  licenses in wisconsin and iowa and $20 million in cash in exchange for
+approximately  9.3 million shares of common stock in the newly merged entity. in
+a separate  transaction,  at&amp;t; exchanged certain wireless licenses and rights to
+acquire  licenses in the wisconsin and iowa markets,  and made a cash payment of
+approximately  $80  million in return for  certain  telecorp  pcs  licenses  and
+wireless  systems  in several  new  england  markets.  at&amp;t;  expects  that these
+transactions will result in a gain.
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+                           part ii - other information
+
+item 1.  legal proceedings.
+
+mediaone shareholder litigation
+in march 1999,  several  putative  class action  complaints  were filed  against
+mediaone  group,  inc.  and certain of its  officers  and  directors in delaware
+chancery  court,  subsequently  consolidated  under the caption,  in re mediaone
+group inc. shareholders  litigation,  c.a. no. 17037, alleging that the mediaone
+directors  had  breached  their  fiduciary  duties to mediaone  shareholders  by
+causing  mediaone to enter into a merger  agreement  with comcast corp.  without
+taking the  necessary  steps to obtain the best price  available  upon a sale of
+control of mediaone.  a similar suit was filed in new york  supreme  court,  new
+york county,  under the caption krim v. cote, et al., no.  99-602028.  after the
+suits were filed,  mediaone  terminated the comcast merger agreement in order to
+accept a  superior  proposal  from  at&amp;t.;  thereafter,  on august  13,  1999,  a
+consolidated and amended class action complaint was filed in the delaware action
+alleging that the mediaone  directors could only fulfill their fiduciary  duties
+in connection  with the at&amp;t; merger if, among other things,  they caused at&amp;t; to
+issue one or more tracking stocks as part of the consideration in the merger. on
+december 6, 1999, with the consent of mediaone,  at&amp;t; announced plans to issue a
+new class of common stock to track its wireless  operations.  mediaone's consent
+was conditioned upon the agreement of at&amp;t; that no distribution, or setting of a
+record date for the  distribution,  of this tracking  stock to holders of common
+stock of at&amp;t; occur prior to the effective time of mediaone's  merger with at&amp;t.;
+on june 15,  2000,  mediaone  consummated  its  merger  with  at&amp;t; and  became a
+wholly-owned subsidiary of at&amp;t.;
+
+in  light  of these  events,  plaintiffs  in the  mediaone  shareholder  actions
+stipulated to the dismissal of the actions as moot. as part of the  stipulation,
+at&amp;t; agreed to pay and  plaintiffs'  attorneys  agreed to accept the sum of $340
+thousand in full  satisfaction and discharge of their claim for compensation for
+legal services  performed and  reimbursement of expenses  incurred in connection
+with the prosecution of the actions.  on august 28, 2000, the delaware  chancery
+court  approved  the  dismissal  of the  delaware  actions on mootness  grounds,
+conditioned  upon the  dismissal  of the new york  action and the  provision  of
+notice of the terms of the stipulation in at&amp;t;'s next form 10-q.
+
+other litigation
+on july 6, 1997,  mci  telecommunications  corp.  and ronald a. katz  technology
+licensing,  l.p.  filed suit in united states  district  court in  philadelphia,
+pennsylvania  against  at&amp;t.;  the suit  alleged  that a number of at&amp;t;  services
+infringe patents owned by katz but licensed to mci for enforcement against at&amp;t.;
+on november 1, 2000,  without any  admission of liability or  wrongdoing  of any
+kind, at&amp;t; settled this matter for an undisclosed amount.
+
+in october and  november  2000,  the company was named as a defendant in several
+purported  securities  class action lawsuits filed in the united states district
+courts for the district of new jersey and for the southern  district of new york
+purportedly  filed on behalf of persons who purchased  securities of the company
+for various  periods from october 25, 1999 through may 1, 2000.  these  lawsuits
+assert claims under section  10(b) and 20(a) of the  securities  exchange act of
+1934,  as  amended,  and  allege,  among  other  things,  that during the period
+referenced  above, the company made materially  false and misleading  statements
+and omitted to state material facts  concerning its future  business  prospects.
+the complaints seek unspecified  damages. the company believes that the lawsuits
+are without merit and intends to defend them vigorously.
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+
+item 6. exhibits and reports on form 8-k.
+
+(a)           exhibits
+
+              exhibit number
+
+                      12       computation of ratio of earnings to fixed charges
+
+                      27       financial data schedule
+
+                      99.1     liberty media group financial results for the
+                               three and nine months ended september 30, 2000
+                               and 1999
+
+                      99.2     at&amp;t; wireless group financial results and
+                               management's discussion and analysis for the
+                               three and nine months ended september 30,
+                               2000 and 1999
+
+(b)           reports on form 8-k
+
+                     form 8-k-a dated june 15, 2000 was filed pursuant to item 5
+                     (other  events)  and  item  7  (financial   statements  and
+                     exhibits) on august 29, 2000.
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+
+
+
+                                     signatures
+
+pursuant  to the  requirements  of the  securities  exchange  act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+                                   at&amp;t; corp.
+
+
+
+                                   /s/  n. s. cyprus
+                                   ------------------------------
+                                   by:  n. s. cyprus
+                                        vice president and controller
+
+                                       (principal accounting officer)
+
+
+
+date: november 13, 2000
+
+<page>
+                                                                  at&amp;t; form 10-q
+
+
+
+                                  exhibit index
+
+exhibit
+number
+
+12                          computation of ratio of earnings to fixed charges
+
+27                          financial data schedule
+
+99.1                        liberty media group financial results for the three
+                            and nine months ended september 30, 2000 and 1999
+
+99.2                        at&amp;t; wireless group financial results and
+                            management's discussion and analysis for the three
+                            and nine months ended september 30, 2000 and 1999
+
+</page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page></page><page>
+                                                        at&amp;t; form 10-q - part ii
+
+
+item 6. exhibits and reports on form 8-k.
+
+(a)           exhibits
+
+              exhibit number
+
+                      12       computation of ratio of earnings to fixed charges
+
+                      27       financial data schedule
+
+                      99.1     liberty media group financial results for the
+                               three and nine months ended september 30, 2000
+                               and 1999
+
+                      99.2     at&amp;t; wireless group financial results and
+                               management's discussion and analysis for the
+                               three and nine months ended september 30,
+                               2000 and 1999
+
+(b)           reports on form 8-k
+
+                     form 8-k-a dated june 15, 2000 was filed pursuant to item 5
+                     (other  events)  and  item  7  (financial   statements  and
+                     exhibits) on august 29, 2000.
+
+<page>
+                                                        at&amp;t; form 10-q - part ii
+
+
+
+
+                                     signatures
+
+pursuant  to the  requirements  of the  securities  exchange  act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+                                   at&amp;t; corp.
+
+
+
+                                   /s/  n. s. cyprus
+                                   ------------------------------
+                                   by:  n. s. cyprus
+                                        vice president and controller
+
+                                       (principal accounting officer)
+
+
+
+date: november 13, 2000
+
+<page>
+                                                                  at&amp;t; form 10-q
+
+
+
+                                  exhibit index
+
+exhibit
+number
+
+12                          computation of ratio of earnings to fixed charges
+
+27                          financial data schedule
+
+99.1                        liberty media group financial results for the three
+                            and nine months ended september 30, 2000 and 1999
+
+99.2                        at&amp;t; wireless group financial results and
+                            management's discussion and analysis for the three
+                            and nine months ended september 30, 2000 and 1999
+
+</page></page></page><page>
+                                                                  at&amp;t; form 10-q
+
+
+
+                                  exhibit index
+
+exhibit
+number
+
+12                          computation of ratio of earnings to fixed charges
+
+27                          financial data schedule
+
+99.1                        liberty media group financial results for the three
+                            and nine months ended september 30, 2000 and 1999
+
+99.2                        at&amp;t; wireless group financial results and
+                            management's discussion and analysis for the three
+                            and nine months ended september 30, 2000 and 1999
+
+</page><page>
+
+                     management's discussion and analysis of
+
+                  results of operations and financial condition
+
+overview
+
+on april 27, 2000,  at&amp;t; completed an initial public  offering of 15.6%,  or 360
+million  shares,  of the at&amp;t; wireless group tracking stock at an initial public
+offering  price of  $29.50  per  share.  this  stock is  designed  to track  the
+performance  of at&amp;t;'s  wireless  services  businesses.  the at&amp;t; wireless group
+tracking stock issued in the initial public offering reflected only a portion of
+the economic  interest of the at&amp;t; wireless  group.  at&amp;t; retained the remaining
+interest in the economic  performance  of the at&amp;t; wireless group in the form of
+an inter-group  interest  which  represented an 84.4% interest as of the date of
+the initial  public  offering and at september  30, 2000.  the results  included
+herein  represent  the at&amp;t;  wireless  group  in its  entirety  for all  periods
+presented.  for the portion of the at&amp;t; wireless  group's results  attributed to
+the public shareholders, see at&amp;t;'s form 10-q.
+
+on october 25, 2000,  at&amp;t;  announced  its intention to dispose of its remaining
+interest in the at&amp;t; wireless group tracking  stock,  which has been approved by
+at&amp;t;'s board of  directors.  at&amp;t; intends to offer at&amp;t; common  shareowners  the
+opportunity  to exchange  at&amp;t; common  stock for at&amp;t;  wireless  group  tracking
+stock.  at&amp;t; plans to  distribute  its  remaining  interest in the at&amp;t; wireless
+group tracking stock to at&amp;t; common  shareowners in 2001. upon completion of the
+exchange offer and distribution, at&amp;t; intends to convert the at&amp;t; wireless group
+tracking stock into an asset-based  at&amp;t; wireless common stock and distribute to
+its shareowners.
+
+the at&amp;t; wireless  group is a fully  integrated  business unit of at&amp;t.; the at&amp;t;
+wireless  group  includes  the  results  of  its  mobility  and  fixed  wireless
+businesses, as well as its international operations, which primarily include the
+earnings or losses  associated with equity interests in  international  wireless
+communications ventures and partnerships.
+
+on september 29, 2000,  the at&amp;t; wireless group  completed the  acquisition of a
+wireless  system  in san  diego,  which  covers a  population  base of 3 million
+potential  customers.  also,  during the third quarter,  the at&amp;t; wireless group
+completed  its  acquisition  of a  wireless  system on the big island of hawaii.
+combined,  these two markets  served more than 180  thousand  subscribers  as of
+september 30, 2000. in june 2000, the at&amp;t; wireless group closed the acquisition
+of the  remaining  50%  partnership  interest it  previously  did not own in cmt
+partners (bay area properties).  the bay area properties cover a population base
+exceeding 7 million potential  customers and, as of the acquisition date, served
+nearly 1 million  subscribers.  the  acquisition of the wireless  systems in san
+diego and the bay area was  announced  in  conjunction  with the  signing  of an
+agreement to purchase a wireless  system in houston,  which is expected to close
+during  the  fourth  quarter  of 2000.  also in june,  the at&amp;t;  wireless  group
+completed its acquisition of wireless one network, l.p. (wireless one). wireless
+one owns and  operates  wireless  systems in  northwest  and  southwest  florida
+covering  a  population  base  of  1.6  million  potential   customers  and  had
+approximately  190 thousand  subscribers as of the acquisition date. in february
+2000,  at&amp;t; and  dobson  communications  corporation,  through a joint  venture,
+acquired  american  cellular  corporation.  at&amp;t; contributed its interest in the
+joint venture to the at&amp;t; wireless group as of the date of the acquisition. this
+acquisition  increased the at&amp;t; wireless  group's coverage in new york state and
+several mid-west markets by adding  approximately 450 thousand subscribers as of
+the acquisition date.
+<page>
+forward-looking statements
+
+except  for  the  historical   statements  and  discussions   contained  herein,
+statements herein constitute "forward-looking  statements" within the meaning of
+section 27a of the  securities  act of 1933 and  section  21e of the  securities
+exchange act of 1934, including without limitation, statements concerning future
+business prospects, revenue, operating performance,  working capital, liquidity,
+capital needs,  and general  industry growth rates and the at&amp;t; wireless group's
+performance relative thereto. these forward-looking  statements rely on a number
+of assumptions  concerning  future events,  including the at&amp;t; wireless  group's
+ability  to achieve a  significant  market  penetration  in new  markets.  these
+forward-looking  statements are subject to a number of  uncertainties  and other
+factors, many of which are outside the at&amp;t; wireless group's control, that could
+cause  actual  results  to  differ  materially  from such  statements.  the at&amp;t;
+wireless  group  disclaims  any  intention or obligation to update or revise any
+forward-looking  statements,  whether  as a result  of new  information,  future
+events or otherwise.
+
+combined results of operations
+
+for the three and nine months ended  september  30, 2000 compared with the three
+and nine months ended september 30, 1999
+
+revenue
+
+total revenue  includes  wireless voice and data services,  the sale of handsets
+and accessories,  and revenue  associated with the aviation  communications  and
+fixed wireless  operations.  the at&amp;t; wireless group records revenue as services
+are provided or when the product is sold.  services revenue  primarily  includes
+monthly recurring charges,  airtime and toll usage charges,  and roaming charges
+billed to  subscribers  for usage outside of the at&amp;t; wireless  group network as
+well as  charges  billed to other  wireless  providers  for  roaming on the at&amp;t;
+wireless group network.
+
+total revenue  increased 36.6% to $2,799 million,  and increased 36.2% to $7,474
+million for the three and nine months ended  september  30, 2000,  respectively,
+compared  with the  respective  prior year periods.  the at&amp;t;  wireless  group's
+results include the revenue  associated with the bay area properties  since june
+29, 2000, and vanguard  cellular  systems,  inc.  (vanguard  cellular) since its
+acquisition on may 3, 1999.  total revenue  increased  29.7% for the nine months
+ended  september 30, 2000,  compared with the same period for 1999,  adjusted to
+exclude the bay area  properties for the three months ended  september 30, 2000,
+and to exclude  vanguard  cellular for the period january 2000 to april 2000, to
+correlate results with 1999, due to the may 1999 acquisition.
+
+the revenue  increases  for both the three and nine months ended  september  30,
+2000, were primarily due to growth in our mobility business  revenue,  driven by
+strong  consolidated  subscriber  growth.  additionally,  an increase in average
+monthly  revenue per user (arpu) for the nine months ended  september  30, 2000,
+compared with the respective prior year period,  contributed to the year-to-date
+revenue  growth.  at&amp;t; digital one rate service,  including  additional  calling
+plans  introduced  in  august  2000 as well as the  at&amp;t;  regional  and  digital
+advantage  plans  announced  during the second  quarter  of 2000,  continues  to
+contribute to growth in subscribers as well as an increase in arpu.
+
+services  revenue for the three months  ended  september  30,  2000,  was $2,509
+million,  an increase of $642 million,  or 34.3%,  compared with the  respective
+period in 1999.  services  revenue for the nine months ended september 30, 2000,
+was $6,741 million, an increase of $1,813 million,  or 36.8%,  compared with the
+respective period in 1999.
+<page>
+as of  september  30,  2000,  the at&amp;t;  wireless  group  had over  12.6  million
+consolidated subscribers, an increase of 38.4%, compared with the prior year, of
+which 87.5% were digital  subscribers,  up from 73.5% as of september  30, 1999.
+included  in  these  figures  were  over  180  thousand   subscribers  from  our
+acquisitions  of the san diego and  hawaii  wireless  systems  during  the third
+quarter of 2000,  nearly 1 million  subscribers  from our acquisition of the bay
+area  properties  in june 2000 (which were  previously  reported as  partnership
+subscribers) and approximately 190 thousand  subscribers from our acquisition of
+wireless one in june 2000. net consolidated wireless subscriber additions in the
+third  quarter  totaled  750  thousand,  a 195.1%  increase  over the prior year
+quarter.  at&amp;t; wireless  group's average monthly churn rate in the third quarter
+of 2000 was 2.9%  compared  with 2.6% in the  third  quarter  of 1999.  the at&amp;t;
+wireless  group's  average monthly churn for the nine months ended september 30,
+2000,  was 2.8%  compared  with 2.6% in the  respective  period  in 1999.  total
+subscribers, including partnership markets in which the at&amp;t; wireless group does
+not own a controlling  interest,  were nearly 15 million at the end of the third
+quarter of 2000,  a 26.2%  increase  over the prior year  quarter.  ending total
+subscribers included  approximately 450 thousand subscribers associated with the
+at&amp;t; wireless group's acquisition of american cellular in february 2000.
+
+the at&amp;t;  wireless  group's arpu for the three months ended  september 30, 2000,
+was $68.5, an increase of $0.3, or 0.4%,  compared with the same period in 1999,
+and for the nine months ended september 30, 2000, arpu was $69.1, an increase of
+$3.7, or 5.7%, compared with the same period in 1999. the increase was primarily
+due to increased minutes of use per subscriber,  driven in part by the continued
+success  of at&amp;t;  digital  one rate  service.  the at&amp;t;  wireless  group's  arpu
+remained  significantly  higher than the wireless  industry  average  during the
+three and nine months ended  september  30, 2000,  excluding  the at&amp;t;  wireless
+group.
+
+equipment  revenue for the three  months  ended  september  30,  2000,  was $290
+million, an increase of $108 million, or 59.9%, compared with the same period in
+1999.  equipment  revenue for the nine months ended september 30, 2000, was $733
+million, an increase of $171 million, or 30.6%, compared with the same period in
+1999.  these  increases were primarily due to 85.5% and 47.4% increases in gross
+consolidated  subscriber  additions in the three and nine months ended september
+30, 2000,  respectively,  compared with the same periods in 1999. as an integral
+part of the wireless service  offering,  the at&amp;t; wireless group supplies to its
+subscribers a selection of handsets at competitive  prices,  which are generally
+offered at or below cost.
+
+costs of services and products
+
+costs of services and products include the costs to place calls over the network
+(including the costs to operate and maintain the at&amp;t; wireless  group's  network
+as well as  roaming  costs  paid to  other  wireless  providers),  the  costs of
+handsets and accessories provided to the at&amp;t; wireless group's customers and the
+charges paid to connect calls on other networks, including those of at&amp;t.;
+
+costs of services and products for the three and nine months ended september 30,
+2000, were $1,381 million and $3,639 million, respectively. this was an increase
+of $388 million,  or 39.2%,  for the three months ended  september 30, 2000, and
+$896 million,  or 32.7%, for the nine months ended september 30, 2000,  compared
+with the same periods in 1999.  these  increases were due primarily to increases
+in the handsets  provided to subscribers which were attributable to the increase
+in gross subscriber additions.  additionally,  growth in the subscriber base and
+increased  minutes of use per  subscriber  resulted in an increase in the access
+and other connection charges paid to connect calls on other networks,  including
+at&amp;t;, as well as the costs to maintain the at&amp;t; wireless group's network.
+<page>
+roaming  expenses  decreased  12.5% and 3.0% for the three and nine months ended
+september  30,  2000,  respectively,  compared  with the same  periods for 1999,
+despite continued growth in off-network roaming minutes. the decrease in roaming
+expenses was driven primarily by a significant  decrease in the roaming rate per
+minute of usage,  as well as  initiatives to  aggressively  migrate more minutes
+onto the at&amp;t; wireless group's network.
+
+selling, general and administrative
+
+selling,  general  and  administrative  (sg&amp;a;)  expenses  for the three and nine
+months  ended  september  30,  2000,  were  $946  million  and  $2,459  million,
+respectively,  compared  with $655 million and $1,833  million for the three and
+nine months ended september 30, 1999. these increases were largely  attributable
+to higher  marketing and selling costs,  primarily  advertising and commissions,
+associated with the increase in gross consolidated  subscriber additions for the
+three and nine months  ended  september  30,  2000,  compared to the  respective
+periods in 1999. cost per gross subscriber  addition (cpga),  which includes the
+cost of handset  subsidies  recorded  in costs of services  and  products in the
+accompanying  combined statement of operations,  was $359 and $357 for the three
+and nine months ended  september  30, 2000,  compared with $369 and $353 for the
+three and nine months  ended  september  30, 1999.  in  addition,  growth in the
+wireless  customer base resulted in an increase in  information  technology  and
+customer care related expenses.
+
+depreciation and amortization
+
+depreciation and amortization  expenses for the three months ended september 30,
+2000, were $445 million,  an increase of $112 million,  or 33.4%,  compared with
+the third quarter of 1999.  depreciation and amortization  expenses for the nine
+months  ended  september  30,  2000,  were $1,216  million,  an increase of $299
+million, or 32.5%,  compared with the first nine months of 1999. these increases
+primarily  resulted  from the growth in the at&amp;t;  wireless  group's  depreciable
+asset base resulting from capital  expenditures  to increase the capacity of the
+network and improve call quality.  additionally,  amortization expense increased
+for  the  nine  months  ended  september  30,  2000,  as a  result  of the  1999
+acquisitions of vanguard cellular and honolulu cellular, and the acquisitions of
+the bay area  properties  and wireless one in 2000.  total capital  expenditures
+were $920  million  and  $3,043  million  for the three  and nine  months  ended
+september 30, 2000, respectively.
+
+other income (expense)
+
+other income (expense)  primarily includes gains or losses on sales or exchanges
+of assets, net equity earnings from investments, intercompany interest income on
+the  note  receivable   from  at&amp;t;,  and  minority   interests  in  consolidated
+subsidiaries.  other  income  (expense)  for the  three  and nine  months  ended
+september 30, 2000, was $78 million and $386 million, respectively. other income
+(expense) for the three and nine months ended september 30, 1999, was expense of
+$4 million and income of $180 million,  respectively. the increase for the three
+months  ended  september  30, 2000 was due  primarily to  intercompany  interest
+income on the note  receivable from at&amp;t.; the increase for the nine months ended
+september 30, 2000,  was due primarily to  intercompany  interest  income on the
+note receivable from at&amp;t;, as well as higher gains on the sales of assets.
+
+interest expense
+
+interest expense consists primarily of interest on intercompany debt due to at&amp;t;
+less interest  expense  capitalized.  interest  expense for the third quarter of
+2000,  was $4 million,  a decrease of $28 million,  or 88.5%,  compared with the
+third  quarter of 1999.  interest  expense for the first nine months of 2000 was
+<page>
+$73 million, a decrease of $29 million,  or 28.4%,  compared with the first nine
+months of 1999.  the decrease for the third  quarter of 2000,  compared with the
+third  quarter of 1999,  was due to higher levels of  capitalized  interest as a
+result of  increased  capital  expenditures,  as well as lower levels of average
+outstanding  debt due to at&amp;t.; the decrease in the average  outstanding debt due
+to at&amp;t; was  attributable to the  recapitalization  of $2.0 billion of long term
+debt due to at&amp;t; into 9% cumulative  preferred  stock  subsequent to the initial
+public offering of the at&amp;t; wireless group tracking stock.  these decreases were
+partially offset by a higher rate of interest  charged on the intercompany  debt
+in the third quarter of 2000 versus the prior year quarter.  for the nine months
+ended september 30, 2000, the decrease in interest  expense was due to decreased
+levels of outstanding debt, as well as increased capitalized interest, partially
+offset by a higher interest rate.
+
+provision for income taxes
+
+the provision for income taxes for the three and nine months ended september 30,
+2000, was $80 million and $226 million, respectively,  compared with $14 million
+and $31 million for the same periods in 1999,  respectively.  the  increases for
+both the three and nine month periods were due to higher income before taxes and
+higher  effective tax rates.  the  effective  income tax rates for the three and
+nine month periods ended september 30, 2000 were 78.9% and 47.8%,  respectively,
+compared with 49.3% and 41.2%, for the same periods in 1999,  respectively.  the
+effective  income tax rate for the three months ended  september  30, 2000,  was
+impacted by the increase in the estimated  annual effective tax rate. the annual
+estimated  effective  income tax rate of 47.8% increased from the estimated rate
+of 39.3% as of june 30, 2000. the annual estimated effective income tax rate was
+impacted by  acquisitions  closed  during the quarter as well as foreign  equity
+investments.  the  effective  income  tax  rate  for  each of the  1999  periods
+presented was impacted by the benefit from a change in the  valuation  allowance
+and other estimates, offset by unutilized foreign equity losses and amortization
+of intangibles.
+
+dividend requirements on preferred stock held by at&amp;t;
+
+at september  30, 2000,  and december  31,  1999,  the at&amp;t;  wireless  group had
+outstanding,  $3.0 billion and $1.0 billion,  respectively,  of preferred  stock
+held by at&amp;t; that pays dividends at 9% per annum.  intercompany  indebtedness of
+$2.0 billion was recapitalized  into an additional $2.0 billion of 9% cumulative
+preferred stock following the initial public offering.  dividend requirements on
+this  preferred  stock for the three and nine months ended  september  30, 2000,
+were  $42  million  and $88  million,  respectively,  and for the  corresponding
+periods in 1999 were $14 million and $41 million,  respectively,  net of amounts
+recorded in accordance with the tax sharing agreement.
+
+liquidity and capital resources
+
+the continued expansion of the at&amp;t; wireless group's network, footprint and
+service offerings, and the marketing and distribution of its products and
+services, will continue to require substantial capital.  the at&amp;t; wireless group
+has funded its operations by initial public  offering  proceeds  attributed from
+at&amp;t;,  intercompany borrowings from at&amp;t; and internally generated funds, as well
+as capital contributions from at&amp;t; prior to the initial public offering. capital
+contributions   from  at&amp;t;  prior  to  the  initial  public  offering   included
+acquisitions  made by at&amp;t; that have been attributed to the at&amp;t; wireless group.
+noncash  capital  contributions  from at&amp;t; to the at&amp;t; wireless group related to
+acquisitions  and initial  investments  funded by at&amp;t;  totaled $539 million and
+$2,332  million  for  the  nine  months  ended  september  30,  2000  and  1999,
+respectively.
+<page>
+the initial  public  offering of the at&amp;t; wireless group tracking stock resulted
+in net proceeds to at&amp;t; after deducting  underwriter's discount and related fees
+and expenses of $10.3 billion.  at&amp;t; attributed $7.0 billion of the net proceeds
+to the at&amp;t; wireless group in the form of an intercompany  note receivable.  net
+transfers to and from the at&amp;t; wireless group and at&amp;t; subsequent to the initial
+public offering are reflected as changes in the  intercompany  note  receivable.
+after the attributed $7.0 billion of initial public offering  proceeds are fully
+utilized,  at&amp;t; may issue  short term  floating  rate debt to the at&amp;t;  wireless
+group.  in addition,  at&amp;t; is  considering  a debt offering by the at&amp;t; wireless
+group.
+
+on may 1, 2000,  following the initial public offering,  the at&amp;t; wireless group
+recapitalized $2.0 billion of outstanding intercompany indebtedness to at&amp;t; into
+an  additional  $2.0 billion of 9% cumulative  preferred  stock held by at&amp;t.; in
+conjunction with the recapitalization,  the at&amp;t; wireless group's long term debt
+due to at&amp;t; was  recapitalized  to be 10 year term debt that bears interest at a
+fixed rate of 8.1% per annum.
+
+financing  activities  for the at&amp;t;  wireless  group  are  managed  by at&amp;t; on a
+centralized  basis and are  subject  to the  review of the at&amp;t;  wireless  group
+capital stock committee.  sources for the at&amp;t; wireless group's future financing
+requirements may include the issuance of additional at&amp;t; wireless group tracking
+stock and the borrowing of funds,  including  short term floating rate debt from
+at&amp;t; and/or third-party debt. loans from at&amp;t; to any member of the at&amp;t; wireless
+group will be made at interest rates and on other terms and conditions  designed
+to be  substantially  equivalent  to the  interest  rates  and  other  terms and
+conditions  that the at&amp;t;  wireless  group  would be able to obtain  from  third
+parties,  including the public markets,  as a non-affiliate  of at&amp;t; without the
+benefit of any guaranty by at&amp;t.; this policy  contemplates that these loans will
+be made on the basis set forth above  regardless of the interest rates and other
+terms and  conditions  on which at&amp;t; may have acquired the funds.  if,  however,
+at&amp;t; incurs any fees or charges in order to keep available  funds for use by the
+at&amp;t;  wireless  group,  those  fees or  charges  will be  allocated  to the at&amp;t;
+wireless group.
+
+net cash provided by operating  activities  for the nine months ended  september
+30, 2000,  was $861  million,  compared with $527 million for the same period in
+1999. the increase in cash provided by operating activities was primarily due to
+an  increase  in  operating  income  excluding  depreciation  and  amortization,
+resulting  from revenue growth and expense  leveraging,  an increase in deferred
+income  taxes,   and  an  increase  in  other   operating  and  payroll  related
+liabilities,   partially   offset  by  increases  in  inventories  and  accounts
+receivable.  net cash used in  investing  activities  for the nine months  ended
+september 30, 2000,  was $8,993  million,  compared with $1,158  million for the
+nine months  ended  september  30, 1999.  the increase was due  primarily to the
+issuance  of  a  note  receivable  from  at&amp;t;,  acquisitions  of  the  bay  area
+properties,  wireless  one,  and the san  diego  property,  and  higher  capital
+expenditures  to upgrade and increase  network  capacity in existing  markets as
+well as to  expand  the  national  footprint.  net cash  provided  by  financing
+activities  for the nine months ended  september 30, 2000,  was $8,132  million,
+compared with $620 million for the nine months  september 30, 1999. the increase
+was primarily due to proceeds attributed from the initial public offering of the
+at&amp;t; wireless group  tracking  stock and increased  transfers from at&amp;t; prior to
+the  initial   public   offering  to  fund   acquisitions   and  higher  capital
+expenditures.
+
+ebitda,  excluding  other  income,  is the  primary  measure  used by the  chief
+operating  decision-makers to measure our ability to generate cash flow. ebitda,
+excluding  other  income,  defined as  operating  income plus  depreciation  and
+<page>
+amortization,  may or may not be consistent  with the  calculation of ebitda for
+other public  companies and should not be viewed by investors as an  alternative
+to generally accepted accounting principles,  measures of performance or to cash
+flows  from  operating,  investing  and  financing  activities  as a measure  of
+liquidity.
+
+ebitda,  excluding  other income,  for the three and nine months ended september
+30, 2000, was $472 million and $1,376 million, respectively,  compared with $401
+million  and $914  million  for the same  periods in 1999.  the  increases  were
+primarily the result of revenue growth and lower  off-network  roaming expenses.
+these improvements were partially offset by increased customer acquisition costs
+associated with the increase in gross subscriber  additions,  increased  network
+costs  attributable  to the growth in subscribers  and their minutes of use, and
+increased information technology costs to support growth in the subscriber base.
+
+for our mobility  business,  ebitda,  excluding other income,  for the three and
+nine months  ended  september  30, 2000,  was $522  million and $1,503  million,
+respectively,  compared  with $421 million and $973 million for the same periods
+in 1999.
+
+for our fixed wireless business,  ebitda,  excluding other income, for the three
+and nine months ended  september 30, 2000, were deficits of $49 million and $123
+million, respectively, compared with deficits of $17 million and $49 million for
+the same periods in 1999.
+
+ebitda,  excluding  other  income,  margins  were  16.8% and 18.4% for the third
+quarter and first nine  months of 2000,  respectively,  compared  with 19.6% and
+16.6% for the third  quarter  and first nine months of 1999,  respectively.  the
+decline in ebitda,  excluding  other  income,  margins for the third  quarter of
+2000,  compared to the third  quarter of 1999,  was  primarily  due to increased
+customer acquisition costs associated with the 85.5% quarter over quarter growth
+in  gross  consolidated  subscriber  additions,  as  well as  increased  cost of
+handsets sold,  partially offset by declining roaming expenses.  the improvement
+in ebitda,  excluding  other income,  margins for the first nine months of 2000,
+compared  to the first  nine  months of 1999,  was driven  primarily  by revenue
+growth and expense leveraging, primarily off-network roaming expenses, partially
+offset by increased customer acquisition and customer care costs associated with
+growth in the subscriber base.
+
+ebitda, excluding other income, margins for our mobility business were 18.7% and
+20.1%  for the  third  quarter  and first  nine  months  of 2000,  respectively,
+compared  with 20.5% and 17.7% for the third  quarter  and first nine  months of
+1999, respectively.
+
+financial condition
+
+total assets were  $33,045  million as of  september  30,  2000,  an increase of
+$9,533 million, or 40.5%,  compared with december 31, 1999. the increase was due
+primarily  to  increases  in  goodwill,  licensing  costs,  property,  plant and
+equipment,  and other assets  associated  with the  acquisitions of the bay area
+properties,  wireless  one,  and the san  diego  property,  the  initial  public
+offering proceeds attributed to the at&amp;t; wireless group from at&amp;t; in the form of
+an intercompany note receivable,  and increased property, plant and equipment as
+a result of  significant  capital  spending  in the first  nine  months of 2000.
+additionally,   non-consolidated  investments  increased  as  a  result  of  the
+investment in american cellular during 2000, partially offset by the acquisition
+of the remaining 50% interest in cmt partners, which is now consolidated.
+<page>
+total  liabilities  were $8,542  million as of september 30, 2000, a decrease of
+$953  million,  or 10.0%,  compared  with  december 31,  1999.  the decrease was
+primarily due to the decrease in long term debt due to at&amp;t;  resulting  from the
+recapitalization  of the at&amp;t; wireless  group  subsequent to the initial  public
+offering,  partially  offset  by  increases  in  deferred  income  taxes,  other
+long-term  liabilities,  and other current  liabilities.  deferred incomes taxes
+increased due to the deferred tax provision recognized for the nine months ended
+september  30,  2000.  other  long-term  liabilities  increased  due to proceeds
+received in consideration for a long-term leasing arrangement, and other current
+liabilities increased due to increased business taxes and operating accruals.
+
+total  preferred  stock held by at&amp;t;  increased to $3.0 billion at september 30,
+2000,  from $1.0 billion at december 31, 1999,  due to the  recapitalization  of
+$2.0 billion of intercompany debt into preferred stock subsequent to the initial
+public  offering.  dividends  payable on the preferred stock were paid at 9% per
+annum.
+
+total  equity was  $24,502  million as of  september  30,  2000,  an increase of
+$10,505  million,  or 75.1%,  compared with december 31, 1999.  the increase was
+primarily due to increased  combined  equity  associated with the attribution of
+initial  public  offering  proceeds to the at&amp;t; wireless  group,  as well as net
+transfers  from  at&amp;t;  prior to the  initial  public  offering  to fund  capital
+expansion and  acquisitions,  and the additional $2.0 billion of preferred stock
+issued to at&amp;t.;
+
+recent accounting pronouncements
+
+in december  1999, the  securities  and exchange  commission  (sec) issued staff
+accounting   bulletin   (sab)  no.  101,   "revenue   recognition  in  financial
+statements".  sab no. 101 provides  guidance on revenue  recognition,  including
+service  activation fees, and certain related costs,  which requires adoption by
+the end of fiscal year 2000.  management does not expect the adoption of sab no.
+101 to  have  a  material  impact  on  the  at&amp;t;  wireless  group's  results  of
+operations, financial position or cash flows.
+
+in june 1998, the financial  accounting  standards board (fasb) issued statement
+of financial  accounting  standards  (sfas) no. 133,  "accounting for derivative
+instruments and hedging  activities".  among other provisions,  it requires that
+entities  recognize  all  derivatives  as either  assets or  liabilities  in the
+statement of financial  position and measure  those  instruments  at fair value.
+gains and losses resulting from changes in the fair values of those  derivatives
+would be accounted  for  depending on the use of the  derivative  and whether it
+qualifies for hedge accounting.  the effective date of this standard was delayed
+via the issuance of sfas no. 137. the effective date for sfas no. 133 is now for
+fiscal  years  beginning  after  june  15,  2000,  though  earlier  adoption  is
+encouraged and  retroactive  application  is  prohibited.  for the at&amp;t; wireless
+group,  this means that the  standard  must be adopted no later than  january 1,
+2001.  based on the types of contracts we currently  have,  management  does not
+expect the  adoption of this  standard  will have a material  impact on the at&amp;t;
+wireless group's results of operations, financial position or cash flows.
+
+in june 2000, the fasb issued sfas no. 138,  "accounting for certain  derivative
+instruments  and certain  hedging  activities"  as an amendment to sfas no. 133.
+this  statement  provides  clarification  with regard to certain  implementation
+issues  under sfas no. 133 on  specific  types of hedges.  based on the types of
+contracts we currently have, management does not expect this statement to have a
+material impact on the at&amp;t; wireless  group's  results of operations,  financial
+position or cash flows.
+<page>
+subsequent events
+
+on november  13,  2000,  telecorp  pcs,  inc.  (telecorp)  completed  its merger
+agreement  with tritel,  inc., as part of a stock  transaction.  pursuant to the
+terms of the  agreement,  each  company  merged  with a  separate  newly  formed
+subsidiary of a new holding company named telecorp pcs, inc., upon  consummation
+of the  transaction.  prior to the merger,  the at&amp;t; wireless  group held equity
+interests in each of telecorp and tritel which were both  affiliates of the at&amp;t;
+wireless  group.  in  connection  with  the  merger,  the  at&amp;t;  wireless  group
+contributed  to  telecorp  pcs,  inc.,  rights to  acquire  additional  wireless
+licenses  in  wisconsin  and iowa,  paid  approximately  $20 million in cash and
+extended the term of its brand license  agreement through july 2005, in exchange
+for approximately 9.3 million common shares in the newly combined company.  this
+transaction  will bring the at&amp;t; wireless  group's  equity stake in the combined
+company  to  approximately   23%,  assuming  the  conversion  of  all  currently
+convertible  preferred  stock to common stock.  in a separate  transaction  with
+telecorp,  the at&amp;t;  wireless  group  completed an exchange of certain  wireless
+licenses and rights to acquire  licenses in the wisconsin  and iowa markets,  as
+well as made a cash payment of approximately  $80 million.  in return,  the at&amp;t;
+wireless group received  telecorp's pcs licenses and wireless systems in several
+new england  markets.  the at&amp;t; wireless  group  anticipates it will recognize a
+significant gain on the transactions.
+
+on october 25, 2000,  at&amp;t;  announced  its intention to dispose of its remaining
+interest in the at&amp;t; wireless group tracking  stock,  which has been approved by
+at&amp;t;'s board of  directors.  at&amp;t; intends to offer at&amp;t; common  shareowners  the
+opportunity  to exchange  at&amp;t; common  stock for at&amp;t;  wireless  group  tracking
+stock.  at&amp;t; plans to  distribute  its  remaining  interest in the at&amp;t; wireless
+group tracking stock to at&amp;t; common  shareowners in 2001. upon completion of the
+exchange offer and distribution, at&amp;t; intends to convert the at&amp;t; wireless group
+tracking stock into an asset-based  at&amp;t; wireless common stock and distribute to
+its shareowners.
+
+on october 2, 2000, the at&amp;t; wireless group completed its acquisition of several
+equity interests in international  ventures  acquired by at&amp;t; as a result of its
+acquisition  of mediaone in june 2000.  the at&amp;t; wireless  group  acquired these
+interests from at&amp;t; for  approximately  $1 billion in cash, which was determined
+based  upon a third  party  valuation.  additionally,  the at&amp;t;  wireless  group
+assumed deferred tax liabilities totaling  approximately $220 million which were
+transferred from at&amp;t.;
+
+on october 2, 2000,  the at&amp;t;  wireless  group  completed its  acquisition  of a
+wireless  system in  indianapolis  for  approximately  $530 million in cash. the
+transaction was recorded under the purchase method of accounting.
+</page></page></page></page></page></page></page></page></page>

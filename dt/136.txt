@@ -1,0 +1,2358 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Pd5CIQvTlk1u3CZpGrtYn+n7YUYMY/Sa1L9Q5T+43Q8O/jytySAp+WfQ7dtHoZgy
+ 9217LNWDpdY0AqoRrWWIDQ==
+
+<SEC-DOCUMENT>0000011860-98-000022.txt : 19981113
+<SEC-HEADER>0000011860-98-000022.hdr.sgml : 19981113
+ACCESSION NUMBER:		0000011860-98-000022
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980930
+FILED AS OF DATE:		19981112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETHLEHEM STEEL CORP /DE/
+		CENTRAL INDEX KEY:			0000011860
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				240526133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01941
+		FILM NUMBER:		98745565
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+		BUSINESS PHONE:		6106843745
+
+	MAIL ADDRESS:	
+		STREET 1:		1170 EIGHTH AVE
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18016-7699
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>THIRD QUARTER 1998 10-Q
+<TEXT>
+
+<PAGE> 1
+
+
+                                   FORM 10-Q
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+
+
+               Quarterly Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+
+
+                     For Quarter Ended September 30, 1998
+                         Commission file number 1-1941
+
+
+
+                          BETHLEHEM STEEL CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+
+
+              DELAWARE                                24-0526133
+      (State of incorporation)           (I.R.S. Employer Identification No.)
+
+
+          1170 Eighth Avenue
+        BETHLEHEM, PENNSYLVANIA                       18016-7699
+(Address of principal executive offices)              (Zip Code)
+
+
+Registrant's telephone number, including area code:  (610) 694-2424
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+
+                                           Yes   X       No
+                                                ---          ---
+
+Number of Shares of Common Stock Outstanding as of November 9, 1998:
+                                                             129,973,570
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+
+           BETHLEHEM STEEL CORPORATION AND CONSOLIDATED SUBSIDIARIES
+
+
+                                     INDEX
+
+                                                                      PAGE NO.
+PART I.  FINANCIAL INFORMATION
+
+Consolidated Statements of Income-
+    Three Months and Nine Months Ended September 30, 1998
+        and 1997 (unaudited)...................................          2
+
+Consolidated Balance Sheets-
+    September 30, 1998 (unaudited), December 31, 1997
+    and September 30, 1997 (unaudited)........................           3
+
+Consolidated Statements of Cash Flows-
+    Nine Months Ended September 30, 1998
+    and 1997 (unaudited)......................................           4
+
+Notes to Consolidated Financial Statements....................           5
+
+Management's Discussion and Analysis of Results of
+    Operations and Financial Condition........................           7
+
+
+PART II.  OTHER INFORMATION
+
+    Item 1.  Legal Proceedings...............................           12
+
+    Item 5.  Other Information...............................           13
+
+    Item 6.  Exhibits and Reports on Form 8-K................           13
+
+
+Signatures...................................................           14
+
+
+                                - 1 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+                                     BETHLEHEM STEEL CORPORATION
+<TABLE>
+                                CONSOLIDATED  STATEMENTS  OF  INCOME
+                       (dollars and shares in millions, except per share data)
+                                            (unaudited)
+<CAPTION>
+  THREE MONTHS ENDED                                                        NINE MONTHS ENDED
+     SEPTEMBER 30                                                              SEPTEMBER 30
+- ---------------------                                                     ---------------------
+   1998         1997                                                        1998         1997
+   ----         ----                                                        ----         ----
+<S>          <C>         <C>                                              <C>          <C>
+$1,143.1     $1,113.4    NET SALES                                        $3,465.3     $3,512.8
+- ---------    ---------                                                    ---------    ---------
+                         COSTS AND EXPENSES:
+   988.4        971.8      Cost of sales                                   2,954.2      3,077.7
+    63.4         56.4      Depreciation and amortization                     186.6        173.7
+    32.2         26.7      Selling, administration and general expense        86.2         79.6
+       -            -      Estimated (gain) loss on exiting businesses        35.0       (135.0)
+- ---------    ---------                                                    ---------    ---------
+ 1,084.0      1,054.9    TOTAL COSTS AND EXPENSES                          3,262.0      3,196.0
+- ---------    ---------                                                    ---------    ---------
+
+    59.1         58.5    INCOME FROM OPERATIONS                              203.3        316.8
+
+                         FINANCING INCOME (EXPENSE):
+   (15.7)       (11.6)     Interest and other financing costs                (39.4)       (35.5)
+     1.5          2.2      Interest and other income                           8.4          5.7
+- ---------    ---------                                                    ---------    ---------
+    44.9         49.1    INCOME BEFORE INCOME TAXES                          172.3        287.0
+
+    (7.8)        (8.5)   PROVISION FOR INCOME TAXES                          (29.0)       (48.0)
+- ---------    ---------                                                    ---------    ---------
+    37.1         40.6    NET INCOME                                          143.3        239.0
+
+                         DIVIDENDS ON PREFERRED AND
+    10.3         10.4         PREFERENCE STOCK                                31.3         31.2
+- ---------    ---------                                                    ---------    ---------
+
+                         NET INCOME APPLICABLE TO
+$   26.8     $   30.2         COMMON STOCK                                $  112.0     $  207.8
+=========    =========                                                    =========    =========
+
+
+                         NET INCOME PER COMMON SHARE:
+$   0.21     $   0.27      Basic                                          $   0.93     $   1.85
+$   0.21     $   0.26      Diluted                                        $   0.92     $   1.75
+
+   128.9        112.6    AVERAGE BASIC SHARES OUTSTANDING                    120.3        112.3
+
+
+                                ADDITIONAL DATA
+
+   2,172        2,184    Steel products shipped (thousands of net tons)      6,750        6,641
+   2,636        2,417    Raw steel produced (thousands of net tons)          7,675        7,196
+</TABLE>
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+
+                                     - 2 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 4
+
+                          BETHLEHEM STEEL CORPORATION
+
+                          CONSOLIDATED BALANCE SHEETS
+                             (dollars in millions)
+
+                                    ASSETS
+<TABLE>
+<CAPTION>
+<S>                                                       <C>                  <C>                 <C>
+                                                          SEPTEMBER 30                             SEPTEMBER 30
+                                                              1998             DECEMBER 31            1997
+                                                          (UNAUDITED)             1997             (UNAUDITED)
+                                                          ------------         -----------         -----------
+
+CURRENT ASSETS:
+  Cash and cash equivalents                                 $   96.2             $  252.4            $  164.8
+  Receivables, less allowances                                 253.2                306.0               307.8
+  Inventories:
+    Raw materials                                              334.4                324.5               325.8
+    Finished and semifinished                                  736.8                569.3               568.6
+                                                            ---------            ---------           ---------
+                                                             1,071.2                893.8               894.4
+  Other current assets                                           9.9                 11.8                10.4
+                                                            ---------            ---------           ---------
+TOTAL CURRENT ASSETS                                         1,430.5              1,464.0             1,377.4
+INVESTMENTS AND MISCELLANEOUS ASSETS                           103.3                100.9               103.2
+PROPERTY, PLANT AND EQUIPMENT,
+  less accumulated depreciation of
+  $4,057.6, $4,095.5, and $4,067.5                           2,602.6              2,357.7             2,404.7
+DEFERRED INCOME TAX ASSET - NET                                913.6                880.0               888.7
+NET ASSETS OF DISCONTINUED STAINLESS OPERATIONS (NOTE 3)       290.0                   -                   -
+GOODWILL (NOTE 3)                                              356.0                   -                   -
+INTANGIBLE ASSET - PENSIONS                                       -                    -                160.0
+                                                            ---------            ---------           ---------
+TOTAL ASSETS                                                $5,696.0             $4,802.6            $4,934.0
+                                                            =========            =========           =========
+                                      LIABILITIES AND STOCKHODERS' EQUITY
+CURRENT LIABILITIES:
+  Accounts payable                                          $  439.8             $  371.2            $  400.9
+  Accrued employment costs                                     311.1                323.9               314.0
+  Accrued taxes                                                 57.2                 60.0                57.3
+  Debt and capital lease obligations                            44.4                 41.8                41.8
+  Other current liabilities                                    174.9                113.9               106.1
+                                                            ---------            ---------           ---------
+TOTAL CURRENT LIABILITIES                                    1,027.4                910.8               920.1
+
+PENSION LIABILITY                                              415.0                440.0               598.0
+POSTRETIREMENT BENEFITS OTHER THAN PENSIONS                  1,641.3              1,445.0             1,442.4
+LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS                   627.6                451.6               451.7
+DEFERRED GAIN ON SALE/LEASEBACK (NOTE 4)                       140.6                   -                   -
+OTHER LONG-TERM LIABILITIES                                    324.8                340.2               340.5
+
+STOCKHOLDERS' EQUITY:
+  Preferred Stock                                               11.6                 11.6                11.6
+  Preference Stock                                               2.3                  2.3                 2.5
+  Common Stock                                                 131.9                115.0               114.8
+  Common Stock held in treasury at cost                        (60.3)               (60.0)              (60.0)
+  Additional paid-in capital                                 1,998.4              1,854.0             1,862.0
+  Accumulated deficit                                         (564.6)              (707.9)             (749.6)
+                                                            ---------            ---------           ---------
+TOTAL STOCKHOLDERS' EQUITY                                   1,519.3              1,215.0             1,181.3
+                                                            ---------            ---------           ---------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                  $5,696.0             $4,802.6            $4,934.0
+                                                            =========            =========           =========
+</TABLE>
+The accompanying Notes are an integral part of the Consolidated
+Financial Statements.
+
+
+                                        - 3 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 5
+
+                    CONSOLIDATED  STATEMENTS  OF  CASH  FLOWS
+                               (dollars in millions)
+                                    (unaudited)
+<TABLE>
+<CAPTION>
+                                                                             NINE MONTHS ENDED
+                                                                                SEPTEMBER 30
+                                                                           ----------------------
+                                                                              1998         1997
+                                                                           ----------    ---------
+<S>                                                                        <C>          <C>
+OPERATING ACTIVITIES:
+     Net income                                                            $  143.3     $  239.0
+
+     Adjustments for items not affecting cash from operating activities:
+        Depreciation and amortization                                         186.6        173.7
+        Estimated (gain) loss on exiting businesses                            35.0       (135.0)
+        Deferred income taxes                                                  26.4         46.3
+        Other - net                                                            12.4         17.3
+
+     Working capital (excluding financing and investing activities):
+        Receivables - operating                                               (31.7)         3.8
+        Receivables - sold                                                    150.0            -
+        Inventories                                                           (89.7)       115.3
+        Accounts payable                                                        8.8         (9.3)
+        Employment costs and other                                            (59.7)       (10.7)
+                                                                           ---------    ---------
+CASH PROVIDED FROM OPERATIONS BEFORE PENSION ACTIVITIES                       381.4        440.4
+
+PENSION ACTIVITIES:
+     Pension expense                                                           65.0        117.0
+     Pension funding                                                         (130.0)      (390.0)
+                                                                           ---------    ---------
+CASH PROVIDED FROM CONTINUING OPERATING ACTIVITIES                            316.4        167.4
+                                                                           ---------    ---------
+CASH PROVIDED FROM OPERATING ACTIVITIES OF
+   DISCONTINUED STAINLESS OPERATIONS (NOTE 3)                                  16.8            -
+                                                                           ---------    ---------
+INVESTING ACTIVITIES:
+     Capital expenditures                                                    (215.9)      (189.3)
+     Purchase of Lukens stock, net of cash acquired (NOTE 3)                 (327.8)           -
+     Cash proceeds from asset sales and other                                 199.6        160.9
+                                                                           ---------    ---------
+CASH USED FOR INVESTING ACTIVITIES                                           (344.1)       (28.4)
+                                                                           ---------    ---------
+
+FINANCING ACTIVITIES:
+     Borrowings (Note 4)                                                      200.0          1.5
+     Debt and capital lease payments                                         (290.3)       (53.3)
+     Cash dividends paid                                                      (30.3)       (30.3)
+     Other payments                                                           (24.7)       (28.7)
+                                                                           ---------    ---------
+CASH USED FOR FINANCING ACTIVITIES                                           (145.3)      (110.8)
+                                                                           ---------    ---------
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                         (156.2)        28.2
+CASH AND CASH EQUIVALENTS - BEGINNING OF PERIOD                               252.4        136.6
+                                                                           ---------    ---------
+                          - End of Period                                  $   96.2     $  164.8
+                                                                           =========    =========
+
+SUPPLEMENTAL CASH PAYMENT INFORMATION:
+     Interest, net of amount capitalized                                   $   32.1     $   42.8
+     Income taxes paid                                                     $    3.1     $    7.1
+</TABLE>
+
+The accompanying Notes are an integral part of the Consolidated Financial
+Statements.
+
+
+                                 - 4 -
+
+
+
+
+
+
+
+
+<PAGE> 6
+              NOTES   TO   CONSOLIDATED   FINANCIAL   STATEMENTS
+
+1.  The Consolidated Financial Statements as of and for the three month and
+nine month periods ended September 30, 1998 and 1997 have not been audited.
+However, the information reflects all adjustments which, in the opinion of
+management, are necessary to present fairly the results shown for the periods
+indicated.  Management believes all adjustments were of a normal and recurring
+nature.
+
+2.  These Consolidated Financial Statements should be read together with the
+1997 audited financial statements set forth in Bethlehem's Annual Report on
+Form 10-K filed with the Securities and Exchange Commission.  Presentation of
+certain amounts in the prior year have been revised to be consistent with the
+current year.
+
+3.  On May 29, 1998, Bethlehem acquired all of the outstanding capital stock of
+Lukens Inc.  The aggregate purchase price of $563.6 million comprises cash of
+$327.8 million, the issuance of 15.1 million shares of Bethlehem common stock
+valued at $184.8 million, and transaction related costs of $51.0 million.  The
+acquisition was accounted for as a purchase and, accordingly, Lukens' results
+are included in the Consolidated Financial Statements from the date of
+acquisition.
+
+    The preliminary fair value of the assets acquired and liabilities assumed
+is as follows:
+
+        Current assets                                    $  153.9
+        Property, plant & equipment                          277.3
+        Net assets of discontinued stainless operations      320.0
+        Deferred tax asset, other                             70.5
+        Goodwill                                             360.0
+        Current liabilities                                 (109.4)
+        Pension and other postretirement benefit            (220.0)
+          liabilities
+        Debt                                                (268.5)
+        Other long-term liabilities                          (20.2)
+                                                           --------
+        Purchase price, net of cash acquired               $  563.6
+                                                           ========
+    Bethlehem intends to sell Lukens' stainless and distribution businesses.
+Accordingly, Bethlehem is accounting for the stainless and distribution
+businesses as discontinued operations.  Income or losses from these operations
+are not included in Bethlehem's operating results.  Since the date of
+acquisition, these operations have incurred operating losses of about $17
+million.  The net assets of these operations are shown separately on the
+balance sheet and consist primarily of property, plant & equipment and working
+capital.
+
+    Bethlehem expects to finalize all purchase accounting adjustments, e.g.,
+pension and postretirement benefit liabilities, ultimate proceeds on disposal
+of the stainless operations, severance costs from planned employee reductions,
+etc., within one year of the acquisition.  Any difference between the amounts
+reflected above and the final amounts could result in an adjustment to
+goodwill.  Goodwill is being amortized over 30 years or $12 million per year.
+
+    As previously announced, Bethlehem intends to close the Sparrows Point 160"
+plate mill and increase the output at existing underutilized facilities.
+Accordingly, Bethlehem recorded a charge of $35 million ($29 million after-tax)
+during the second quarter of 1998 in connection with the planned closing of the
+Sparrows Point 160" plate mill.
+
+
+                                   - 5 -
+
+<PAGE> 7
+    The unaudited pro forma combined historical results (excluding Stainless)
+as if Lukens had been acquired at the beginning of 1998 and 1997, respectively,
+are estimated to be:
+                                                  NINE MONTHS ENDED SEPT. 30
+                                                  --------------------------
+   (DOLLARS IN MILLIONS, EXCEPT PER SHARE DATA)      1998            1997
+   --------------------------------------------     ------          ------
+   Net Sales                                      $3,705.0        $3,892.6
+   Income from Operations                           $212.7          $338.2
+   Net Income                                       $143.8          $242.6
+
+   NET INCOME PER SHARE:
+          Basic                                      $0.88           $1.66
+          Diluted                                    $0.86           $1.59
+
+    The pro forma results presented above are not necessarily indicative of
+what actually would have occurred if the acquisition had been completed as of
+the beginning of each of the periods presented, nor are they necessarily
+indicative of future results.
+
+4.  On July 29, 1998, Bethlehem received about $190 million from the sale of
+the No.  1 Coke Oven Battery at Burns Harbor to an affiliate of DTE Energy
+Services, Inc.  Bethlehem will continue to operate the facility for the new
+owner and purchase the output.  The gain on the sale was about $160 million and
+is being deferred and recognized over the nine year life of the operating and
+purchase agreements.
+
+    On June 19, 1998, Bethlehem's wholly owned special purpose subsidiary
+amended its existing non-reducing credit facility.  The amendment extends the
+term of the agreement to July 19, 2003, increases the facilities receivable
+purchase agreement from $300 million to $340 million, and increases the credit
+facility for inventory from $225 million to $260 million, for a total of $600
+million.
+
+5.  In 1997 Bethlehem sold all of the operations that comprised its Steel
+Related Operations segment.  Presented below are 1997 Segment Results (dollars
+in millions):
+                                               THIRD     SECOND   FIRST
+                                               QUARTER   QUARTER  QUARTER
+                                               -------   -------  -------
+NET SALES:
+      Basic Steel Operations                  $1,109.4   $1,188.7  $1,174.3
+      Steel Related Operations                    10.0       26.8      27.0
+      Eliminations                                (6.0)      (8.6)     (8.8)
+                                              ---------  ---------  --------
+      Total                                   $1,113.4    $1,206.9  $1,192.5
+                                              =========  =========  ========
+ESTIMATED GAIN ON EXITING BUSINESSES:
+      Basic Steel Operations                  $      -    $  135.0  $      -
+      Steel Related Operations                       -           -         -
+                                              ---------   --------- --------
+      Total                                   $      -    $  135.0  $      -
+                                              =========   ========= ========
+OPERATING INCOME (LOSS):
+      Basic Steel Operations                  $   66.0    $  212.1  $   63.8
+      Steel Related Operations                    (7.5)      (10.1)     (7.5)
+                                              ---------   --------- ---------
+      Total                                   $   58.5    $  202.0  $   56.3
+                                              =========   ========= =========
+
+                                             - 6 -
+
+
+
+<PAGE> 8
+
+                          MANAGEMENT'S DISCUSSION AND
+           ANALYSIS OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+
+REVIEW OF RESULTS:
+
+THIRD QUARTER AND FIRST NINE MONTHS 1998
+THIRD QUARTER AND FIRST NINE MONTHS 1997
+
+
+    Bethlehem reported net income of $37 million, on sales of $1.14 billion,
+for the third quarter of 1998 compared with net income of $41 million, on sales
+of $1.11 billion, for the third quarter of 1997.  After deducting preferred
+dividends, net income per common share was $.21 for the third quarter of 1998
+compared with $.27 per common share for the third quarter of 1997.
+
+    For the first nine months of 1998, net income was $143 million, or $.93 per
+common share, including an after-tax restructuring charge of $29 million
+related to the planned closing of our Sparrows Point Division plate mill.  Net
+income for the first nine months of 1997 was $239 million, or $1.85 per common
+share, including an after-tax gain of $113 million related to the sale of our
+equity interest in Iron Ore Company of Canada (IOC).  If the 1998 restructuring
+charge and the 1997 IOC gain are excluded, net income for the first nine months
+of 1998 would have been $172 million ($1.17 per share), on sales of $3.47
+billion, compared with $126 million ($.84 per share), on sales of $3.51
+billion, for the first nine months of 1997.
+
+
+OPERATING RESULTS
+
+    For the third quarter of 1998, income from operations was $59 million,
+which was about the same as income from operations for the third quarter of
+1997.  Lower costs due to our exit from underperforming businesses and lower
+pension expense offset the effects of lower realized prices.  Steel shipments
+of 2,172,000 net tons were slightly lower than the 2,184,000 net tons shipped
+in the third quarter of 1997.  Shipments decreased at our Burns Harbor and
+Sparrows Point Divisions but we had additional shipments resulting from our
+acquisition of Lukens Inc.  and higher shipments at Pennsylvania Steel
+Technologies, Inc.  (PST).  Third quarter 1998 shipments at Burns Harbor and
+Sparrows Point were negatively impacted by the unprecedented levels of unfairly
+traded steel imports.  The effects of the General Motors work stoppages also
+decreased shipments primarily at Burns Harbor.
+
+    Excluding the restructuring charge and the IOC gain, income from operations
+for the first nine months of 1998 was $238 million compared with $182 million
+for the first nine months of 1997.  Despite lower realized prices, income from
+operations for the first nine months of 1998 improved over the first nine
+months of 1997 due to lower costs and increased shipments.  Costs improved
+principally from exiting underperforming businesses, reduced pension expense
+and improved operating performance at Burns
+
+
+                                      - 7 -
+
+
+
+
+
+
+
+<PAGE> 9
+
+Harbor, Sparrows Point and PST.  Shipments increased primarily from our
+acquisition of Lukens.
+
+    Third quarter 1998 operating income declined from the second quarter of
+1998 (excluding the restructuring charge) principally due to lower shipments at
+Burns Harbor and Sparrows Point and lower realized prices.  These effects were
+partially offset by increased shipments resulting from our acquisition of
+Lukens and a more favorable product mix.
+
+
+LIQUIDITY AND CAPITAL STRUCTURE
+
+    At September 30, 1998, total liquidity, comprising cash, cash equivalents
+and funds available under our bank credit arrangements, totaled $430 million
+compared with $612 million at December 31, 1997, and $513 million at September
+30, 1997.  At September 30, 1998, funds available under our credit arrangements
+totaled $334 million.
+
+    On July 29, 1998, we sold the No.  1 Coke Oven Battery at Burns Harbor to
+an affiliate of DTE Energy Services, Inc.  We will continue to operate the
+facility for the new owner and purchase its output.  Proceeds from the
+transaction were about $190 million and were used in repaying the $200 million
+short-term borrowing used to complete the Lukens acquisition.  The gain on the
+sale was about $160 million and is being deferred and recognized over the
+nine-year life of the operating and purchase agreements.
+
+    For the first nine months of 1998, cash provided from operations before
+pension activities was $381 million compared with $440 million for the first
+nine months of 1997.  Principal uses of cash during the first nine months of
+1998 included the Lukens acquisition, capital expenditures, pension funding and
+debt repayments.  We acquired all of the outstanding stock of Lukens for an
+aggregate purchase price of about $565 million which included cash and
+transaction costs of about $380 million and the issuance of 15.1 million shares
+of Bethlehem Common Stock valued at about $185 million.  Capital expenditures
+were $216 million compared with $189 million during the year-earlier period.
+Capital expenditures (excluding the acquisition of Lukens) are currently
+expected to be $325 million in 1998, compared with $228 million in 1997.
+Pension funding for the first nine months of 1998 totaled $130 million and we
+repaid $290 million of debt including the $200 million short-term borrowing
+used to complete the Lukens acquisition.
+
+    The volatility in the financial markets has reduced the unrecognized net
+gain that we had with respect to our pension liability at December 31, 1997.
+Also interest rates are lower, which would increase the amount of our pension
+obligation.  Based on the market as of October 31, 1998, if we could recognize
+these changes in calculating our pension liability that appears on our balance
+sheet, our pension liability would be somewhat less than the recorded amount.
+However, generally accepted accounting principles require that we wait until
+our valuation date of November 30 to determine adjustments, if any, to our
+pension liability based on the market value of our pension fund assets and the
+interest rates in the market at that date.
+
+
+
+                                   - 8 -
+
+
+
+
+
+
+
+<PAGE> 10
+
+    During the fourth quarter, we expect to complete our previously announced
+sale of certain stainless assets to Allegheny Teledyne Incorporated.
+We are also continuing with plans for the sale of the other remaining
+Lukens stainless and distribution businesses.
+
+    We expect to maintain an adequate level of liquidity throughout 1998 from
+cash flow from operations, reductions in working capital, the sale of various
+assets of Lukens, and available borrowings under our credit arrangements.
+
+
+INTERNATIONAL STEEL TRADE
+
+    The present volume of unfairly traded and injurious steel imports is
+unprecedented and has caused total imports to surge to record levels in each of
+the last five months.  Total imports of finished steel mill products in August
+were approximately 80% greater than the average monthly level for 1997, and the
+August rate for hot rolled sheet was approximately 160% greater than the 1997
+average.  At these rates, on an annual basis, imports would be the equivalent
+of nearly 50% of total anticipated industry shipments.  These unfairly traded
+imports have caused serious injury by reducing shipments, production, prices,
+employment levels and profitability.
+
+    Our overall international trade position is clear.  We have supported
+international trade liberalization efforts, including the World Trade
+Organization (WTO).  We believe that all markets should be open; that trade
+should be fair in all markets; that trade should be rule based; and that the
+rules should be enforced when trade is unfair and injurious.
+
+    Under the present circumstances, we are taking three actions:  (1) Legal -
+we have filed and will continue to file all appropriate legal actions, (2)
+Public Affairs - we have joined the United Steelworkers, leading steel
+companies and others in an educational campaign - "Stand Up for Steel - Stand
+up for America", and (3) Governmental - we are working with the Congress and
+the Administration to help cause appropriate actions to be taken.
+
+    On September 30, 1998, we joined eleven other steel companies and the
+United Steelworkers in filing cases covering certain hot rolled carbon steel
+flat products against Japan, Russia and Brazil.  Hot rolled sheet imports from
+these three countries during the period January through August 1998 were about
+90% above hot rolled sheet imports for the same period in 1997.  The August
+rate was about 230% greater than the 1997 monthly average.  Additional cases
+will be filed as appropriate and the filing of such well-founded cases is part
+of the internationally recognized procedure to deal with injurious dumping and
+subsidies, which are condemned by the WTO.
+
+    We believe that the actions that we are taking, along with those to be
+taken by the Congress and the Administration, will help to resolve this very
+serious issue that threatens our company, stockholders, employees, customers,
+and the communities in which we operate.
+
+
+
+                                    - 9 -
+
+
+
+
+
+
+
+<PAGE> 11
+
+YEAR 2000
+
+    Problems created by the once common programming practice of storing date
+information using only the last two digits to indicate the year will impact all
+businesses and government organizations as we approach the year 2000.  The
+scope of our Year 2000 Program involves many areas including information
+technology (IT) and non-IT systems, the associated personal computing,
+communications and infrastructure elements, and the Year 2000 readiness of our
+key suppliers and customers.
+
+    We have been actively working on resolving our Year 2000 problem for four
+years.  The effort was initiated with a pilot project in late 1994 during which
+five percent of our business applications were converted to be Year 2000
+compliant.  The pilot project allowed us to develop a methodology for solving
+our Year 2000 problem as well as a structure for effective management and
+timely correction of the problem within our systems.  The major elements of our
+program are inventory, risk assessment, remediation, testing, and contingency
+planning.
+
+    In late 1997, we conducted a 45-day test of the operability and
+inter-operability of all converted business applications for Business Unit and
+Corporate systems as well as all operating system software in a full simulation
+of the Year 2000.  We reset the system clock for various dates and tested the
+processing of date information before and after December 31, 1999, as well as
+the processing of the Year 2000 as a leap year.  This test was completed
+successfully and validated our processes and methods for addressing our Year
+2000 problem.  Two additional full-scale tests are currently being conducted to
+test applications not evaluated during the 45-day test in 1997 and the recently
+acquired, former Lukens' main frame applications.  We plan to complete these
+tests in December 1998.
+
+    We have completed the inventory and risk assessment for Year 2000
+components in all areas of our business.  Our risk assessment showed that less
+than 15% of our computer programs needed to be fixed or replaced.  We are
+currently 93% complete with these remediation efforts.  We expect that
+remediation and testing will be complete for all critical systems and
+essentially all other systems by the end of 1998.  Any remaining implementation
+testing, as well as integration testing, will continue throughout the first
+quarter of 1999.  Contingency planning has begun in all areas and includes
+development of required staffing levels during the Year 2000 roll-over, review
+and enhancement of manual and other backup procedures, and review of inventory
+levels.  Contingency planning will be a focus area in 1999.
+
+    We are also in the process of evaluating the readiness of our key suppliers
+and customers.  In April 1998, surveys were sent to 746 key suppliers, outside
+processors, warehousers, and electronic data interchange trading partners.  To
+date, responses have been received from over 600 suppliers with 55% indicating
+that they will be Year 2000 compliant by the end of 1998.  The goal is to have
+alternate plans in place by mid-1999 for those vendors who will not be Year
+2000 compliant in significant areas.  Additionally, we have corresponded with
+over 300 key customers regarding their
+
+                               - 10 -
+
+
+
+
+<PAGE> 12
+
+resolution of the Year 2000 problem and we will continue these discussions
+during the next two quarters.
+
+    The costs associated with our Year 2000 Program continue to be at planned
+levels.  The estimated incremental cost of this activity is approximately $6
+million.  The cost will be charged to normal operating expenses.  We do not
+expect to incur any extraordinary charges associated with the effort and no
+major information service projects have been deferred because of our Year 2000
+Program.
+
+    We believe that we are taking all reasonable steps to ensure our Year 2000
+readiness.  Our ability to meet our projected goals depends, to an extent, on
+the Year 2000 readiness of our key suppliers and customers, the completion of
+our final remediation and testing efforts and the successful development and
+implementation of contingency plans.  These and other unanticipated Year 2000
+issues could have a material adverse effect on our results of operations or
+financial condition.
+
+DIVIDENDS
+
+    On October 28, 1998, our Board of Directors declared dividends of $1.25 per
+share on Bethlehem's $5.00 Cumulative Convertible Preferred Stock, $0.625 per
+share on Bethlehem's $2.50 Cumulative Convertible Preferred Stock and $0.875
+per share on Bethlehem's $3.50 Cumulative Convertible Preferred Stock, each
+payable December 10, 1998, to holders of record on November 10, 1998.  No
+dividend was declared on Bethlehem's Common Stock.
+
+OUTLOOK
+
+    The Asian situation is having a much greater impact on world economies and,
+along with other factors, has increased the likelihood of slower future growth
+in the U.S.  economy as compared with the past several years.
+
+    Our competition is intense and we are deeply concerned about the serious
+injury being caused by unfairly traded imports.  These imports are
+significantly reducing our production and shipment levels and the prices we
+receive.  We believe that our earnings for the fourth quarter will be adversely
+affected because of these unfairly traded imports.
+
+    While current business conditions are very difficult, we are continuing to
+focus on our strategy of concentrating on steel and rebuilding our financial
+strength, and in taking all necessary actions to deal with the current
+challenges and opportunities.
+
+                                    - 11 -
+
+
+
+
+
+
+
+<PAGE> 13
+
+FORWARD-LOOKING STATEMENTS
+
+    This release contains forward-looking statements with respect to shipments,
+production levels, asset sales, costs, prices and Year 2000 compliance.  Our
+use of the words "expect", "believe", "intend", "plan" and similar words are
+intended to identify these statements as forward-looking.  These
+forward-looking statements can be affected by import levels, domestic
+production capacity, our ability to successfully complete certain asset sales
+and our successful and timely resolution of all Year 2000 issues as well as the
+resolution of such issues by our key suppliers and customers.  In accordance
+with the provisions of the Private Securities Litigation Reform Act of 1995,
+reference is made to "Item 1 - Business - Forward-Looking Statements" of
+Bethlehem's 1997 Annual Report on Form 10-K and to "Cautionary Statement" of
+Bethlehem's Registration Statement on Form S-4 filed with the Securities and
+Exchange Commission on April 24, 1998 for other important factors that could
+cause actual results to differ materially from those projected.
+
+
+PART II.  OTHER INFORMATION
+
+
+ITEM 1.  LEGAL PROCEEDINGS.
+
+    Bethlehem, in the ordinary course of its business, is the subject of
+various pending or threatened legal actions involving governmental agencies or
+private interests.  Bethlehem believes that any ultimate liability arising from
+these actions should not have a material adverse effect on its consolidated
+financial position at September 30, 1998.
+
+    Bethlehem does not have any material developments in legal proceedings to
+report for the third quarter of 1998.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     - 12 -
+
+
+
+
+
+
+
+<PAGE> 14
+
+ITEM 5.  OTHER INFORMATION
+
+    Recent amendments to Rule 14a-4 of the Securities Exchange Act of 1934
+govern the timely submission of stockholder proposals outside the framework of
+Rule 14a-8.  In accordance with the amendments and the advance notice
+provisions of Bethlehem's By-laws, stockholders who intend to submit proposals
+for consideration at the 1999 Annual Meeting outside the processes of Rule
+14a-8 must forward such proposals to Bethlehem in writing on or before
+January 27, 1999.
+
+    Stockholder proposals should be submitted to:  Secretary, Bethlehem Steel
+Corporation, 1170 Eighth Avenue, Bethlehem, Pennsylvania 18106-7699.
+
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+         (a)  EXHIBITS.
+
+              The following is an index of the exhibits included in this Report
+         on Form 10-Q:
+
+              10.  Form of Agreement between Bethlehem Steel Corporation and
+                   Messrs.  C. H. Barnette, R. P. Penny, G. L.
+                   Millenbruch, D. P. Post and five other executive officers.
+                   Additional agreements have been entered into between
+                   Bethlehem Steel Corporation and eight other executive
+                   officers.  These additional agreements are substantially in
+                   the form of said Agreement, except for the amount of
+                   compensation upon termination, which is two rather than
+                   three times annual salary and bonus.
+
+              11.  Statement Regarding Computation of Earnings Per Share.
+
+              27.  Financial Data Schedule.
+
+         (b) REPORTS ON FORM 8-K.
+
+              On August 5, 1998, Bethlehem filed a report on Form 8-K with the
+         Securities and Exchange Commission announcing the approval of its
+         Rights Agreement, dated July 29, 1998 with First Chicago Trust Company
+         of New York, as Rights Agent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   - 13 -
+
+
+
+
+
+<PAGE> 15
+
+                                 SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934,
+Bethlehem Steel Corporation has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+
+                                              Bethlehem Steel Corporation
+                                                     (Registrant)
+                                              by
+
+                                              /s/ L. A. Arnett
+                                              ---------------------------
+                                              L. A. Arnett
+                                              Vice President and Controller
+                                              (principal accounting officer)
+
+Date:  November 12, 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 14 -
+
+
+
+
+
+<PAGE> 16
+
+
+                                 EXHIBIT INDEX
+
+        The following is an index of the exhibits included in this Report:
+
+ Item
+  No.                              Exhibit
+ ----                              -------
+
+ 10      Form of Agreement between Bethlehem Steel Corporation and Messrs.
+         C. H. Barnette, R. P. Penny, G. L. Millenbruch, D. P. Post and five
+         other executive officers.  Additional agreements have been entered
+         into between Bethlehem Steel Corporation and eight other executive
+         officers.  These additional agreements are substantially in the form
+         of said Agreement, except for the amount of compensation upon
+         termination, which is two rather than three times annual salary and
+         bonus.
+
+
+ 11      Statement Regarding Computation of Earnings Per Share
+
+
+ 27      Financial Data Schedule
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 17
+
+                                                                    EXHIBIT 10
+
+
+                         [ SENIOR OFFICER AGREEMENT ]
+
+                                                              July 29, 1998
+
+(Name)
+
+Dear        :
+    --------
+
+                                   Agreement
+                                   ---------
+
+    Bethlehem Steel Corporation (the "Company") considers it essential to the
+best interests of its stockholders to have the continuous employment of key
+management personnel.  In this connection, the Board of Directors of the
+Company (the "Board") recognizes that, as is the case with many publicly held
+corporations, the possibility of a Change in Control or Potential Change in
+Control may exist and that such possibility, and the uncertainty and questions
+which it may raise among management, may result in the departure or distraction
+of management personnel to the detriment of the Company and its stockholders.
+
+    The Board has determined that appropriate steps should be taken to
+reinforce and encourage the continued attention and dedication of certain
+members of the Company's management, including yourself, to their assigned
+duties without distraction in the face of
+
+
+
+
+
+
+
+
+
+
+<PAGE> 18
+                                       2
+
+potentially disturbing circumstances arising from the possibility of a Change
+in Control or Potential Change in Control of the Company.
+
+    In order to induce you to remain in the employ of the Company and in
+consideration of your agreement to remain in the employ of the Company in
+certain circumstances as set forth in Section 7 hereof, the Company agrees that
+you shall receive the benefits set forth in this letter agreement in the event
+your employment with the Company is terminated subsequent to a "Change in
+Control of the Company" or "Potential Change in Control" (as defined in
+Sections 2 and 7 hereof) under the circumstances described below.
+
+    1.  TERM OF AGREEMENT.  This Agreement shall commence on the date hereof
+and shall continue in effect through December 31, 1998; provided, however, that
+commencing on January 1, 1999, and each January 1 thereafter, the term of this
+Agreement shall automatically be extended for one additional year unless not
+later than September 30 of the preceding year, the Company shall have given
+notice that it does not wish to extend this Agreement; and provided, further,
+that notwithstanding any such notice by the Company not to extend, this
+Agreement shall continue in effect for a period of 24 months beyond the term
+provided herein if a Change in Control of the Company shall have occurred
+during such term.  Notwithstanding anything to the contrary stated herein, this
+Agreement shall terminate prior to the dates set forth above without further
+acts by either party upon (a) termination of your employment prior to a Change
+in Control or Potential Change in Control due to death or Retirement (as
+defined in Section 3 hereof), (b) termination of your employment by the Company
+for Cause or for Disability (each as respectively defined in Section 3 hereof),
+(c) termination of your employment by
+
+
+
+
+
+
+
+
+
+<PAGE> 19
+
+                                       3
+
+the Company prior to a Change in Control or Potential Change in Control for
+other than Cause or Disability, (d) termination of your employment by you for
+any reason prior to a Change in Control or Potential Change in Control of the
+Company, (e) termination of your employment due to your death or by you for
+other than Retirement or Good Reason as defined in Section 3 hereof) after a
+Change in Control or Potential Change in Control of the Company, or (f)
+completion by the Company of all of its obligations in the event benefits shall
+become payable hereunder.
+
+
+    2.  CHANGE IN CONTROL.  No benefits shall be payable hereunder unless there
+shall have been a Change in Control of the Company, as set forth below, and
+your employment by the Company shall thereafter have been terminated in
+accordance with Section 3 below.  For purposes of this Agreement, a "Change in
+Control of the Company" shall be deemed to have occurred if (a) any purchase of
+shares of Company common stock or any securities convertible into common stock
+shall be made pursuant to a tender or exchange offer (other than any such
+tender or exchange offer made by the Company); (b) any Person other than a
+trustee or other fiduciary of securities held under an employee benefit plan of
+the Company or any of its subsidiaries, is or becomes a Beneficial Owner,
+directly or indirectly, of stock of the Company representing 20% or more of the
+total voting power of the Company's then outstanding stock and securities,
+excluding any Person who becomes such a Beneficial Owner in connection with a
+transaction described in Clause (A) of paragraph (d), below; (c) individuals
+who, as of the date hereof,
+
+
+
+
+
+
+
+
+<PAGE> 20
+
+                                       4
+
+constitute the Board of Directors (the "Incumbent Board") of the Company, cease
+for any reason to constitute a majority thereof; provided, however, that any
+individual becoming a director whose election, or nomination for election by
+the Company's stockholders, was approved by a vote of at least 75% of the
+directors then comprising the Incumbent Board shall be considered as though
+such individual was a member of the Incumbent Board, but excluding, for this
+purpose, any such individual whose initial assumption of office occurs as a
+result of an actual or threatened election contest with respect to the election
+or removal of directors or other actual or threatened solicitation of proxies
+or consents by or on behalf of a Person other than the Board of Directors of
+the Company; (d) there is consummated a merger or consolidation of the Company
+(or any direct or indirect subsidiary of the Company) with any other
+corporation, other than (A) a merger or consolidation which would result in the
+voting securities of the Company outstanding immediately prior to such merger
+or consolidation continuing to represent (either by remaining outstanding or by
+being converted into voting securities of the surviving entity or any parent
+thereof) at least 75% of the combined voting power of the stock and securities
+of the Company or such surviving entity or any parent thereof outstanding
+immediately after such merger or consolidation, or (B) a merger or
+consolidation effected to implement a recapitalization of the Company ( or
+similar transaction) in which no Person is or becomes the Beneficial Owner,
+directly or indirectly, of stock and securities of the Company representing
+more than 25% of the combined voting power of the Company's then outstanding
+stock and securities; or (e) the stockholders of the Company
+
+
+
+
+
+
+
+
+<PAGE> 21
+
+                                       5
+
+approve a plan of complete liquidation or dissolution of the Company or there
+is consummated an agreement for the sale or disposition by the Company of all
+or substantially all of the Company's assets other than a sale or disposition
+by the Company of all or substantially all of the assets to an entity at least
+75% of the combined voting power of the stock and securities which is owned by
+Persons in substantially the same proportions as their ownership of the
+Company's voting stock immediately prior to such sale.  "Person" shall mean any
+person (as defined in Section 3(a)(9) of the Securities Exchange Act (the
+"Exchange Act"), as such term is modified in Section 13(d) and 14(d) of the
+Exchange Act) other than (1) any employee plan established by the Company, (2)
+or any of its affiliates (as defined in Rule 12b-2 promulgated under the
+Exchange Act), (3) an underwriter temporarily holding securities pursuant to an
+offering of such securities, or (4) a corporation owned, directly or
+indirectly, by stockholders of the Company in substantially the same
+proportions as their ownership of the Company.  "Beneficial Owner" shall mean
+beneficial owner as defined in Rule 13d-3 under the Exchange Act.
+
+    3.  TERMINATION FOLLOWING CHANGE IN CONTROL.  You shall be entitled to the
+benefits provided under this Agreement upon your "Qualifying Termination" (as
+defined herein) during the 24-month period following a Change in Control.  For
+purposes hereof, a Qualifying Termination" shall mean (i) a termination of your
+employment by the Company for any reason during the 24-month period following a
+Change in Control of the Company other than for Cause, Retirement or
+Disability, or (ii) your termination of employment for "Good Reason" (as
+defined in this Section 3).
+
+
+
+
+
+
+
+<PAGE> 22
+
+                                       6
+
+         (i) DISABILITY.  If, as a result of your incapacity due to physical or
+mental illness, you shall have been absent from your duties with the Company on
+a full- time basis for twelve consecutive months, and you shall not have
+returned to the full-time performance of your duties within thirty (30) days
+after written Notice of Termination is given you by the Company, such
+termination shall, for purposes of this Agreement, be considered to be
+termination by the Company for "Disability."
+
+         (ii) RETIREMENT.  Termination of your employment based on "Retirement"
+shall mean (x) (A) your involuntary termination that is for Cause or (B) your
+voluntary termination of employment that is without "Good Reason" (and not
+within the 30-day period specified in Section 3(L)) and in the case of clause
+(A) or (B), as applicable, is in accordance with the minimum age and service
+requirements for early or normal retirement under the Pension Plan, the Excess
+Benefit Plan, or the Supplemental Benefits Plan of the Company or (y) your
+mandatory termination of employment upon reaching age 65 or such other age as
+shall be set under applicable Company policy as in effect immediately prior to
+a Change in Control of the Company.
+
+         (iii) CAUSE.  The Company may terminate your employment for Cause.
+For purposes of this Agreement only, the Company shall have "Cause" to
+terminate your employment hereunder only on the basis of (x) your fraud on, or
+misappropriation or embezzlement of assets of, the Company or (y) your willful
+and continued failure to
+
+
+
+
+
+
+
+<PAGE> 23
+
+                                       7
+
+
+substantially perform your duties hereunder (other than any such failure
+resulting from your incapacity due to physical or mental illness or any such
+actual or anticipated failure after the issuance of a Notice of Termination, as
+defined in Section 3(v), by the Executive for Good Reason, as defined in
+Section 3(iv)); provided, however, that "Cause" shall occur with respect to
+clause (y) of this sentence only if such action constituting Cause has not been
+corrected or cured by you within 30 days after you have received written notice
+from the Company of the Company's intent to terminate your employment for Cause
+and specifying in detail the basis for such termination.  For purposes of this
+paragraph, no act, or failure to act, on your part shall be considered
+"willful" unless done, or omitted to be done, by you not in good faith and
+without reasonable belief that your action or omission was in the best interest
+of the Company.  Notwithstanding the foregoing, you shall not be deemed to have
+been terminated for Cause unless and until there shall have been delivered to
+you a copy of a resolution duly adopted by the affirmative vote of not less
+than three- quarters of the entire membership of the Board at a meeting of the
+Board called and held for the purpose (after reasonable notice to you and an
+opportunity for you, together with your counsel, to be heard before the Board),
+finding that in the good faith opinion of the Board you were guilty of conduct
+set forth in the second sentence of this Section 3(iii) and specifying the
+particulars thereof in detail.
+
+         (iv) GOOD REASON.  You shall be entitled to terminate your employment
+for Good Reason at any time during the term of this Agreement following a
+Change
+
+
+
+
+
+
+
+<PAGE> 24
+
+                                       8
+
+in Control.  For purposes of this Agreement, "Good Reason" shall exist in the
+event of the occurrence of any of the following without your express prior
+written consent:
+
+              (A) any diminution of, or the assignment to you by the Company of
+duties inconsistent with, your position, duties, responsibilities and status
+with the Company immediately prior to a Change in Control of the Company, or a
+change in your titles or offices as in effect immediately prior to a Change in
+Control of the Company, or any removal of you from, or any failure to reelect
+you to, any of such positions, except in connection with your termination of
+employment for Disability, Retirement or Cause or as a result of your death or
+by you other than for Good Reason;
+
+              (B) a reduction by the Company in your base salary as in effect
+on the date hereof or as the same may be increased from time to time during the
+term of this Agreement or the Company's failure to increase (within 12 months
+of your last increase in base salary) your base salary after a Change in
+Control of the Company in an amount which at least equals, on a percentage
+basis, the average percentage increase in base salary for all officers of the
+Company effected in the preceding 12 months;
+
+              (C) any failure by the Company to continue in effect any benefit
+plan or arrangement (including, without limitation, the Company's life
+insurance, post-retirement benefits, and comprehensive medical plan coverage)
+in which you shall be participating at the time of a Change in Control of the
+Company (or any other plans
+
+
+
+
+
+
+
+<PAGE> 25
+
+                                       9
+
+providing you with substantially similar benefits) (hereinafter referred to as
+"Benefit Plans"), or the taking of any action by the Company which would
+adversely affect your participation in or materially reduce your benefits under
+any such Benefit Plan or deprive you of any material fringe benefit enjoyed by
+you at the time of a Change in Control of the Company;
+
+
+              (D) any failure by the Company to continue in effect, or continue
+payments under, any incentive plan or arrangement (including, without
+limitation, the Company's Profit Sharing Plan or any other plans or
+arrangements providing you with substantially similar benefits (hereinafter
+referred to as "Incentive Plans"), in which you shall be participating at the
+time of a Change in Control of the Company or the taking of any action by the
+Company which would adversely affect your participation in any such Incentive
+Plans or reduce your benefits under any such Incentive Plans;
+
+              (E) any failure by the Company to continue in effect any plan or
+arrangement to receive securities of the Company (including, without
+limitation, the Company's 1998 Stock Incentive Plan) or any other plan or
+arrangement to receive and exercise stock options, stock appreciation rights,
+restricted stock or grants thereof in which you shall be participating at the
+time of a Change in Control of the Company or plans or arrangements providing
+you with substantially similar benefits (hereinafter referred to as "Securities
+Plans") or the taking of any action by the Company which would
+
+
+
+
+
+
+
+<PAGE> 26
+
+                                      10
+
+adversely affect your participation in or materially reduce your benefits under
+any such Securities Plans;
+
+              (F) a relocation of the Company's principal executive offices to
+a location outside of Bethlehem, Pennsylvania or relocation of your primary
+workplace to any place other than the location at which you performed your
+duties immediately prior to a Change in Control of the Company;
+
+              (G) a substantial increase in business travel obligations over
+such obligations as they shall have existed at the time of a Change in Control
+of the Company;
+
+              (H) any failure by the Company to provide you with the number of
+paid vacation days to which you shall have been entitled at the time of a
+Change in Control of the Company;
+
+              (I) any material breach by the Company of any provision of this
+Agreement;
+
+
+              (J) any failure by the Company to obtain the satisfactory
+agreement from any successor to assume and agree to perform this Agreement, as
+contemplated by Section 8 hereof;
+
+
+
+
+
+
+
+<PAGE> 27
+
+                                      11
+
+              (K) any purported termination of your employment which shall not
+be effected pursuant to a Notice of Termination satisfying the requirements of
+Section 3(v), and for purposes of this Agreement, no such purported termination
+shall be effective.  Your right to terminate your employment pursuant to this
+subsection shall not be affected by your incapacity due to physical or mental
+illness; and
+
+              (L) your termination, for any reason, within the 30-day period
+following the first anniversary of a Change in Control.
+
+         (v) NOTICE OF TERMINATION.  Any purported termination by the Company
+or by you shall be communicated by written Notice of Termination to the other
+party hereto in accordance with Section 9 hereof.  For purposes of this
+Agreement, a "Notice of Termination" shall mean a notice which shall indicate
+the specific termination provision in this Agreement relied upon.
+
+         (vi) DATE OF TERMINATION:  DISPUTE CONCERNING TERMINATION.  "Date of
+Termination" shall mean (a) if your employment shall be terminated for
+Disability, thirty (30) days after Notice of Termination shall be given
+(provided that you shall not have returned to the performance of your duties on
+a full-time basis during such thirty (30) day period), and (b) if your
+employment shall be terminated by the Company for Cause, by you for Good Reason
+or for any other reason, the date specified in the Notice of Termination
+(which, in the case of a termination pursuant by the Company for Cause shall
+not be less than thirty (30) days, and in the case of a termination by you for
+Good Reason shall not be
+
+
+
+
+
+
+
+<PAGE> 28
+
+                                      12
+
+more than sixty (60) days, respectively, from the date such Notice of
+Termination shall be given); provided that if within thirty (30) days after any
+Notice of Termination shall be given the party receiving such Notice of
+Termination shall notify the other party that a dispute exists concerning the
+termination, the Date of Termination shall be the date on which the dispute
+shall be finally determined, either by mutual written agreement of the parties
+or by a binding arbitration award referred to in Section 14; and provided
+further that the Date of Termination shall be extended by a notice of dispute
+only if such notice shall be given in good faith and the party giving such
+notice shall pursue the resolution of such dispute with reasonable diligence.
+Notwithstanding the pendency of any such dispute, the Company shall continue to
+pay you your full compensation in effect when the notice giving rise to the
+dispute shall have been given (including, but not limited to, base salary) and
+continue you as a participant in all compensation, benefit and insurance plans
+in which you shall have been participating when the notice giving rise to the
+dispute shall have been given, until the dispute shall be finally resolved in
+accordance with this Section.  Amounts paid under this Section shall be in
+addition to all other amounts due under this Agreement and shall not be offset
+against or reduce any other amounts due under this Agreement.  In addition, for
+purposes of determining whether any Qualifying Termination has occurred the
+date a notice is given pursuant to this Section shall be deemed the date on
+which your terminated.
+
+
+
+
+
+
+
+<PAGE> 29
+
+                                      13
+
+    4.  COMPENSATION UPON TERMINATION.
+
+         (a) SALARY AND OTHER COMPENSATION OR BENEFITS.  If your employment
+shall be terminated for any reason following a Change in Control of the
+Company and during the term of this Agreement, the Company shall pay your full
+salary to you through the Date of Termination at the rate in effect at the time
+the Notice of Termination is given, together with all compensation and benefits
+to which you are entitled through the Date of Termination under the terms of
+any compensation or benefit plan, program or arrangement maintained by the
+Company during such period.
+
+    (b) DISABILITY.  During any period that you shall fail to perform your
+duties hereunder as a result of incapacity due to physical or mental illness,
+you shall continue to receive your full base salary at the rate then in effect
+and all compensation, including payments under the Profit Sharing Plan, paid
+during the period, until your employment shall be terminated pursuant to
+Section 3(i) hereof.  Thereafter, your benefits shall be determined in
+accordance with the insurance and other benefit programs then applicable to
+you.
+
+    (c) CAUSE; VOLUNTARY TERMINATION OF EMPLOYMENT WITHOUT GOOD REASON.  If
+your employment shall be terminated for Cause or you voluntary terminate
+employment without Good Reason, the Company shall pay you only your full base
+salary through the Date of Termination at the rate in effect at the time Notice
+of Termination shall be given,
+
+
+
+
+
+
+
+<PAGE> 30
+
+                                      14
+
+together with other compensation and benefits to which you are entitled under
+the terms of any benefit plan, program or arrangement maintained by the Company
+and applicable to you, and the Company shall have no further obligations to you
+under this Agreement.
+
+    (d) Severance Pay Benefits.  Subject to Section 3 hereof, if your
+employment shall be terminated in a Qualifying Termination, then you shall be
+entitled to the severance pay benefits provided below;
+
+              (A) In lieu of any further salary payments to you for periods
+subsequent to the Date of Termination and other severance benefits, the Company
+shall pay to you a lump sum severance payment, in an amount equal to three or,
+if less, the number of years, including fractional portions thereof, from the
+Date of Termination until you reach the age of 65 years, times the sum of (i)
+the higher of your annual base salary in effect immediately prior to the
+occurrence of the event or circumstance upon which the Notice of Termination is
+based or such salary in effect immediately prior to the Change in Control of
+the Company, and (ii) the higher of (x) the average of the highest three awards
+made to you pursuant to the Company's annual incentive plan in respect of each
+of the five measuring periods completed immediately prior to the occurrence of
+the event or circumstance upon which the Notice of Termination is based or (y)
+such average in respect of such periods completed immediately prior to the
+occurrence of the Change in Control of the Company; provided, however, that if
+fewer than three such awards have been made to you, the averages described in
+subclauses (x) and (y) of this clause (ii) shall
+
+
+
+
+
+
+
+<PAGE> 31
+
+                                      15
+
+be based solely on awards which were actually made to you; and provided,
+further, that the reference to age 65 above shall be extended to a later age if
+(1) the Company shall extend its current age-65 mandatory retirement policy for
+executive employees to a later age, in which case the reference age shall be
+deemed to be such later age, or (2) you are asked by the Company to continue
+your employment beyond age 65 to a specified date, in which case the reference
+age shall be deemed to be the age you would attain if you, in fact, continue
+employment to such date, or if no date is specified, the reference age shall be
+deemed to be your age three years from the Date of Termination .
+
+
+              (B) Notwithstanding any provision of the Excess Benefit Plan or
+the Supplemental Benefits Plan of Bethlehem Steel Corporation and Subsidiary
+Companies of the Company to the contrary, the Company shall pay to you the
+benefits to which you are eligible under such plans as of the date your
+employment is terminated as a Lump Sum Payment (as that term is defined in such
+plans).  The amount of such Lump Sum Payment shall be determined using the
+actuarial assumptions applicable in determining an "Actuarial Equivalent"
+benefit in accordance with the provisions of paragraph 1.1(b)(i) of the Pension
+Plan of Bethlehem Steel Corporation and Subsidiary Companies - Steel Division
+as in effect on the date hereof.
+
+              (C) The Company shall also pay to you all legal fees and expenses
+incurred by you as a result of such Qualifying Termination (including all such
+fees and expenses, if any, incurred in contesting or disputing any such
+termination or in
+
+
+
+
+
+
+
+<PAGE> 32
+
+                                      16
+
+seeking to obtain or enforce any right or benefit provided by this Agreement).
+Such payments shall be made within five (5) business days after delivery of
+your written request for payment accompanied with such evidence of fees and
+expenses incurred as the Company may reasonably require.
+
+
+              (D) The payments provided for in this Section 4(d) (other than
+Section 4(d)(C)) hereof shall be made not later than the fifth day following
+the Date of Termination; provided, however, that, if the amounts of such
+payments cannot be finally determined on or before such day, the Company shall
+pay to you on such day an estimate, as determined in good faith by the Company,
+of the minimum amount of such payments to which you are clearly entitled and
+shall pay the remainder of such payments (together with interest at the rate
+provided in Section 1274(b)(2)(B) of the Internal Revenue Code of 1986, as
+amended (the "Code")) as soon as the amount thereof can be determined but in no
+event later than the thirtieth (30th) day after the Date of Termination.  In
+the event that the amount of the estimated payments exceeds the amount
+subsequently determined to have been due, such excess shall constitute a loan
+by the Company to you, payable on the fifth (5th) business day after demand by
+the Company (together with interest at the rate provided in Section
+1274(b)(2)(B) of the Code).  At the time that payments are made under this
+Section, the Company shall provide you with a written statement setting forth
+the manner in which such payments were calculated and the basis for such
+calculations including, without limitation, any opinions or other advice the
+Company has received from
+
+
+
+
+
+
+
+<PAGE> 33
+
+                                      17
+
+outside counsel, auditors or consultants (and any such opinions or advice which
+are in writing shall be attached to the statement).
+
+    (e) Insurance Benefits.  Subject to Section 3 hereof, if your employment
+shall be terminated in a Qualifying Termination, then for 36 months following
+such termination the Company shall maintain, in full force and effect for your
+continued benefit, all life, disability and accident insurance or comprehensive
+medical plan coverage or arrangements in which you shall have been
+participating immediately prior to the Date of Termination, provided your
+continued participation (or to the extent that a particular type of coverage)
+shall be possible under the general terms and provisions of such plans and
+arrangements, on the same cost-sharing basis that applied to you immediately
+prior to your Date of Termination.  In the event your participation (or a
+particular type of coverage) under any such plan or arrangement shall be
+barred, the Company shall arrange to provide you with benefits, at
+substantially the same after-tax cost to you, which shall be substantially
+similar to those which you shall be entitled to receive under such plans and
+arrangements.  This Section 4(e) shall only be applicable to the extent that
+you are not otherwise eligible for coverage for the benefits described as a
+result of your Retirement.  Benefits otherwise receivable by you pursuant to
+this Section 4(e) shall be reduced to the extent comparable benefits are
+actually received by or made available to you without cost during the
+thirty-six (36) month period following your termination of employment (and any
+such benefits actually received by you shall be reported to the Company by
+you).
+
+
+
+
+
+
+
+<PAGE> 34
+
+                                      18
+
+    (f) DEATH AND RETIREMENT BENEFITS.  In the event of your death or
+Retirement, the Company shall have no further obligations to you under this
+Agreement, but you shall be entitled to receive retirement benefits under the
+Company's Pension Plan, Excess Benefit Plan, or Supplemental Benefits Plan,
+life insurance, post-retirement benefits, comprehensive medical plan coverage,
+and such other benefits as may be applicable to you.
+
+    (g) MITIGATION.  You shall not be required to mitigate the amount of any
+payment provided for in Sections 4(c), (d) and (e) by seeking other employment
+or otherwise, nor shall the amount of any payment or benefit provided for in
+this Section 4 be reduced by any compensation earned by you as the result of
+employment by another employer after the Date of Termination, or otherwise.
+Benefits otherwise receivable by you pursuant to Section 4(e) shall be reduced
+to the extent comparable benefits shall actually be received by you during the
+period Section 4(e) shall be applicable, and any such benefits actually
+received by you shall be reported to the Company.
+
+    5.  EXCISE TAXES.  The following provisions shall apply with respect to any
+excise tax imposed under Section 4999 of the Code (the "Excise Tax"):
+
+              (A) Whether or not you become entitled to any of the payments
+described in Section 4(d), if any of the payments or benefits received or to be
+received by
+
+
+
+
+
+
+
+<PAGE> 35
+
+                                      19
+you in connection with a Change in Control of the Company or your termination
+of employment (whether pursuant to the terms of this Agreement or any other
+plan, arrangement or agreement with the Company, any person whose actions
+result in a Change in Control of the Company or any person affiliated with the
+Company or such person (the "Total Payments")) will be subject to the Excise
+Tax, the Company shall pay to you an additional amount (the "Gross-Up Payment")
+such that the net amount retained by you, after deduction of any Excise Tax on
+the Total Payments and any federal, state and local income and employment tax
+and Excise Tax upon the payment provided for by this Section 5, shall be equal
+to the Total Payments.  Such payment shall be made in the manner described in
+Section 4(d)(E) hereof.
+
+
+              (B) For purposes of determining whether any of the Total Payments
+will be subject to the Excise Tax and the amount of such Excise Tax, (i) any
+Total Payments shall be treated as "parachute payments" (within the meaning of
+Section 280G(b)(2) of the Code) unless, in the opinion of tax counsel selected
+by the Company's independent auditors and reasonably acceptable to you, such
+payments or benefits (in whole or in part) do not constitute parachute
+payments, including by reason of Section 280G(b)(4)(A) of the Code, and all
+"excess parachute payments" (within the meaning of Section 280G(b)(1) of the
+Code) shall be treated as subject to the Excise Tax unless, in the opinion of
+such tax counsel, such excess parachute payments (in whole or in part)
+represent reasonable compensation for services actually rendered (within the
+
+
+
+
+
+
+
+<PAGE> 36
+
+                                      20
+
+meaning of Section 280G(b)(4)(B) of the Code), or are otherwise not subject to
+the Excise Tax, and (ii) the value of any noncash benefits or any deferred
+payment or benefit shall be determined by the Company's independent auditors in
+accordance with the principles of Sections 280G(d)(3) and (4) of the Code.  For
+purposes of determining the amount of the Gross-Up Payment, you shall be deemed
+to pay federal income and employment taxes at the highest marginal rate of
+federal income and employment taxation in the calendar year in which the
+Gross-Up Payment is to be made and state and local income and employment taxes
+at the highest marginal rate of taxation in the state and locality of your
+residence on the Date of Termination (or such other time as is hereinafter
+described), net of the maximum reduction in federal income or employment taxes
+which could be obtained from deduction of such state and local taxes.
+
+
+              (C) In the event that the Excise Tax is subsequently determined
+to be less than the amount taken into account hereunder at the time of
+termination of your employment (or such other time as is hereinafter
+described), you shall repay to the Company, at the time that the amount of such
+reduction in Excise Tax is finally determined, the portion of the Gross-Up
+Payment attributable to such reduction (plus that portion of the Gross-Up
+Payment attributable to the Excise Tax and federal, state and local income tax
+imposed on the Gross-Up Payment being repaid by you to the extent that such
+repayment results in a reduction in Excise Tax or a federal, state or local
+income or employment tax deduction) plus interest on the amount of such
+repayment at the rate
+
+
+
+
+
+
+
+<PAGE> 37
+
+                                      21
+
+provided in Section 1274(b)(2)(B) of the Code.  In the event that the Excise
+Tax is determined to exceed the amount taken into account hereunder at the time
+of the termination of your employment (or such other time as is hereinafter
+described) (including by reason of any payment the existence or amount of which
+cannot be determined at the time of the Gross-Up Payment), the Company shall
+make an additional Gross-Up Payment in respect of such excess (plus any
+interest, penalties or additions payable by you with respect to such excess) at
+the time that the amount of such excess is finally determined.  You and the
+Company shall each reasonably cooperate with the other in connection with any
+administrative or judicial proceedings concerning the existence or amount of
+liability for Excise Tax with respect to the Total Payments.
+
+
+
+    6.  Letter of Credit Preceding Termination/Grantor Trust.  In the event a
+Potential Change in Control of the Company (as hereinafter defined) shall have
+occurred, the Company shall promptly (and in no event more than fourteen days
+thereafter) establish an irrevocable letter of credit (the "Letter of Credit")
+in your favor in an amount equal to the aggregate of the amounts which would be
+payable to you pursuant to Section 4 hereof as if you were immediately entitled
+to payment pursuant thereto plus $100,000, such Letter of Credit to be issued
+by a commercial bank which shall be a national banking association or
+established under the laws of one of the states of the United States, and which
+shall have equity in excess of $ 100 million (the "Bank").  The Letter of
+Credit shall be in form and substance reasonably satisfactory to you and the
+Company and shall
+
+
+
+
+
+
+
+<PAGE> 38
+
+                                      22
+
+provide that the Bank shall pay you the amount of your draft, at sight, on
+presentation to the Bank of a statement, signed by (i) you or your authorized
+representative, setting forth (a) a statement, in the form attached as Exhibit
+A hereto, that pursuant to any or all of Section 4 of this Agreement, you are
+entitled to payments of not less than the amount of such draft and have not
+otherwise received such payments (the "Statement"), and (b) the Date of
+Termination of your employment and (ii) by the independent agent selected by
+the Company immediately upon the occurrence of a Potential Change in Control
+and reasonably acceptable to you (the "Agent"), setting forth a statement that
+it has reviewed the calculation of the benefits to which you claim you are
+entitled and that it has confirmed the accuracy of such calculations.  With
+respect to the statement prepared by the Agent pursuant to clause (ii) of the
+preceding sentence, the Agent shall have no duty to inquire of the Company, or
+otherwise determine, whether you are entitled to the payments which you claim,
+but shall merely confirm that, assuming you are so entitled to such benefits,
+that the calculation thereof has been accurately performed.  Each time you
+shall draw on the Letter of Credit, you shall provide the Company with a copy
+of such draft and the accompanying statement referred to above.  The Company
+shall maintain the Letter of Credit in effect for a period of two years from
+the date on which it shall be issued; provided, however, that if during any
+such two-year period any event shall occur which, pursuant to this Section 6,
+would have required the Company to establish a Letter of Credit had none then
+existed, then the Company shall maintain the Letter of Credit in effect for a
+period of two years following such event unless further extended pursuant to
+
+
+
+
+
+
+
+<PAGE> 39
+
+                                      23
+
+
+this Section.  During the period in which a Letter of Credit is required to be
+maintained, the Company shall, at six-month intervals commencing with the date
+the Letter of Credit shall be established, calculate the amount which would be
+payable to you pursuant to Section 4 hereof as if you were immediately entitled
+to payment pursuant thereto.  If the amount so calculated, plus $100,000, shall
+exceed the amount available to be drawn upon under the Letter of Credit then in
+effect, the Company shall promptly (and in no event later than seven days
+thereafter) cause the amount payable under the Letter of Credit to be increased
+by the amount of such excess.
+
+    In lieu of obtaining a Letter of Credit, the Company, in its discretion,
+may establish a grantor trust (the "Grantor Trust"), which shall become
+irrevocable upon a Change in Control of the Company, for your benefit with a
+Bank and fund such Grantor Trust with the amount otherwise to be covered by the
+Letter of Credit as described in the first sentence of the first paragraph of
+this Section 6.  You shall be entitled to payments from the Grantor Trust upon
+your presentation to the Bank of the Statement.
+
+    The payment by the Bank of the amount of your draft in accordance with the
+terms hereof and of the Letter of Credit or from the Grantor Trust, whichever
+is applicable, shall reduce any obligation of the Company to you pursuant to
+this Agreement by such amount and shalt not constitute a waiver by the Company
+of, or in any way preclude the Company from asserting, any claim against you
+that you shall not be entitled to some or all of such payment.  In addition,
+your drawing upon the Letter of Credit shall not constitute a waiver by you, or
+in any way preclude you from asserting, any claim
+
+
+
+
+
+
+
+<PAGE> 40
+
+                                      24
+
+against the Company that you are entitled to amounts pursuant to this Agreement
+which were not paid by amounts received under the Letter of Credit.
+
+
+    7.  POTENTIAL CHANGE IN CONTROL.  For purposes of this Agreement a
+"Potential Change in Control of the Company" shall be deemed to have occurred
+if (a) the Company shall enter into an agreement, the consummation of which
+would result in the occurrence of a Change in Control of the Company; (b) any
+person other than the Company shall publicly announce an intention to take or
+to consider taking actions which if consummated would constitute a Change in
+Control of the Company; (c) any person other than the Company or a subsidiary
+of the Company or any employee benefit plan sponsored by the Company or a
+subsidiary of the Company shall become the beneficial owner (within the meaning
+of Rule l3d-3 under the Exchange Act) of securities of the Company representing
+10% or more of the combined voting power of the Company's then outstanding
+securities ordinarily (and apart from rights accruing under special
+circumstances) having the right to vote in the election of directors as a
+result of a tender or exchange offer, open market purchases, privately
+negotiated purchases or otherwise, unless more than 50% of those directors of
+the Company who shall then be non-officer directors shall prior to, or
+immediately after reaching such 10% beneficial ownership level, vote in favor
+of a resolution of the Board of Directors determining, or join in a written
+declaration to the effect, that such beneficial ownership will not constitute a
+Change in Control of the Company or (d) more than 50% of those directors of the
+Company who shall then be non-
+
+
+
+
+
+
+
+<PAGE> 41
+
+                                      25
+
+officer directors shall vote in favor of a resolution, or join in a written
+declaration, to the effect that a Potential Change in Control of the Company
+for the purposes of this Agreement shall have occurred.  You agree that,
+subject to the terms and conditions of this Agreement, in the event of a
+Potential Change in Control of the Company, you will at the option of the
+Company remain in the employ of the Company for a period of six months from the
+occurrence of the first such Potential Change in Control of the Company.
+
+    8.  SUCCESSORS; BINDING AGREEMENT.  (a) The Company shall require any
+successor (whether direct or indirect, by purchase, merger, consolidation or
+otherwise) to all or substantially all of the business and/or assets of the
+Company, by agreement in form and substance satisfactory to you, to expressly
+assume and agree to perform this Agreement in the same manner and to the same
+extent that the Company would be required to perform it if no such succession
+had taken place.  Failure of the Company to obtain such assumption and
+agreement prior to the effectiveness of any such succession shall be a breach
+of this Agreement and shall entitle you to compensation from the Company in the
+same amount and on the same terms as you would be entitled hereunder if you had
+terminated your employment for Good Reason, except that for purposes of
+implementing the foregoing, the date on which any such succession becomes
+effective shall be deemed the Date of Termination.  As used in this Agreement,
+"Company" shall mean the Company as defined herein and any successor to its
+business and/or assets which
+
+
+
+
+
+
+
+<PAGE> 42
+
+                                      26
+
+executes and delivers the agreement provided for in this Section 8 or which
+otherwise becomes bound by all the terms and provisions of this Agreement by
+operation of law.
+
+    (b) This Agreement shall inure to the benefit of and be enforceable by your
+personal or legal representatives, executors, administrators, successors,
+heirs, distributees, devisees and legatees.  If you should die while any amount
+would still be payable to you hereunder if you had continued to live, all such
+amounts, unless otherwise provided herein, shall be paid in accordance with the
+terms of this Agreement to your devisee, legatee or other designee, or if there
+shall be no such designee, to your estate.
+
+    9.  NOTICE.  For the purposes of this Agreement, notices and all other
+communications provided for in the Agreement shall be in writing and shall be
+deemed to have been duly given when delivered or mailed by United States
+registered mail, return receipt requested, postage prepaid, as follows:
+
+        If, to you, to:
+
+                (Name)
+
+
+
+        If, to the Company, to:
+
+                Secretary
+                Bethlehem Steel Corporation
+                Martin Tower
+                1170 Eighth Avenue
+                Bethlehem, Pennsylvania 18016-7699
+
+
+
+
+
+
+
+<PAGE> 43
+
+                                      27
+
+or to such other address as either party may have furnished to the other in
+writing in accordance herewith, except that notice of change of address shall
+be effective only upon receipt.
+
+    10.  MISCELLANEOUS.  No provision of this Agreement may be modified, waived
+or discharged unless such waiver, modification or discharge is agreed to in
+writing and signed by you and such officer as may be specifically designated by
+the Board.  No waiver by either party hereto at any time of any breach by the
+other party hereto of, or compliance with, any condition or provision of this
+Agreement to be performed by such other party shall be deemed a waiver of
+similar or dissimilar provisions or conditions at the same or at any prior or
+subsequent time.  No agreements or representations, oral or otherwise, express
+or implied, with respect to the subject matter hereof have been made by either
+party which are not expressly set forth in this Agreement.  The validity,
+interpretation, construction and performance of this Agreement shall be
+governed by the laws of the Commonwealth of Pennsylvania (regardless of the law
+which may be applicable under principles of conflicts of law).
+
+    11.  CONFIDENTIALITY.  You shall retain in confidence any and all
+confidential information known to you concerning the Company and its business
+so long as such information shall not otherwise be publicly disclosed.
+
+
+
+
+
+
+
+<PAGE> 44
+
+                                      28
+
+    12.  VALIDITY.  The invalidity or unenforceability of any provision of this
+Agreement shall not affect the validity or enforceability of any other
+provision of this Agreement which shall remain in full force and effect.
+
+    13.  COUNTERPARTS.  This Agreement may be executed in several counterparts,
+each of which shall be deemed to be an original but all of which together will
+constitute one and the same instrument.
+
+
+    14.  ARBITRATION.  Any dispute or controversy arising under or in
+connection with this Agreement shall be settled exclusively by arbitration in
+Bethlehem, Pennsylvania in accordance with the rules of (but not necessarily
+appointed by) the American Arbitration Association then in effect except as
+provided herein.  Judgment may be entered on the arbitrator's award in any
+court having jurisdiction, provided, however, that you shall be entitled to
+seek specific performance of your right to be paid until the Date of
+Termination during the pendency of any dispute or controversy arising under or
+in connection with this Agreement.  No such arbitration proceedings shall be
+commenced or conducted until at least 60 days after the parties, in good faith,
+shall have attempted to resolve such dispute by mutual agreement; and the
+parties hereby agree to endeavor in good faith to resolve any dispute by mutual
+agreement.  If mutual agreement cannot be attained, any disputing party, by
+written notice to the other ("Arbitration Notice") may commence arbitration
+proceedings.  Such arbitration shall be conducted before a panel of three
+arbitrators, one appointed by each party within 30 days after the date of the
+Arbitration Notice, and one chosen within 60 days after the date of the
+
+
+
+
+
+
+
+<PAGE> 45
+
+                                      29
+
+Arbitration Notice by the two arbitrators appointed by the disputing parties.
+Any Bethlehem, Pennsylvania court of competent jurisdiction shall appoint any
+arbitrator that has not been appointed within such time periods.  Judgment may
+include costs and attorneys fees and may be entered in any court of competent
+jurisdiction.
+
+    15.  NO GUARANTY OF EMPLOYMENT.  Neither this contract nor any action taken
+hereunder shall be construed as giving you a right to be retained as an
+employee of the Company.  The Company shall be entitled to terminate your
+employment at any time, subject to providing the severance benefits herein
+specified in accordance with the terms hereof.
+
+    If this letter correctly sets forth our agreement on the subject matter
+hereof, kindly sign and return to the Company the enclosed copy of this letter
+which will then constitute our agreement on this subject.
+
+
+                                        Sincerely,
+
+                                        BETHLEHEM STEEL CORPORATION
+
+
+                                        By
+                                           -------------------------
+
+Agreed to this            day
+               ----------
+of                   , 1998
+   ------------------
+
+- ---------------------------
+
+
+
+
+
+
+
+<PAGE> 46
+                                                              Exhibit A
+
+
+
+                                   Statement
+                                   ---------
+
+
+         I,                        , hereby affirm that I am the person
+            -----------------------
+appearing before                      (name of Bank), that my employment with
+                 --------------------
+Bethlehem Steel Corporation (the "Company") terminated on           (date) and
+                                                           ---------
+that, as a result of such employment termination, I am entitled to payment of
+
+not less than $           in respect of amounts owed to me by the Company under
+               ----------
+my severance agreement with the Company dated               , 1998.  I have
+                                              --------------
+attached a worksheet hereto detailing the calculation of the amount specified
+
+in the preceding sentence.
+
+
+                                        ---------------------------------
+                                        Name of Employee
+
+
+County of
+          --------------------
+State of
+          --------------------
+
+         On                      before me personally came
+            -------------------,                           --------------,
+to me known to be the individual described herein and who executed the
+foregoing instrument, and acknowledged that he executed the same.
+
+
+                                        ---------------------------------
+                                        Name of Notary
+
+
+
+I,                        , hereby affirm that (i) I am an authorized
+   -----------------------
+representative of                      (name of Independent Agent), (ii) I have
+              --------------------
+reviewed the calculations prepared by               attached hereto and
+                                      -------------
+(iii) such calculations have been accurately prepared.  Neither I nor
+
+                        (name of
+- -----------------------
+
+
+
+
+
+
+
+<PAGE> 47
+
+
+Independent Agent) have inquired of Bethlehem Steel Corporation (or its
+
+successor) whether           is entitled to the payments to which he/she
+                   ---------
+
+claims or confirmed the date of his/her termination of employment.
+
+
+
+                                             -------------------------
+                                             Name of Independent Agent
+
+
+
+
+
+County of
+          --------------------
+State of
+          --------------------
+
+
+         On                    , before me personally came               , to
+            -------------------                            --------------
+me known to be the individual described herein and who executed the foregoing
+
+instrument, and acknowledged that he executed the same.
+
+
+
+                                          ------------------------------
+                                          Name of Notary
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 48
+
+
+                                                             EXHIBIT 11
+                         BETHLEHEM STEEL CORPORATION
+             STATEMENT REGARDING COMPUTATION OF EARNINGS PER SHARE
+
+     (dollars in millions and shares in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+   THREE MONTHS                                                               NINE MONTHS
+ENDED SEPTEMBER 30                                                        ENDED SEPTEMBER 30
+- ------------------                                                        ------------------
+  1998       1997         BASIC EARNINGS PER SHARE                          1998       1997
+ ------     ------        ------------------------                         ------     ------
+<S>         <C>       <C>                                                  <C>        <C>
+
+  $37.1      $40.6    NET INCOME                                           $143.3     $239.0
+                      LESS DIVIDEND REQUIREMENTS:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                             (7.5)      (7.5)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                             (9.4)      (9.4)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                            (13.4)     (13.4)
+   (0.2)      (0.3)     5% Preference Dividend                               (0.8)      (0.9)
+ -------    -------                                                        -------    -------
+  (10.3)     (10.4)      TOTAL PREFERRED AND PREFERENCE DIVIDENDS           (31.2)     (31.3)
+ -------    -------                                                        -------    -------
+  $26.8      $30.2    NET INCOME APPLICABLE TO COMMON STOCK                 $112.1    $207.7
+ =======    =======                                                        =======    =======
+
+
+ 128,909    112,611   AVERAGE SHARES OF COMMON STOCK                       120,322    112,295
+
+
+  $0.21      $0.27    BASIC EARNINGS PER SHARE                               $0.93      $1.85
+ =======    =======                                                        =======    =======
+
+                         DILUTED EARNINGS PER SHARE
+                         --------------------------
+  $37.1      $40.6    NET INCOME                                           $143.3     $239.0
+                      LESS DIVIDEND REQUIREMENTS:
+   (2.5)      (2.5)     $2.50 Preferred Dividend                             (7.5)      (7.5)
+   (3.1)      (3.1)     $5.00 Preferred Dividend                             (9.4)      (9.4)
+   (4.5)      (4.5)     $3.50 Preferred Dividend                            (13.4)        -
+    -          -        5% Preference Dividend                                 -          -
+ -------    -------                                                        -------    -------
+  $27.0      $30.5    NET INCOME APPLICBLE TO COMMON STOCK                 $113.0     $222.1
+ =======    =======                                                        =======    =======
+
+                      AVERAGE SHARES OF COMMON STOCK AND
+                      OTHER POTENTIALLY DILUTIVE SECURITIES OUTSTANDING:
+ 128,909    112,611     Common Stock                                      120,322    112,295
+     94        164      Stock Options                                         554         55
+   *          *         $2.50 Preferred Stock                               *          *
+   *          *         $5.00 Preferred Stock                               *          *
+   *          *         $3.50 Preferred Stock                               *         12,255
+   2,291      2,456     5% Preference Stock                                 2,291      2,456
+ -------    -------                                                        -------    -------
+ 131,294    115,231              TOTAL                                     123,167    127,061
+ =======    =======                                                        =======    =======
+
+  $0.21      $0.26    DILUTED EARNINGS PER SHARE                             $0.92      $1.75
+ =======    =======                                                        =======    =======
+</TABLE>
+
+
+*  ANTIDILUTIVE
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 49
+
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000,000
+       
+<S>                           <C>
+<PERIOD-TYPE>                 9-MOS
+<FISCAL-YEAR-END>             DEC-31-1998
+<PERIOD-END>                  SEP-30-1998
+<CASH>                                 96
+<SECURITIES>                            0
+<RECEIVABLES>                         275
+<ALLOWANCES>                           22
+<INVENTORY>                          1071
+<CURRENT-ASSETS>                       10
+<PP&E>                               6661
+<DEPRECIATION>                       4058
+<TOTAL-ASSETS>                       5696
+<CURRENT-LIABILITIES>                1027
+<BONDS>                               628
+<PREFERRED-MANDATORY>                   0
+<PREFERRED>                            14
+<COMMON>                              132
+<OTHER-SE>                           1373
+<TOTAL-LIABILITY-AND-EQUITY>         5696
+<SALES>                              3465
+<TOTAL-REVENUES>                     3465
+<CGS>                                2954
+<TOTAL-COSTS>                        3262
+<OTHER-EXPENSES>                        0
+<LOSS-PROVISION>                        0
+<INTEREST-EXPENSE>                     39
+<INCOME-PRETAX>                       172
+<INCOME-TAX>                           29
+<INCOME-CONTINUING>                   143
+<DISCONTINUED>                          0
+<EXTRAORDINARY>                         0
+<CHANGES>                               0
+<NET-INCOME>                          112
+<EPS-PRIMARY>                        0.93
+<EPS-DILUTED>                        0.92
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2986 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JD/3JmT4FoJbQoEbZKVY2E4Bnt8RlhHkgh0tS+dl2US65fxt8KK03Aa0mfKSi9sS
+ ENGQDCnxO7ox3tVm0EQAnQ==
+
+<SEC-DOCUMENT>0000950134-98-006988.txt : 19980817
+<SEC-HEADER>0000950134-98-006988.hdr.sgml : 19980817
+ACCESSION NUMBER:		0000950134-98-006988
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	19980630
+FILED AS OF DATE:		19980814
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043146298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		98689630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		9727336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR QUARTER ENDED JUNE 30, 1998
+<TEXT>
+
+<PAGE>   1
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington D.C. 20549
+ 
+                                   FORM 10-Q
+ 
+<TABLE>
+<S>   <C>
+[X]              QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+                                      FOR THE QUARTERLY PERIOD ENDED JUNE 30, 1998
+                                                           OR
+[ ]             TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+ 
+                         COMMISSION FILE NUMBER 1-11803
+ 
+                          AMERICAN PAD & PAPER COMPANY
+             (Exact name of registrant as specified in its charter)
+ 
+<TABLE>
+<S>                             <C>                             <C>
+           DELAWARE                                                       04-3164298
+(State or other jurisdiction of                                        (I.R.S. Employer
+incorporation or organization)                                        Identification No.)
+</TABLE>
+ 
+                   17304 PRESTON ROAD, SUITE 700, DALLAS, TX
+                                   75252-5613
+                    (Address of principal executive offices)
+                                   (Zip Code)
+ 
+                                 (972) 733-6200
+              (Registrant's telephone number, including area code)
+ 
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  [X]        No  [ ]
+ 
+    As of August 12, 1998, American Pad & Paper Company had 27,724,045 shares of
+Common Stock outstanding.
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>   2
+ 
+                          AMERICAN PAD & PAPER COMPANY
+                      QUARTERLY PERIOD ENDED JUNE 30, 1998
+ 
+                                     INDEX
+ 
+<TABLE>
+<CAPTION>
+                                                              PAGE NO.
+                                                              --------
+<S>                                                           <C>
+PART I FINANCIAL INFORMATION
+  Item 1 Financial Statements
+     Condensed Consolidated Balance Sheets as of June 30,
+      1998 (unaudited) and December 31, 1997................      3
+     Condensed Consolidated Statements of Operations for the
+      three and six months ended June 30, 1998 and 1997
+      (unaudited)...........................................      4
+     Condensed Consolidated Statements of Cash Flows for the
+      six months ended June 30, 1998 and 1997 (unaudited)...      5
+     Notes to Condensed Consolidated Financial Statements
+      (unaudited)...........................................      6
+  Item 2 Management's Discussion and Analysis of Financial
+     Condition and Results of Operations....................     10
+  Item 3 Quantitative and Qualitative Disclosures About
+     Market Risk............................................     18
+PART II OTHER INFORMATION
+  Item 1 Legal Proceedings..................................     19
+  Item 2 Changes in Securities and Use of Proceeds..........     19
+  Item 3 Defaults Upon Senior Securities....................     19
+  Item 4 Submission of Matters to a Vote of Security
+     Holders................................................     19
+  Item 5 Other Information..................................     19
+  Item 6 Exhibits and Reports on Form 8-K...................     20
+</TABLE>
+ 
+                                        2
+<PAGE>   3
+ 
+                        PART 1 -- FINANCIAL INFORMATION
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                  (UNAUDITED)
+ 
+<TABLE>
+<CAPTION>
+                                        ASSETS
+                                                              JUNE 30,    DECEMBER 31,
+                                                                1998          1997
+                                                              ---------   ------------
+<S>                                                           <C>         <C>
+Current assets:
+  Cash......................................................  $  31,419    $   4,855
+  Accounts receivable.......................................     37,596       74,203
+  Inventories...............................................    140,698      154,359
+  Refundable income taxes...................................        751        4,059
+  Prepaid expenses and other current assets.................      2,579        1,402
+  Deferred income taxes.....................................     24,740       11,992
+                                                              ---------    ---------
+          Total current assets..............................    237,783      250,870
+Property, plant and equipment...............................    153,350      151,390
+Intangible assets...........................................    189,545      233,698
+Other.......................................................      2,793        2,443
+                                                              ---------    ---------
+          Total assets......................................  $ 583,471    $ 638,401
+                                                              =========    =========
+ 
+                         LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Current portion of long-term debt.........................  $ 287,918    $   1,538
+  Accounts payable..........................................     33,414       56,356
+  Accrued expenses..........................................     39,796       40,157
+  Income taxes payable......................................         --           --
+                                                              ---------    ---------
+          Total current liabilities.........................    361,128       98,051
+Long-term debt..............................................    138,642      398,577
+Deferred income taxes.......................................     39,477       39,477
+Other.......................................................      1,569        1,630
+                                                              ---------    ---------
+          Total liabilities.................................    540,816      537,735
+                                                              ---------    ---------
+Commitments and contingencies
+Stockholders' equity:
+  Preferred stock, 150 shares authorized, no shares issued
+     and outstanding, respectively..........................         --           --
+  Common stock, voting, $.01 par value, 75,000 shares
+     authorized, 27,724 and 27,436 shares issued and
+     outstanding, respectively..............................        277          274
+  Additional paid-in capital................................    301,287      301,279
+  Accumulated deficit.......................................   (258,909)    (200,887)
+                                                              ---------    ---------
+          Total stockholders' equity........................     42,655      100,666
+                                                              ---------    ---------
+          Total liabilities and stockholders' equity........  $ 583,471    $ 638,401
+                                                              =========    =========
+</TABLE>
+ 
+                      See accompanying notes to condensed
+                       consolidated financial statements.
+ 
+                                        3
+<PAGE>   4
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                  (UNAUDITED)
+ 
+<TABLE>
+<CAPTION>
+                                       THREE MONTHS ENDED JUNE 30,         SIX MONTHS ENDED JUNE 30,
+                                       ---------------------------         -------------------------
+                                          1998             1997              1998            1997
+                                       ----------       ----------         ---------       ---------
+<S>                                    <C>              <C>                <C>             <C>
+Net sales............................   $146,724         $167,160          $308,319        $316,994
+Cost of sales........................    143,327          136,433           285,500         257,558
+                                        --------         --------          --------        --------
+  Gross profit.......................      3,397           30,727            22,819          59,436
+Operating expenses:
+  Selling and marketing..............      5,504            5,241            10,193           9,830
+  General and administrative.........      9,273            3,440            14,705           8,163
+  Loss on sales of accounts
+     receivable......................        714              631             1,461           1,393
+  Amortization of intangible
+     assets..........................      1,608            1,483             3,195           2,869
+  Write-down of intangible assets....     41,000               --            41,000              --
+  Management fees and services.......        530            1,837             1,060           3,692
+                                        --------         --------          --------        --------
+Income (loss) from operations........    (55,232)          18,095           (48,795)         33,489
+Other income (expense):
+  Interest...........................    (11,063)          (9,584)          (21,806)        (17,795)
+  Other income, net..................        (36)              49                15             121
+                                        --------         --------          --------        --------
+Income (loss) before income taxes....    (66,331)           8,560           (70,586)         15,815
+Provision for (benefit from) income
+  taxes..............................    (10,394)           3,852           (12,564)          7,115
+                                        --------         --------          --------        --------
+Net income (loss)....................   $(55,937)        $  4,708          $(58,022)       $  8,700
+                                        ========         ========          ========        ========
+Earnings (loss) per share (Basic)....   $  (2.02)        $   0.17          $  (2.09)       $   0.32
+                                        ========         ========          ========        ========
+Earnings per share (Diluted).........         --         $   0.16                --        $   0.30
+                                                         ========                          ========
+Weighted average number of common
+  shares (Basic).....................     27,724           27,436            27,710          27,436
+                                        ========         ========          ========        ========
+Weighted average number of common
+  shares (Diluted)...................         --           29,316                --          29,369
+                                                         ========                          ========
+</TABLE>
+ 
+                      See accompanying notes to condensed
+                       consolidated financial statements.
+ 
+                                        4
+<PAGE>   5
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                  (UNAUDITED)
+ 
+<TABLE>
+<CAPTION>
+                                                              SIX MONTHS ENDED JUNE 30,
+                                                              -------------------------
+                                                                1998            1997
+                                                              ---------       ---------
+<S>                                                           <C>             <C>
+Cash flows from operating activities:
+  Net income (loss).........................................  $(58,022)       $  8,700
+  Adjustments to reconcile net income (loss) to net cash
+     provided by (used in) operating activities:
+     Depreciation...........................................     6,578           6,341
+     Amortization of goodwill and intangible assets.........     3,195           2,869
+     Write-down of intangible assets........................    41,000              --
+     Amortization of debt issuance costs....................     1,808           1,265
+     Loss on sale of assets.................................       141              --
+     Changes in assets and liabilities, net of effects of
+      acquisitions:
+       Accounts receivable..................................    48,607          11,371
+       Refundable income taxes..............................     3,308              --
+       Inventories..........................................    13,661         (33,440)
+       Prepaid expenses and other...........................    (1,176)         (1,119)
+       Income tax asset, net................................   (12,748)          5,983
+       Accounts payable.....................................   (22,942)        (10,003)
+       Accrued expenses.....................................      (361)        (25,628)
+       Other assets.........................................      (806)          2,045
+       Other liabilities....................................       (62)           (861)
+                                                              --------        --------
+          Net cash provided by (used in) operating
+            activities......................................    22,181         (32,477)
+                                                              --------        --------
+Cash flows from investing activities:
+  Purchase of business, including acquisition costs.........        --         (50,559)
+  Purchases of property and equipment.......................    (8,694)         (9,578)
+  Proceeds from sale of assets..............................        14               4
+                                                              --------        --------
+          Net cash used in investing activities.............    (8,680)        (60,133)
+                                                              --------        --------
+Cash flows from financing activities:
+  Net borrowings on credit agreement and long-term debt.....    27,500         110,500
+  Repayment of long-term debt...............................    (1,055)         (1,091)
+  Repayment of accounts receivable financing................   (12,000)        (18,000)
+  Debt issuance costs.......................................    (1,393)             --
+  Other.....................................................        11             550
+                                                              --------        --------
+          Net cash provided by financing activities.........    13,063          91,959
+                                                              --------        --------
+Net increase (decrease) in cash.............................    26,564            (651)
+Cash, beginning of period...................................     4,855           2,290
+                                                              --------        --------
+Cash, end of period.........................................  $ 31,419        $  1,639
+                                                              ========        ========
+</TABLE>
+ 
+                      See accompanying notes to condensed
+                       consolidated financial statements.
+ 
+                                        5
+<PAGE>   6
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                 JUNE 30, 1998
+           (AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+ 
+1. ORGANIZATION AND BASIS OF PRESENTATION
+ 
+  Organization and Basis of Presentation
+ 
+     American Pad & Paper Company (the "Company") is a holding company, which
+conducts its operations through American Pad & Paper Company of Delaware, Inc.
+("AP&P Delaware") and its wholly owned subsidiaries.
+ 
+     The financial statements of the Company present the accounts and operations
+of the Company and its wholly owned subsidiaries. Additionally, the consolidated
+financial statements include the accounts of Notepad Funding Corporation, a
+special purpose corporation used in connection with an accounts receivable based
+credit facility. All significant intercompany balances have been eliminated.
+Certain prior year amounts have been reclassified for comparative purposes.
+ 
+  Business
+ 
+     The Company is a leading manufacturer and marketer of paper-based office
+products in North America. The Company operates in one business segment,
+converting paper into office products, and offers a broad assortment of products
+through two complementary divisions: Ampad (writing pads, file folders, retail
+envelopes, and other paper-based office products) and Williamhouse (business
+envelopes and seasonal greeting cards). The Company's products are distributed
+through large mass merchant retailers, office product superstores, warehouse
+clubs, major contract stationers, office products wholesalers, paper merchants,
+and independent dealers.
+ 
+  Interim Financial Information
+ 
+     The accompanying interim financial statements are unaudited. Certain
+information and disclosures normally included in financial statements prepared
+in accordance with generally accepted accounting principles have been condensed
+or omitted, although the Company believes the disclosures included herein are
+adequate to make the information presented not misleading. These interim
+financial statements should be read in conjunction with the Company's financial
+statements for the year ended December 31, 1997.
+ 
+     The accompanying interim financial statements contain all adjustments,
+consisting only of normal recurring adjustments, necessary for a fair
+presentation of the Company's financial position at June 30, 1998 and the
+results of its operations and its cash flows for the three month and six month
+periods ended June 30, 1998 and 1997. The results of operations for the interim
+periods presented are not necessarily indicative of results to be expected for
+the full fiscal year.
+ 
+  American Pad & Paper Company of Delaware, Inc.
+ 
+     The Company's wholly owned subsidiary, AP&P Delaware, is the issuer of 13%
+Senior Subordinated Notes ("Notes"). Terms of the Notes require, among other
+matters, that AP&P Delaware provide annual audited and quarterly unaudited
+financial statements to the holders of the notes. There are no material
+differences between the financial statements of the Company and those of AP&P
+Delaware. The composition of AP&P Delaware's stockholder's equity at June 30,
+1998 consists of one hundred shares of $0.01 par value common stock, paid in
+capital of $202,368 and an accumulated deficit of $159,713 and, in total, is
+equal to the stockholders' equity of the Company.
+ 
+                                        6
+<PAGE>   7
+                          AMERICAN PAD & PAPER COMPANY
+ 
+      NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                 JUNE 30, 1998
+           (AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+ 
+2. ACCOUNTS RECEIVABLE
+ 
+     Accounts receivable consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                1998         1997
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+Accounts receivable -- trade, excluding $48,000 and $60,000,
+  respectively, which are sold as part of a $60,000 accounts
+  receivable financing facility.............................  $ 36,161     $ 72,975
+Accounts receivable -- other................................     3,685        4,022
+Less allowance for doubtful accounts and reserves for
+  customers deductions, returns and cash discounts..........    (2,250)      (2,794)
+                                                              --------     --------
+                                                              $ 37,596     $ 74,203
+                                                              ========     ========
+</TABLE>
+ 
+3. INVENTORIES
+ 
+     Inventories consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                1998         1997
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+Raw materials and semi-finished goods.......................  $ 40,613     $ 54,285
+Work in process.............................................     5,937        5,600
+Finished goods..............................................    98,615      100,480
+                                                              --------     --------
+                                                               145,165      160,365
+LIFO reserve................................................    (4,467)      (6,006)
+                                                              --------     --------
+                                                              $140,698     $154,359
+                                                              ========     ========
+</TABLE>
+ 
+4. PROPERTY, PLANT AND EQUIPMENT
+ 
+     Property, plant and equipment consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                1998         1997
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+Land........................................................  $  7,058     $  7,035
+Buildings and leasehold improvements........................    34,306       30,308
+Machinery and equipment.....................................   129,187      115,168
+Office furniture and fixtures...............................    11,272        9,818
+Construction in progress....................................     4,151       15,322
+                                                              --------     --------
+                                                               185,974      177,651
+Less accumulated depreciation and amortization..............    32,624       26,261
+                                                              --------     --------
+                                                              $153,350     $151,390
+                                                              ========     ========
+</TABLE>
+ 
+                                        7
+<PAGE>   8
+                          AMERICAN PAD & PAPER COMPANY
+ 
+      NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                 JUNE 30, 1998
+           (AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+ 
+5. INTANGIBLE ASSETS
+ 
+     Intangible assets consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                1998         1997
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+Goodwill....................................................  $149,936     $189,861
+Intangible assets, principally tradenames...................    43,667       44,284
+Debt issuance costs.........................................    19,761       18,369
+                                                              --------     --------
+                                                               213,364      252,514
+Less accumulated amortization...............................    23,819       18,816
+                                                              --------     --------
+                                                              $189,545     $233,698
+                                                              ========     ========
+</TABLE>
+ 
+     At June 30, 1998, the Company wrote-down certain long-lived assets,
+primarily goodwill and tradenames associated with its forms business
+(principally Shade/Allied) by $41,000 to their estimated net realizable value,
+as a result of the company's decision to exit this business in its current form.
+ 
+6. ACCRUED EXPENSES
+ 
+     Accrued expenses consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              JUNE 30,   DECEMBER 31,
+                                                                1998         1997
+                                                              --------   ------------
+<S>                                                           <C>        <C>
+Acquisition integration costs...............................  $ 6,863      $ 8,534
+Sales volume discounts......................................    9,601       11,634
+Salaries and wages..........................................    4,260        4,242
+Interest....................................................    6,308        5,927
+Other.......................................................   12,764        9,820
+                                                              -------      -------
+                                                              $39,796      $40,157
+                                                              =======      =======
+</TABLE>
+ 
+7. BORROWINGS
+ 
+     In February 1998, the Company and its banking group agreed to an increase
+in the size of the revolving credit agreement from $300.0 million to $330.0
+million for a period of one year. After such time, the level of debt available
+under such credit agreement will be reduced to $300.0 million. In December 1997,
+February 1998 and April 1998, certain covenants in the credit agreement were
+also modified as of the end of 1997 and for a period ending in February 1999.
+Unless approved by the banking group, the Company will be restricted to $15.0
+million in net capital expenditures for 1998 and will be restricted from any
+acquisitions. The interest rate incurred by the Company will vary each quarter
+in 1998 depending on the Company's consolidated debt to EBITDA ratio at the
+beginning of each quarter. The Company paid fees and expenses of $1.4 million to
+its banking group and lawyers in connection with the amendments to the credit
+agreement.
+ 
+     As a result of the second quarter loss, the Company was in default of
+certain EBITDA covenants at June 30, 1998. On June 30, 1998 the Company obtained
+an amendment to its credit agreement waiving all defaults of its financial
+covenants through July 31, 1998. On July 24, 1998, the waiver was extended
+through September 30, 1998. The extension also amended the credit agreement to
+provide for: changes in the voting procedures necessary to access the additional
+$30.0 million available under the credit line and fees of $.3 million to be paid
+to those banks approving the extension. The Company's banking group has not
+accelerated the debt under the bank credit agreement. However, the Company will
+be unable to meet the
+ 
+                                        8
+<PAGE>   9
+                          AMERICAN PAD & PAPER COMPANY
+ 
+      NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                 JUNE 30, 1998
+           (AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+ 
+EBITDA covenants for September 30, 1998 in the current bank credit agreement,
+and it is unlikely that the Company will meet such existing EBITDA covenants for
+future measurement dates. As a result $286,900 of the Company's long-term debt
+has been reclassified as current portion of long-term debt at June 30, 1998 as
+required by EITF 86-30. The Company is currently in negotiations with its bank
+group to obtain a permanent amendment to its bank credit agreement. Such an
+amendment would provide for attainable EBITDA and other covenants and extended
+debt maturities. While the Company cannot predict with assurance the outcome of
+such negotiations, the Company expects to obtain such a permanent amendment to
+its bank credit agreement. Once such a permanent amendment is obtained, the
+Company's bank debt will be reclassified to long-term debt on the balance sheet.
+ 
+8. RELATED PARTY TRANSACTIONS
+ 
+     Effective March 31, 1998, the Company loaned $1.0 million to one of its
+Directors on an interest bearing note receivable. This note accrues interest at
+5.89%, compounded annually, and is due on March 31, 2001. 546,385 shares of the
+Company's common stock owned by this Director and the options not yet exercised
+by this Director secure this note.
+ 
+                                        9
+<PAGE>   10
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ITEM 2 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+ 
+OVERVIEW
+ 
+     The Company is a leading manufacturer and marketer of nationally branded
+and private label paper-based office products (excluding copy paper) in the $60
+billion to $70 billion North American office products industry. The Company
+offers a broad assortment of products including writing pads, file folders,
+envelopes and other paper-based products. Through its Ampad division, the
+Company is among the largest suppliers of pads and other paper-based writing
+products, filing supplies and retail envelopes to many of the largest and
+fastest growing office products distributors. Through its Williamhouse division,
+the Company is the leading supplier of mill branded specialty and commodity
+business envelopes to paper merchants and distributors. The Company believes
+that its future operating results will not be directly comparable to its
+historical operating results because of its strategic acquisitions. Certain
+factors, which have affected, and may affect prospectively, the operating
+results of the Company are discussed below.
+ 
+     Purchase Accounting Effects. The Company's acquisitions have been accounted
+for using the purchase accounting method. The acquisitions have currently
+affected, and will prospectively affect, the Company's results of operations in
+certain significant respects. The aggregate acquisition costs (including
+assumption of debt) are allocated to the net assets acquired based on the fair
+market value of such net assets. The allocations of the purchase price result in
+an increase in the historical book value of certain assets such as property,
+plant and equipment and intangible assets, including goodwill, which results in
+incremental annual depreciation and amortization expense each year.
+ 
+     Raw Material. The Company's principal raw material is paper. Certain
+commodity grades utilized by the Company have shown considerable price
+volatility since 1992. From May 1997 through October 1997, all but one of the
+key commodity grades of paper utilized by the Company increased in cost between
+6% and 18%. Due to strategic customer considerations and competitive market
+conditions, the Company did not begin to recover a significant portion of the
+increases in paper costs affecting both its divisions until December 1997. The
+Company continued to implement sales price increases during the first half of
+1998. Since October 1997, the key commodity grades of paper utilized by the
+Company decreased in cost between 6% and 18%. Paper price volatility is expected
+to continue to have an effect on net sales and cost of sales and there is no
+assurance that the Company will not be materially affected by future
+fluctuations in the price of paper. Fluctuations in paper prices can have an
+effect on quarterly comparisons of the results of operations and financial
+condition of the Company.
+ 
+RECENT DEVELOPMENTS
+ 
+     Management Changes. The Company appointed James W. Swent, III as Executive
+Vice President and Chief Financial Officer and David N. Pilotte as Vice
+President and Corporate Controller on June 2 and 10, respectively. Mr. Swent was
+previously Chief Executive Officer of Cyrix Corporation, a manufacturer of
+microprocessors for the PC industry, until its merger with National
+Semiconductor. In addition, he has held operations and financial executive
+positions with a number of companies, including Northern Telecom, Rodime PLC and
+Memorex. On July 8, 1998 the Company appointed Mr. Swent as Chief Executive
+Officer and a member of its Board of Directors ("Board"). Mr. Swent replaced
+Charles G. Hanson who retired from his position as Chairman and Chief Executive
+Officer and director of the Company. Robert C. Gay, who had been a director of
+American Pad & Paper since 1992 and who is a Managing Director of Bain Capital,
+Inc., became Chairman of the Board. In addition, Paul B. Edgerly, a Managing
+Director of Bain Capital, was added to the Board, increasing the Board size to
+nine members. Also, Russel M. Gard stepped down as President and Chief Operating
+Officer, but will continue his duties as Vice Chairman and a member of the
+Board. Timothy E. Needham, who joined the Company in 1995 following the
+acquisition of Williamhouse, was promoted to President and Chief Operating
+Officer. On July 20, 1998, the Company appointed William L. Morgan as Executive
+Vice President, Operations. Mr. Morgan has 35 years of progressive manufacturing
+experience ranging from entrepreneurial start-ups to large scale multi-national
+corporations including Northern Telecom, Texas Instruments, Memorex and Fujitsu.
+ 
+                                       10
+<PAGE>   11
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+     Company Initiatives/Restructuring. Under the leadership of new management,
+the Company has begun a review of all operations with the challenge of
+rebuilding market share, reducing debt and returning the Company to
+profitability. On July 15, 1998, the Board approved the Company's exit from the
+forms business in its current form which has produced unfavorable margins. As
+part of the review process, the Company retained the management consulting firm
+of Bain & Company and the investment banking firm of Goldman, Sachs & Company to
+assist the Company in evaluating its current position in the marketplace and in
+setting the Company's long term strategic direction. Goldman Sachs will explore
+external strategic and financial alternatives to maximize shareholder value.
+Bain & Company will work closely with the Company's customers and suppliers to
+evaluate core strengths and identify opportunities for improvement. They will
+also assist the Company to restructure manufacturing to best serve each of the
+Company's markets. Significant restructuring charges are expected for the three
+months ending September 30, 1998.
+ 
+     Covenant Violations/Negotiation to Modify Agreement. As a result of the
+second quarter loss, the Company was in default of certain covenants based on
+EBITDA levels at June 30, 1998. On June 30, 1998 the Company obtained an
+amendment to its credit agreement waiving all defaults of its financial
+covenants through July 31, 1998. On July 24, 1998, the waiver was extended
+through September 30, 1998. The extension also amends the credit agreement to
+provide for: changes in the voting procedures necessary to access the additional
+$30.0 million available under the credit line and fees of $.3 million to be paid
+to those banks approving the extension. The Company's banking group has not
+accelerated the debt under the bank credit agreement. However, the Company will
+be unable to meet the EBITDA covenants for September 30, 1998 in the current
+bank credit agreement, and it is unlikely that the Company will meet such
+existing EBITDA covenants for future measurement dates. As a result, $286,900 of
+the Company's long-term debt has been reclassified as current portion of
+long-term debt at June 30, 1998 as required by EITF 86-30. The Company is
+currently in negotiations with its bank group to obtain a permanent amendment to
+its bank credit agreement with attainable EBITDA and other covenants. While the
+Company cannot predict with assurance the outcome of such negotiations, the
+Company expects to obtain such a permanent amendment to its bank credit
+agreement. Once such a permanent amendment is obtained, the Company's bank debt
+will be reclassified to long-term debt on the balance sheet.
+ 
+                                       11
+<PAGE>   12
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+RESULTS OF OPERATIONS
+ 
+     The following table summarizes the Company's historical results of
+operations as a percentage of net sales for the three months and six months
+ended June 30, 1998 and 1997. The Company's historical results of operations for
+each of these periods are significantly affected by the results for
+Shade/Allied, which was acquired on February 11, 1997.
+ 
+<TABLE>
+<CAPTION>
+                                      THREE MONTHS ENDED JUNE 30,      SIX MONTHS ENDED JUNE 30,
+                                      ---------------------------      -------------------------
+                                        1998              1997           1998            1997
+                                      ---------         ---------      ---------       ---------
+<S>                                   <C>               <C>            <C>             <C>
+Income Statement Data
+  Net sales.........................    100.0%            100.0%         100.0%          100.0%
+  Cost of sales.....................     97.7%             81.6%          92.6%           81.3%
+                                       ------            ------         ------          ------
+     Gross profit...................      2.3%             18.4%           7.4%           18.7%
+  Operating expenses:
+     Selling and marketing..........      3.8%              3.1%           3.3%            3.1%
+     General and administrative.....      6.3%              2.1%           4.8%            2.6%
+     Loss on sale of accounts
+       receivable...................      0.5%              0.4%           0.5%            0.4%
+     Amortization of intangible
+       assets.......................      1.1%              0.9%           1.0%            0.9%
+     Write-down of intangible
+       assets.......................     27.9%              0.0%          13.3%            0.0%
+     Management fees and services...      0.4%              1.1%           0.3%            1.2%
+                                       ------            ------         ------          ------
+  Income (loss) from operations.....    (37.7)%            10.8%         (15.8)%          10.5%
+  Other income (expense):
+     Interest.......................     (7.5)%            (5.7)%         (7.1)%          (5.6)%
+                                       ------            ------         ------          ------
+  Income (loss) before income
+     taxes..........................    (45.2)%             5.1%         (22.9)%           4.9%
+  Provision for (benefit from)
+     income taxes...................     (7.1)%             2.3%          (4.1)%           2.2%
+                                       ------            ------         ------          ------
+  Net income (loss).................    (38.1)%             2.8%         (18.8)%           2.7%
+                                       ======            ======         ======          ======
+</TABLE>
+ 
+THREE MONTHS ENDED JUNE 30, 1998 COMPARED TO THREE MONTHS ENDED JUNE 30, 1997
+ 
+     Net Sales for the three months ended June 30, 1998 decreased by $20.5
+million, or 12.3%, to $146.7 million from $167.2 million for the three months
+ended June 30, 1997. This net sales decrease is comprised of a $11.0 million
+reduction in sales spread evenly among continuous forms, envelopes and writing
+products and a $9.5 million increase in customer incentives. The lower sales are
+due to lower volumes caused by temporarily reduced orders resulting from major
+customer inventory reductions, partially offset by higher prices. The increased
+customer incentives are due to a changing product mix and additional rebate
+programs caused by more competitive pricing.
+ 
+     Gross Profit for the three months ended June 30, 1998 decreased by $27.3
+million, or 88.9%, to $3.4 million from $30.7 million for the three months ended
+June 30, 1997. Gross profit margin decreased to 2.3% for the three months ended
+June 30, 1998 from 18.4% for the three months ended June 30, 1997. The decrease
+in gross profit margin is primarily attributable to higher unit production costs
+due to underutilized capacity resulting from the Company's efforts to reduce its
+inventory, a reduction in selling margins due to competitive pricing pressures,
+and a change in product mix, particularly the ongoing sales of continuous forms
+at unfavorable margins. In addition, the second quarter of 1998 includes
+approximately $7.5 million of charges resulting from reevaluating certain
+inventories based on changes in current market conditions and accruals for
+workers' compensation and property tax.
+ 
+                                       12
+<PAGE>   13
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+     Selling and marketing expenses for the three months ended June 30, 1998
+increased to $5.5 million, or 3.8% of sales from $5.2 million or 3.1% for the
+three months ended June 30, 1997. The increase of $0.3 million was comprised
+primarily of severance costs.
+ 
+     General and administrative expenses for the three months ended June 30,
+1998 increased to $9.3 million from $3.4 million for the three months ended June
+30, 1997, an increase of $5.9 million. This increase is primarily attributable
+to the Company's reevaluation of certain assets, which resulted in $1.7 million
+of current charges for additional allowance for doubtful accounts stemming from
+customer deductions and one time severance costs and litigation costs of $1.3
+million. The remainder of the increase is attributable to one time charges
+associated with centralizing certain functions in Dallas.
+ 
+     Losses on sales of accounts receivable for the three months ended June 30,
+1998 increased to $0.7 million from $0.6 million for the three months ended June
+30, 1997 due to a higher average level of accounts receivable sold to the third
+party trust in the first half of 1998, partially offset by a slightly lower
+average effective interest rate.
+ 
+     Goodwill and intangible asset amortization expense for the three months
+ended June 30, 1998 increased to $1.6 million from $1.5 million for the three
+months ended June 30, 1997, an increase of $0.1 million.
+ 
+     Write-down of Intangible Assets expense of $41.0 million for the three
+months ended June 30, 1998 reflects a write-off of goodwill and a write-down of
+intangible assets associated with the Shade/Allied continuous forms business
+resulting from the Company's decision to exit the forms business in its current
+form.
+ 
+     Management fees and services expense for the three months ended June 30,
+1998 amounted to $0.5 million as compared to $1.8 million for the three months
+ended June 30, 1997. The change in management fees is due primarily to a one
+year non-recurring consulting agreement with the former president of Niagara,
+which expired June 30, 1997.
+ 
+     Interest expense for the three months ended June 30, 1998 increased to
+$11.1 million from $9.6 million for the three months ended June 30, 1997, an
+increase of $1.5 million. Of this increase, $0.7 million is attributable to
+increased debt levels, $0.4 million is attributable to increased interest rates
+and $0.4 million is attributable to the amortization of fees paid in connection
+with amendments to the credit agreement obtained in February 1998 and other
+costs.
+ 
+     The income tax provision for the three month period ended June 30, 1998
+reflects an effective tax rate of 15.7% versus an effective tax rate of 45.0%
+for the three month period ended June 30, 1997. Due to the expected effect of
+nondeductible expenses during 1998, primarily goodwill amortization, the Company
+lowered its effective income tax rate in the second quarter of 1998 to an annual
+effective rate of 17.8%.
+ 
+SIX MONTHS ENDED JUNE 30, 1998 COMPARED TO SIX MONTHS ENDED JUNE 30, 1997
+ 
+     Net Sales for the six months ended June 30, 1998 decreased by $8.7 million,
+or 2.7%, to $308.3 million from $317.0 million for the six months ended June 30,
+1997. This net sales decrease is comprised of a $4.2 million increase in sales
+offset by a $12.6 million increase in customer incentives and a $0.3 million
+increase in cash discounts. The net sales increase, is primarily attributable
+($3.3 million) to owning Shade/ Allied for the full first half of 1998 versus
+only four and a half months in the same period in 1997. The increased customer
+incentives are due to a changing product mix and additional rebate programs
+caused by more competitive pricing.
+ 
+     Gross Profit for the six months ended June 30, 1998 decreased by $36.6
+million, or 61.6%, to $22.8 million from $59.4 million for the six months ended
+June 30, 1997. Gross profit margin decreased to 7.4% for the six months ended
+June 30, 1998 from 18.7% for the six months ended June 30, 1997. The
+                                       13
+<PAGE>   14
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+decrease in gross profit margin is primarily attributable to higher unit
+production costs due to underutilized capacity resulting from the Company's
+efforts to reduce its inventory, a reduction in selling margins due to
+competitive pricing pressures, and a change in product mix, particularly the
+ongoing sales of continuous forms at unfavorable margins. In addition, the
+second half of 1998 includes approximately $7.5 million of charges resulting
+from reevaluating certain inventories based on changes in current market
+conditions and accruals for workers' compensation and property tax.
+ 
+     Selling and marketing expenses for the six months ended June 30, 1998
+increased to $10.2 million, or 3.3% of sales, from $9.8 million, or 3.1% of
+sales, for the six months ended June 30, 1997. The increase of $0.4 million, or
+0.1% of sales was comprised primarily of severance costs.
+ 
+     General and administrative expenses for the six months ended June 30, 1998
+increased to $14.7 million from $8.2 million for the six months ended June 30,
+1997, an increase of $6.5 million. This increase is primarily attributable to
+the Company's reevaluation of certain assets which resulted in $1.7 million of
+current charges for additional allowance for doubtful accounts stemming from
+customer deductions and one time severance and litigation costs of $1.3 million.
+Of the remainder of the increase, $0.1 million is attributable to owning
+Shade/Allied for the full first half of 1998 versus only four and a half months
+in the same period in 1997 and one time charges associated with centralizing
+certain functions in Dallas.
+ 
+     Losses on sales of accounts receivable for the six months ended June 30,
+1998 increased to $1.5 million from $1.4 million for the six months ended June
+30, 1997 due to a higher average interest rate, partially offset by a lower
+average level of accounts receivable sold to the third party trust in the first
+half of 1998.
+ 
+     Goodwill and intangible asset amortization expense for the six months ended
+June 30, 1998 increased to $3.2 million from $2.9 million for the six months
+ended June 30, 1997, an increase of $0.3 million, due primarily to six months
+amortization of goodwill associated with the acquisition of Shade/Allied for the
+six months ended June 30, 1998 as compared to four and a half months for the six
+months ended June 30, 1997.
+ 
+     Write-down of Intangible Assets expense of $41.0 million for the six months
+ended June 30, 1998 reflects a write-off of goodwill and a write-down of
+intangible assets associated with the Shade/Allied continuous forms business
+resulting from the Company's decision to exit the forms business in its current
+form.
+ 
+     Management fees and services expense for the six months ended June 30, 1998
+amounted to $1.1 million as compared to $3.7 million for the six months ended
+June 30, 1997. The change in management fees is due primarily to a one-year
+non-recurring consulting agreement with the former president of Niagara, which
+expired June 30, 1997.
+ 
+     Interest expense for the six months ended June 30, 1998 increased to $21.8
+million from $17.8 million for the six months ended June 30, 1997, an increase
+of $4.0 million. Of this increase, $2.6 million is attributable to increased
+debt levels, $0.9 million is attributable to increased interest rates and $0.5
+million is attributable to amortization of fees paid in connection with
+amendments to the credit agreement obtained in February 1998 and other costs.
+ 
+     The income tax provision for the six month period ended June 30, 1998
+reflects an effective tax rate of 17.8% versus an effective tax rate of 45.0%
+for the six month period ended June 30, 1997. Due to the expected effect of
+nondeductible expenses during 1998, primarily goodwill amortization, the Company
+lowered its effective income tax rate in 1998.
+ 
+KNOWN TRENDS AND SEASONALITY
+ 
+     The Company does experience some seasonality in its business operations.
+During the Company's third and fourth quarters, net sales tend to be higher than
+in the first and second quarters due to higher product sales of back-to-school,
+seasonal greeting card and tax filing products.
+                                       14
+<PAGE>   15
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+     The Company's Ampad division sells primarily to fast growing customers such
+as office products superstores, mass merchants and national contract stationers.
+Such customers periodically adjust the levels of inventory in the retail
+distribution channels, either in retail stores or in distribution centers. The
+Company has determined that lower than expected sales will occur during the
+quarters in which such downward adjustments are made. The Company is not able to
+predict the future effect of such adjustments; however, it is likely that its
+retail customers will continue to adjust inventory levels in future quarters.
+ 
+     The Company's gross profit is directly affected by, among other factors,
+the mix of products sold. Based on the Company's current product categories, the
+Company's gross profit will be negatively or positively affected as the actual
+product sales mix changes.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+     Net cash provided by operating activities for the six months ended June 30,
+1998 was $22.2 million as compared to net cash used by operating activities for
+the six months ended June 30, 1997 of $32.5 million. This increase is primarily
+the net result of the following: (i) cash used by the net loss of $5.3 million
+after adjustment for non-cash expenses, (ii) a decrease in accounts receivable
+of $48.6 million as a result of collection of year end receivable balances and
+improving days sales outstanding in receivables, (iii) a decrease in inventories
+of $13.7 million, (iv) a reduction of accounts payable of $22.9 million, and (v)
+a net change in other assets and liabilities of $11.9 million.
+ 
+     Cash used in investing activities for the six months ended June 30, 1998
+and 1997 was $8.7 million and $60.1 million, respectively. The first half 1998
+use was due to the purchase of equipment, principally production equipment. The
+first half of 1997 use was due to the Shade/Allied acquisition of $50.5 million
+and purchases of equipment of $9.6 million.
+ 
+     Net cash provided by financing activities during the first six months of
+1998 and 1997 was $13.1 million and $92.0 million, respectively. Net cash
+provided during the first half of 1998 resulted from the net of the repayment of
+$12.0 million in financing outstanding under the accounts receivable credit
+facility, payment of fees in connection with amendments to the bank credit
+agreement of $1.4 million and borrowings of $27.5 million under the bank credit
+agreement. During the first half of 1997, the Company borrowed $110.5 million to
+finance (i) repayment of $18.0 million in notes outstanding under its accounts
+receivable credit facility, (ii) the acquisition of Shade/Allied, (iii) the
+purchases of equipment and (iv) its working capital needs.
+ 
+     A portion of the consolidated debt of the Company bears interest at
+floating rates; therefore, its financial condition is and will continue to be
+affected by changes in prevailing interest rates. The Company has entered into
+an interest rate protection agreement to minimize the impact from a rise in
+interest rates.
+ 
+     In February 1998, the Company and its banking group agreed to an increase
+in the size of the revolving credit agreement from $300.0 million to $330.0
+million for a period of one year. After such time, the level of debt available
+under such credit agreement will be reduced to $300.0 million. In December 1997,
+February 1998 and April 1998, certain covenants in the credit agreement were
+also modified as of the end of 1997 and for a period ending in February 1999.
+Unless approved by the banking group, the Company will be restricted to $15.0
+million in net capital expenditures for 1998 and will be restricted from any
+acquisitions. The interest rate incurred by the Company will vary each quarter
+in 1998 depending on the Company's consolidated debt to EBITDA ratio at the
+beginning of each quarter. The Company paid fees and expenses of $1.4 million to
+its banking group and lawyers in connection with the amendments to the credit
+agreement.
+ 
+     As a result of the second quarter loss, the Company was in default of
+certain EBITDA covenants at June 30, 1998. On June 30, 1998 the Company obtained
+an amendment to its credit agreement waiving all defaults of its financial
+covenants through July 31, 1998. On July 24, 1998, the waiver was extended
+through
+                                       15
+<PAGE>   16
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+September 30, 1998. The extension also amended the credit agreement to provide
+for: changes in the voting procedures necessary to access the additional $30.0
+million available under the credit line and fees of $.3 million to be paid to
+those banks approving the extension. The Company's banking group has not
+accelerated the debt under the bank credit agreement. However, the Company will
+be unable to meet the EBITDA covenants for September 30, 1998 in the current
+bank credit agreement and it is unlikely that the Company will meet such
+existing EBITDA covenants for future measurement dates. As a result, $286,900 of
+the Company's long-term debt has been reclassified as current portion of
+long-term debt at June 30, 1998 as required by EITF 86-30. The Company is
+currently in negotiations with its bank group to obtain a permanent amendment to
+its bank credit agreement with attainable EBITDA and other covenants and
+extended debt maturities. While the Company cannot predict with assurance the
+outcome of such negotiations, the Company expects to obtain such a permanent
+amendment to its bank credit agreement. Once such a permanent amendment is
+obtained, the Company's bank debt will be reclassified to long-term debt on the
+balance sheet.
+ 
+     The ability of the Company to meet its debt service obligations and reduce
+its total debt will be dependent upon obtaining the previously described
+permanent amendment to its bank credit agreement and the future performance of
+the Company and its subsidiaries. In turn, such performance will be subject to
+general economic conditions and to financial, business and other factors,
+including factors beyond the Company's control. Should the Company not be able
+to obtain such an amendment, the Company would explore other financing
+alternatives. These alternatives include but are not limited to a refinancing of
+its bank debt, raising new private or public debt, raising additional public
+equity capital, reducing the level of capital expenditures, reducing operating
+costs and selling certain assets. While the Company expects that it will obtain
+the previously described amendment to the bank credit agreement and/or that
+other financing will be available and that there will be sufficient funds for
+1999 operations, there can be no assurance as to the ultimate outcome of the
+bank agreement amendment or financing discussions.
+ 
+     Management believes that, based upon cash on hand of $31.4 million at June
+30, 1998, estimates of current and future operations, and other available
+sources of funds including borrowings under the bank credit agreement and the
+accounts receivable facility, its finances will be adequate for 1998 to make
+required payments of principal and interest on the Company's indebtedness, to
+fund anticipated capital expenditures of approximately $7 million during the
+remainder of 1998, and to meet working capital requirements.
+ 
+INFLATION
+ 
+     The Company believes that inflation has not had a material impact on its
+results of operations for the six months ended June 30, 1998 and 1997.
+ 
+RECENTLY ISSUED ACCOUNTING STANDARDS
+ 
+     The Accounting Standards Executive Committee (AcSEC) issued Statement of
+Position (SOP) 98-5, which is effective for fiscal years commencing after
+December 15, 1998. SOP 98-5, Reporting on the Costs of Start-up Activities,
+prescribes that start-up costs, including organization costs, should be expensed
+as incurred. The SOP states that initial application should be reported as a
+cumulative effect of a change in accounting principle. The Company will adopt
+this SOP for its fiscal year ending December 31, 1999. Assuming an effective tax
+rate of 42.5% for the fiscal year ending December 31, 1999, the Company will
+report a charge of $.4 million (net of tax benefit of $.3 million) in the first
+quarter of 1999.
+ 
+                                       16
+<PAGE>   17
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+FORWARD-LOOKING STATEMENTS
+ 
+     The Company is including the following cautionary statement in this Form
+10-Q to make applicable and take advantage of the safe harbor provisions of the
+Private Securities Litigation Reform Act of 1995 for any forward-looking
+statements made by, or on behalf of, the Company. Forward-looking statements
+include statements concerning plans, objectives, goals, strategies, future
+events or performance, and underlying assumptions and other statements which are
+other than statements of historical facts. From time to time, the Company may
+publish or otherwise make available forward-looking statements of this nature.
+All such subsequent forward-looking statements, whether written or oral and
+whether made by or on behalf of the Company, are also expressly qualified by
+these cautionary statements. Certain statements contained herein are
+forward-looking statements and accordingly involve risks and uncertainties,
+which could cause actual results, or outcomes to differ materially from those
+expressed in the forward-looking statements. The forward-looking statements
+contained herein are based on various assumptions, many of which are based, in
+turn, upon further assumptions. The Company's expectations, beliefs and
+projections are expressed in good faith and are believed by the Company to have
+a reasonable basis, including without limitation, management's examination of
+historical operating trends, data contained in the Company's records and other
+data available from third parties, but there can be no assurance that
+management's expectation, beliefs or projections will result or be achieved or
+accomplished. In addition to the other factors and matters discussed elsewhere
+herein, the following are important factors that, in the view of the Company,
+could cause actual results to differ materially from those discussed in the
+forward-looking statements:
+ 
+         1. Changes in economic conditions, in particular those, which affect
+            the retail and wholesale office product markets.
+ 
+         2. Changes in the availability and/or price of paper, in particular if
+            increases in the price of paper are not passed along to the
+            Company's customers.
+ 
+         3. Changes in senior management or control of the Company.
+ 
+         4. Inability to obtain new customers or retain existing ones.
+ 
+         5. Significant changes in competitive factors, including product
+            pricing conditions, affecting the Company.
+ 
+         6. Governmental/regulatory actions and initiatives, including, those
+            affecting financings.
+ 
+         7. Significant changes from expectations in actual capital expenditures
+            and operating expenses.
+ 
+         8. Occurrences affecting the Company's ability to obtain funds from
+            operations, debt or equity to finance needed capital expenditures
+            and other investments.
+ 
+         9. Significant changes in rates of interest, inflation or taxes.
+ 
+        10. Significant changes in the Company's relationship with its employees
+            and the potential adverse effects if labor disputes or grievances
+            were to occur.
+ 
+        11. Changes in accounting principles and/or the application of such
+            principles to the Company.
+ 
+     The foregoing factors could affect the Company's actual results and could
+cause the Company's actual results during 1998 and beyond to be materially
+different from any anticipated results expressed in any forward-looking
+statement made by or on behalf of the Company.
+ 
+     The Company disclaims any obligation to update any forward-looking
+statements to reflect events or other circumstances after date hereof.
+ 
+                                       17
+<PAGE>   18
+                          AMERICAN PAD & PAPER COMPANY
+ 
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS -- (CONTINUED)
+ 
+ITEM 3 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+     As part of its Bank Credit Agreement, the Company was required to purchase
+an interest rate cap for a nominal portion of the outstanding debt. The premium
+paid for the interest rate cap agreement is amortized as interest expense over
+the term of the agreement. The amounts concerned are immaterial to both the
+financial position and operations of the Company.
+ 
+                                       18
+<PAGE>   19
+ 
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                           PART II OTHER INFORMATION
+ 
+ITEM 1 LEGAL PROCEEDINGS
+ 
+     Between March 10, 1998 and April 11, 1998, three complaints were filed in
+the United States District Court for the Northern District of Texas. The
+Company, certain of its officers and directors and certain of the underwriters
+and other entities involved in the Company's initial public offering were named
+as defendants in the first two complaints. These complaints were filed by
+stockholders who claim to represent a purported class of stockholders who
+acquired shares of the Company's common stock between July 2, 1996 and December
+17, 1997. The complaints seek unspecified damages and other relief under the
+federal securities laws based on allegations that the Company made omissions and
+misleading disclosures in public reports and press releases and to securities
+analysts during 1996 and 1997 concerning the Company's financial condition, its
+future business prospects and the impact of various acquisitions. These two
+lawsuits were consolidated on July 2, 1998. The Company believes that it has
+meritorious defenses to plaintiff's claims and intends to vigorously defend the
+action.
+ 
+     The third complaint, which was filed on behalf of a purported class of
+stockholders who acquired shares of the Company's common stock between February
+18, 1997 and December 17, 1997 and named the Company and certain of its officers
+as defendants, was dismissed on June 29, 1998.
+ 
+ITEM 2 CHANGES IN SECURITIES AND USE OF PROCEEDS
+ 
+ITEM 3 DEFAULTS UPON SENIOR SECURITIES
+ 
+ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+     The Company held its Annual Meeting of Shareholders on April 28, 1998. The
+following matters were submitted to a vote of shareholders of the Company's
+common stock with the results indicated below:
+ 
+<TABLE>
+<CAPTION>
+                                                                        WITHHELD, AGAINST
+                         MATTER                             APPROVED      OR ABSTAINED
+                         ------                            ----------   -----------------
+<S>                                                        <C>          <C>
+Election of Class I Directors -- Russell M. Gard, Herbert
+  M. Kohn, and Marc B. Walpow............................  23,012,364       1,981,633
+Ratification of Price Waterhouse LLP as independent
+  auditors for the Company...............................  24,947,250          46,747
+</TABLE>
+ 
+ITEM 5 OTHER INFORMATION
+ 
+     On July 31, 1998, the Company issued a press release announcing that it had
+executed an amendment with its banking group which waives all the defaults of
+the financial covenants of its loan agreement through September 30, 1998. This
+press release is incorporated herein as Exhibit 99.09. This amendment is
+incorporated herein as Exhibit 4.20.
+ 
+                                       19
+<PAGE>   20
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                    PART II OTHER INFORMATION -- (CONTINUED)
+ 
+ITEM 6 EXHIBITS AND REPORTS ON FORM 8-K
+ 
+     (a) Exhibits. The following Exhibits are filed herewith and made a part
+hereof:
+ 
+<TABLE>
+<CAPTION>
+      EXHIBIT NO.                           DESCRIPTION OF EXHIBIT
+      -----------                           ----------------------
+<C>                      <S>
+          4.18           -- Fourth Amendment to the Credit Agreement, dated as of
+                            April 6, 1998, among the Company, WR Acquisition, Inc.,
+                            American Pad & Paper Company of Delaware, Inc., various
+                            Lending Institutions, Bank of Tokyo -- Mitsubishi Trust
+                            Company, Bank One, Texas, N.A., The Bank of Nova Scotia
+                            and the First National Bank of Boston, as Co-Agents and
+                            Bankers Trust Company, as Agent.
+          4.19           -- Fifth Amendment to the Credit Agreement, dated as of June
+                            30, 1998 among the Company, WR Acquisition, Inc., AP & P
+                            Delaware, various Lending Institutions, Bank of
+                            Tokyo -- Mitsubishi Trust Company, Bank One, Texas, N.A.,
+                            The Bank of Nova Scotia and the First National Bank of
+                            Boston, as Co-Agents and Bankers Trust Company, as Agent.
+          4.20           -- Sixth Amendment to the Credit Agreement, dated as of July
+                            24, 1998 among the Company, WR Acquisition, Inc., AP & P
+                            Delaware, various Lending Institutions, Bank of
+                            Tokyo -- Mitsubishi Trust Company, Bank One, Texas, N.A.,
+                            The Bank of Nova Scotia and the First National Bank of
+                            Boston, as Co-Agents and Bankers Trust Company, as Agent.
+         10.29           -- Release Agreement with Charles Hanson, III
+         10.30           -- Severance Agreement with Charles Hanson, III
+         10.31           -- Release Agreement with Russell Gard
+         10.32           -- Severance Agreement with Russell Gard
+         27.02           -- Financial Data Schedule
+         99.09           -- Press Release Regarding Waiver extension on Bank
+                            Covenants
+</TABLE>
+ 
+     (b) Reports on Form 8-K.
+ 
+     The following reports on Form 8-K were filed during the second quarter of
+1998 and through the date of the filing of this report:
+ 
+          (1) Current Report on Form 8-K filed May 21, 1998 relating to the
+     Company's May 7, 1998 press release reporting the Company's first quarter
+     1998 results.
+ 
+          (2) Current Report on Form 8-K filed June 17, 1998 relating to the
+     Company's June 2, and June 10, 1998 press releases announcing the
+     appointments of James W. Swent, III as Executive Vice President and Chief
+     Financial Officer, and David N. Pilotte as Vice President and Controller.
+ 
+          (3) Current Report on Form 8-K filed July 22, 1998, relating to the
+     Company's July 9, July 16 and July 20, 1998 press releases . A press
+     release on July 9, 1998 announced the appointment of James W. Swent, III as
+     Chief Executive Officer and Board member, and the appointment of Robert C.
+     Gay as Chairman of the Board. A press release on July 9, 1998 announced
+     that the Company had received a 30 day waiver to its current lending
+     agreement and that based on preliminary second quarter results, the Company
+     was in violation of certain financial covenants of the agreement. A press
+     release on July 16, 1998 reported the Company's second quarter 1998
+     results. A press release on July 20, 1998 announced the appointment of
+     William L. Morgan as Executive Vice President, Operations.
+ 
+                                       20
+<PAGE>   21
+                          AMERICAN PAD & PAPER COMPANY
+ 
+                    PART II OTHER INFORMATION -- (CONTINUED)
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+American Pad & Paper Company has duly caused this report to be signed on August
+14, 1998 on their behalf by the undersigned thereunto duly authorized.
+ 
+<TABLE>
+<S>                                                         <C>
+               /s/ JAMES W. SWENT, III                                      /s/ DAVID N. PILOTTE
+- -----------------------------------------------------       -----------------------------------------------------
+                 James W. Swent, III                                          David N. Pilotte
+             Chief Executive Officer and                           Vice President and Corporate Controller
+               Chief Financial Officer                                  Principal Accounting Officer
+             Principal Financial Officer
+</TABLE>
+ 
+                                       21
+<PAGE>   22
+ 
+                               INDEX TO EXHIBITS
+ 
+<TABLE>
+<CAPTION>
+      EXHIBIT NO.                           DESCRIPTION OF EXHIBIT
+      -----------                           ----------------------
+<C>                      <S>
+ 
+          4.18           -- Fourth Amendment to the Credit Agreement, dated as of
+                            April 6, 1998, among the Company, WR Acquisition, Inc.,
+                            American Pad & Paper Company of Delaware, Inc., various
+                            Lending Institutions, Bank of Tokyo -- Mitsubishi Trust
+                            Company, Bank One, Texas, N.A., The Bank of Nova Scotia
+                            and the First National Bank of Boston, as Co-Agents and
+                            Bankers Trust Company, as Agent.
+          4.19           -- Fifth Amendment to the Credit Agreement, dated as of June
+                            30, 1998 among the Company, WR Acquisition, Inc., AP & P
+                            Delaware, various Lending Institutions, Bank of
+                            Tokyo -- Mitsubishi Trust Company, Bank One, Texas, N.A.,
+                            The Bank of Nova Scotia and the First National Bank of
+                            Boston, as Co-Agents and Bankers Trust Company, as Agent.
+          4.20           -- Sixth Amendment to the Credit Agreement, dated as of July
+                            24, 1998 among the Company, WR Acquisition, Inc., AP & P
+                            Delaware, various Lending Institutions, Bank of
+                            Tokyo -- Mitsubishi Trust Company, Bank One, Texas, N.A.,
+                            The Bank of Nova Scotia and the First National Bank of
+                            Boston, as Co-Agents and Bankers Trust Company, as Agent.
+         10.29           -- Release Agreement with Charles Hanson, III
+         10.30           -- Severance Agreement with Charles Hanson, III
+         10.31           -- Release Agreement with Russell Gard
+         10.32           -- Severance Agreement with Russell Gard
+         27.02           -- Financial Data Schedule
+         99.09           -- Press Release regarding waiver extension on Bank
+                            Covenants
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.18
+<SEQUENCE>2
+<DESCRIPTION>4TH AMENDMENT TO THE CREDIT AGREEMENT
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 4.18
+ 
+                                FOURTH AMENDMENT
+ 
+     FOURTH AMENDMENT (this "Amendment"), dated as of April 6, 1998, among
+American Pad & Paper Company ("Holdings"), WR Acquisition, Inc. ("WR
+Acquisition"), American Pad & Paper Company of Delaware, Inc. (the "Borrower"),
+the lending institutions party to the Credit Agreement referred to below (each a
+"Bank" and, collectively, the "Banks"), Bank of Tokyo-Mitsubishi Trust Company,
+Bank One Texas, N.A., The Bank of Nova Scotia and The First National Bank of
+Boston, as Co-Agents (the "Co-Agents"), and Bankers Trust Company, as Agent (the
+"Agent"). All capitalized terms used herein and not otherwise defined herein
+shall have the respective meanings provided such terms in the Credit Agreement.
+ 
+                                  WITNESSETH:
+ 
+     WHEREAS, Holdings, WR Acquisition, the Borrower, the Banks, the Co-Agents
+and the Agent are party to a Credit Agreement, dated as of July 8, 1996 (as
+amended, modified and supplemented prior to the date hereof, the "Credit
+Agreement"); and
+ 
+     WHEREAS, the Borrower has requested that the Banks provide the amendment
+provided for herein and the Banks have agreed to provide such amendment on the
+terms and conditions set forth herein;
+ 
+     NOW, THEREFORE, it is agreed:
+ 
+          1. Section 8.10 of the Credit Agreement is hereby amended to read in
+     its entirety as follows:
+ 
+             8.10  Minimum Consolidated EBITDA. The Borrower will not permit
+        Consolidated EBITDA (i) for the fiscal quarter ending March 31, 1998, to
+        be less than $11,300,000, (ii) for the two fiscal quarters ending June
+        30, 1998 (taken as one accounting period), to be less than $28,000,000,
+        (iii) for the three fiscal quarters ending September 30, 1998 (taken as
+        one accounting period), to be less than $48,000,000, (iv) for the fiscal
+        year ending December 31, 1998, to be less than $72,000,000 and (v) for
+        any Test Period ending on or after March 31, 1999, to be less than
+        $75,000,000.
+ 
+          2. In order to induce the Banks to enter into this Amendment, each of
+     Holdings, WR Acquisition and the Borrower hereby represents and warrants
+     that (i) no Default or Event of Default exists as of the Amendment
+     Effective Date (as defined below) after giving effect to this Amendment and
+     (ii) on the Amendment Effective Date, both before and after giving effect
+     to this Amendment, all representations and warranties contained in the
+     Credit Agreement and in the other Credit Documents are true and correct in
+     all material respects.
+ 
+          3. This Amendment shall become effective on the date (the "Amendment
+     Effective Date") when the Required Banks, Holdings, WR Acquisition and the
+     Borrower shall have signed a counterpart hereof (whether the same or
+     different counterparts) and shall have delivered (including by way of
+     facsimile transmission) the same to the Agent at its Notice Office;
+ 
+          4. This Amendment is limited as specified and shall not constitute a
+     modification, acceptance or waiver of any other provision of the Credit
+     Agreement or any other Credit Document.
+ 
+          5. This Amendment may be executed in any number of counterparts and by
+     the different parties hereto on separate counterparts, each of which
+     counterparts when executed and delivered shall be an original, but all of
+     which shall together constitute one and the same instrument. A complete set
+     of counterparts shall be lodged with the Borrower and the Agent.
+ 
+     THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER
+SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF
+NEW YORK.
+<PAGE>   2
+ 
+                                    *  *  *
+ 
+     IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of
+this Amendment to be duly executed and delivered as of the date hereof.
+ 
+                                            AMERICAN PAD & PAPER COMPANY
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            WR ACQUISITION, INC.
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            AMERICAN PAD & PAPER COMPANY OF
+                                            DELAWARE, INC.
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKERS TRUST COMPANY, individually
+                                            and as Agent
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        2
+<PAGE>   3
+ 
+                                            ABN AMRO BANK
+ 
+                                            By:             /s/
+ 
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK LEUMI TRUST CO. OF NEW YORK
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE BANK OF NEW YORK
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE BANK OF NOVA SCOTIA
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK OF SCOTLAND
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        3
+<PAGE>   4
+ 
+                                            BANK OF TOKYO-MITSUBISHI TRUST
+                                            COMPANY
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK ONE TEXAS
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANQUE PARIBAS
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            CHRISTIANIA BANK OG KREDITKASSE,
+                                            NEW YORK BRANCH
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        4
+<PAGE>   5
+ 
+                                            CIBC INC.
+ 
+                                            By:             /s/
+ 
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKBOSTON, N.A.
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            GUARANTY FEDERAL BANK, F.S.B.
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE INDUSTRIAL BANK OF JAPAN,
+                                            LIMITED
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE LONG-TERM CREDIT BANK OF
+                                            JAPAN, LIMITED, NEW YORK BRANCH
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        5
+<PAGE>   6
+ 
+                                            SANWA BUSINESS CREDIT
+                                            CORPORATION
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            SOCIETE GENERALE
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            LEHMAN COMMERCIAL PAPER, INC.
+ 
+                                            By:            /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.19
+<SEQUENCE>3
+<DESCRIPTION>5TH AMENDMENT TO THE CREDIT AGREEMENT
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 4.19
+ 
+                           FIFTH WAIVER AND AMENDMENT
+ 
+     FIFTH WAIVER AND AMENDMENT (this "Waiver"), dated as of June 30, 1998,
+among American Pad & Paper Company ("Holdings"), WR Acquisition, Inc. ("WR
+Acquisition"), American Pad & Paper Company of Delaware, Inc. (the "Borrower"),
+the lending institutions party to the Credit Agreement referred to below (each a
+"Bank" and, collectively, the "Banks"), Bank of Tokyo-Mitsubishi Trust Company,
+Bank One Texas, N.A., The Bank of Nova Scotia and The First National Bank of
+Boston, as Co-Agents (the "Co-Agents"), and Bankers Trust Company, as Agent (the
+"Agent"). All capitalized terms used herein and not otherwise defined herein
+shall have the respective meanings provided such terms in the Credit Agreement.
+ 
+                                  WITNESSETH:
+ 
+     WHEREAS, Holdings, WR Acquisition, the Borrower, the Banks, the Co-Agents
+and the Agent are party to a Credit Agreement, dated as of July 8, 1996 (as
+amended, modified and supplemented prior to the date hereof, the "Credit
+Agreement"); and
+ 
+     WHEREAS, the Borrower has requested that the Banks provide the Waiver
+provided for herein and the Banks have agreed to provide such Waiver on the
+terms and conditions set forth herein;
+ 
+     NOW, THEREFORE, it is agreed:
+ 
+          1. Effective from and including June 30, 1998 through and including
+     July 31, 1998 (the "Waiver Termination Date"), the Banks hereby waive
+     compliance with the provisions of Section 8.10, Section 8.11 and Section
+     8.12 of the Credit Agreement. This Waiver shall be effective only for the
+     period from June 30, 1998 to and including the Waiver Termination Date (the
+     "Waiver Period") and shall be of no force or effect at any other time.
+ 
+          2. In order to induce the Banks to enter into this Waiver, the
+     Borrower agrees that at all times from the Waiver Effective Date to and
+     including the Waiver Termination Date, the sum of (i) the aggregate
+     outstanding principal amount of Revolving Loans and Swingline Loans and
+     (ii) the Letter of Credit Outstandings under the Credit Agreement shall not
+     exceed $300,000,000.
+ 
+          3. In order to induce the Banks to enter into this Waiver, each of
+     Holdings, WR Acquisition and the Borrower hereby represents and warrants
+     that (i) no Default or Event of Default exists as of the Waiver Effective
+     Date (as defined below) after giving effect to this Waiver and (ii) on the
+     Waiver Effective Date, both before and after giving effect to this Waiver,
+     all representations and warranties contained in the Credit Agreement and in
+     the other Credit Documents are true and correct in all material respects.
+ 
+          4. This Waiver shall become effective on the date (the "Waiver
+     Effective Date") when the Required Banks, Holdings, WR Acquisition and the
+     Borrower shall have signed a counterpart hereof (whether the same or
+     different counterparts) and shall have delivered (including by way of
+     facsimile transmission) the same to the Agent at its Notice Office.
+ 
+          5. This Waiver is limited as specified and shall not constitute a
+     modification, acceptance or waiver of any other provision of the Credit
+     Agreement or any other Credit Document.
+ 
+          6. This Waiver may be executed in any number of counterparts and by
+     the different parties hereto on separate counterparts, each of which
+     counterparts when executed and delivered shall be an original, but all of
+     which shall together constitute one and the same instrument. A complete set
+     of counterparts shall be lodged with the Borrower and the Agent.
+ 
+          7. At all times during the Waiver Period, all references in the Credit
+     Agreement and each of the Credit Documents to the Credit Agreement shall be
+     deemed to be references to such Credit Agreement after giving effect to
+     this Waiver.
+<PAGE>   2
+ 
+          8. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES
+     HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF
+     THE STATE OF NEW YORK.
+ 
+                                    *  *  *
+ 
+     IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of
+this Waiver to be duly executed and delivered as of the date hereof.
+ 
+                                            AMERICAN PAD & PAPER COMPANY
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            WR ACQUISITION, INC.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            AMERICAN PAD & PAPER COMPANY OF
+                                            DELAWARE, INC.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKERS TRUST COMPANY, individually
+                                            and as Agent
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        2
+<PAGE>   3
+ 
+                                            ABN AMRO BANK
+ 
+                                            By:             /s/
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKBOSTON, N.A.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK LEUMI TRUST CO. OF NEW YORK
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE BANK OF NEW YORK
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE BANK OF NOVA SCOTIA
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        3
+<PAGE>   4
+ 
+                                            BANK OF SCOTLAND
+ 
+                                            By:             /s/
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK OF TOKYO-MITSUBISHI TRUST
+                                            COMPANY
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK ONE TEXAS
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK POLSKA KASA OPIEKI, S.A.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        4
+<PAGE>   5
+ 
+                                            BANQUE PARIBAS
+ 
+                                            By:             /s/
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            CHRISTIANIA BANK OG KREDITKASSE, NEW
+                                            YORK BRANCH
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            CIBC INC.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            GUARANTY FEDERAL BANK, F.S.B.
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        5
+<PAGE>   6
+ 
+                                            HIGHLAND CAPITAL MANAGEMENT, INC.
+ 
+                                            By:             /s/
+                                                --------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE LONG-TERM CREDIT BANK OF JAPAN,
+                                            LIMITED, NEW YORK BRANCH
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            SANWA BUSINESS CREDIT
+                                            CORPORATION
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            SOCIETE GENERALE
+ 
+                                            By:            /s/
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.20
+<SEQUENCE>4
+<DESCRIPTION>6TH AMENDMENT TO THE CREDIT AGREEMENT
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 4.20
+ 
+                           SIXTH WAIVER AND AMENDMENT
+ 
+     SIXTH WAIVER AND AMENDMENT (this "Amendment"), dated as of July 24, 1998,
+among American Pad & Paper Company ("Holdings"), WR Acquisition, Inc. ("WR
+Acquisition"), American Pad & Paper Company of Delaware, Inc. (the "Borrower"),
+the lending institutions party to the Credit Agreement referred to below (each a
+"Bank" and, collectively, the "Banks"), Bank of Tokyo-Mitsubishi Trust Company,
+Bank One Texas, N.A., The Bank of Nova Scotia and The First National Bank of
+Boston, as Co-Agents (the "Co-Agents"), and Bankers Trust Company, as Agent (the
+"Agent"). All capitalized terms used herein and not otherwise defined herein
+shall have the respective meanings provided such terms in the Credit Agreement.
+ 
+                                  WITNESSETH:
+ 
+     WHEREAS, Holdings, WR Acquisition, the Borrower, the Banks, the Co-Agents
+and the Agent are party to a Credit Agreement, dated as of July 8, 1996 (as
+amended, modified and supplemented prior to the date hereof, the "Credit
+Agreement");
+ 
+     WHEREAS, Holdings, WR Acquisition, the Borrower, the Banks, the Co-Agents
+and the Agent are party to the Fifth Waiver and Amendment, dated as of June 30,
+1998 (the "Fifth Amendment"); and
+ 
+     WHEREAS, the Borrower has requested that the Banks provide the amendment
+provided for herein and the Banks have agreed to provide such amendment on the
+terms and conditions set forth herein;
+ 
+     NOW, THEREFORE, it is agreed:
+ 
+          1. The Waiver Termination Date (as defined in the Fifth Amendment) is
+     hereby extended to September 30, 1998.
+ 
+          2. Section 8.06(a) of the Credit Agreement is hereby amended by
+     inserting the following proviso at the end thereof:
+ 
+        "; provided that (i) Foreign Subsidiaries may not hold Foreign Cash
+        Equivalents in excess of $25,000 (or the equivalent thereof in foreign
+        currencies) at any time and (ii) 100% of all cash and Cash Equivalents
+        held by the Borrower and its Subsidiaries (other than the Receivables
+        Entity) at any time (other than up to $1,000,000 of cash and Cash
+        Equivalents, including without limitation cash and Cash Equivalents
+        pledged or deposited in accordance with Section 8.03(f)) must be held in
+        one or more accounts maintained with the Agent or a Bank."
+ 
+          3. Each Bank hereby agrees that for the purposes of Section 5.02 of
+     the Credit Agreement, any amendment or waiver of a Default or an Event of
+     Default, the effect of which would be to allow the sum of (i) the aggregate
+     outstanding principal amount of Revolving Loans and Swingline Loans and
+     (ii) the Letter of Credit Outstandings under the Credit Agreement to exceed
+     $300,000,000, shall not be effective without the consent of the
+     Supermajority Banks (it being understood and agreed that any Default or
+     Event or Default that may be otherwise waived or amended with the consent
+     of the Required Banks may still be waived or amended by the Required Banks
+     for any purpose other than for the purpose set forth above in this Section
+     3).
+ 
+          4. The following definition is hereby inserted into Section 10 of the
+     Credit Agreement in alphabetical order:
+ 
+             "Supermajority Banks" shall mean collectively (and not
+        individually) Non-Defaulting Banks the sum of whose Revolving Loan
+        Commitments (or, if after the Total Revolving Loan Commitment has been
+        terminated, outstanding Revolving Loans and Percentages of outstanding
+        Swingline Loans and Letter of Credit Outstandings) constitute greater
+        than 66 2/3% of the Total Revolving Loan Commitment less the aggregate
+        Revolving Loan Commitments of Defaulting Banks (or, if after the Total
+        Revolving Loan Commitment has been terminated, the total outstanding
+        Revolving Loans of
+<PAGE>   2
+ 
+        Non-Defaulting Banks and the aggregate Percentages of all Non-Defaulting
+        Banks of the total outstanding Swingline Loans and Letter of Credit
+        Outstandings at such time).
+ 
+          5. In order to induce the Banks to enter into this Amendment, the
+     Borrower hereby agrees to pay to each Bank which executes and delivers a
+     counterpart of this Amendment on or before 5:00 p.m. (New York time) on
+     July 30, 1998, a fee equal to 1/8 of 1% of such Bank's Revolving Loan
+     Commitment, such fee to be earned and payable on the Amendment Effective
+     Date.
+ 
+          6. In order to induce the Banks to enter into this Amendment, each of
+     Holdings, WR Acquisition and the Borrower hereby represents and warrants
+     that (i) no Default or Event of Default exists as of the Amendment
+     Effective Date (as defined below) after giving effect to this Amendment and
+     (ii) on the Amendment Effective Date, both before and after giving effect
+     to this Amendment, all representations and warranties contained in the
+     Credit Agreement and in the other Credit Documents are true and correct in
+     all material respects.
+ 
+          7. This Amendment shall become effective on the date (the "Amendment
+     Effective Date") when the Required Banks, Holdings, WR Acquisition and the
+     Borrower shall have signed a counterpart hereof (whether the same or
+     different counterparts) and shall have delivered (including by way of
+     facsimile transmission) the same to the Agent at its Notice Office.
+ 
+          8. This Amendment is limited as specified and shall not constitute a
+     modification, acceptance or waiver of any other provision of the Fifth
+     Amendment, the Credit Agreement or any other Credit Document.
+ 
+          9. This Amendment may be executed in any number of counterparts and by
+     the different parties hereto on separate counterparts, each of which
+     counterparts when executed and delivered shall be an original, but all of
+     which shall together constitute one and the same instrument. A complete set
+     of counterparts shall be lodged with the Borrower and the Agent.
+ 
+          10. All references in the Credit Agreement and each of the Credit
+     Documents to the Credit Agreement shall be deemed to be references to such
+     Credit Agreement after giving effect to this Amendment.
+ 
+          11. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES
+     HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF
+     THE STATE OF NEW YORK.
+ 
+                                    -  -  -
+ 
+     IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of
+this Amendment to be duly executed and delivered as of the date hereof.
+ 
+                                            AMERICAN PAD & PAPER COMPANY
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        2
+<PAGE>   3
+ 
+                                            WR ACQUISITION, INC.
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            AMERICAN PAD & PAPER COMPANY OF
+                                            DELAWARE, INC.
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKERS TRUST COMPANY, individually
+                                            and as Agent
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANKBOSTON, N.A.
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK LEUMI USA
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        3
+<PAGE>   4
+ 
+                                            THE BANK OF NEW YORK
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE BANK OF NOVA SCOTIA
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK OF SCOTLAND
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK OF TOKYO-MITSUBISHI TRUST
+                                            COMPANY
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            BANK ONE TEXAS
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        4
+<PAGE>   5
+ 
+                                            BANK POLSKA KASA OPIEKI, S.A.
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            CIBC INC.
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            THE LONG-TERM CREDIT BANK OF
+                                            JAPAN, LIMITED, NEW YORK BRANCH
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                            SOCIETE GENERALE
+ 
+                                            By:           /s/
+ 
+                                              ----------------------------------
+                                              Name:
+                                              Title:
+ 
+                                        5
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.29
+<SEQUENCE>5
+<DESCRIPTION>RELEASE AGREEMENT WITH CHARLES HANSON III
+<TEXT>
+
+<PAGE>   1
+
+                                                                   Exhibit 10.29
+
+                                                 EXHIBIT I
+
+                      READ CAREFULLY AND CONSULT WITH YOUR
+                            ATTORNEY BEFORE SIGNING
+
+                              RELEASE
+
+
+         1.  In full consideration of the execution of this Release by Charles 
+G. Hanson, III ("CGH"), American Pad & Paper Company (the "Company") will
+provide CGH with the consideration and other rights set forth in the letter
+agreement (the "Letter Agreement") dated July 8, 1998 to which this Release is
+attached as Exhibit I.
+
+         2.  CGH, intending to be legally bound and for and in consideration of 
+the benefits described in the Letter Agreement, does for himself his heirs,
+executors, administrators, successors and assigns hereby remise, release and
+forever discharge the Company, its successors, predecessors, subsidiaries,
+affiliates, directors, officers, agents and employees, and all persons,
+corporations or other entities who might be claimed to be jointly and severally
+liable with them, from any and all actions and causes of action, claims and
+demands, suits, damages including back pay, front pay, employee benefits,
+bonuses, liquidated damages, attorneys' fees, expenses, debts, dues, accounts,
+bonds, covenants, contracts, agreements and compensation whatsoever and from
+any claims for retaliation, and from any and all other claims of any nature
+whatsoever against the Company, whether known or unknown or whether asserted or
+unasserted, including but not limited to claims under the Americans with
+Disabilities Act of 1990 (42 U.S.C. Section 12101 et seq.), Title VII of the
+Civil Rights Act of 1964 (42 U.S.C. Section 2000e et seq.), the Consolidated
+Omnibus Budget Reconciliation Act of 1985 (29 U.S.C. Section 1161 et seq.), and
+the Age Discrimination in Employment Act (29 U.S.C. Section 626 et seq.),
+claims for breach of contract, discrimination, wrongful discharge, tortious
+interference with contract, intentional and negligent infliction of emotional
+distress, and any other statutory or common law theories, including any claim
+for attorneys' fees and costs, from the beginning of time to the date of the
+Letter Agreement, which he or anyone claiming by, through or under him in any
+way might have or could claim against the Company; provided that, CGH
+specifically does not release and specifically reserves all of his rights with
+respect to the following:
+
+         (a)     the Letter Agreement;
+
+         (b)     the Employment Agreement;
+
+         (c)     those certain Stock Option Agreements between CGH and the 
+                 Company;
+
+         (d)     that certain Amended and Restated Management Agreement dated 
+                 as of December 29, 1992, as amended as of June 6, 1996, 
+                 between CGH and the Company;
+
+         (e)     any rights of CGH pursuant to the Company's health and welfare 
+                 plans; and
+
+
+<PAGE>   2
+         (f)     any rights of CGH as to indemnification with regard to any 
+                 existing or future litigation involving CGH to the extent such 
+                 rights are provided to CGH in the Company's certificate of 
+                 incorporation and/or bylaws.
+
+         3.  CGH confirms that he has (a) received adequate notice and election 
+forms regarding his and his family's rights to elect COBRA continuation
+coverage and he and his family have chosen not to elect such coverage in light
+of the benefits provided to he and his family pursuant to paragraph 3 of the
+Letter Agreement and (b) had at least twenty-one (21) day to consider whether
+or not to sign this Release, it first having been presented to CGH on July 1,
+1998.  CGH certifies that he has read the terms of the Letter Agreement and the
+Release, that he understands the terms and effects, and that he has signed the
+Letter Agreement and the Release voluntarily and knowingly in exchange for the
+consideration described in the Letter Agreement, which consideration CGH
+acknowledges is in addition to anything to which CGH already is entitled and
+which he acknowledges as adequate and satisfactory to him.
+
+         4.  CGH acknowledges that he understands he may revoke his agreement 
+to this release if he does so within 7 days of executing it and that this
+release is not effective until that 7 day period has expired.
+
+         5.  This Release shall be governed by and construed in accordance with 
+the laws of the State of Texas.
+
+         6.  Except as provided herein, each of the provisions of this Release
+is intended to be severable.  If any term or provision is held to be invalid,
+void or unenforceable by a court of competent jurisdiction for any reason
+whatsoever, such ruling shall not effect the remainder of this Release.
+
+         7.  CGH, intending to be legally bound, has voluntarily executed this 
+Release with full understanding of the contents hereof and after having had
+ample time to review and study the  Letter Agreement and this Release.
+
+         Signed and executed this ____ day of July, 1998.
+
+WITNESS:
+
+
+
+    /s                                        /s
+- ------------------------                  --------------------------(SEAL)
+                                          CHARLES G. HANSON, III
+
+
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>6
+<DESCRIPTION>SEVERANCE AGREEMENT WITH CHARLES HANSON III
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                   Exhibit 10.30
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                         17304 PRESTON ROAD, SUITE 700
+                                DALLAS, TX 75252
+
+                                  July 8, 1998
+
+Mr. Charles G. Hanson, III
+10777 Straight Lane
+Dallas, TX 75229
+
+Dear Charles:
+
+         This letter sets forth our agreement relating to your resignation as
+an officer and employee of American Pad & Paper Company (the "Company") and its
+subsidiaries and your continuing relationship with the Company.  Reference is
+made to that certain Employment  Agreement dated as of June 6, 1996 (the
+"Employment Agreement") by and among you and the Company.  The capitalized
+terms used herein and not defined herein have the meanings specified in the
+Employment Agreement.  Our agreement consists of the following:
+
+         1.  Termination and Consulting Arrangement.
+
+         (a)  Effective July 8, 1998, your employment with the Company and its
+subsidiaries will be terminated and you will resign as an officer and director
+of the Company and its subsidiaries.  For purposes of the Employment Agreement,
+your termination will be deemed to be a termination by the Company without
+Cause.
+
+         (b)  Effective July 8, 1998, in addition to the severance payment
+described below, the Company hereby engages you as an independent contractor,
+and not as an employee, to render consulting services to the Company as
+hereinafter provided, and you hereby accept such engagement, for a period
+ending on March 31, 1999 (the "Consulting Period").  You will not have any
+authority to bind or act on behalf of the Company or its subsidiaries.  During
+the Consulting Period, you will render such consulting services to the Company
+as are mutually agreed upon by you and the Company at mutually convenient
+times.  In addition, during the Consulting Period, you will continue to support
+the Company and not make any disparaging remarks regarding the Company.
+
+         (c)  In consideration of the services set forth in paragraph (b)
+above, the Company will pay to you $25,000 per month, payable in nine monthly
+installments during the Consulting Period, to be paid in cash on the last day
+of each month (except that the payment for July will be made on the date
+hereof).  The Company will reimburse you for all reasonable expenses incurred
+by you in the course of performing your duties under this letter agreement
+which are consistent with the Company's standard policies in effect from time
+to time with respect to travel, entertainment and other business expenses,
+subject to the Company's requirements with respect to reporting and
+documentation of such expenses.
+
+
+
+
+
+<PAGE>   2
+
+
+
+         (d)  You will file all tax returns and reports required to be filed by
+you on the basis that you are an independent contractor, rather than an
+employee, as defined in Treasury Regulations Section 31.3121(d)-1(c)(2), and
+you will indemnify the Company for the amount of any employment taxes paid by
+the Company as the result of you not paying employment taxes from the payment
+described in paragraph (c) above.
+
+         2.  Severance Payment. In lieu of the severance payments of your Base 
+Salary for 24 months following the end of the Employment Period, the Company
+hereby agrees, and you hereby accept, a lump sum payment of $900,000, payable
+upon the effectiveness of this agreement and the Release, as severance.
+
+         3.  Benefits.  During the Consulting Period and for 24 months 
+thereafter, the Company will provide you and your spouse with health and
+disability benefits set forth in paragraph 3(a) of the Employment Agreement and
+the fringe benefits described in paragraphs 3(b)(i), 3(b)(v) and 3(b)(vi) of
+the Employment Agreement.  In addition, during the Consulting Period and for 24
+months thereafter, the Company will provide you with the following additional
+benefits:
+
+         (i)     the use and access to an executive secretary of the Company, 
+                 such as Barbara Martin, as deemed reasonably necessary by you; 
+                 and
+
+         (ii)    the use of a computer, mobile phone, Bain voicemail (to the 
+                 extent available to the Company) and fax machine (and you will 
+                 be entitled to retain the hardware (other than the Bain 
+                 voicemail) at no cost following the end of the 24-month 
+                 period).
+
+
+Furthermore, until the earlier to occur of (a) five years following the end of
+the 24-month period or (b) your attaining the age of 65, the Company will
+continue to provide you and your spouse with the same or comparable health
+insurance coverage that you and your spouse currently are provided (so long as
+the cost to the Company of maintaining such insurance does not increase except
+for reasonable premium increases which are consistent with the premiums charged
+to the Company with respect to its other employees).
+
+         4.  Change of Control Payment. The Company and you hereby agree that 
+paragraph 4 of the Employment Agreement is hereby amended to delete the
+paragraph in its entirety and replace it with the following:
+
+         "If during the Consulting Period, a Person or "group" (as defined in
+         Section 13(d)(3) of the Securities Exchange Act of 1934, as amended) of
+         Persons (other than Bain Capital, Inc. or its affiliates) (a) becomes
+         the owner of more than 50% of the Company's common stock or (b) has the
+         de facto ability to direct the nomination of a majority of the
+         directors who are then elected to the Board (a "Change of Control") or
+         (c) enters into a binding agreement as to price and basic terms with
+         the Company with respect to a Change of Control, the Company shall pay
+         to Executive a lump sum payment equal to $2,500,000 within ten days
+         following the occurrence of such Change of Control."
+
+
+
+
+                                       2
+<PAGE>   3
+
+
+
+         5.  Outplacement Services.  The Company will provide you with
+outplacement services for the purposes of obtaining other employment.
+
+         6.  1998 Bonus.  You will not be eligible to receive your 1998 bonus.
+
+         7.  Non-Compete and Other Provisions.  The Company and you agree that
+the non-compete and non- solicitation set forth in paragraph 9 of the
+Employment Agreement will run for a period from the date hereof to and
+including 24 months following the end of the Consulting Period.  The Company
+and you agree that the confidentiality and intellectual property provisions of
+paragraphs 7 and 8 of the Employment Agreement continue to apply to you during
+the Consulting Period.
+
+         8.  D&O Indemnification.  The Company hereby agrees and acknowledges
+that it will continue to honor its indemnification obligations to you set forth
+in its certificate of incorporation and/or bylaws with respect to any existing
+or future lawsuit against the Company and any other actions pursuant to which
+you would be entitled to indemnification. In addition, you shall have the right
+to retain separate counsel with regard to any such lawsuit or action and the
+Company will indemnify you for the costs and expenses incurred with respect
+thereto, regardless of whether the costs and expenses of such separate
+representation are covered by insurance, to the extent such rights and
+indemnities are provided in the Company's certificate of incorporation and/or
+bylaws.
+
+         9.  Release.  Attached hereto as Exhibit I is a release ("Release")
+which you agree to execute and deliver to the Company.  It is understood and
+agreed that the effectiveness of the Release is conditioned upon the Company's
+compliance with its obligations under this letter, and will otherwise be of no
+force and effect.
+
+         10. Press Releases.  The parties to this letter agree that they will
+not issue any public statement regarding your termination of employment with
+the Company or regarding this letter without the prior written consent of the
+other party hereto, except as required by law.
+
+         11. Complete Agreement.  The parties hereto agree that the Employment
+Agreement will continue in full force and effect, including but not limited to
+paragraph 18 thereof, except as modified by this letter, such modifications to
+include but not be limited to paragraphs 2(b) and 5 thereof.  The parties also
+agree that this letter supersedes all other written or oral agreements relating
+to the subject matter of this letter.
+
+         12. Binding Effect.  This letter agreement is binding on the Company
+subject only to your not revoking the Release prior to the expiration of the
+seven day period following your execution of the Release.  Notification of
+revocation by you during the seven day period must be accomplished by hand
+delivered written notice of revocation to the Company at 17304 Preston Road,
+Suite 700, Dallas, TX 75252, with a copy to the Company's counsel, James L.
+Learner, Kirkland & Ellis, 200 E. Randolph Drive, Chicago, IL 60601, before
+midnight of the seventh day after the execution date of the Release.  No
+attempted revocation after the expiration of such seven day period will have
+any effect on the terms of this letter agreement or the Release.
+
+
+
+
+                                       3
+<PAGE>   4
+
+
+
+         13.  Stock Options.  With respect to the agreements referenced in 
+Sections 15(b), (c) and (d) of the Employment Agreement (for purposes of this
+paragraph 13 only, the "Agreements"), you will be permitted to exercise the
+options thereunder with respect to which the Company has previously taken an
+accounting compensation charge (i.e., 428,404 shares out of a total of 840,713
+shares) for a period of 15 months following the end of the Consulting Period,
+and the Company will amend such Agreements accordingly.  Except as otherwise
+provided in this Section 13, all options held by you on the date hereof shall be
+exercisable in accordance with the terms of the option agreements pursuant to
+which such options were granted.
+
+         If you are in agreement with the terms of this letter, please sign in
+the space provided below.
+
+
+                                            Very truly yours,
+
+                                            AMERICAN PAD & PAPER COMPANY
+
+                                            By    /s
+                                              ----------------------------------
+
+                                            Its
+                                              ----------------------------------
+
+Agreed and accepted
+the __ day of July, 1998:
+
+    /s
+- ------------------------------------
+CHARLES G. HANSON, III
+
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.31
+<SEQUENCE>7
+<DESCRIPTION>RELEASE AGREEMENT WITH RUSSELL GARD
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                   Exhibit 10.31
+
+                                                    EXHIBIT I
+
+                     READ CAREFULLY AND CONSULT WITH YOUR
+                            ATTORNEY BEFORE SIGNING
+
+                              RELEASE
+
+
+         1.  In full consideration of the execution of this Release by Russell
+M. Gard ("RMG"), American Pad & Paper Company (the "Company") will provide RMG
+with the consideration and other rights set forth in the letter agreement (the
+"Letter Agreement") dated July 8, 1998 to which this Release is attached as
+Exhibit I.
+
+         2.  RMG, intending to be legally bound and for and in consideration of
+the benefits described in the Letter Agreement, does for himself his heirs,
+executors, administrators, successors and assigns hereby remise, release and
+forever discharge the Company, its successors, predecessors, subsidiaries,
+affiliates, directors, officers, agents and employees, and all persons,
+corporations or other entities who might be claimed to be jointly and severally
+liable with them, from any and all actions and causes of action, claims and
+demands, suits, damages including back pay, front pay, employee benefits,
+bonuses, liquidated damages, attorneys' fees, expenses, debts, dues, accounts,
+bonds, covenants, contracts, agreements and compensation whatsoever and from
+any claims for retaliation, and from any and all other claims of any nature
+whatsoever against the Company, whether known or unknown or whether asserted or
+unasserted, including but not limited to claims under the Americans with
+Disabilities Act of 1990 (42 U.S.C. Section 12101 et seq.), Title VII of the
+Civil Rights Act of 1964 (42 U.S.C. Section 2000e et seq.), the Consolidated
+Omnibus Budget Reconciliation Act of 1985 (29 U.S.C. Section 1161 et seq.), and
+the Age Discrimination in Employment Act (29 U.S.C. Section 626 et seq.),
+claims for breach of contract, discrimination, wrongful discharge, tortious
+interference with contract, intentional and negligent infliction of emotional
+distress, and any other statutory or common law theories, including any claim
+for attorneys' fees and costs, from the beginning of time to the date of the
+Letter Agreement, which he or anyone claiming by, through or under him in any
+way might have or could claim against the Company; provided that, RMG
+specifically does not release and specifically reserves all of his rights with
+respect to the following:
+
+         (a)     the Letter Agreement;
+
+         (b)     the Employment Agreement;
+
+         (c)     those certain Stock Option Agreements between RMG and the
+                 Company;
+
+         (d)     that certain Amended and Restated Management Agreement dated
+                 as of December 29, 1992, as amended as of June 6, 1996,
+                 between RMG and the Company;
+
+         (e)     any rights of RMG pursuant to the Company's health and welfare
+                 plans; and
+
+
+
+
+
+<PAGE>   2
+
+
+
+         (f)     any rights of RMG as to indemnification with regard to any 
+existing or future litigation involving RMG to the extent such rights are
+provided to CGH in the Company's certificate of incorporation and/or bylaws.
+
+         3.  RMG confirms that he has (a) received adequate notice and election
+forms regarding his and his family's rights to elect COBRA continuation coverage
+and he and his family have chosen not to elect such coverage in light of the
+benefits provided to he and his family pursuant to paragraph 3 of the Letter
+Agreement and (b) had at least twenty-one (21) day to consider whether or not to
+sign this Release, it first having been presented to RMG on July 1, 1998.  RMG
+certifies that he has read the terms of the Letter Agreement and the Release,
+that he understands the terms and effects, and that he has signed the Letter
+Agreement and the Release voluntarily and knowingly in exchange for the
+consideration described in the Letter Agreement, which consideration RMG
+acknowledges is in addition to anything to which RMG already is entitled and
+which he acknowledges as adequate and satisfactory to him.
+
+         4.  RMG acknowledges that he understands he may revoke his agreement 
+to this release if he does so within 7 days of executing it and that this
+release is not effective until that 7 day period has expired.
+
+         5.  This Release shall be governed by and construed in accordance with 
+the laws of the State of Texas.
+
+         6.  Except as provided herein, each of the provisions of this Release 
+is intended to be severable.  If any term or provision is held to be invalid,
+void or unenforceable by a court of competent jurisdiction for any reason
+whatsoever, such ruling shall not effect the remainder of this Release.
+
+         7.  RMG, intending to be legally bound, has voluntarily executed this 
+Release with full understanding of the contents hereof and after having had
+ample time to review and study the  Letter Agreement and this Release.
+
+         Signed and executed this ____ day of July, 1998.
+
+WITNESS:
+
+
+
+     /s                                          /s
+- ------------------------                     -----------------------------(SEAL)
+                                             RUSSELL M. GARD              
+
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>8
+<DESCRIPTION>SEVERANCE AGREEMENT WITH RUSSELL GARD
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                   Exhibit 10.32
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                         17304 PRESTON ROAD, SUITE 700
+                                DALLAS, TX 75252
+
+                                  July 8, 1998
+
+Mr. Russell M. Gard
+4601 Lawson Court
+Plano, TX
+
+Dear Russ:
+
+         This letter sets forth our agreement relating to your resignation as
+an officer and employee of American Pad & Paper Company (the "Company") and its
+subsidiaries and your continuing relationship with the Company.  Reference is
+made to that certain Employment  Agreement dated as of June 6, 1996 (the
+"Employment Agreement") by and among you and the Company.  The capitalized
+terms used herein and not defined herein have the meanings specified in the
+Employment Agreement.  Our agreement consists of the following:
+
+         1.  Termination and Consulting Arrangement.
+
+         (a) Effective July 8, 1998 your employment with the Company will be
+terminated and you will resign as an officer of the Company and its
+subsidiaries.  You will be appointed as the Vice Chairman of the board of
+directors and will continue to be a director of the Company for your term
+unless you resign.  For purposes of the Employment Agreement, termination of
+your employment as an officer of the Company will be deemed to be a termination
+by the Company without Cause.
+
+         (b)  Effective July 8, 1998, in addition to the severance payment
+described below, the Company shall engage you as an independent contractor, and
+not as an employee, to render consulting services to the Company as hereinafter
+provided, and you hereby agree to accept such engagement, for a period ending
+on March 31, 1999 (the "Consulting Period").  You will not have any authority
+to bind or act on behalf of the Company or its subsidiaries, expect in your
+capacity as a director of the Company.  During the Consulting Period, you will
+render such consulting services to the Company as are mutually agreed upon by
+you and the Company at mutually convenient times.  In addition, during the
+Consulting Period, you will continue to support the Company and not make any
+disparaging remarks regarding the Company.
+
+
+
+
+<PAGE>   2
+
+
+
+         (c)  In consideration of the services set forth in paragraph (b) 
+above, the Company will pay to you $37,500 per month during the Consulting
+Period, payable in nine monthly installments during the Consulting Period, to be
+paid in cash on the last day of each month (except that the payment for July
+will be made on the date hereof).  The Company will reimburse you for all
+reasonable expenses incurred by you in the course of performing your duties
+under this letter agreement which are consistent with the Company's standard
+policies in effect from time to time with respect to travel, entertainment and
+other business expenses, subject to the Company's requirements with respect to
+reporting and documentation of such expenses.
+
+         (d)  You will file all tax returns and reports required to be filed 
+by you on the basis that you are an independent contractor, rather than an
+employee, as defined in Treasury Regulations Section 31.3121(d)-1(c)(2), and you
+will indemnify the Company for the amount of any employment taxes paid by the
+Company as the result of you not paying employment taxes from the payment
+described in paragraph (c) above.
+
+         2.  Severance Payment. In lieu of the severance payments of your Base
+Salary for 24 months following the end of the Employment Period, the Company
+hereby agrees, and you hereby accept, a lump sum payment of $800,000 as
+severance, payable upon the effectiveness of this agreement and the execution
+and effectiveness of the Release.
+
+         3.  Benefits.  During the Consulting Period and for 24 months 
+thereafter, the Company will provide you and your spouse with health and
+disability benefits set forth in paragraph 3(a) of the Employment Agreement and
+the fringe benefits described in paragraphs 3(b)(i), 3(b)(v) and 3(b)(vi) of the
+Employment Agreement.  In addition, during the Consulting Period and for 24
+months thereafter, the Company will provide you with the following additional
+benefits:
+
+         (i)     the use and access to an executive secretary of the Company, 
+                 such as Barbara Martin, as deemed reasonably necessary by you; 
+                 and
+
+         (ii)    the use of a computer, mobile phone, Bain voicemail (to the 
+                 extent available to the Company) and fax machine (and you will
+                 be entitled to retain the hardware (other than the Bain
+                 voicemail) at no cost following the end of the 24-month
+                 period).
+
+Furthermore, until the earlier to occur of (a) five years following the end of
+the 24-month period or (b) your attaining the age of 65, the Company will
+continue to provide you and your spouse with the same or comparable health
+insurance coverage that you and your spouse currently are provided (so long as
+the cost to the Company of maintaining such insurance does not increase except
+for reasonable premium increases which are consistent with the premiums charged
+to the Company with respect to its other employees).
+
+         4.  Change of Control Payment.  The Company and you hereby agree that 
+paragraph 4 of the Employment Agreement is hereby amended to delete the
+paragraph in its entirety and replace it with the following:
+
+
+
+
+                                       2
+<PAGE>   3
+
+
+
+         "If during the Consulting Period, a Person or "group" (as defined in
+         Section 13(d)(3) of the Securities Exchange Act of 1934, as amended)
+         of Persons (other than Bain Capital, Inc. or its affiliates) (a)
+         becomes the owner of more than 50% of the Company's common stock or
+         (b) has the de facto ability to direct the nomination of a majority of
+         the directors who are then elected to the Board (a "Change of
+         Control") or (c) enters into a binding agreement as to price and basic
+         terms with the Company with respect to a Change of Control, the
+         Company shall pay to Executive a lump sum payment equal to $2,500,000
+         within ten days following the occurrence of such Change of Control."
+
+         5.  Outplacement Services.  Following the Effective Date, the Company
+will provide you with outplacement services for the purposes of obtaining other
+employment.
+
+         6.  1998 Bonus.  You will not be eligible to receive your 1998 bonus.
+
+         7.  Non-Compete and Other Provisions.  The Company and you agree that
+the non-compete and non- solicitation set forth in paragraph 9 of the
+Employment Agreement will run for a period from the date hereof to and
+including 24 months following the end of the Consulting Period.  The Company
+and you agree that the confidentiality and intellectual property provisions of
+paragraphs 7 and 8 of the Employment Agreement continue to apply to you during
+the Consulting Period.
+
+         8.  D&O Indemnification.  The Company hereby agrees and acknowledges
+that it will continue to honor its indemnification obligations to you set forth
+in its certificate of incorporation and/or bylaws with respect to any existing
+or future lawsuit against the Company and any other actions pursuant to which
+you would be entitled to indemnification. In addition, you shall have the right
+to retain separate counsel with regard to any such lawsuit or action and the
+Company will indemnify you for the costs and expenses incurred with respect
+thereto, regardless of whether the costs and expenses of such separate
+representation are covered by insurance, to the extent such rights and
+indemnities are provided in the Company's certificate of incorporation and/or
+bylaws.
+
+         9.  Release.  Attached hereto as Exhibit I is a release ("Release")
+which you agree to execute and deliver to the Company on the date hereof and
+reexecute and deliver on the Effective Date.  It is understood and agreed that
+the effectiveness of the Release is conditioned upon the Company's compliance
+with its obligations under this letter, and will otherwise be of no force and
+effect.
+
+         10.  Press Releases.  The parties to this letter agree that they will
+not issue any public statement regarding your termination of employment with
+the Company or regarding this letter without the prior written consent of the
+other party hereto, except as required by law.
+
+         11.  Complete Agreement.  The parties hereto agree that the Employment
+Agreement will continue in full force and effect, including but not limited to
+Section 18 thereof, except as modified by this letter, such modifications to
+include but not be limited to Section 5 thereof.  The parties also agree that
+this letter supersedes all other written or oral agreements relating to the
+subject matter of this letter.
+
+
+
+
+                                       3
+<PAGE>   4
+
+
+
+         12.  Binding Effect.  This letter agreement is binding on the Company
+subject only to your not revoking the Release prior to the expiration of the
+seven day period following your execution of the Release.  Notification of
+revocation by you during the seven day period must be accomplished by hand
+delivered written notice of revocation to the Company at 17304 Preston Road,
+Suite 700, Dallas, TX 75252, with a copy to the Company's counsel, James L.
+Learner, Kirkland & Ellis, 200 E. Randolph Drive, Chicago, IL 60601, before
+midnight of the seventh day after the execution date of the Release.  No
+attempted revocation after the expiration of such seven day period will have any
+effect on the terms of this letter agreement or the Release.
+
+         13.  Stock Options.  With respect to the agreements referenced in 
+Sections 15(b), (c) and (d) of the Employment Agreement (for purposes of this
+paragraph 13 only, the "Agreements"), you will be permitted to exercise the
+options thereunder with respect to which the Company has previously taken an
+accounting compensation charge (i.e., 406,919 shares out of a total of 798,548
+shares) for a period of 15 months following the end of the Consulting Period,
+and the Company will amend such Agreements accordingly.  Except as otherwise
+provided in this Section 13, all options held by you on the date hereof shall be
+exercisable in accordance with the terms of the option agreements pursuant to
+which such options were granted.
+
+         If you are in agreement with the terms of this letter, please sign in
+the space provided below.
+
+                                           Very truly yours,
+
+                                           AMERICAN PAD & PAPER COMPANY
+
+                                           By   /s
+                                              ----------------------------------
+
+                                           Its
+                                              ----------------------------------
+
+Agreed and accepted
+the __ day of July, 1998:
+
+   /s
+- -----------------------------
+RUSSELL M. GARD
+
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.02
+<SEQUENCE>9
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> CT
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-1998
+<PERIOD-START>                             JAN-01-1998
+<PERIOD-END>                               JUN-30-1998
+<TOTAL-ASSETS>                                 583,471
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           277
+<OTHER-SE>                                      42,378
+<TOTAL-LIABILITY-AND-EQUITY>                   583,471
+<TOTAL-REVENUES>                               308,319
+<INCOME-TAX>                                  (12,564)
+<INCOME-CONTINUING>                           (58,022)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                  (58,022)
+<EPS-PRIMARY>                                   (2.09)
+<EPS-DILUTED>                                     0.00
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.09
+<SEQUENCE>10
+<DESCRIPTION>WAIVER EXTENSION ON BANK COVENANTS
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                   Exhibit 99.09
+
+CONTACT: JAMES W. SWENT
+                                           Chief Executive Officer
+                                           American Pad & Paper Co.
+                                           (972) 733-6200
+FOR IMMEDIATE RELEASE
+                                           ROBERT P. JONES/THERESA SCHILLERO
+                                           LESLIE FELDMAN - PRESS
+                                           (212) 850-5600
+                                           Ken Pieper
+                                           (972) 663-9390
+                                           Morgen-Walke Associates
+
+================================================================================
+             AMERICAN PAD & PAPER COMPANY RECEIVES WAIVER EXTENSION
+
+     DALLAS, Texas, July 31, 1998 - American Pad & Paper (NYSE:AGP) announced 
+today that it has executed an amendment with its banking group waiving all the
+defaults of the financial covenants of its loan agreement through September 30,
+1998.
+
+     James W. Swent, III, Chief Executive Officer said, "We are extremely 
+pleased with the support we have received from our banks in working through this
+issue. We will be working with the banks during the third quarter to negotiate a
+permanent amendment to the current agreement that will be beneficial to all
+parties.  In addition to our banks, we have received strong support from all our
+vendors and customers including our independent merchants, our regional and
+national chains, our contract stationers, and our superstores."
+
+     American Pad & Paper Company is a leading manufacturer and marketer of
+paper-based office products in North America.  The company manufactures and
+distributes writing pads, folders, envelopes and other office products.  Name
+brands include Ampad, Century, Embassy, Gold fibre, Huxley, Karolton, Kent,
+Peel & Seel, SCM, Williamhouse and World Fibre.
+
+     This release contains forward-looking statements relating to future 
+results. Actual results may differ significantly as a result of factors over
+which the company has no control, including the strength of domestic and foreign
+economies, slower than anticipated sales growth, price and product competition
+and increases in raw material costs.  Additional information which could affect
+the company's financial results is included in the company's prospectus on file
+with the Securities and Exchange Commission.
+
+                                    # # #
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

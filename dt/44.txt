@@ -1,0 +1,2238 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RHiO0hkbOslk/2iB2eQM8lSgcXyjFKRha0FtFBz3xsf7Z6kKaWhrhStjKFZUvWZf
+ eDg67b8ZljTBWxC/8ybQfg==
+
+<SEC-DOCUMENT>0000004457-00-000018.txt : 20000211
+<SEC-HEADER>0000004457-00-000018.hdr.sgml : 20000211
+ACCESSION NUMBER:		0000004457-00-000018
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERCO /NV/
+		CENTRAL INDEX KEY:			0000004457
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				880106815
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11255
+		FILM NUMBER:		531379
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WY STE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+		BUSINESS PHONE:		7756886300
+
+	MAIL ADDRESS:	
+		STREET 1:		1325 AIRMOTIVE WAY
+		STREET 2:		SUITE 100
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERCO
+		DATE OF NAME CHANGE:	19770926
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q 12/31/99
+<TEXT>
+
+<PAGE>  1
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+
+                For the quarterly period ended December 31, 1999
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+        For the transition period from __________________ to __________________
+
+Commission    Registrant, State of Incorporation               I.R.S. Employer
+File Number     Address and Telephone Number                 Identification No.
+_______________________________________________________________________________
+
+
+1-11255        AMERCO                                           88-0106815
+               (A Nevada Corporation)
+               1325 Airmotive Way, Ste. 100
+               Reno, Nevada  89502-3239
+               Telephone (775) 688-6300
+
+
+2-38498        U-Haul International, Inc.                       86-0663060
+               (A Nevada Corporation)
+               2727 N. Central Avenue
+               Phoenix, Arizona 85004
+               Telephone (602) 263-6645
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+Yes [X] No [ ].
+
+22,614,087 shares of AMERCO Common Stock, $0.25 par value were
+outstanding at February 10, 2000.
+
+5,385 shares of U-Haul International, Inc. Common Stock, $0.01 par
+value, were outstanding at February 10, 2000. U-Haul International,
+Inc. meets the conditions set forth in General Instruction H(1)(a) and
+(b) of Form 10-Q and is therefore filing this form with the reduced
+disclosure format.
+<PAGE>  2
+                          TABLE OF CONTENTS
+
+
+
+PART I.  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements.
+
+         a)  Consolidated Balance Sheets as of December 31, 1999 and
+             March 31, 1999................................................    4
+
+         b)  Consolidated Statements of Earnings for the Nine months ended
+             December 31, 1999 and 1998....................................    6
+
+         c)  Consolidated Statements of Changes in Stockholders' Equity
+             for the Nine months ended December 31, 1999...................    7
+
+         d)  Consolidated Statements of Comprehensive Income for the
+             Nine months ended December 31, 1999 and 1998..................    8
+
+         e)  Consolidated Statements of Earnings for the Quarters ended
+             December 31, 1999 and 1998....................................    9
+
+         f)  Consolidated Statements of Cash Flows for the Nine months ended
+             December 31, 1999 and 1998....................................   10
+
+         g)  Notes to Consolidated Financial Statements - December 31, 1999,
+             March 31, 1999 and December 31, 1998..........................   11
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations.............................................   22
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk........   33
+
+PART II. OTHER INFORMATION
+
+Item 1.  Legal Proceedings.................................................   34
+
+Item 6.  Exhibits and Reports on Form 8-K..................................   35
+<PAGE>  3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          THIS PAGE LEFT
+                        INTENTIONALLY BLANK
+<PAGE>  4
+                  PART I.  FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS.
+
+
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                    Consolidated Balance Sheets
+
+
+                                                  December 31,    March 31,
+Assets                                                1999           1999
+                                                  -------------------------
+                                                  (Unaudited)
+                                                        (in thousands)
+
+
+Cash and cash equivalents                       $    17,176         44,505
+Trade receivables, net                              172,399        173,050
+Notes and mortgage receivables, net                 219,556        217,910
+Inventories, net                                     80,581         80,159
+Prepaid expenses                                     10,363         16,363
+Investments, fixed maturities                       905,124        900,995
+Investments, other                                  171,548        181,892
+Deferred policy acquisition costs                    82,990         63,283
+Other assets                                        102,156        114,522
+                                                  ------------------------
+
+Property, plant and equipment, at cost:
+  Land                                              196,582        196,960
+  Buildings and improvements                        832,287        806,421
+  Furniture and equipment                           248,205        234,894
+  Rental trailers and other rental
+    equipment                                       204,726        186,660
+  Rental trucks                                   1,019,165        992,418
+                                                  ------------------------
+                                                  2,500,965      2,417,353
+  Less accumulated depreciation                   1,164,814      1,122,529
+                                                  ------------------------
+
+       Total property, plant and equipment        1,336,151      1,294,824
+                                                  ------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Assets                                    $ 3,098,044      3,087,503
+                                                  ========================
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE>  5
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  December 31,    March 31,
+Liabilities and Stockholders' Equity                  1999           1999
+                                                  -------------------------
+                                                  (Unaudited)
+                                                    (in thousands, except
+                                                  share and per share data)
+
+Liabilities:
+  Accounts payable and accrued expenses         $   148,912        169,185
+  Notes and loans payable                         1,101,824      1,114,748
+  Policy benefits and losses, claims and
+    loss expenses payable                           517,422        546,599
+  Liabilities from premium deposits                 457,677        457,759
+  Cash overdraft                                     36,163         28,169
+  Other policyholders' funds and liabilities         49,963         48,889
+  Deferred income                                    41,285         41,549
+  Deferred income taxes                              96,462         64,580
+                                                  ------------------------
+
+Stockholders' equity:
+  Serial preferred stock, with or without par
+    value, 50,000,000 shares authorized -
+    Series A preferred stock, with no par
+      value, 6,100,000 shares authorized;
+      6,100,000 issued and outstanding as of
+      December 31, 1999 and March 31, 1999              -              -
+    Series B preferred stock, with no par
+      value, 100,000 shares authorized;
+      none and 25,000 shares outstanding
+      as of December 31, 1999 and
+      March 31, 1999, respectively                      -              -
+  Serial common stock, with or without par
+    value, 150,000,000 shares authorized -
+    Series A common stock of $0.25 par
+      value, 10,000,000 shares authorized;
+      5,762,495 shares issued as of
+      December 31, 1999 and March 31, 1999            1,441          1,441
+  Common stock of $0.25 par value,
+    150,000,000 shares authorized;
+    36,487,505 shares issued as of
+    December 31, 1999 and March 31, 1999              9,122          9,122
+  Additional paid-in capital                        275,242        299,905
+  Accumulated other comprehensive income            (26,365)       (17,740)
+  Retained earnings                                 768,031        703,322
+                                                  ------------------------
+                                                  1,027,471        996,050
+  Less:
+    Cost of common shares in treasury, net
+      (19,635,913 shares as of
+      December 31, 1999 and March 31, 1999)         363,533        363,533
+    Unearned employee stock ownership
+      plan shares                                    15,602         16,492
+                                                  ------------------------
+         Total stockholders' equity                 648,336        616,025
+
+Contingent liabilities and commitments
+                                                  ------------------------
+
+Total Liabilities and Stockholders' Equity      $ 3,098,044      3,087,503
+                                                  ========================
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE>  6
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                Consolidated Statements of Earnings
+
+                  Nine months ended December 31,
+                            (Unaudited)
+
+                                                        1999         1998
+                                                  -------------------------
+                                                    (in thousands, except
+                                                  share and per share data)
+
+Revenues
+  Rental revenue                                 $    907,802      848,771
+  Net sales                                           148,669      143,169
+  Premiums                                            167,020      165,492
+  Net investment and interest income                   61,341       53,664
+                                                   -----------------------
+       Total revenues                               1,284,832    1,211,096
+
+Costs and expenses
+  Operating expenses                                  705,245      666,109
+  Cost of sales                                        87,737       84,568
+  Benefits and losses                                 126,944      130,468
+  Amortization of deferred acquisition costs           27,340       16,902
+  Lease expense                                        98,999       87,632
+  Depreciation, net                                    61,553       53,480
+                                                   -----------------------
+Total costs and expenses                            1,107,818    1,039,159
+
+Earnings from operations                              177,014      171,937
+
+  Interest expense                                     61,038       55,003
+                                                   -----------------------
+
+Pretax earnings                                       115,976      116,934
+
+Income tax expense                                    (40,867)     (41,055)
+                                                   -----------------------
+
+       Net earnings                              $     75,109       75,879
+                                                   =======================
+
+Earnings per common share:
+  Basic                                          $       2.95         2.85
+  Diluted                                        $       2.93          -
+                                                   =======================
+
+Weighted average common shares outstanding:
+  Basic                                            21,964,513   21,934,264
+  Diluted                                          22,353,402          -
+                                                   =======================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE>  7
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+    Consolidated Statements of Changes in Stockholders' Equity
+
+                  Nine months ended December 31,
+                            (Unaudited)
+
+                                                              1999
+                                                   -------------------------
+                                                     (in thousands, except
+                                                   share and per share data)
+
+Series A common stock of $0.25 par value:
+  10,000,000 shares authorized, 5,762,495
+  shares issued as of December 31, 1999
+    Beginning and end of period                           $   1,441
+                                                              -----
+
+
+Common stock of $0.25 par value:
+  150,000,000 shares authorized, 36,487,505
+  shares issued as of December 31, 1999
+    Beginning and end of period                               9,122
+                                                              -----
+
+
+Additional paid-in capital:
+    Beginning of period                                     299,905
+      Preferred stock repurchase                            (25,000)
+      Issuance of common shares under leveraged
+        employee stock ownership plan                           337
+                                                            -------
+    End of period                                           275,242
+                                                            -------
+
+
+Accumulated other comprehensive income:
+    Beginning of period                                     (17,740)
+      Foreign currency translation                            4,100
+      Fair market value of cash flow hedge                    2,130
+      Unrealized loss on investments                        (14,855)
+                                                            -------
+    End of period                                           (26,365)
+                                                            -------
+
+Retained earnings:
+    Beginning of period                                     703,322
+      Net earnings                                           75,109
+      Preferred stock dividends paid:
+        Series A ($1.59 per share)                           (9,721)
+        Series B ($27.14 per share)                            (679)
+                                                            -------
+    End of period                                           768,031
+                                                            -------
+
+
+Less Treasury stock:
+    Beginning and end of period                             363,533
+                                                            -------
+
+
+Less Unearned employee stock
+  ownership plan shares:
+    Beginning of period                                      16,492
+      Purchase of shares                                          3
+      Repayments from loan                                     (893)
+                                                            -------
+    End of year                                              15,602
+                                                            -------
+
+Total stockholders' equity                                $ 648,336
+                                                            =======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE>  8
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+          Consolidated Statements of Comprehensive Income
+
+                  Nine months ended December 31,
+                            (Unaudited)
+
+                                                        1999         1998
+                                                       -------------------
+                                                          (in thousands)
+Comprehensive Income:
+  Net earnings                                       $ 75,109       75,879
+    Changes in other comprehensive income:
+     Foreign currency translation                       4,100       (6,420)
+     Fair market value of cash flow hedge               2,130       (4,819)
+     Unrealized gain (loss) on investments            (14,855)       5,761
+                                                       -------------------
+
+     Total Comprehensive Income                      $ 66,484       70,401
+                                                       ===================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE>  9
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+                Consolidated Statements of Earnings
+
+                    Quarters ended December 31,
+                            (Unaudited)
+
+                                                        1999         1998
+                                                  --------------------------
+                                                    (in thousands, except
+                                                  share and per share data)
+
+Revenues
+  Rental revenue                                 $    264,772      249,870
+  Net sales                                            38,548       35,602
+  Premiums                                             59,217       69,269
+  Net investment and interest income                   19,959       18,378
+                                                  ------------------------
+       Total revenues                                 382,496      373,119
+
+Costs and expenses
+  Operating expenses                                  240,870      217,535
+  Cost of sales                                        25,003       21,659
+  Benefits and losses                                  42,929       50,477
+  Amortization of deferred acquisition costs            9,459        8,103
+  Lease expense                                        34,787       31,100
+  Depreciation, net                                    23,002       21,578
+                                                  ------------------------
+Total costs and expenses                              376,050      350,452
+
+Earnings from operations                                6,446       22,667
+
+  Interest expense                                     21,223       18,368
+                                                  ------------------------
+
+Pretax earnings (loss)                                (14,777)       4,299
+
+Income tax benefit (expense)                            5,452       (1,821)
+                                                  ------------------------
+
+       Net earnings (loss)                       $     (9,325)       2,478
+                                                  ========================
+
+Loss per common share (both basic and
+  diluted                                        $      (0.57)       (0.07)
+                                                  ========================
+
+Weighted average common shares outstanding:        21,975,889   21,942,190
+                                                  ========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE> 10
+               AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+               Consolidated Statements of Cash Flows
+
+                  Nine months ended December 31,
+                            (Unaudited)
+                                                         1999        1998
+                                                          (in thousands)
+                                                       -------------------
+Cash flows from operating activities:
+  Net earnings                                       $  75,109      75,879
+    Depreciation and amortization                      108,155      80,717
+    Provision for losses on accounts receivable          3,575       3,545
+    Net gain on sale of real and personal property      (6,776)       (681)
+    Net (gain) loss on sale of investments                  84      (1,745)
+    Changes in policy liabilities and accruals         (24,863)      7,368
+    Additions to deferred policy acquisition costs     (35,773)    (36,117)
+    Net change in other operating assets
+      and liabilities                                   19,423     (98,843)
+                                                       -------------------
+
+Net cash provided by operating activities              138,934      30,123
+                                                       -------------------
+
+Cash flows from investing activities:
+  Purchases of investments:
+    Property, plant and equipment                     (269,530)   (235,035)
+    Fixed maturities                                  (114,778)   (141,792)
+    Common stock                                           -        (2,553)
+    Preferred stock                                       (369)    (20,700)
+    Mortgage loans                                     (11,955)     (1,582)
+  Proceeds from sale of investments:
+    Property, plant and equipment                      167,305     196,506
+    Fixed maturities                                    87,604     177,162
+    Preferred stock                                        968       1,858
+    Real estate                                            827       5,196
+    Mortgage loans                                       8,382      14,661
+  Changes in other investments                          12,295      (3,560)
+                                                       -------------------
+
+Net cash used by investing activities                 (119,251)     (9,839)
+                                                       -------------------
+
+Cash flows from financing activities:
+  Net change in short-term borrowings                   17,160      44,500
+  Proceeds from notes                                  150,000         -
+  Debt issuance costs                                   (7,490)       (378)
+  Leveraged Employee Stock Ownership Plan:
+    Purchase of shares                                      (3)       (201)
+    Repayments from loan                                   893       1,203
+  Principal payments on notes                         (180,084)    (46,370)
+  Repurchase of preferred stock                        (25,000)    (25,000)
+  Net change in cash overdraft                           7,995      12,716
+  Preferred stock dividends paid                       (10,400)    (13,479)
+  Investment contract deposits                          45,435      56,217
+  Investment contract withdrawals                      (45,518)    (46,149)
+                                                       -------------------
+
+Net cash used by financing activities                  (47,012)    (16,941)
+                                                       -------------------
+
+Increase (decrease) in cash and cash equivalents       (27,329)      3,343
+
+Cash and cash equivalents at beginning of period        44,505      31,606
+                                                       -------------------
+
+Cash and cash equivalents at end of period           $  17,176      34,949
+                                                       ===================
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated
+financial statements.
+<PAGE> 11
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements
+
+        December 31, 1999, March 31, 1999 and December 31, 1998
+                              (Unaudited)
+
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION
+     AMERCO, a Nevada corporation (AMERCO), is the holding company for
+U-Haul International, Inc. (U-Haul), Amerco Real Estate Company (Real
+Estate), Republic Western Insurance Company (Republic) and Oxford Life
+Insurance Company (Oxford).
+
+PRINCIPLES OF CONSOLIDATION
+     The consolidated financial statements include the accounts of the
+parent corporation, AMERCO, and its wholly-owned subsidiaries.  All
+material intercompany accounts and transactions of AMERCO and its
+subsidiaries have been eliminated.   The financial statements and
+notes are presented as permitted by Form 10-Q and do not contain
+certain information included in AMERCO's annual financial statements
+and notes.
+
+     The consolidated balance sheet as of December 31, 1999 and the
+related consolidated statements of earnings for the three and nine
+months ended December 31, 1999 and 1998, and the related consolidated
+statements of changes in stockholders' equity for the nine months
+ended December 31, 1999 and the consolidated statements of
+comprehensive income and cash flows for the nine months ended December
+31, 1999 and 1998 are unaudited; in the opinion of management, all
+adjustments necessary for a fair presentation of such financial
+statements have been included.  Such adjustments consisted only of
+normal recurring items.  Interim results are not necessarily
+indicative of results for a full year.
+
+     The operating results and financial position of AMERCO's
+consolidated insurance operations are determined on a one quarter lag.
+There were no effects related to intervening events which would
+materially affect the consolidated financial position or results of
+operations for the financial statements presented herein.
+
+     Certain reclassifications have been made to the financial
+statements for the three and nine months ended December 31, 1998 to
+conform with the current year's presentation.
+<PAGE> 12
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+2.  INVESTMENTS
+
+     A comparison of amortized cost to market for fixed maturities is as
+     follows:
+
+     September 30, 1999
+     ------------------   Par Value               Gross       Gross    Estimated
+     Consolidated         or number  Amortized  unrealized  unrealized   market
+     Held-to-Maturity     of shares     cost      gains       losses      value
+                          ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities
+       and government
+       obligations        $  17,964  $  18,894        117        (299)   18,712
+     U.S. government
+       agency mortgage-
+       backed securities  $  19,804     19,713         86        (275)   19,524
+     Obligations of
+       states and
+       political
+       subdivisions       $   1,500      1,517         82         -       1,599
+     Corporate
+       securities         $  98,970    103,647      1,832      (1,564)  103,915
+     Mortgage-backed
+       securities         $  37,118     37,354        331        (486)   37,199
+     Redeemable preferred
+       stocks                 4,561    115,253        454      (9,373)  106,334
+                                       ----------------------------------------
+
+                                       296,378      2,902     (11,997)  287,283
+                                       ----------------------------------------
+
+     September 30, 1999
+     ------------------   Par Value               Gross       Gross    Estimated
+     Consolidated         or number  Amortized  unrealized  unrealized   market
+     Available-for-Sale   of shares     cost      gains       losses      value
+                          ------------------------------------------------------
+                                               (in thousands)
+
+     U.S. treasury
+       securities and
+       government
+       obligations        $  35,385  $  36,135      1,231        (855)   36,511
+     U.S. government
+       agency mortgage-
+       backed securities  $  37,543     37,252        317        (444)   37,125
+     Obligations of
+       states and
+       political
+       subdivisions       $  13,350     13,514        519        (130)   13,903
+     Corporate
+       securities         $ 459,757    461,768      4,567     (12,361)  453,974
+     Mortgage-backed
+       securities         $  35,242     34,997      1,075        (159)   35,913
+     Redeemable preferred
+       stocks                 1,311     32,675        169      (1,524)   31,320
+                                       ----------------------------------------
+
+                                       616,341      7,878     (15,473)  608,746
+                                       ----------------------------------------
+
+            Total                    $ 912,719     10,780     (27,470)  896,029
+                                       ========================================
+
+
+
+
+
+<PAGE> 13
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+3.  SUMMARIZED CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE SUBSIDIARIES
+
+     A summarized consolidated balance sheet for Republic is presented below:
+
+                                                        September 30,
+                                                     -------------------
+                                                       1999        1998
+                                                     -------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 413,845     407,755
+    Investments, other                                22,942      23,720
+    Receivables                                      115,407     139,145
+    Deferred policy acquisition costs                 12,720       8,472
+    Due from affiliate                                23,772      24,831
+    Deferred federal income taxes                     12,538      14,475
+    Other assets                                      17,847      24,821
+                                                     -------------------
+
+         Total assets                              $ 619,071     643,219
+                                                     ===================
+
+    Policy liabilities and accruals                $ 324,214     360,657
+    Unearned premiums                                 48,885      54,200
+    Other policyholders' funds and liabilities        29,872      21,272
+                                                     -------------------
+      Total liabilities                              402,971     436,129
+
+    Stockholder's equity                             216,100     207,090
+                                                     -------------------
+
+         Total liabilities and
+           stockholder's equity                    $ 619,071     643,219
+                                                     ===================
+
+
+     A summarized consolidated income statement for Republic is presented below:
+
+                                       Quarter ended          Nine months ended
+                                       September 30,            September 30,
+                                     ------------------------------------------
+                                      1999       1998          1999       1998
+                                     ------------------------------------------
+                                                   (in thousands)
+
+    Premiums                       $ 35,721     39,476       100,289    104,737
+    Net investment income             8,141      8,979        24,830     27,221
+                                     -----------------       ------------------
+      Total revenue                  43,862     48,455       125,119    131,958
+
+    Benefits and losses              28,674     30,171        82,387     86,711
+    Amortization of deferred
+      policy acquisition costs        3,312      3,001        10,144      5,402
+    Operating expenses                7,775      7,649        23,511     25,693
+                                     -----------------       ------------------
+      Total expenses                 39,761     40,821       116,042    117,806
+
+        Income from operations        4,101      7,634         9,077     14,152
+    Federal income tax expense       (1,217)    (2,555)       (2,783)    (4,515)
+                                     -----------------       ------------------
+
+        Net income                 $  2,884      5,079         6,294      9,637
+                                     =================       ==================
+<PAGE> 14
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+3.  SUMMARIZED CONSOLIDATED FINANCIAL INFORMATION OF INSURANCE SUBSIDIARIES,
+    continued
+
+     A summarized consolidated balance sheet for Oxford is presented below:
+
+                                                        September 30,
+                                                     --------------------
+                                                       1999        1998
+                                                     --------------------
+                                                        (in thousands)
+
+    Investments, fixed maturities                  $ 491,279     471,015
+    Investments, other                               129,900     115,010
+    Receivables                                       35,406      42,083
+    Deferred policy acquisition costs                 70,270      54,925
+    Due from (to) affiliate                           (9,681)      3,046
+    Other assets                                      10,559      34,143
+                                                     -------------------
+
+        Total assets                               $ 727,733     720,222
+                                                     ===================
+
+    Policy liabilities and accruals                $ 141,995     155,735
+    Premium deposits                                 457,677     433,647
+    Other policyholders' funds and liabilities        23,191      22,147
+    Deferred federal income taxes                     17,550      12,471
+                                                     -------------------
+      Total liabilities                              640,413     624,000
+
+    Stockholder's equity                              87,320      96,222
+                                                     -------------------
+
+        Total liabilities and
+          stockholder's equity                     $ 727,733     720,222
+                                                     ===================
+
+     A summarized consolidated income statement for Oxford is presented below:
+
+                                       Quarter ended          Nine months ended
+                                       September 30,            September 30,
+                                     ------------------------------------------
+                                      1999       1998          1999       1998
+                                     ------------------------------------------
+                                                   (in thousands)
+
+    Premiums                       $ 24,334     35,087        71,541     71,389
+    Net investment income             5,673      5,046        15,811     14,486
+                                     -----------------        -----------------
+      Total revenue                  30,007     40,133        87,352     85,875
+
+    Benefits and losses              14,255     20,306        44,557     43,757
+    Amortization of deferred
+      policy acquisition costs        6,147     13,303        17,196     19,701
+    Operating expenses                5,809      3,567        15,337     12,707
+                                     -----------------        -----------------
+      Total expenses                 26,211     37,176        77,090     76,165
+
+        Income from operations        3,796      2,957        10,262      9,710
+    Federal income tax expense       (1,180)      (903)       (3,352)    (2,991)
+                                     -----------------        -----------------
+
+        Net income                 $  2,616      2,054         6,910      6,719
+                                     =================        =================
+
+     In December 1998, North American Fire & Casualty Insurance Company
+(NAFCIC) was sold to Republic.
+<PAGE> 15
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+4.  ACCUMULATED OTHER COMPREHENSIVE INCOME
+<TABLE>
+     A summary of accumulated comprehensive income components follows:
+<CAPTION>
+                                             Unrealized   Fair market   Accumulated
+                                  Foreign    gain (loss)    value of        other
+                                  currency       on        cash flow   comprehensive
+                                 translation investments     hedge          income
+                                 ---------------------------------------------------
+                                                     (in thousands)
+   <S>                           <C>            <C>            <C>           <C>
+   Balance at March 31, 1999     $ (25,411)      11,302        (3,631)       (17,740)
+     Foreign currency
+       translation                   4,100          -             -            4,100
+     Fair market value of
+       cash flow hedge,
+       net of taxes of $1,195          -            -           2,130          2,130
+     Unrealized gain (loss)
+       on investments,
+       net of taxes of $6,365          -        (14,855)          -          (14,855)
+                                   -------      -------        ------        -------
+
+   Balance at December 31, 1999  $ (21,311)      (3,553)       (1,501)       (26,365)
+                                   =======      =======        ======        =======
+
+
+   Balance at March 31, 1998     $ (18,675)       9,291           -           (9,384)
+     Foreign currency
+       translation                  (6,420)         -             -           (6,420)
+   Fair market value of
+       cash flow hedge,
+       net of taxes of $2,595          -            -          (4,819)        (4,819)
+     Unrealized gain (loss)
+       on investments,
+       net of taxes of $2,262          -          5,761           -            5,761
+                                   -------      -------        ------        -------
+
+   Balance at December 31, 1998  $ (25,095)      15,052        (4,819)       (14,862)
+                                   =======      =======        ======        =======
+</TABLE>
+
+
+5.  CONTINGENT LIABILITIES AND COMMITMENTS
+
+     During the nine months ended December 31, 1999, a subsidiary of
+U-Haul entered into fifteen transactions and has subsequently entered
+into one transaction, whereby the subsidiary sold rental trucks and
+subsequently leased them back.  AMERCO has guaranteed $22,460,000 of
+residual values at December 31, 1999 and an additional $1,571,000
+subsequent to December 31, 1999 for these assets at the end of the
+respective lease terms.  Following are the lease commitments for the
+leases executed during the nine months ended December 31, 1999, and
+subsequently which have a term of more than one year (in thousands):
+
+                                              Net activity
+             Year ended           Lease       subsequent to
+              March 31,        Commitments      period end      Total
+             --------------------------------------------------------
+
+             2000              $   9,442            256         9,698
+             2001                 16,220          1,533        17,753
+             2002                 16,220          1,533        17,753
+             2003                 16,220          1,533        17,753
+             2004                 16,220          1,533        17,753
+             Thereafter           39,218          4,346        43,564
+                                 ------------------------------------
+                               $ 113,540         10,734       124,274
+                                 ====================================
+
+     In the normal course of business, AMERCO is a defendant in a
+number of suits and claims.  AMERCO is also a party to several
+administrative proceedings arising from state and local provisions
+that regulate the removal and/or clean-up of underground fuel storage
+tanks.  It is the opinion of management that none of such suits,
+claims or proceedings involving AMERCO, individually or in the
+aggregate are expected to result in a material loss.
+<PAGE> 16
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+6.  SUPPLEMENTAL CASH FLOWS INFORMATION
+
+     The (increase) decrease in receivables, inventories and accounts
+payable and accrued liabilities net of other operating and investing
+activities follows:
+
+                                                     Nine months ended
+                                                        December 31,
+                                                  1999              1998
+                                                  -----------------------
+                                                      (in thousands)
+
+        Receivables                            $  (3,394)        (131,711)
+                                                  =======================
+
+        Inventories                            $    (422)          (2,004)
+                                                  =======================
+
+        Accounts payable and
+          accrued liabilities                  $ (24,365)         (52,556)
+                                                  =======================
+
+     Income taxes paid in cash amounted to $638,000 and $1,065,000 for
+the nine months ended December 31, 1999 and 1998, respectively.
+
+     Interest paid in cash amounted to $60,639,000 and $57,094,000 for
+the nine months ended December 31, 1999 and 1998, respectively.
+<PAGE> 17
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+7.  EARNINGS PER SHARE
+<TABLE>
+     The following table reflects the calculation of the earnings per share:
+<CAPTION>
+                                                              Weighted Average
+                                                                Common Shares
+                                                Income           Outstanding        Per Share
+                                              (Numerator)       (Denominator)         Amount
+                                              -----------     ----------------      ---------
+                                              (in thousands, except share and per share data)
+<S>                                          <C>                 <C>               <C>
+Quarter ended December 31, 1999:
+ Loss from operations                        $   (9,325)
+ Less dividends on preferred shares               3,241
+                                                -------
+ Basic and diluted loss per common share        (12,566)         21,975,889        $  (0.57)
+                                                =======          ==========            ====
+
+Quarter ended December 31, 1998:
+ Earnings from operations                    $    2,478
+ Less dividends on preferred shares               4,046
+                                                -------
+ Basic and diluted loss per common share         (1,568)         21,942,190        $  (0.07)
+                                                =======          ==========            ====
+
+
+Nine months ended December 31, 1999:
+ Earnings from operations                    $   75,109
+ Less dividends on preferred shares              10,259
+                                                -------
+ Basic earnings per common share                 64,850          21,964,513        $   2.95
+
+ Effect of dilutive securities -
+   Series B preferred shares                        537             388,889
+                                                 ------          ----------
+ Diluted earnings per common share               65,387          22,353,402        $   2.93
+                                                 ======          ==========            ====
+
+Nine months ended December 31, 1998:
+ Earnings from operations                    $   75,879
+ Less dividends on preferred shares              13,292
+                                                 ------
+ Basic and diluted earnings per common share     62,587          21,934,264        $   2.85
+                                                 ======          ==========            ====
+</TABLE>
+<PAGE> 18
+
+
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+8.  RELATED PARTIES
+
+     During the nine months ended December 31, 1999, subsidiaries of
+AMERCO held various senior and junior notes with SAC Holding
+Corporation and its subsidiaries (SAC Holdings).  The voting common
+stock of SAC Holdings is held by Mark V. Shoen, a major stockholder of
+AMERCO.
+
+     AMERCO's subsidiaries received interest payments of $14,783,000
+and principal payments of $29,456,000 from SAC Holdings during the
+nine months ended December 31, 1999.  The terms of the notes
+receivable with SAC Holdings are consistent with the terms of notes
+receivable held by U-Haul for other properties owned by unrelated
+parties and managed by U-Haul.
+
+     U-Haul currently manages the properties owned by SAC Holdings
+pursuant to a management agreement, under which U-Haul receives a
+management fee equal to 6% of the gross receipts from the properties.
+Management fees of $3,348,000 and $1,620,000 were received during the
+nine months ended December 31, 1999 and 1998, respectively.  The
+management fee percentage is consistent with the fees received by
+U-Haul for other properties owned by unrelated parties and managed by
+U-Haul.
+
+     During the nine months ended December 31, 1999, a subsidiary of
+AMERCO funded through a note receivable the purchase of properties and
+construction costs for SAC Holdings of approximately $37,948,000.
+
+     Management believes that the foregoing transactions were
+consummated on terms equivalent to those that prevail in arm's-length
+transactions.
+
+
+9.  NEW ACCOUNTING STANDARDS
+
+     During fiscal year 1999, AMERCO adopted Statement of Financial
+Accounting Standards No. 133, "Accounting for Derivative Instruments
+and Hedging Activities".  As of December 31, 1999, AMERCO recorded an
+after tax adjustment of $2,130,000 to accumulated other comprehensive
+income recognizing the fair value of derivatives designated as cash
+flow hedges.  AMERCO uses interest rate swap agreements to
+potentially mitigate the impact of changes in interest rates on its
+variable rate debt.  For the nine months ended December 31, 1999,
+AMERCO recognized $22,000 as interest income, representing the
+ineffectiveness of the cash flow hedging activity.
+
+     Other pronouncements issued by the Financial Standards Board with
+future effective dates are either not applicable or not material to
+the consolidated financial statements of AMERCO.
+
+
+<PAGE> 19
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+10.  INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA
+
+     Industry Segment Data - AMERCO has four industry segments
+represented by Moving and Storage Operations (U-Haul), Real Estate,
+Property and Casualty Insurance (Republic) and Life Insurance
+(Oxford).
+<TABLE>
+     Information concerning operations by industry segment follows:
+<CAPTION>
+                      Moving               Property/             Adjustments
+                    and Storage   Real     Casualty     Life         and
+                    Operations   Estate    Insurance  Insurance  Eliminations  Consolidated
+                    -----------------------------------------------------------------------
+                                                (in thousands)
+
+   Nine months ended December 31, 1999
+   -----------------------------------
+   <S>              <C>           <C>       <C>        <C>         <C>            <C>
+   Revenues:
+     Outside        $ 1,069,592     7,579   121,254     86,407          -         1,284,832
+     Intersegment           -      53,075     3,865        945      (57,885)            -
+                     ----------   -------   -------    -------     --------       ---------
+     Total revenue  $ 1,069,592    60,654   125,119     87,352      (57,885)      1,284,832
+   Depreciation/
+     amortization   $    62,278     7,664    10,529     27,684          -           108,155
+   Interest expense $    61,038    30,926       -          -        (30,926)         61,038
+   Pretax earnings  $    78,245    18,392     9,077     10,262          -           115,976
+   Income tax       $   (28,294)   (6,438)   (2,783)    (3,352)         -           (40,867)
+   Identifiable
+     assets         $ 1,385,918   705,396   619,071    727,733     (340,074)      3,098,044
+</TABLE>
+<TABLE>
+<CAPTION>
+   Nine months ended December 31, 1998
+   -----------------------------------
+   <S>              <C>           <C>       <C>        <C>         <C>            <C>
+   Revenues:
+     Outside        $   999,705     4,192   122,226     84,973          -         1,211,096
+     Intersegment           -      54,466     9,732        902      (65,100)            -
+                     ----------   -------   -------    -------     --------       ---------
+     Total revenue  $   999,705    58,658   131,958     85,875      (65,100)      1,211,096
+   Depreciation/
+     amortization   $    45,778     8,448     6,757     19,734          -            80,717
+   Interest expense $    55,003    30,645       -          -        (30,645)         55,003
+   Pretax earnings  $    78,343    14,729    14,152      9,710          -           116,934
+   Income tax       $   (28,394)   (5,155)   (4,515)    (2,991)         -           (41,055)
+   Identifiable
+     assets         $ 1,282,166   701,190   643,219    720,222     (345,689)      3,001,108
+</TABLE>
+<PAGE> 20
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+10. INDUSTRY SEGMENT AND GEOGRAPHIC AREA DATA, continued
+<TABLE>
+<CAPTION>
+                    Moving               Property/             Adjustments
+                  and Storage   Real     Casualty     Life         and
+                  Operations   Estate    Insurance  Insurance  Eliminations  Consolidated
+                  -----------------------------------------------------------------------
+                                              (in thousands)
+
+   Quarter ended December 31, 1999
+   -------------------------------
+   <S>              <C>          <C>       <C>        <C>         <C>             <C>
+   Revenues:
+     Outside        $ 307,882     1,583    43,347     29,684          -           382,496
+     Intersegment         -      17,777       515        323      (18,615)            -
+                     --------    ------    ------     ------      -------         -------
+     Total revenue  $ 307,882    19,360    43,862     30,007      (18,615)        382,496
+   Depreciation/
+     amortization   $  21,862     2,623     3,544     16,327          -            44,356
+   Interest expense $  21,223    10,653       -          -        (10,653)         21,223
+   Pretax earnings  $ (27,150)    4,476     4,101      3,796          -           (14,777)
+   Income tax       $   9,812    (1,963)   (1,217)    (1,180)         -             5,452
+</TABLE>
+<TABLE>
+<CAPTION>
+   Quarter ended December 31, 1998
+   -------------------------------
+   <S>              <C>          <C>       <C>        <C>         <C>             <C>
+   Revenues:
+     Outside        $ 288,112     1,713    43,474     39,820          -           373,119
+     Intersegment         -      18,259     4,981        313      (23,553)            -
+                     --------    ------    ------     ------      -------         -------
+     Total revenue  $ 288,112    19,972    48,455     40,133      (23,553)        373,119
+   Depreciation/
+     amortization   $  17,952     2,698     3,319      9,072          -            33,041
+   Interest expense $  18,368    10,513       -          -        (10,513)         18,368
+   Pretax earnings  $ (11,165)    4,873     7,634      2,957          -             4,299
+   Income tax       $   3,342    (1,705)   (2,555)      (903)         -            (1,821)
+</TABLE>
+<TABLE>
+<CAPTION>
+   Geographic Area Data  United                             United
+    (All amounts are in  States      Canada  Consolidated   States   Canada  Consolidated
+     U.S. $'s)           --------------------------------   -----------------------------
+                                Nine months ended                   Quarter ended
+                         --------------------------------   -----------------------------
+                                                   (in thousands)
+   December 31, 1999
+   -----------------
+   <S>                 <C>           <C>       <C>          <C>       <C>        <C>
+   Total revenues      $ 1,256,619   28,213    1,284,832    375,137   7,359      382,496
+   Depreciation/
+     amortization      $   105,459    2,696      108,155     43,360     996       44,356
+   Interest expense    $    61,022       16       61,038     21,218       5       21,223
+   Pretax earnings     $   113,047    2,929      115,976    (13,930)   (847)     (14,777)
+   Income tax          $   (40,867)     -        (40,867)     5,452     -          5,452
+   Identifiable assets $ 3,051,332   46,712    3,098,044       n/a     n/a          n/a
+
+   December 31, 1998
+   -----------------
+   Total revenues      $ 1,186,216   24,880    1,211,096    366,629   6,490      373,119
+   Depreciation/
+     amortization      $    78,211    2,506       80,717     32,173     868       33,041
+   Interest expense    $    54,994        9       55,003     18,366       2       18,368
+   Pretax earnings     $   115,062    1,872      116,934      4,444    (145)       4,299
+   Income tax          $   (41,055)     -        (41,055)    (1,821)    -         (1,821)
+   Identifiable assets $ 2,961,188   39,920    3,001,108       n/a     n/a          n/a
+</TABLE>
+<PAGE> 21
+                 AMERCO AND CONSOLIDATED SUBSIDIARIES
+
+         Notes to Consolidated Financial Statements, Continued
+                              (Unaudited)
+
+
+11.  SUBSEQUENT EVENTS
+
+     On January 10, 2000, the United States Supreme Court denied review of the
+Bankruptcy Court's ruling that the plaintiffs (non-management members of the
+Shoen family and their affiliates) are entitled to interest related to a
+previous resolution of a long-standing legal dispute involving the Shoen
+family and related to control of AMERCO.  In 1996, AMERCO deposited
+approximately $48.2 million into an escrow account to secure payment of the
+disputed interest, pending final resolution of this issue.  The escrow account
+is reflected as a component of "Other assets" in AMERCO's consolidated
+financial statements.  The amount deposited into the escrow account will be
+transferred to the plaintiffs in the near future.  The release of the escrow
+will not have the effect of increasing or decreasing AMERCO's net earnings,
+but will reduce stockholders' equity.
+
+     On February 4, 2000, AMERCO issued $200,000,000 of 8.80% Senior Notes
+due 2005.
+
+     On February 8, 2000, AMERCO declared a cash dividend of $3,241,000
+($0.53125 per preferred share) to preferred stockholders of record as of
+February 18, 2000.
+<PAGE> 22
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS.
+
+FORWARD-LOOKING STATEMENTS
+     This report contains forward-looking statements.  Additional
+written or oral forward-looking statements may be made by AMERCO from
+time to time in filings with the Securities and Exchange Commission or
+otherwise.  Management believes such forward-looking statements are
+within the meaning of the safe-harbor provisions.  Such statements may
+include, but not be limited to, projections of revenues, income or
+loss, estimates of capital expenditures, plans for future operations,
+products or services and financing needs or plans, as well as
+assumptions relating to the foregoing.  The words "believe", "expect",
+"anticipate", "estimate", "project" and similar expressions identify
+forward-looking statements, which speak only as of the date the
+statement was made.  Forward-looking statements are inherently subject
+to risks and uncertainties, some of which cannot be predicted or
+quantified.  Future events and actual results could differ materially
+from those set forth in, contemplated by or underlying the forward-
+looking statements.  The following disclosures, as well as other
+statements in AMERCO's report and in the Notes to AMERCO's
+Consolidated Financial Statements, describe factors, among others,
+that could contribute to or cause such differences, or that could
+affect AMERCO's stock price.
+
+GENERAL
+     Information on industry segments is incorporated by reference
+from "Item 1.  Financial Statements - Notes 1, 3 and 10 of Notes to
+Consolidated Financial Statements".  The notes discuss the principles
+of consolidation, summarized consolidated financial information and
+industry segment and geographical area data, respectively.  In
+consolidation, all intersegment premiums are eliminated and the
+benefits, losses and expenses are retained by the insurance companies.
+
+
+RESULTS OF OPERATIONS
+
+NINE MONTHS ENDED DECEMBER 31, 1999 VERSUS NINE MONTHS ENDED
+DECEMBER 31, 1998
+
+Moving and Storage Operations
+     Revenues consist of rental revenues and net sales.  Total rental
+revenue was $907.8 million and $848.8 million for the nine months
+ended December 31, 1999 and 1998, respectively.  Net revenues from the
+rental of moving related equipment increased by $56.5 million.  This
+increase is primarily attributable to higher truck rental revenues.
+The growth in truck rental revenue primarily reflects improved
+utilization, an increase in the average revenue per transaction and
+higher truck rental inventory.
+
+     Net sales revenues were $148.7 million and $143.2 million for the
+nine months ended December 31, 1999 and 1998, respectively.  Revenue
+growth from propane sales, which was up by 10.2% during the nine
+months ended December 31, 1999, and from the sale of moving support
+items (i.e. boxes, etc.), which was up by 3.5% during the nine months
+ended December 31, 1999, led to the improvement.
+
+     Cost of sales was $87.7 million and $84.6 million for the nine
+months ended December 31, 1999 and 1998, respectively.  A higher sales
+volume contributed to the increase.
+
+     Operating expenses before intercompany eliminations increased to
+$721.0 million for the nine months ended December 31, 1999 from $679.9
+million for the nine months ended December 31, 1998. Increased
+expenditure levels for rental equipment maintenance and personnel, due
+to an increase in truck rental transactions and in fleet size, were
+primarily responsible.
+
+     Lease expense was $97.7 million and $87.5 million for the nine
+months ended December 31, 1999 and 1998, respectively.  This increase
+reflects additional leasing activity over the past twelve months.
+
+     Net depreciation expense for the nine months ended December 31,
+1999 was $54.8 million, as compared to $45.0 million in the same
+period of the prior year.  The increase reflects an increase in
+depreciation recognized on the rental truck fleet.
+<PAGE> 23
+Real Estate Operations
+     Rental revenue before intercompany eliminations was $55.0 million
+and $56.1 million for the nine months ended December 31, 1999 and
+1998, respectively.  Intercompany revenue was $53.1 million and $54.5
+million for the nine months ended December 31, 1999 and 1998,
+respectively.
+
+     Net investment and interest income was $5.7 million for the nine
+months ended December 31, 1999 as compared to $2.5 million during the
+same period of the prior year.  This increase correlates to a significant
+increase in average note and mortgage receivables outstanding.
+
+     Operating expenses were $3.2 million for the nine months ended
+December 31, 1999 versus $4.7 million for the nine months ended
+December 31, 1998.  Reduced building maintenance expense accounted for
+the majority of the decline from the prior year.
+
+     Lease expense for the nine months ended December 31, 1999 and 1998 was
+$1.3 million and $0.1 million, respectively.  The increase reflects payments
+under a synthetic lease facility being utilized to develop storage properties.
+
+     Net depreciation expense for the nine months ended December 31, 1999 was
+$6.8 million, as compared to $8.5 million in the same period of the prior year.
+The decrease reflects higher gains from the disposition of property and lower
+levels of depreciable assets.
+
+Property and Casualty
+     Republic's premiums were $100.3 million and $104.7 million for the nine
+months ended September 30, 1999 and 1998, respectively.  The decrease in
+premium for 1999 as compared to 1998 resulted from the U-Haul Liability
+programs in the rental industry, which decreased to $35.6 million from $50.9
+million, respectively.  This decrease resulted from the restructuring of the
+U-Haul Business Auto General Liability policy.  The deductible was changed at
+April 1, 1999 from a flat deductible to a 95% deductible.  This reduced
+premiums by $14.5 million for the nine months ended September 30, 1999 as
+compared to 1998.  The impact of this change will result in an overall savings
+of $0.6 million in premium taxes for 1999.  Additionally, assumed treaty
+reinsurance increased to $35.0 million for the nine months ended
+September 30, 1999 as compared to $34.0 million for the nine months ended
+September 30, 1998.  Direct multiple peril and general agency premium increased
+to $17.9 million and $11.6 million, respectively, for the nine months ended
+September 30, 1999 compared to $15.2 million and $4.6 million, respectively,
+for the nine months ended September 30, 1998.
+
+     Net investment income was $24.8 million and $27.2 million for the
+nine months ended September 30, 1999 and 1998, respectively.  The
+decrease from 1998 to 1999 is attributable to a decrease in invested
+assets and a lower yield on reinvested funds.
+
+     Benefits and losses were $82.4 million and $86.7 million for the
+nine months ended September 30, 1999 and 1998, respectively.  The
+decrease from 1998 to 1999 resulted from a decrease in the U-Haul
+Liability programs for unpaid reported claims corresponding to the
+decrease in premiums mentioned above.
+
+     Deferred acquisition costs (DAC) consist of commissions and
+other costs, which vary with and are primarily related to the
+production of new business.  The prior year commissions, and other
+related expenses, are amortized over the following year.  The
+amortization expenses for the nine months ended September 30, 1999 and
+1998 were $10.1 million and $5.4 million, respectively.  The
+increase from 1998 to 1999 is due mainly to Republic's subsidiary
+company's DAC expense, which increased to $3.0 million for the nine
+months ended September 30, 1999 from a negligible amount for the nine
+months ended September 30, 1998.  Also contributing was a $1.4 million
+increase in the nonaffiliated agents expense.  The Field Underwriting
+and Mobile Home programs increased due to 1998 written and unearned
+premiums and the Excess Worker's Compensation program increased due to
+1998 commission expenses relating to a settlement agreement with the
+previous general agent.
+
+          Operating expenses were $23.5 million and $25.7 million for
+the nine months ended September 30, 1999 and 1998, respectively.
+Commissions decreased to $12.0 million for the nine months ended
+September 30, 1999 compared to $14.9 million for the nine months ended
+September 30, 1998.  This is mainly attributable to Republic's
+subsidiary's DAC earned for the nine months ended September 30, 1999.
+This subsidiary was purchased in December 1998; therefore, there was
+no DAC included for this subsidiary for the nine months ended
+September 30, 1998.  Additionally, there was an increase in the
+nonaffiliated agents and assumed treaty reinsurance DAC earned
+relating to the increase in the DAC expense mentioned above.  Slightly
+offsetting were increased lease expenses of $1.4 million and $0.8
+million for the nine months ended September 30, 1999 and 1998,
+respectively.  All other underwriting expenses were $10.1 million and
+$10.0 million for the nine months ended September 30, 1999 and 1998,
+respectively.
+<PAGE> 24
+     Operating profit before tax and intercompany elimination was $9.1
+million and $14.1 million for the nine months ended September 30, 1999
+and 1998, respectively.  This represents a decrease in 1999 of $5.0
+million from 1998 and resulted mainly from decreased premium revenue
+and investment income.
+
+Life Insurance
+     Net premiums were $71.5 million and $71.4 million for the nine
+months ended September 30, 1999 and 1998, respectively.  Oxford
+realized premium increases in the areas of Medicare supplement, credit
+life and disability and single premium whole life insurance products.
+Oxford increased Medicare supplement premium through the reinsurance
+of a block of policies and by adding direct premium through new
+programs; these increased premiums by $6.1 million.  Oxford began
+marketing a new single premium whole life policy in 1998; this product
+accounted for $2.9 million of new premiums in 1999 over 1998.  With the
+sale of NAFCIC, credit insurance premiums decreased by $4.3 million.
+As expected, premiums decreases occurred in non-essential NAI lines that
+were terminated and due to fewer annuitizations.  These changes accounted
+for a $4.7 million decrease in premiums through the first nine months of 1999.
+
+     Net investment income before intercompany eliminations was $15.8
+million and $14.5 million for the nine months ended September 30, 1999
+and 1998, respectively.  This increase is due to the increase in the
+average invested assets for the year, which was the result of new
+premium in 1999 and the increased asset base from the acquisition of
+NAI and Safe Mate.
+
+     Benefits incurred were $44.6 million and $43.8 million for the
+nine months ended September 30, 1999 and 1998, respectively.  This
+increase is primarily due to Medicare supplement benefits incurred.
+These benefits are related to the new business recorded in 1998.  The
+new Medicare supplement reinsurance accounted for $3.7 million of
+benefit variance.  Annuity benefits combined with the elimination of
+non-focused NAI health lines reduced benefits by $2.9 million.
+
+     Amortization of DAC and the value of business acquired (VOBA) was
+$17.2 million and $19.7 million for the nine months ended September
+30, 1999 and 1998, respectively.  Oxford defers commissions and other
+policy acquisition costs on single premium business.  These costs are
+amortized as the premium is earned over the term of the policy.
+Oxford continues to increase its single premium credit business in
+force, thus increasing both the deferred costs on the balance sheet
+and the subsequent amortization.  After Oxford purchased NAI in 1997,
+Oxford began dynamically amortizing the VOBA asset recognized at
+purchase.  This asset relates to the future profits of the credit
+insurance policies in force at the time of purchase.  The amortization of
+this asset led to higher 1998 amortization amounts.  In 1999, Oxford did
+not have amortization charges related to NAFCIC that were present in 1998.
+
+     Operating expenses were $15.3 million and $12.7 million for the
+nine months ended September 30, 1999 and 1998, respectively.
+Commissions have increased $1.5 million in 1999 in proportion to the
+increase in new premium.  Operating expenses, still within budgeted
+expectations, have increased in 1999 due to the expansion of business
+volume.
+
+     Operating profit before tax and intercompany eliminations was
+$10.3 million and $9.7 million for the nine months ended September 30, 1999
+and 1998, respectively.  The increase over the prior year reflects improved
+investment returns, a result of a higher asset base from new business and
+acquisitions, improving loss ratios on the Medicare supplement business and
+better than expected loss experience for the credit business.
+
+Interest Expense
+     Interest expense was $61.0 million for the nine months ended
+December 31, 1999, as compared to $55.0 million for the nine months
+ended December 31, 1998.  The increase can be attributed to an
+increase in average debt outstanding and a modest increase in the
+average cost of debt.
+<PAGE> 25
+Consolidated Group
+     As a result of the foregoing, pretax earnings of $116.0 million
+were realized in the nine months ended December 31, 1999, as compared
+to $116.9 million for the same period in 1998.  After providing for
+income taxes, net earnings for the nine months ended December 31, 1999
+were $75.1 million, as compared to $75.9 million for the same period
+of the prior year.
+
+
+QUARTERLY RESULTS
+     The following table presents unaudited quarterly results for the
+eleven quarters in the period beginning April 1, 1997 and ending
+December 31, 1999.  AMERCO believes that all necessary adjustments
+have been included in the amounts stated below to present fairly, and
+in accordance with generally accepted accounting principles, its
+results.  U-Haul moving and storage operations are seasonal and
+proportionally more of AMERCO's revenues and net earnings from its
+U-Haul moving and storage operations are generated in the first and
+second quarters of each fiscal year (April through September).  The
+operating results for the periods presented are not necessarily
+indicative of results for any future period.
+
+                                           Quarter Ended
+                                ----------------------------------
+                                   Jun 30      Sep 30      Dec 31
+                                     1999        1999        1999
+                                ----------------------------------
+                                       (in thousands, except
+                                     share and per share data)
+Total revenues                 $   439,640     462,696     382,496
+Net earnings (loss)                 42,307      42,127      (9,325)
+Weighted average common
+  shares outstanding
+    Basic                       21,953,199  21,964,452  21,975,889
+    Diluted                     22,953,199  22,131,119         -
+Net earnings
+  per common share (1) (6)
+    Basic                             1.77        1.77       (0.57)
+    Diluted                           1.70        1.76         -
+
+                                                 Quarter Ended
+                                ----------------------------------------------
+                                   Jun 30      Sep 30      Dec 31      Mar 31
+                                     1998        1998        1998        1999
+                                ----------------------------------------------
+                                (in thousands, except share and per share data)
+Total revenues                 $   393,744     444,233     373,119     343,683
+Net earnings (loss)                 31,230      42,171       2,478     (13,370)
+Weighted average common
+  shares outstanding            21,924,749  21,935,854  21,942,190  21,947,951
+Net earnings (loss) per
+  common share (both basic
+  and diluted) (1) (6)                1.21        1.71       (0.07)      (0.78)
+<PAGE> 26
+                                                 Quarter Ended
+                                ----------------------------------------------
+                                   Jun 30      Sep 30      Dec 31      Mar 31
+                                     1997        1997        1997        1998
+                                ----------------------------------------------
+                                (in thousands, except share and per share data)
+Total revenues                 $   371,180     416,374     323,598     314,104
+Earnings (loss) from operations
+  before extraordinary loss
+  on early extinguishment
+  of debt (2) (3) (4) (5)           29,198      39,032      (5,390)    (14,184)
+Net earnings (loss) (2) (3)
+  (4) (5)                           29,198      34,894     (15,236)    (13,872)
+Weighted average common
+  shares outstanding            21,879,156  21,890,072  21,901,521  21,913,654
+Earnings (loss) from operations
+  before extraordinary loss
+  on early extinguishment
+  of debt per common share
+  (2) (3) (4) (5) (6)                 1.09        1.54       (0.49)      (0.85)
+Net earnings (loss) per
+  common share (both basic
+  and diluted) (1) (2) (3)
+  (4) (5) (6)                         1.09        1.35       (0.94)      (0.84)
+
+
+_______________
+(1) Net earnings (loss) per common share amounts were computed after giving
+    effect to the dividends on AMERCO's Preferred Stock.
+
+(2) Reflects the adoption of Statement of Position 98-1, "Accounting for the
+    Costs of Computer Software Developed or Obtained for Internal Use" during
+    the fourth quarter of fiscal year 1998.
+
+(3) Reflects the change in estimated residual values during the fourth quarter
+    of fiscal year 1998.
+
+(4) During the second quarter of fiscal year 1998, AMERCO extinguished
+    $76.0 million of 10.27% interest-bearing notes originally due in fiscal
+    year 1999 through fiscal year 2002.  This resulted in an extraordinary loss
+    of $4.0 million, net of tax of $2.4 million ($0.18 per share).
+
+(5) During the third quarter of fiscal year 1998, AMERCO extinguished
+    $255.0 million of 6.43% to 8.13% interest-bearing notes originally due in
+    fiscal year 1999 through fiscal year 2010.  This resulted in an
+    extraordinary loss of $9.7 million, net of tax of $5.6 million
+    ($0.44 per share).
+
+(6) Reflects the redemption of $25 million, $50 million and $25 million of
+    Series B preferred stock in fiscal years 2000, 1999 and 1998, respectively.
+<PAGE> 27
+
+QUARTER ENDED DECEMBER 31, 1999 VERSUS QUARTER ENDED DECEMBER 31, 1998
+
+Moving and Storage Operations
+     Revenues consist of rental revenues and net sales.  Rental
+revenue was $264.8 million and $249.9 million in the quarters ended
+December 31, 1999 and 1998, respectively.  This reflects a $14.9
+million increase in revenues from the rental of moving related
+equipment due to improved truck utilization, higher average revenue
+per transaction and higher truck rental inventory.
+
+     Net sales revenues were $38.5 million in the quarter ended
+December 31, 1999 as compared to net sales of $35.6 million in the
+quarter ended December 31, 1998.  Revenue growth from the sale of
+propane and hitches led to the majority of the increase during the
+quarter.
+
+     Cost of sales was $25.0 million in the quarter ended December 31, 1999,
+which represents an increase from $21.7 million for the same period of the
+prior year.  Increased material costs and a higher sales volume contributed
+to the increase.
+
+     Operating expenses before intercompany elimination increased to
+$244.6 million in the quarter ended December 31, 1999 from $219.9
+million in the quarter ended December 31, 1998.  The increase reflects
+higher personnel and rental equipment maintenance expenditures
+associated with an increase in truck rental transactions and inventory
+levels.  Also contributing was an increase in advertising expense as providers
+shifted the publish dates of several directories to December 1999 to avoid
+possible Y2K problems.
+
+     Lease expense was $34.1 million and $31.1 million for the quarters
+ended December 31, 1999 and 1998, respectively.  The increase reflects
+additional leasing activity.
+
+     Net depreciation expense for the quarter ended December 31, 1999
+was $20.8 million, as compared to $18.7 million in the same period of
+the prior year.  The increase reflects an increase in depreciation
+recognized on the rental truck fleet.
+
+Real Estate Operations
+     Rental revenue before intercompany eliminations was $18.4 million
+in the quarter ended December 31, 1999, compared to $18.9 million in
+the quarter ended December 31, 1998.  Intercompany revenue was $17.8
+million as compared to $18.3 million in the prior year's third quarter.
+
+     Net investment and interest income was $0.9 million in the
+quarter ended December 31, 1999 as compared to $1.1 million in the
+quarter ended December 31, 1998.
+
+     Operating expenses were $1.3 million in the quarter ended
+December 31, 1999 versus $1.7 million in the quarter ended December 31, 1998.
+Reduced building maintenance expense accounted for the majority of the decline
+from the prior year.
+
+     Lease expense was $0.7 million during the quarter ended December 31, 1999
+versus a negligible amount during quarter ended December 31, 1998.  The
+increase reflects payments under a synthetic lease facility being utilized to
+develop storage properties.
+
+     Net depreciation expense for the quarter ended December 31, 1999
+was $2.1 million, as compared to $2.8 million in the same period of the prior
+year.  The decrease reflects higher gains from the disposition of property.
+<PAGE> 28
+Property and Casualty
+     Republic's premiums were $35.7 million and $39.5 million for the
+quarters ended September 30, 1999 and 1998, respectively.  The premium
+decrease in 1999 compared to 1998 resulted from the U-Haul Liability
+programs in the rental industry, which decreased to $11.7 million from
+$22.2 million, respectively.  This decrease resulted from the
+restructuring of the U-Haul Business Auto General Liability policy.
+The deductible was changed at April 1, 1999 from a flat deductible to
+a 95% deductible.  This reduced premiums by $10.9 million for the
+quarter ended September 30, 1999 as compared to 1998.  The result of
+this change will result in an overall savings of $0.6 million in
+premium taxes for 1999.  Assumed treaty reinsurance increased to
+$14.1 million for the quarter ended September 30, 1999 as compared to
+$10.5 million for the quarter ended September 30, 1998.  Direct multiple
+peril was $5.2 million and $5.4 million for the quarters ended
+September 30, 1999 and 1998, respectively.  General agency premiums totaled
+$3.4 million and $1.4 million for the quarters ended September 30, 1999
+and 1998, respectively.
+
+     Net investment income was $8.1 million and $9.0 million for the
+quarters ended September 30, 1999 and 1998, respectively.  The
+decrease from 1998 to 1999 resulted from a decrease in invested assets
+and a lower yield.
+
+     Benefits and losses incurred were $28.7 million and $30.2 million
+for the quarters ended September 30, 1999 and 1998, respectively.  The
+decrease from 1998 to 1999 is due to a decrease in the U-Haul
+Liability programs for unpaid unreported claims corresponding to the
+decrease in premiums mentioned above.
+
+     DAC consists of commissions and other costs, which vary with and
+are primarily related to the production of new business.  The prior
+year commissions, and other related expenses, are amortized over
+the following year.  Amortization expenses was $3.3 million and $3.0
+million for the quarters ended September 30, 1999 and 1998,
+respectively.  The increase from 1998 to 1999 is mainly due to
+Republic's subsidiary company's DAC expenses, which increased to $1.1
+million for the quarter ended September 30, 1999 from a negligible
+amount for the quarter ended September 30, 1998.  Offsetting this
+increase were decreases in assumed treaty reinsurance of $0.5 million
+and in nonaffiliated agents of $0.1 million.
+
+     Operating expenses were $7.8 million and $7.6 million for the
+quarters ended September 30, 1999 and 1998, respectively.  Commissions
+increased slightly to $3.5 million for the quarter ended September 30, 1999
+compared to $3.3 million for the quarter ended September 30, 1998.  Lease
+expenses increased to $0.5 million for the quarter ended September 30, 1999
+as compared to $0.4 million for the quarter ended September 30, 1998.
+All other underwriting expenses were $3.8 million and $3.9 million
+for the quarters ended September 30, 1999 and 1998, respectively.
+
+     Operating profit before tax and intercompany elimination was $4.1
+million and $7.6 million for the quarters ended September 30, 1999 and
+1998, respectively.  This represents a decrease in 1999 of $3.5
+million from 1998 and resulted mainly from decreased premium revenue
+and investment income, offset slightly by decreased underwriting expenses.
+Republic's operating profit will exceed fourth quarter expectations.
+<PAGE> 29
+Life Insurance
+     Net premiums were $24.3 million and $35.1 million for the quarters
+ended September 30, 1999 and 1998, respectively. Oxford realized a
+premium decrease in the areas of Medicare supplement business.  In the third
+quarter of 1998, Oxford acquired a block of Medicare supplement policies
+through the reinsurance.  Through the acquisition accounting for this
+transaction, Oxford recognized the transferred reserves as premium in the
+quarter; this accounts for $7.6 million of the variance.  Production sales of
+Oxford's new single premium whole life policy increased by $0.6 million in the
+third quarter compared to 1998.  These increases were offset by fewer
+reinsurance annuitizations in 1999 than in 1998, leading to $0.8 million less
+in annuity premium.  Credit life and disability premiums decreased by
+$2.3 million for the quarter as a result of Oxford's sale of its NAFCIC
+subsidiary.  In addition, there were $0.7 million in premium decreases for
+the third quarter resulting from the planned termination of NAI products not
+part of Oxford's strategic focus.
+
+     Net investment income before intercompany eliminations was $5.7
+million and $5.0 million for the quarters ended September 30, 1999 and
+1998, respectively.  This increase is due to a larger invested base.
+
+     Benefits incurred were $14.3 million and $20.3 million for the
+quarters ended September 30, 1999 and 1998, respectively.  The
+decrease relates to the Medicare supplement assumption mentioned above.
+These benefits accounted for $7.4 million of the decrease.  Related to
+the decrease in annuitizations in 1999 from 1998, annuity benefits
+decreased $0.5 million.  Benefits related to life insurance increased
+to $0.5 million from 1998 due to increased production in single
+premium whole life product.  Other Medicare supplement benefits
+increased $0.5 million for the quarter.  Credit insurance benefits
+increased by $0.9 million for the quarter.
+
+     Amortization of DAC and VOBA was $6.1 million and $13.3 million
+for the quarters ended September 30, 1999 and 1998, respectively.
+Oxford defers commissions and other policy acquisition costs on single
+premium business.  These costs are amortized as the premium is earned
+over the term of the policy.  Oxford continues to increase its single
+premium credit business in force, thus increasing both the deferred
+costs on the balance sheet and the subsequent amortization.  After
+Oxford purchased NAI in 1997, Oxford began dynamically amortizing the
+VOBA asset recognized at the time of purchase.  The amortization curve
+decreases as the underlying profits are recognized.  This asset
+relates to the future profits of the credit insurance policies in
+force at the time of purchase.  In addition, the amortization charge
+decreased due to the sale of NAFCIC.
+
+     Operating expenses were $5.8 million and $3.6 million for the
+quarters ended September 30, 1999 and 1998, respectively.  Operating
+expenses for the quarter increased by $0.2 million stemming from the
+administration costs associated with new reinsurance contracts.
+Oxford's intercompany interest charges increased by $0.2 million for
+the outstanding surplus notes due AMERCO.  Other increases resulted
+from new product development activities.
+
+     Operating profit before tax and intercompany eliminations was
+$3.8 million and $3.0 million for the quarters ended September 30, 1999 and
+1998, respectively.  The increase stems from improved investment income
+performance for the quarter.
+
+Interest Expense
+     Interest expense was $21.2 million for the quarter ended December 31, 1999,
+as compared to $18.4 million for the quarter ended December 31, 1998.  The
+increase can be attributed to a higher level of average debt outstanding.
+
+Consolidated Group
+     As a result of the foregoing, a pretax loss of $14.8 million was
+recognized during the quarter ended December 31, 1999, as compared to
+pretax earnings of $4.3 million for the same period in 1998.  After
+providing for income taxes, the net loss for the quarter ended
+December 31, 1999 was $9.3 million, as compared to net earnings of
+$2.5 million for the same period of the prior year.
+<PAGE> 30
+LIQUIDITY AND CAPITAL RESOURCES
+
+Moving and Storage Operations
+     To meet the needs of its customers, U-Haul must maintain a large
+inventory of fixed asset rental items.  At December 31, 1999, net
+property, plant and equipment represented approximately 63.9% of total
+assets from non-insurance operations and approximately 43.1% of
+consolidated assets.  In the nine months ended December 31, 1999,
+capital expenditures were $269.5 million, as compared to $235.0
+million in the nine months ended December 31, 1998.  These
+expenditures primarily reflect the expansion of the rental truck
+fleet.  The capital required to fund these acquisitions was obtained
+through internally generated funds from operations and through lease
+financings.
+
+     Cash flow from operations was $131.9 million in the nine months
+ended December 31, 1999, as compared to $65.8 million in the nine
+months ended December 31, 1998.  The increase results from a
+combination of earnings growth, higher levels of depreciation and
+amortization and changes in other operating assets and liabilities.
+
+     At December 31, 1999, total outstanding notes and loans payable
+was $1,101.8 million as compared to $1,114.7 million at March 31, 1999.
+
+Real Estate Operations
+     Cash provided by operating activities was $10.7 million for the
+nine months ended December 31, 1999.  Cash used by operating
+activities was $7.4 million for the nine months ended December 31, 1998.
+The increase resulted from a combination of increased earnings
+and changes in other operating assets and liabilities.
+
+Property and Casualty
+     Cash flows used by operating activities were $9.2 million and
+$29.6 million for the nine months ended September 30, 1999 and 1998,
+respectively.  The 1999 to 1998 change resulted from decreased paid
+losses recoverable, decreased accounts receivable and a smaller
+increase in funds withheld.  Offsetting this increase in cash was a
+decrease in unearned premium reserves.
+
+     Republic's cash and cash equivalents and short-term investment
+portfolio were $1.4 million and $9.3 million at September 30, 1999 and
+1998, respectively.  The decrease from 1998 to 1999 resulted from the
+timing difference of maturities/calls being reinvested.  This level of
+liquid assets, combined with budgeted cash flow, is adequate to meet
+periodic needs.  Capital and operating budgets allow Republic to
+schedule cash needs in accordance with investment and underwriting
+proceeds.
+
+     Republic maintains a diversified securities investment portfolio,
+primarily in bonds, at varying maturity levels with 94.1% of the fixed-
+income securities consisting of investment grade securities.  The
+maturity distribution is designed to provide sufficient liquidity to
+meet future cash needs.  Current liquidity remains strong with current
+invested assets equal to 108.4% of total liabilities.
+
+     The liability for reported and unreported losses are based upon
+company historical and industry averages.  Unpaid loss adjustment
+expenses are based on historical ratios of loss adjustment expenses
+paid to losses paid.  Unpaid loss and loss expenses are not
+discounted.
+
+     Stockholder's equity was $216.1 million and $207.1 million at
+September 30, 1999 and 1998, respectively.  Republic considers current
+stockholder's equity to be adequate to support future growth and
+absorb unforeseen risk events.  Republic does not use debt or equity
+issues to increase capital and therefore has no exposure to capital
+market conditions.
+<PAGE> 31
+Life Insurance
+     Oxford's primary sources of cash are premiums, receipts from
+interest-sensitive products and investment income.  The primary uses
+of cash are operating costs and benefit payments to policyholders.
+Matching the investment portfolio to the cash flow demands of the
+types of insurance being written is an important consideration.
+Benefit and claim statistics are continually monitored to provide
+projections of future cash requirements.
+
+     Cash flows provided by operating activities were $5.6 million and
+$11.3 million for the nine months ended September 30, 1999 and 1998,
+respectively. Cash flows provided/(used) by financing activities were
+approximately $(0.1) million and $10.1 million for the nine months
+ended September 30, 1999 and 1998, respectively.  Cash flows from
+deferred annuity sales increase investment contract deposits, which
+are a component of financing activities, as well as the purchase of
+fixed maturities, which are a component of investing activities.  The
+decrease in cash flows provided by financing activities for the first
+nine months of 1999 compared to the first nine months of 1998 is due
+to lower ratio of annuity deposits to withdrawals.
+
+     In addition to cash flows from operating and financing
+activities, a substantial amount of liquid funds is available through
+Oxford's short-term portfolio.  At September 30, 1999 and 1998, short-
+term investments were $52.1 million and $32.3 million, respectively.
+Management believes that the overall sources of liquidity will
+continue to meet foreseeable cash needs.
+
+     Stockholder's equity of Oxford decreased to $87.3 million in 1999
+from $96.2 million in 1998.  The decrease is a result of the
+unrealized losses on the available for sale investment portfolio.
+Oxford did not pay dividends in 1999 or 1998.
+
+     Applicable laws and regulations of the State of Arizona require
+AMERCO's insurance subsidiaries to maintain minimum capital and
+surplus determined in accordance with statutory accounting practices.
+With respect to Oxford, the amount is $450,000.  In addition, the
+amount of dividends that can be paid to shareholders by insurance
+companies domiciled in the State of Arizona is limited.  Any dividend
+in excess of the limit requires prior regulatory approval.  Statutory
+surplus which can be distributed as dividends without regulatory
+approval is $0.7 million at September 30, 1999.  These restrictions
+are not expected to have a material adverse effect on the ability of
+AMERCO to meet its cash obligations.
+
+Consolidated Group
+     During each of the fiscal years ended March 31, 2000, 2001 and
+2002, U-Haul estimates gross capital expenditures will average
+approximately $325 million primarily reflecting rental fleet rotation.
+This level of capital expenditures, combined with an average of
+approximately $30-$115 million in annual long-term debt maturities
+during this same period, are expected to create annual average funding
+needs of approximately $355-$440 million.  Management estimates that U-Haul
+will fund 100% of these requirements with internally generated funds, including
+proceeds from the disposition of older trucks and other asset sales.
+
+Credit Agreements
+     AMERCO's operations are funded by various credit and financing
+arrangements, including unsecured long-term borrowings, unsecured
+medium-term notes and revolving lines of credit with domestic and
+foreign banks.  Principally to finance its fleet of trucks and
+trailers, AMERCO routinely enters into sale and leaseback
+transactions.  As of December 31, 1999, AMERCO had $1,101.8 million in
+total notes and loans payable outstanding and unutilized lines of
+credit of approximately $61.0 million.
+
+     Certain of AMERCO's credit agreements contain restrictive
+financial and other covenants, including, among others, covenants with
+respect to incurring additional indebtedness, maintaining certain
+financial ratios and placing certain additional liens on its
+properties and assets.  At December 31, 1999, AMERCO was in compliance
+with these covenants.
+
+     AMERCO is further restricted in the issuance of certain types of
+preferred stock.  AMERCO is prohibited from issuing shares of
+preferred stock that provide for any mandatory redemption, sinking
+fund payment, or mandatory prepayment, or that allow the holders
+thereof to require AMERCO or any subsidiary of AMERCO to repurchase
+such preferred stock at the option of such holders or upon the
+occurrence of any event or events without the consent of its lenders.
+
+     Reference is made to Note 5 of Notes to Consolidated Financial Statements
+in AMERCO's Annual Report on Form 10-K for the fiscal year ended March 31, 1999
+for additional information about the credit agreements.
+<PAGE> 32
+Year 2000 Disclosure
+     In preparation for any potential Year 2000 processing problems,
+AMERCO worked since 1997 to identify any changes necessary to its
+existing computerized business systems to make these systems compliant
+for Year 2000 processing.  AMERCO has spent approximately $2.8 million
+to date in its Year 2000 compliance efforts.  Since January 1, 2000,
+AMERCO has been assessing its information technology systems and has
+found no major Year 2000 processing problems.
+<PAGE> 33
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Reference is made to Part II, Item 7A, Quantitative and Qualitative
+Disclosure About Market Risk, in AMERCO's Annual Report on Form 10-K
+for the fiscal year ended March 31, 1999.
+<PAGE> 34
+                      PART II.  OTHER INFORMATION
+
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     On June 24, 1997, five (5) current and/or former Moving Center
+General Managers (GMs) and one (1) Area Field Manager (AFM) filed suit
+in Marin County Superior Court, Case No. BC 203532, entitled
+Sarah Saunders, et al. vs. U-Haul Company of California, Inc., claiming that
+- ----------------------     ----------------------------------
+they were entitled to be compensated for all overtime hours worked in
+excess of forty (40) hours per week.  In addition, these Plaintiffs
+sought class action status purporting to represent all persons
+employed in California as either a salaried GM or AFM since September
+1993.
+
+     On September 30, 1997, a virtually identical lawsuit was filed in
+Los Angeles County Superior Court, Case No. BC 178775, entitled
+Wyatt Crandall vs. U-Haul International, Inc. and U-Haul Co. of California.
+- --------------     -------------------------------------------------------
+This action did not include AFMs, but did purport to be brought on
+behalf of GMs and GM trainees.
+
+     These cases were consolidated by the Court in Los Angeles on
+October 15, 1998.  On June 10, 1999, Plaintiff's motion to certify the
+AFMs as a class was denied and the motion to certify the GMs as a
+class was granted.  Notice of class certification was mailed on or
+about August 24, 1999.  The class opt-out period ended on October 11, 1999.
+Trial is set for July, 2000.  Management does not expect the Plaintiffs' damage
+claims to result in a material loss to AMERCO.
+
+     Reference is made to Part I, Item 1, Business, in AMERCO's Annual
+Report on Form 10-K for the fiscal year ended March 31, 1999 for a
+discussion of certain environmental proceedings.
+<PAGE> 35
+
+
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K.
+
+ a. Exhibits
+
+     Exhibit No.              Description
+     -----------              -----------
+
+          3.1     Restated Articles of Incorporation (1)
+          3.2     Restated By-Laws of AMERCO as of August 27, 1997 (2)
+          4.1     Senior Indenture dated April 1, 1999 (3)
+          4.2     Senior Supplemental Indenture dated February 4, 2000 (4)
+         27       Financial Data Schedule
+
+ b. Reports on Form 8-K.
+
+          A report on Form 8-K was filed on February 4, 2000 in connection
+          with AMERCO's issuance of $200,000,000 of 8.80% Notes due 2005.
+
+_____________________________________
+
+(1)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1992, file no. 1-11255.
+
+(2)  Incorporated by reference to AMERCO's Quarterly Report on Form 10-Q
+     for the quarter ended December 31, 1997, file no. 1-11255.
+
+(3)  Incorporated by reference to AMERCO's Current Report on Form 8-K dated
+     April 5, 1999, file no. 1-11255.
+
+(4)  Incorporated by reference to AMERCO's Current Report on Form 8-K dated
+     February 4, 2000, file no. 1-11255.
+<PAGE> 36
+SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+
+                                  AMERCO
+                                  ____________________________________
+                                           (Registrant)
+
+
+Dated: February 10, 2000          By: /S/ GARY B. HORTON
+                                  ____________________________________
+                                       Gary B. Horton, Treasurer
+                                     (Principal Financial Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS DEC-31-1999
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM
+FORM 10-Q DECEMBER 31, 1999 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE
+TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          MAR-31-2000
+<PERIOD-END>                               DEC-31-1999
+<CASH>                                          17,176
+<SECURITIES>                                         0
+<RECEIVABLES>                                  391,955<F1>
+<ALLOWANCES>                                         0
+<INVENTORY>                                     80,581
+<CURRENT-ASSETS>                                     0<F2>
+<PP&E>                                       2,500,965
+<DEPRECIATION>                               1,164,814
+<TOTAL-ASSETS>                               3,098,044
+<CURRENT-LIABILITIES>                                0
+<BONDS>                                      1,101,824
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        10,563
+<OTHER-SE>                                     637,773
+<TOTAL-LIABILITY-AND-EQUITY>                 3,098,044
+<SALES>                                        148,669
+<TOTAL-REVENUES>                             1,284,832
+<CGS>                                           87,737
+<TOTAL-COSTS>                                1,016,506
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                 3,575
+<INTEREST-EXPENSE>                              61,038
+<INCOME-PRETAX>                                115,976
+<INCOME-TAX>                                    40,867
+<INCOME-CONTINUING>                             75,109
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    75,109
+<EPS-BASIC>                                       2.95
+<EPS-DILUTED>                                     2.93
+<FN>
+<F1>THE VALUE FOR RECEIVABLES REPRESENTS THEIR AMOUNT NET OF THEIR ALLOWANCES.
+<F2>AN UNCLASSIFIED BALANCE SHEET EXISTS IN THE REGISTRANT'S FINANCIAL STATEMENTS.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

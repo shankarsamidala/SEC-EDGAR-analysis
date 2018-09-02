@@ -1,0 +1,1084 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TfjPMOs0kuPtUQkgyw1QUxig5VJcuhy+hLXIDPREqnRV7gvjhI4+r8rWkdc6ZzDi
+ ZtvI2mpJjCNPpy8GWcPk0w==
+
+<SEC-DOCUMENT>/in/edgar/work/20000628/0000011860-00-000025/0000011860-00-000025.txt : 20000920
+<SEC-HEADER>0000011860-00-000025.hdr.sgml : 20000920
+ACCESSION NUMBER:		0000011860-00-000025
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000628
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BETHLEHEM STEEL CORP /DE/
+		CENTRAL INDEX KEY:			0000011860
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3312
+]		IRS NUMBER:				240526133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-K/A
+			SEC ACT:		
+			SEC FILE NUMBER:	001-01941
+			FILM NUMBER:		663081
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		1170 EIGHTH AVE
+				CITY:			BETHLEHEM
+				STATE:			PA
+				ZIP:			18016-7699
+				BUSINESS PHONE:		6106942424
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		1170 EIGHTH AVE
+					CITY:			BETHLEHEM
+					STATE:			PA
+					ZIP:			18016-7699
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>CURRENT REPORT ON FORM 10-K/A
+<TEXT>
+
+
+
+
+
+                               UNITED STATES
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                FORM 10-K/A
+
+                    AMENDMENT TO APPLICATION OR REPORT
+               FILED PURSUANT TO SECTION 12, 13 OR 15(d) OF
+                    THE SECURITIES EXCHANGE ACT OF 1934
+
+                        BETHLEHEM STEEL CORPORATION
+            (Exact name of Registrant as specified in charter)
+
+
+                              AMENDMENT NO. 1
+
+                                    To
+
+                          FORM 10-K ANNUAL REPORT
+
+                For the fiscal year ended December 31, 1999
+
+
+              The undersigned Registrant hereby amends the
+         following items, financial statements, exhibits or other
+         portions of its Annual Report on Form 10-K for the year
+         ended December 31, 1999, as set forth on the pages
+         attached hereto:
+
+         ITEM 14:  EXHIBITS, FINANCIAL STATEMENT
+                   SCHEDULES AND REPORTS ON FORM 8-K
+
+          (a)  Documents filed as a part of this Report:
+
+               (3)  Exhibits
+
+                    (28) Annual Report on Form 11-K for the
+                         fiscal year ended December 31, 1999, for
+                         the Savings Plan for Salaried Employees
+                         of Bethlehem Steel Corporation and
+                         Subsidiary Companies
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C.  20549
+
+
+
+                                 FORM 11-K
+
+         ANNUAL REPORT PURSUANT TO SECTION 15(d) OF THE SECURITIES
+                   EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 1999
+                          -----------------
+
+
+
+Commission file number 1-2516
+                       ------
+
+
+    A.  Full title of the plan:
+
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES
+                                    OF
+                        BETHLEHEM STEEL CORPORATION
+                         AND SUBSIDIARY COMPANIES
+
+    B.  Name of issuer of the securities held pursuant to the plan and the
+        address of its principal executive office
+
+                        BETHLEHEM STEEL CORPORATION
+                            1170 Eighth Avenue
+                    Bethlehem, Pennsylvania  18016-7699
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES OF
+             BETHLEHEM STEEL CORPORATION AND SUBSIDIARY COMPANIES
+             ----------------------------------------------------
+
+                                   CONTENTS
+                                   --------
+
+Statements of Net Assets Available for Benefits
+  As of December 31, 1999 and 1998                                         1
+
+Statements of Changes in Net Assets Available for Benefits
+  For the Years Ended December 31, 1999 and 1998                           2
+
+Notes to Financial Statements                                              3
+
+Attachment I                                                               9
+
+Report of Independent Auditors                                            12
+
+Consent of Independent Auditors                                           13
+
+Signatures                                                                14
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 1
+
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES OF
+             BETHLEHEM STEEL CORPORATION AND SUBSIDIARY COMPANIES
+             ----------------------------------------------------
+
+
+                STATEMENTS OF NET ASSETS AVAILABLE FOR BENEFITS
+                -----------------------------------------------
+                             (Dollars in Millions)
+
+
+
+                                                   December 31,
+                                              ---------------------
+                                               1999            1998
+                                               ----            ----
+Assets:
+  Investments                                 $638.1         $598.8
+  Loans to participants                          6.9            7.8
+  Receivables
+    Employer contributions                        .3             .3
+    Participant contributions                     .7             .8
+                                              ------         ------
+Net assets available for benefits             $646.0         $607.7
+                                              ======         ======
+
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+                                   - 1 -
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES OF
+             BETHLEHEM STEEL CORPORATION AND SUBSIDIARY COMPANIES
+             ----------------------------------------------------
+
+
+          STATEMENTS OF CHANGES IN NET ASSETS AVAILABLE FOR BENEFITS
+          ----------------------------------------------------------
+                             (Dollars in Millions)
+
+
+
+                                                Year Ended December 31,
+                                                -----------------------
+                                                  1999             1998
+                                                  ----             ----
+
+Additions to net assets attributed to:
+  Investment income
+    Net appreciation in fair value of
+      investments (see Note F)                   $32.6            $40.6
+    Interest                                      19.1             20.1
+    Dividends                                     16.8             13.8
+  Employer contributions                           6.3              6.3
+  Participant contributions                       15.7             15.2
+
+Deductions from net assets attributed to:
+  Withdrawals and distributions paid
+    to participants                              (52.2)           (55.1)
+                                                -------          -------
+  Net increase                                    38.3             40.9
+
+Net assets available for benefits:
+  Beginning of year                              607.7            566.8
+                                                -------          -------
+  End of year                                   $646.0           $607.7
+                                                =======          =======
+
+The accompanying notes are an integral part of these financial statements.
+
+
+                                     - 2-
+
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+
+
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES OF
+             BETHLEHEM STEEL CORPORATION AND SUBSIDIARY COMPANIES
+             ----------------------------------------------------
+
+                         NOTES TO FINANCIAL STATEMENTS
+                         -----------------------------
+
+
+A.  DESCRIPTION OF THE PLAN
+
+The Savings Plan for Salaried Employees of Bethlehem Steel Corporation and
+Subsidiary Companies (the "Plan") was adopted by the Board of Directors of
+Bethlehem Steel Corporation ("Bethlehem") effective as of March 1, 1975.  The
+Plan has a trust (the "Trust") under a Trust Agreement with State Street Bank
+and Trust Company ("State Street").  State Street is also the Plan's investment
+manager.  The Employee Benefits Administration Committee, consisting of five or
+more officers and employees of Bethlehem, is the administrator of the Plan.
+Administrative expenses of the Plan are paid by Bethlehem.
+
+The Plan is a defined contribution plan and is subject to the provisions of the
+Employee Retirement Income Security Act of 1974 ("ERISA").  Under the terms of
+the Plan, an eligible salaried employee may elect to have up to a maximum of
+21% of eligible salary contributed as Before-Tax Contributions and up to a
+maximum of from 10% to 14% of eligible salary as After-Tax Contributions
+through payroll deductions, depending upon the length of continuous service and
+the amount elected as Before-Tax Contributions.  Before-Tax and After-Tax
+Contributions are subject to a combined limit of 21% of eligible salary.
+
+Before-Tax and After-Tax Contributions are treated as either Basic or
+Supplemental Contributions depending on the participant's length of continuous
+service and the amount elected as Before-Tax Contributions.  Basic
+Contributions, which may range from 1% to a maximum of 4% of eligible salary,
+are matched 100% by the Employing Company.  After-Tax Supplemental
+Contributions are limited to 10% of eligible salary.  Participants should refer
+to the Plan document for a complete description of the Plan provisions.
+
+B.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Basis of Accounting
+- -------------------
+
+The financial statements are prepared on the accrual basis of accounting.
+
+Investment Valuation and Income Recognition
+- -------------------------------------------
+
+Investments in Bethlehem Common Stock and equity and fixed income securities
+are valued at fair value based upon the last published quotations for the last
+business day of the year.  Mutual fund and common/collective trust investments
+are valued at net asset value representing the value at which shares of the
+fund may be purchased or redeemed.  Investments in contracts with insurance
+
+                                     - 3 -
+
+
+
+
+
+
+
+
+<PAGE> 4
+
+companies are presented at contract value, representing contributions made
+under the contracts, plus interest at the contract rate, less funds withdrawn
+(see Note C).  Loans to participants are valued at cost which approximates fair
+value.
+
+Purchases and sales of securities are recorded on a trade-date basis.  Interest
+income is recorded on the accrual basis.  Dividends are recorded on the
+ex-dividend date.
+
+The Plan presents in the statement of changes in net assets available for
+benefits the net appreciation (depreciation) in the fair value of its
+investments which consists of the realized gains and losses and the unrealized
+appreciation (depreciation) on those investments.
+
+Withdrawals and Distributions
+- -----------------------------
+
+Withdrawals and distributions to participants are recorded when paid.
+
+Participant Accounts
+- --------------------
+
+Each participant's account is credited with the participant's contribution and
+allocations of (a) the Company's contribution and (b) Plan earnings.
+Allocations are based on participant earnings or account balance, as defined.
+The benefit to which a participant is entitled is the benefit that can be
+provided from the participant's vested account.
+
+Accounting Estimates
+- --------------------
+
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires management to make
+estimates and assumptions that affect the reported amounts and contingency
+disclosures at the date of the financial statements and the reported amounts of
+additions and deductions during the reporting period.  Actual results could
+differ from these estimates.
+
+C.  CONTRIBUTIONS AND INVESTMENT OPTIONS
+
+Contributions are paid by Bethlehem to the Trustee the week after they were
+earned.  Before-Tax and After-Tax Employee Contributions are allocated among
+the State Street Stable Fixed Income Fund, State Street S&P 500 Flagship Fund,
+Fidelity Puritan Fund, Fidelity Magellan Fund and Bethlehem Stock Fund in
+multiples of 1% at each participant's election.  Matching Company Contributions
+are required to be initially invested in the Bethlehem Stock Fund.  After a
+period of two full calendar years, these Matching Company Contributions can be
+transferred to any of the other available investment funds.
+
+The State Street Stable Fixed Income Fund (the "Fixed Income Fund") is a fixed
+income fund consisting of investments in fully benefit responsive guaranteed
+annuity contracts ("GAC") and one immediate participation guarantee contract.
+The contracts are credited with interest at the rates specified in the
+applicable contracts, which range from 4.36% to 25.00% and 5.52% to
+
+                                     - 4 -
+
+
+
+
+
+
+<PAGE> 5
+
+14.40% for the years ended December 31, 1999 and 1998, respectively.  The Fixed
+Income Fund had an average yield of 6.47% for 1999 and 6.77% for 1998.  The
+Fixed Income Fund had thirteen contracts at December 31, 1999 and seven
+contracts at December 31, 1998, representing 37.3% and 18.2% of the fund's net
+assets, respectively, that had interest rate reset provisions.  These contracts
+were credited with interest rates ranging from 4.36% to 25.00% and from 5.90%
+to 14.40% for the years ended December 31, 1999 and 1998, respectively.
+Interest earned on investments in the Fixed Income Fund is reinvested in that
+fund.  Within the Fixed Income Fund there were no individual investments at
+December 31, 1999 and 1998 representing 5% or more of the Plan's net assets.
+As discussed in Note B, the contracts are included in the financial statements
+at contract value, which approximates fair value, due to their fully benefit
+responsive nature.
+
+The State Street S&P 500 Flagship Fund is a diversified equity investment fund;
+the Fidelity Puritan Fund is a growth and income mutual fund; and the Fidelity
+Magellan Fund is an equity growth mutual fund.  Earnings on investments are
+reinvested in the fund in which they are earned.
+
+Contributions to the Bethlehem Stock Fund are used to purchase shares of
+Bethlehem Common Stock.  There were no dividends on Bethlehem Common Stock for
+1999 and 1998.  The Plan provides that shares of Bethlehem Common Stock may be
+purchased by the Trustee on the open market or directly from Bethlehem.  The
+Plan also permits, in lieu of cash contributions to the Trustee for the
+purchase of shares of Bethlehem Common Stock, the transfer by Bethlehem of the
+necessary number of shares of Bethlehem Common Stock directly to the Trustee.
+During 1999 and 1998, Matching Company Contributions were made in shares of
+Bethlehem Common Stock and all other contributions were made in cash.
+
+The Self-Managed Account ("SMA") gives participants access to a wide range of
+investments that include equity and fixed income securities and mutual funds
+through State Street Brokerage Services, Inc.  Assets must be transferred from
+any or all of the other investment funds into the SMA with an initial transfer
+of at least $2,500 and a $500 minimum transfer thereafter.  The SMA balance
+cannot exceed 50% of the participant's total account balance.  Assets invested
+in the Fixed Income Fund must be transferred to any or all of the other core
+funds where they must remain for 90 days before transfer to the SMA.
+
+D.  PARTICIPANT LOANS
+
+The Plan has a loan provision to permit an eligible participant to borrow up to
+50% of his vested account balance, subject to a minimum loan of $1,000 and a
+maximum loan of $50,000.  Any participant with an account balance of $2,000 or
+more is eligible for a loan.  A participant is permitted to have up to two
+loans outstanding at one time.
+
+Participants may not borrow from the Bethlehem Stock Fund or the SMA.  The term
+of the loan is generally 12 to 57 months but may be for a term of up to 177
+months under certain conditions.  Interest is fixed over the repayment period
+at the prime rate as quoted by the Wall Street Journal on the last business day
+of the month prior to the month in which the loan application is approved,
+
+                                     - 5 -
+
+
+
+
+
+
+
+
+<PAGE> 6
+
+plus 1%.  Repayments of principal plus interest are made to the Loan Fund and
+transferred to the other investment funds in accordance with participants'
+current contribution investment elections.
+
+E.  WITHDRAWALS AND DISTRIBUTIONS
+
+Withdrawals from the funds may be made from time to time in accordance with the
+provisions of the Plan.  However, voluntary withdrawal of the Before-Tax or
+After-Tax Basic Contributions before the related Matching Company Contributions
+have vested may result in forfeiture of the Matching Company Contributions and
+earnings thereon.  The forfeitures reduce future Matching Company
+Contributions.  For a participant employed on or before December 31, 1988,
+Matching Company Contributions for 1989 and later years vest immediately.  For
+a participant employed on or after January 1, 1989, Matching Company
+Contributions will vest 100% after the participant completes five years of
+service.  Withdrawals of Matching Company Contributions from the Bethlehem
+Stock Fund may not be made until after the end of the second calendar year
+following the year of contribution.
+
+Upon the termination of a participant's employment, the participant, or in the
+event of a participant's death, his beneficiary, will receive the investment
+funds allocated to his account.  In lieu of receiving a lump-sum distribution,
+a participant or his beneficiary may elect to defer payment to a later year or
+receive installment payments.
+
+At December 31, 1999 and 1998, the Plan had a $74,601 and $462,590 obligation
+for withdrawals and distributions processed and approved, but not yet paid to
+participants.  This obligation is reported as a liability for Department of
+Labor Form 5500 reporting purposes, but not for purposes of these financial
+statements.
+
+F.  FAIR VALUE OF INVESTMENTS
+
+The following presents investments that represent 5 percent or more of the
+Plan's net assets (dollars in millions):
+
+                                                     December 31,
+                                                   -----------------
+                                                   1999         1998
+                                                   ----         ----
+
+State Street Stable Fixed Income Fund             $290.2       $298.5
+State Street S&P 500 Flagship Fund                  79.1         68.7
+Fidelity Puritan Fund                               70.8         83.1
+Fidelity Magellan Fund                             120.8         93.7
+Bethlehem Stock Fund*                               49.3         36.8
+
+*The Bethlehem Stock Fund maintains both participant-directed and
+nonparticipant-directed investments.  Nonparticipant-directed investments were
+$11.3 million and $9.9 million at December 31, 1999 and 1998, respectively.
+
+                                     - 6 -
+
+
+
+
+
+
+
+
+
+<PAGE> 7
+
+The Plan's investments (including gains and losses on investments bought and
+sold, as well as held during the year) appreciated in value as follows (dollars
+in millions):
+
+                                                Year Ended December 31,
+                                                -----------------------
+                                                1999               1998
+                                                ----               ----
+
+        Common/collective trusts               $14.2              $15.3
+        Registered investment companies         12.1               23.5
+        Common stock                             6.3                1.8
+                                               -----              -----
+                                               $32.6              $40.6
+                                               =====              =====
+
+G.  NONPARTICIPANT-DIRECTED INVESTMENTS
+
+The net assets and the changes in net assets for the nonparticipant-directed
+investments held in the Bethlehem Stock Fund are as follows (dollars in
+millions):
+
+                                                Year Ended December 31,
+                                                -----------------------
+                                                1999               1998
+                                                ----               ----
+
+Employer contributions                         $ 6.3              $ 6.3
+Net appreciation                                  .3               (1.0)
+Interfund transfers                              (.5)               (.9)
+Withdrawals and distributions to participants      -                (.1)
+                                               ------             ------
+Net increase                                     6.1                4.3
+Net assets - Beginning of year *                 5.2                5.6
+                                               ------             ------
+Net assets - End of year                       $11.3              $ 9.9
+                                               ======             ======
+
+
+* After a period of two full calendar years, Matching Company Contributions
+become participant-directed investments and can be transferred to or withdrawn
+from any of the other available investment funds.
+
+H.  RELATED-PARTY TRANSACTIONS
+
+The Plan invests in shares of funds managed by State Street.  State Street acts
+as trustee for only those investments as defined by the Plan.  Transactions in
+such investments qualify as party-in-interest transactions which are exempt
+from the prohibited transaction rules.
+
+I.  TAX STATUS
+
+Bethlehem has received determinations from the Internal Revenue Service, the
+most recent of which is dated August 11, 1995, that the Trust forming part of
+the Plan is a qualified trust within the meaning of Section 401(a) of the
+Internal Revenue Code and is exempt from Federal income tax under Section
+501(a) of such Code.  The Plan has been amended since receiving the most recent
+determination letter.  However, the Plan Administrator believes the
+
+                                   - 7 -
+
+
+
+
+<PAGE> 8
+
+Plan is designed and is currently operating in compliance with the applicable
+requirements of the Internal Revenue Code.
+
+J.  FINANCIAL STATEMENT PRESENTATION
+
+The Plan adopted Statement of Position ("SOP") 99-3, Accounting for and
+Reporting of Certain Defined Contribution Benefit Plan Investments and Other
+Disclosure Matters.  Certain reclassifications of the 1998 amounts have been
+made to conform to the 1999 presentation in accordance with SOP 99-3.  This SOP
+eliminated the previously required reporting of changes in net assets by
+investment option for participant-directed investments.
+
+K.  TERMINATION OF THE PLAN
+
+Although it has not expressed an intention to do so, Bethlehem has the right
+under the Plan to discontinue its contributions at any time and to terminate
+the Plan subject to the provisions of ERISA.  Upon termination of the Plan or
+the complete discontinuance of Matching Company Contributions, the amounts
+credited to participants' accounts will be fully vested and non-forfeitable.
+
+L.  OTHER MATTERS
+
+The Plan's Fixed Income Fund held a Mutual Benefits Life Insurance Company
+(MBL) GAC which was scheduled to mature on September 30, 1992, at a contract
+rate of 8.0%.  On July 16, 1991, New Jersey's Department of Insurance placed
+MBL under rehabilitation and placed a moratorium on withdrawals from all GACs
+issued by MBL.  The Plan continued to accrue interest on this contract;
+however, effective January 1, 1992, such accruals were reduced from 8.0% to
+3.0% as an estimate of the actual interest rate to be determined in the
+rehabilitation process.  On November 10, 1993, the Superior Court of New Jersey
+approved the Plan of Rehabilitation for MBL.  This Rehabilitation Plan provided
+contract holders with the option to Opt-In (participate in the Rehabilitation
+Plan) or Opt-Out (receive a series of payments).  Effective March 28, 1994,
+State Street, acting as Investment Manager for the Fixed Income Fund, elected
+to Opt-In to the Plan of Rehabilitation.  Under this election, the MBL GAC was
+restructured and issued as a Wrapped Accumulation Contract (WAC) whose assets
+are invested in a separate account of MBL Life Assurance Corporation (MBLLAC),
+a wholly-owned subsidiary of MBL.  A consortium of insurance companies is
+guaranteeing the July 16, 1991, contract value and accrued interest through
+December 31, 1991, valued at approximately $7.2 million for the Plan.
+Additionally, the Rehabilitation Plan provides for interest on the MBLLAC WAC
+at rates of 14.4% for the period of November 1, 1998 through December 31, 1998,
+15.0% for the period of January 1, 1999 through March 31, 1999, 20.0% for the
+month of April 1999 and 25.0% for the month of May 1999.  Subsequent to 1994,
+interest rates are reset periodically until final maturity, but cannot go below
+0%.  On January 9, 1997 the Supreme Court of New Jersey approved a new
+settlement agreement which provides for the restructured MBLLAC WAC to be paid
+out on June 1, 1999.  On June 1, 1999 a full book value payment in the amount
+of $11.1 million was paid to the Fixed Income Fund representing the final
+distribution to contract holders.
+
+                                     - 8 -
+
+
+
+
+
+
+
+
+
+
+<PAGE> 9
+                                                          ATTACHMENT I
+
+
+                    SAVINGS PLAN FOR SALARIED EMPLOYEES OF
+             BETHLEHEM STEEL CORPORATION AND SUBSIDIARY COMPANIES
+             ----------------------------------------------------
+<TABLE>
+<CAPTION>
+
+SCHEDULE H (LINE 4I) - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES AT END OF YEAR
+
+<S>    <C>                                        <C>                                               <C>              <C>
+ (a)                      (b)                                        (c)                                  (d)            (e)
+                   Identity of issue                     Description of investment                        Cost       Current Value
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+       State Street Stable Fixed Income Fund
+         Union Bank of Switzerland                GAC at variable rates with open ended           $   15,737,661     $  15,737,661
+                                                  maturity
+
+         The Chase Manhattan Bank                 GAC at variable rates with open ended               15,633,275        15,633,275
+                                                  maturity
+
+         Monumental Life Insurance Company        GAC at variable rates with open ended               15,467,489        15,467,489
+                                                  maturity
+
+         Metropolitan Life Insurance Company      GAC at variable rates with open ended               12,535,125        12,535,125
+                                                  maturity
+
+         Caisse Des Depots Financial Products     GAC at 6.74% maturing 03/31/2003,                   12,099,049        12,099,049
+                                                  07/31/2003, 09/30/2003, 11/28/2003
+
+         Pacific Life Insurance Company           GAC at 6.79% maturing 07/31/2000,                    9,114,532         9,114,532
+                                                  07/31/2001, 04/30/2002
+
+         Allstate Life Insurance Company          GAC at 7.21% maturing 08/29/2003,                    9,020,623         9,020,623
+                                                  10/31/2003, 12/31/2003
+
+         Transamerica Life Insurance & Annuity    GAC at variable rates maturing 05/15/2000            8,191,734         8,191,734
+            Company                               thru 07/15/2003
+
+         The Chase Manhattan Bank                 GAC at variable rates maturing  03/15/2002           8,021,206         8,021,206
+                                                  thru 02/14/2003 with guaranteed final maturity
+                                                  09/15/2003
+
+         Caisse Des Depots Financial Products     GAC at 5.90% maturing 08/31/2001,                    7,034,164         7,034,164
+                                                  11/30/2001, 02/28,2002, 05/31/2002, 08/30/2002
+
+         Union Bank of Switzerland                GAC at variable rates maturing  08/15/2001           7,025,222         7,025,222
+                                                  thru 08/15/2002 with guaranteed final maturity
+                                                  09/15/2002
+
+         Monumental Life Insurance Company        GAC at 6.37% maturing 11/30/2000,                    6,816,292         6,816,292
+                                                  10/31/2001, 10/31/2002
+
+         GE Life & Annuity Assurance Company      GAC at 6.05% maturing 06/30/2000,                    6,660,569         6,660,569
+                                                  07/02/2001, 07/01/2002
+
+         GE Life & Annuity Assurance Company      GAC at 6.90% maturing 12/29/2000,                    6,645,046         6,645,046
+                                                  06/29/2001, 03/29/2002, 06/28/2002
+
+         Principal Life Insurance Company         GAC at 6.18% maturing 12/31/2001,                    6,586,961         6,586,961
+                                                  12/31/2002
+
+         Transamerica Occidental Life Insurance   GAC at 7.00% maturing 04/28/2000,                    6,574,921         6,574,921
+            Company                               01/31/2001, 04/30/2001
+
+         Protective Life Insurance Company        GAC at 6.05% maturing 06/30/2000,                    6,552,654         6,552,654
+                                                  01/01/2001
+
+         Metropolitan Life Insurance Company      GAC at 5.71% maturing 04/02/2001,                    6,448,654         6,448,654
+                                                  10/02/2001, 03/29/2002
+
+                                     - 9 -
+
+
+
+
+
+
+
+<PAGE> 10
+
+ (a)                      (b)                                        (c)                                (d)              (e)
+                   Identity of issue                     Description of investment                      Cost         Current Value
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+       State Street Stable Fixed Income Fund (cont'd)
+         Travelers Life and Annuity Company       GAC at 5.52% maturing 01/31/2000,               $    6,374,217     $   6,374,217
+                                                  02/29/2000, 02/28/2001
+
+         Principal Life Insurance Company         GAC at 5.71% maturing 05/31/2001,                    6,353,194         6,353,194
+                                                  01/31/2002, 07/31/2002
+
+         Transamerica Life Insurance & Annuity    GAC at variable rates maturing 02/18/2000            6,011,246         6,011,246
+           Company                                thru 08/18/2003
+
+         Morgan Guaranty                          GAC at 7.06% maturing 03/15/2000 thru                5,880,245         5,880,245
+                                                  05/15/2001
+
+         AIG Life Insurance Company               GAC at 6.91% maturing 08/31/2000, 11/30/2001         5,874,097         5,874,097
+
+         New York Life Insurance Company          GAC at 6.22% maturing 01/14/2000 thru                5,698,307         5,698,307
+                                                  05/15/2002
+
+         Union Bank of Switzerland                GAC at variable rates maturing 01/14/2000            5,625,308         5,625,308
+                                                  thru 07/15/2002
+
+         Metropolitan Life Insurance Company      IPG Contract at variable rates                       5,179,562         5,179,562
+
+         New York Life Insurance Company          GAC at 6.02% maturing 01/14/2000 thru                5,046,340         5,046,340
+                                                  05/15/2003
+
+         John Hancock Mutual Life Insurance       GAC at 6.80% maturing 10/02/2000,                    4,936,393         4,936,393
+            Company                               10/01/2001
+
+         Principal Life Insurance Company         GAC at 6.42% maturing 11/30/2001                     4,862,073         4,862,073
+
+         Deutsche Bank                            GAC at variable rates maturing 01/14/2000            4,832,681         4,832,681
+                                                  thru 01/15/2008
+
+         Transamerica Occidental Life Insurance   GAC at 6.32% maturing 05/01/2000, 10/31/2000         4,590,421         4,590,421
+            Company
+
+         Principal Life Insurance Company         GAC at 8.09% maturing 01/13/2000                     4,470,096         4,470,096
+
+         The Prudential Insurance Company         GAC at 6.74% maturing 10/31/2000,                    4,431,893         4,431,893
+           of America                             10/31/2001
+
+         Monumental Life Insurance Company        GAC at 5.65%  maturing 08/30/2002, 01/31/2003        4,208,853         4,208,853
+
+         Monumental Life Insurance Company        GAC at variable rates maturing 01/13/2000,           4,171,968         4,171,968
+                                                  03/31/2000
+
+         AIG Financial Products Corporation       GAC at 6.53% maturing 02/07/2000                     4,150,838         4,150,838
+
+         Caisse Des Depots Financial Products     GAC at 6.415% maturing 02/15/2000 thru               4,049,603         4,049,603
+                                                  11/15/2002
+
+         Continental Assurance Company            GAC at 7.16% maturing 05/31/2000                     2,758,610         2,758,610
+
+         Principal Life Insurance Company         GAC at 6.15% maturing 07/31/2000                     2,446,812         2,446,812
+
+         Transamerica Occidental Life Insurance   GAC at 6.08% maturing 11/30/2000                     1,955,223         1,955,223
+           Company
+
+                                     - 10 -
+
+
+
+
+
+
+
+
+<PAGE> 11
+
+ (a)                      (b)                                        (c)                                (d)              (e)
+                   Identity of issue                     Description of investment                      Cost         Current Value
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+
+      State Street Stable Fixed Income Fund (cont'd)
+           Executive Life Insurance Comp          Annual installments from trusts                 $      523,588     $     523,588
+
+  *        Total State Street Stable Fixed
+             Income Fund                                                                             270,596,745       270,596,745
+
+
+  *    State Street Bank and Trust Company        S&P 500 Flagship Fund                               43,586,032        79,086,603
+
+       Fidelity Institutional Retirement          Puritan Fund                                        62,174,797        70,440,550
+         Services Company
+
+       Fidelity Institutional Retirement          Magellan Fund                                       78,337,044       120,132,896
+         Services Company
+
+  *    Bethlehem Steel Corporation                Stock Fund - $1 par value                           58,831,132        48,037,178
+
+  *    State Street Bank and Trust Company        Self-Managed Account                                21,774,648        27,847,681
+
+  *    State Street Bank and Trust Company        Short-Term Investment Fund                          21,863,334        21,863,334
+
+       Participant Loans                          Rates of 7% - 11% **                                         0         6,885,775
+
+           Grand Total                                                                            $  557,163,732     $ 644,890,762
+
+
+*   Indicates a party-in-interest.
+**  An interest rate of prime plus 1%, based on month-end prior to date of loan
+origination, is charged on all employee loans.
+
+
+</TABLE>
+
+                                    - 11 -
+
+
+
+
+
+
+
+
+
+<PAGE> 12
+
+                      [Letterhead of PricewaterhouseCoopers LLP]
+
+                             REPORT OF INDEPENDENT AUDITORS
+
+
+
+To the Participants and Administrator of the
+Savings Plan for Salaried Employees of
+Bethlehem Steel Corporation and Subsidiary Companies
+
+In our opinion, the accompanying statements of net assets available for
+benefits and the related statements of changes in net assets available for
+benefits present fairly, in all material respects, the net assets available for
+benefits of the Savings Plan for Salaried Employees of Bethlehem Steel
+Corporation and Subsidiary Companies (the "Plan) at December 31, 1999 and 1998,
+and the changes in net assets available for benefits for the years then ended
+in conformity with accounting principles generally accepted in the United
+States.  These financial statements are the responsibility of the Plan's
+management; our responsibility is to express an opinion on these financial
+statements based on our audits.  We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States,
+which require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for the opinion expressed above.
+
+Our audits were conducted for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The supplemental schedule of assets
+held for investment purposes is presented for the purpose of additional
+analysis and is not a required part of the basic financial statements but is
+supplementary information required by the Department of Labor's Rules and
+Regulations for Reporting and Disclosure Under the Employee Retirement Income
+Security Act of 1974.  This supplemental schedule is the responsibility of the
+Plan's management.  The supplemental schedule has been subjected to the
+auditing procedures applied in the audits of the basic financial statements
+and, in our opinion, is fairly stated in all material respects in relation to
+the basic financial statements taken as a whole.
+
+
+
+/s/ PricewaterhouseCoopers LLP
+
+June 23, 2000
+
+
+                                    - 12 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 13
+
+                      CONSENT OF INDEPENDENT AUDITORS
+
+We hereby consent to the incorporation by reference in the Registration
+Statements on Form S-8 (No. 2-90795, No. 2-71699, No. 2-53880, No. 2-90796,
+No. 2-67314, No. 33-23516, No. 33-23688, No. 33-52267, No. 33-58019, No.
+33-58021, No. 33-60507, No. 333-53895, No. 333-57157 and No. 333-91941) of
+Bethlehem Steel Corporation of our report dated June 23, 2000 relating to the
+financial statements of the Savings Plan for Salaried Employees of Bethlehem
+Steel Corporation and Subsidiary Companies, which appears in Form 11-K.
+
+
+
+
+/s/ PricewaterhouseCoopers LLP
+
+New York, New York
+June 23, 2000
+
+
+                                    - 13 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 14
+
+                                 SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Employee Benefits Administration Committee has duly caused this annual report
+to be signed by the undersigned, hereunto duly authorized.
+
+
+
+                              Savings Plan for Salaried Employees of
+                              Bethlehem Steel Corporation and
+                              Subsidiary Companies
+
+
+
+                              By:   /s/ A. E. Moffitt, Jr.
+                                   ----------------------------
+                                   A. E. Moffitt, Jr.
+                                   Chairman, Employee Benefits
+                                   Administration Committee
+
+
+
+Date:  June 28, 2000
+
+                                    - 14 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 15
+
+                                 SIGNATURE
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                              BETHLEHEM STEEL CORPORATION
+
+
+
+                              By   /s/ L. A. Arnett
+                                   -----------------------------
+                                   L. A. Arnett
+                                   Vice President and Controller
+                                   (principal accounting officer)
+
+
+
+
+Date:  June 28, 2000
+
+
+
+
+
+                                    - 15 -
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

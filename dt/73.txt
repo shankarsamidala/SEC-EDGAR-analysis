@@ -1,0 +1,2573 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F4zRmzY9txflkNaunaOvFWRf6KSK6t0P8crUnfV+RLQ4u2IH/pArmNGM4E5MT2s/
+ s7XPG8JW/LtrcbhcRx0Ywg==
+
+<SEC-DOCUMENT>0000005588-98-000008.txt : 19981116
+<SEC-HEADER>0000005588-98-000008.hdr.sgml : 19981116
+ACCESSION NUMBER:		0000005588-98-000008
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19980930
+FILED AS OF DATE:		19981113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN PAD & PAPER CO
+		CENTRAL INDEX KEY:			0000005588
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				043164298
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-11803
+		FILM NUMBER:		98747097
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17304 PRESTON D
+		STREET 2:		STE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+		BUSINESS PHONE:		9727336200
+
+	MAIL ADDRESS:	
+		STREET 1:		17304 PRESTON ROAD
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75252
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR AMERICAN PAD & PAPER COMPANY
+<TEXT>
+
+
+
+
+                                    FORM 10-Q
+
+[X]      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                For the quarterly period ended September 30, 1998
+
+                                       OR
+
+[   ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+
+
+                         Commission file number 1-11803
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+             (Exact name of registrant as specified in its charter)
+
+
+            Delaware                                           04-3164298
+    (State or other jurisdiction of                         (I.R.S. Employer
+    incorporation or organization)                        Identification No.)
+
+                    17304 Preston Road, Suite 700, Dallas, TX
+                                   75252-5613
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                 (972) 733-6200
+              (Registrant's telephone number, including area code)
+
+
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+Yes     X                  No         
+
+
+         As of November 13 , 1998,  American Pad & Paper Company had  27,724,045
+shares of Common Stock outstanding.
+
+===============================================================================
+
+
+<PAGE>
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                    QUARTERLY PERIOD ENDED SEPTEMBER 30, 1998
+                                      INDEX
+
+PART I FINANCIAL INFORMATION
+
+Item 1 Financial Statements
+
+Consolidated Balance Sheets as of
+September 30, 1998 (unaudited) and December 31, 1997....................... 3
+
+Statements of Operations for the three and nine months ended
+September 30, 1998 and 1997 (unaudited).................................... 4
+
+Consolidated Statements of Cash Flows for the nine months ended
+September 30, 1998 and 1997 (unaudited).................................... 5
+
+Notes to Consolidated Financial Statements (unaudited)..................... 6
+
+Item 2 Management's Discussion and Analysis of Financial Condition and
+ Results of Operations ................................................... 10
+
+Item 3 Quantitative and Qualitative Disclosures About Market Risk......... 19
+
+PART II OTHER INFORMATION
+
+Item 1 Legal Proceedings.................................................. 20
+Item 2 Changes in Securities and Use of Proceeds.......................... 20
+Item 3 Defaults Upon Senior Securities.................................... 20
+Item 4 Submission of Matters to a Vote of Security Holders................ 20
+Item 5 Other Information.................................................. 20
+Item 6 Exhibits and Reports on Form 8-K................................... 20
+
+
+<PAGE>
+                           PART 1 - FINANCIAL INFORMATION
+
+                          AMERICAN PAD & PAPER COMPANY
+                     CONSOLIDATED BALANCE SHEETS (Unaudited)
+                    (in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+
+                                                    September 30,  December 31,
+                                                          1998          1997
+                                                   --------------  ------------
+<S>                                               <C>............ <C>..........
+ASSETS
+
+Current assets:
+  Cash ............................................$       33,228  $      4,855
+  Accounts receivable, net ........................        74,203        49,001
+  Inventories, net ................................       154,359       129,607
+  Refundable income taxes .........................         4,059           751
+  Prepaid expenses and other current assets .......         1,402         1,704
+  Deferred income taxes ...........................        11,992         2,000
+                                                   --------------  ------------
+    Total current assets ..........................       250,870       216,291
+
+Property, plant and equipment, net ................       151,390       152,181
+Intangible assets, net ............................       233,698       187,080
+Other .............................................         2,443         2,729
+                                                    -------------  ------------
+
+     Total assets ................................. $     558,281  $    638,401
+                                                    =============  ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Current portion of long-term debt ............... $       1,021  $      1,538
+  Accounts payable ................................        56,356        42,674
+  Accrued expenses ................................        40,157        53,329
+  Restructuring reserve ...........................         5,741          --
+                                                    -------------  ------------
+     Total current liabilities ....................        98,051       102,765
+
+Long-term debt ....................................       398,577       412,348
+Deferred income taxes .............................        39,477        12,337
+Other .............................................         1,630         1,568
+                                                    -------------  ------------
+   Total liabilities ..............................       537,735       529,018
+                                                    -------------  ------------
+
+Commitments and contingencies Stockholders' equity:
+  Preferred stock, 150 shares authorized,
+   no shares issued and outstanding, respectively
+                                                             --             --
+  Common stock,  voting,  $.01 par value,  75,000 shares authorized,  27,724 and
+   27,436 shares issued
+    and outstanding, respectively .................           274           277
+  Additional paid-in capital ......................       301,279       301,287
+  Accumulated deficit .............................      (272,301      (200,887)
+                                                    -------------  ------------
+
+    Total stockholders' equity ....................       100,666        29,263
+                                                    -------------  ------------
+
+    Total liabilities and stockholders' equity .... $     558,281  $    638,401
+                                                    =============  ============
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       3
+<PAGE>
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+                    (in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+
+                                       Three months ended    Nine months ended
+                                          September 30,        September 30,
+                                       --------- ---------  --------- ---------
+                                          1998      1997      1998       1997
+                                       --------- ---------  --------- ---------
+<S>                                   <C>....... <C>......  <C>...... <C>......
+
+Net sales .............................$ 174,160 $ 176,462  $ 482,479 $ 493,455
+
+Cost of sales .........................  156,462   150,204    441,962   407,282
+                                       --------- ---------  --------- ---------
+
+   Gross profit .......................   17,698    26,258     40,517    86,173
+
+Operating expenses:
+
+   Selling and marketing ..............    5,569     5,529     15,762    15,624
+
+   General and administrative .........    9,608     6,338     24,313    14,716
+
+   Restructuring charges ..............    5,741      --        5,741      --
+
+   Loss on sales of accounts receivable      858       656      2,319     2,049
+
+   Amortization of intangible assets ..    1,327     1,677      4,522     4,547
+
+   Write-down of intangible assets ....     --        --       41,000      --
+
+   Management fees and services .......      595       593      1,655     4,284
+                                       --------- ---------  --------- ---------
+
+Income (loss) from operations .........   (6,000)   11,465    (54,795)   44,953
+
+Other income (expense):
+
+   Interest ...........................  (11,929    (9,848    (33,735   (27,646)
+
+   Other income, net ..................      192       112        207       233
+                                       --------- ---------  --------- ---------
+
+Income (loss) before income taxes .....  (17,737)    1,729    (88,323)   17,540
+
+Provision for (benefit from) income tax   (4,343)      778    (16,907)    7,893
+                                       --------- ---------  --------- ---------
+
+Net income (loss) .....................$ (13,394)$     951  $ (71,416)$   9,647
+                                       ========= =========  ========= =========
+
+
+Earnings (loss) per share (Basic) .....$    (.48)$    0.03  $   (2.58)$    0.35
+                                       ========= =========  ========= =========
+
+
+Earnings (loss) per share (Diluted) ...$    (.48)$    0.03  $   (2.58)$    0.35
+                                       ========= =========  ========= =========
+
+Weighted average number of
+   common shares (Basic)                  27,724    27,436     27,713    27,429
+                                       ========= =========  ========= =========
+
+Weighted average number of
+   common shares (Diluted)
+                                          27,724    29,389     27,713    29,382
+                                       ========= =========  ========= =========
+</TABLE>
+          See accompanying notes to consolidated financial statements.
+
+
+
+
+                                       4
+<PAGE>
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+                                 (in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                             Nine months ended
+                                                              September 30,
+                                                             1998        1997
+                                                          ---------- ----------
+<S>                                                      <C>........ <C>.......
+
+Cash flows from operating activities:
+  Net income (loss) ..................................... $  (71,416)$    9,647
+  Adjustments to reconcile net income (loss) to net cash
+   provided by (used in) operating activities:
+    Deferred income taxes................................    (17,148)      --
+    Depreciation ........................................     10,241      9,167
+    Amortization of goodwill and intangible assets ......      4,522      4,528
+    Write-down of intangible assets .....................     41,000       --
+    Restructuring charges ...............................      5,741       --
+    Amortization of debt issuance costs .................      3,589      1,900
+    Loss on sale of assets ..............................        143       --
+    Changes in assets and liabilities, net of effects of acquisitions:
+       Accounts receivable ..............................     27,202     (9,649)
+       Refundable income taxes                                 3,308       --
+       Inventories ......................................     24,752    (47,703)
+       Prepaid expenses and other .......................       (301)      (798)
+       Income tax liability, net ........................        --       6,363
+       Accounts payable .................................    (13,682)    15,637
+       Accrued expenses .................................     13,173    (20,332)
+       Other assets .....................................       (743)     2,139
+       Other liabilities ................................        (62)    (1,215)
+                                                          ---------- ----------
+ Net cash provided by (used in) operating activities.....     30,319    (30,316)
+                                                          ---------- ----------
+
+Cash flows from investing activities:
+  Purchase of business, including acquisition costs .....       --      (50,666)
+  Purchases of property and equipment ...................    (11,343)   (15,448)
+  Proceeds from sale of assets ..........................         21      3,286
+  Other .................................................        148       --
+                                                          ---------- ----------
+         Net cash used in investing activities ..........    (11,174)   (62,828)
+                                                          ---------- ----------
+
+Cash flows from financing activities:
+  Net borrowings on credit agreement and long-term debt .     14,400     99,400
+  Repayment of long-term debt ...........................     (1,146)    (1,179)
+  Repayment of accounts receivable financing ............     (2,000)    (7,000)
+  Debt issuance costs                                         (2,037)      --
+  Other                                                           11        307
+                                                          ---------- ----------
+     Net cash provided by financing activities ..........      9,228     91,528
+                                                          ---------- ----------
+
+Net increase (decrease) in cash .........................     28,373     (1,616)
+
+Cash, beginning of period ...............................      4,855      2,290
+                                                          ---------- ----------
+
+Cash, end of period ..................................... $   33,228 $      674
+                                                          ========== ==========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+
+                                       5
+<PAGE>
+
+
+
+
+                          AMERICAN PAD & PAPER COMPANY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               September 30, 1998
+           (Amounts in thousands, except share and per share amounts)
+
+
+
+1.       Organization and Basis of Presentation
+
+         Organization and Basis of Presentation
+
+         American Pad & Paper  Company  (the  "Company")  is a holding  company,
+which conducts its operations  through American Pad & Paper Company of Delaware,
+Inc. ("AP&P Delaware") and its wholly owned subsidiaries.
+
+     The consolidated  financial  statements of the Company present the accounts
+and operations of the Company and its wholly owned  subsidiaries.  Additionally,
+the consolidated  financial  statements  include the accounts of Notepad Funding
+Corporation,  a special purpose  corporation used in connection with an accounts
+receivable based credit  facility.  All significant  intercompany  balances have
+been  eliminated.   Certain  prior  year  amounts  have  been  reclassified  for
+comparative purposes.  The financial statements as of September 30, 1997 and for
+the  three  and  nine  months  ended  have  been  restated  to  reflect  certain
+adjustments which should have been reported for the three months ended September
+30, 1997. With out giving effect to the restatement,  basic and diluted earnings
+per share would have been .06 and .06  respectively  for the three  months ended
+September  30,  1997  and .38 and .36  respectively  for the nine  months  ended
+September 30, 1997.
+
+         Business
+
+         The  Company is a leading  manufacturer  and  marketer  of  paper-based
+office products in North America.  The Company operates in one business segment,
+converting paper into office products, and offers a broad assortment of products
+through two complementary  divisions:  Ampad (writing pads, file folders, retail
+envelopes,  and other  paper-based  office products) and Williamhouse  (business
+envelopes and seasonal greeting cards).  The Company's  products are distributed
+through large mass merchant  retailers,  office product  superstores,  warehouse
+clubs, major contract stationers, office products wholesalers,  paper merchants,
+and independent dealers.
+
+         Interim Financial Information
+
+         The accompanying  interim financial  statements are unaudited.  Certain
+information and disclosures  normally included in financial  statements prepared
+in accordance with generally accepted accounting  principles have been condensed
+or omitted,  although the Company  believes the disclosures  included herein are
+adequate  to make  the  information  presented  not  misleading.  These  interim
+financial  statements should be read in conjunction with the Company's financial
+statements for the year ended December 31, 1997.
+
+         The accompanying  interim financial statements contain all adjustments,
+consisting  only  of  normal  recurring   adjustments,   necessary  for  a  fair
+presentation of the Company's  financial  position at September 30, 1998 and the
+results of its  operations and its cash flows for the three month and nine month
+periods  ended  September 30, 1998 and 1997.  The results of operations  for the
+interim  periods  presented  are not  necessarily  indicative  of  results to be
+expected for the full fiscal year.
+
+         American Pad & Paper Company of Delaware, Inc.
+
+         The Company's wholly owned subsidiary,  AP&P Delaware, is the issuer of
+13% Senior Subordinated Notes ("Notes"). Terms of the Notes require, among other
+matters,  that AP&P Delaware  provide  annual  audited and  quarterly  unaudited
+financial  statements  to  the  holders  of the  notes.  There  are no  material
+differences  between the  financial  statements of the Company and those of AP&P
+Delaware.  The composition of AP&P Delaware's  stockholder's equity at September
+30, 1998 consists of one hundred shares of $0.01 par value common stock, paid in
+capital of $202,370 and an  accumulated  deficit of $173,107  and, in total,  is
+equal to the stockholders' equity of the Company.
+
+
+                                       6
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+                               September 30, 1998
+           (Amounts in thousands, except share and per share amounts)
+
+
+
+2.       Accounts Receivable
+
+Accounts receivable consist of the following:
+<TABLE>
+<CAPTION>
+
+                                                     September 30,  December 31,
+                                                         1998           1997 
+                                                     -------------  -----------
+<S>                                                  <C>..........  <C>........
+Accounts  receivable -- trade, excluding $58,000 and
+ $60,000, respectively, which are sold as part of a
+ accounts receivable financing facility ............ $      48,933  $    72,975
+Accounts receivable - other .........................        2,791        4,022
+Less allowance for doubtful accounts and reserves for
+ customers deductions, returns and cash discounts ...       (2,723)      (2,794)
+                                                     -------------  -----------
+                                                     $      49,001  $    74,203
+                                                     =============  ===========
+</TABLE>
+
+
+3.       Inventories
+
+Inventories consist of the following:
+<TABLE>
+
+                                                     September 30, December 31,
+                                                           1998         1997 
+                                                      ------------ ------------
+<S>                                                  <C>..........<C>..........
+Raw materials and semi-finished goods ................$     37,910 $     54,285
+Work in process ......................................       6,463        5,600
+Finished goods .......................................      87,945      100,480
+                                                      ------------ ------------
+                                                           132,318      160,365
+LIFO reserve .........................................      (2,711)      (6,006)
+                                                      ------------ ------------
+  ....................................................$    129,607 $    154,359
+                                                      ============ ============
+</TABLE>
+
+4.       Property, Plant and Equipment
+
+Property, plant and equipment consists of the following:
+<TABLE>
+
+                                                     September 30, December 31,
+                                                           1998         1997 
+                                                      ------------ ------------
+<S>                                                  <C>..........<C>..........
+
+Land .................................................$      7,058 $      7,035
+Buildings and leasehold improvements .................      34,306       30,308
+Machinery and equipment ..............................     129,621      115,168
+Office furniture and fixtures ........................      11,266        9,818
+Construction in progress .............................       6,349       15,322
+                                                      ------------ ------------
+                                                           188,600      177,651
+Less accumulated depreciation and amortization .......      36,419       26,261
+                                                      ------------ ------------
+                                                      $    152,181 $    151,390
+                                                      ============ ============
+</TABLE>
+
+
+
+                                       7
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+                               September 30, 1998
+           (Amounts in thousands, except share and per share amounts)
+
+
+
+5.       Intangible Assets
+
+Intangible assets consist of the following:
+<TABLE>
+
+                                                     September 30, December 31,
+                                                           1998         1997 
+                                                      ------------ ------------
+<S>                                                  <C>..........<C>..........
+Goodwill .............................................$    148,460 $    189,861
+Intangible assets, principally tradenames ............      43,665       44,284
+Debt issuance costs ..................................      20,398       18,369
+                                                      ------------ ------------
+                                                           212,523      252,514
+Less accumulated amortization ........................      25,443       18,816
+                                                      ------------ ------------
+                                                      $    187,080 $    233,698
+                                                      ============ ============
+</TABLE>
+
+At June 30, 1998, the Company wrote-down  certain  long-lived assets,  primarily
+goodwill  and  tradenames   associated  with  its  forms  business  (principally
+Shade/Allied)  by  $41,000  to their net  realizable  value,  as a result of the
+Company's decision to exit this business in its current form.
+
+6.       Accrued Expenses
+
+Accrued expenses consist of the following:
+<TABLE>
+
+                                                     September 30, December 31,
+                                                           1998         1997 
+                                                      ------------ ------------
+<S>                                                  <C>..........<C>..........
+Acquisition integration costs ........................$      6,522 $      8,534
+Sales volume discounts ...............................      16,861       11,634
+Salaries and wages ...................................       5,927        4,242
+Interest .............................................      10,046        5,927
+Other ................................................      13,973        9,820
+                                                      ------------ ------------
+                                                      $     53,329 $     40,157
+                                                      ============ ============
+</TABLE>
+
+
+7.       Borrowings
+
+     In February  1998,  the Company and its banking group agreed to an increase
+in the size of the  revolving  credit  agreement  from $300.0  million to $330.0
+million for a period of one year.  After such time,  the level of debt available
+under such credit  agreement  was to be reduced to $300.0  million.  In December
+1997,  February 1998 and April 1998,  certain  covenants in the credit agreement
+were also  modified  as of the end of 1997 and for a period  to end in  February
+1999.  In June and July 1998,  the  Company  obtained  amendments  to its credit
+agreement waiving all defaults of its financial  covenants through September 30,
+1998.  The Company paid fees and  expenses of $1.7 million to its banking  group
+and lawyers in connection with the amendments to the credit agreement.
+
+         On September 30, 1998, the Company  amended its credit  agreement.  The
+seventh amendment eliminated all prior defaults and reinstated the original $300
+million limit under the credit  facility.  The  amendment  allows the Company to
+once again classify the underlying  debt as long-term debt in the balance sheet.
+The restated credit agreement provides for permanent  reductions in availability
+under the  facility  of $25 million in  December  1998,  $25 million in December
+1999, and $50 million in July 2000. The amended  facility  matures in July 2001.
+Fees of $.9 million were paid in  conjunction  with this  amendment  and will be
+amortized  over the remaining life of the debt,  beginning  October 1, 1998. The
+interest rate  incurred by the Company will vary each quarter  through July 2001
+depending on the Company's consolidated debt to EBITDA (earnings before
+
+                                       8
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+                               September 30, 1998
+           (Amounts in thousands, except share and per share amounts)
+
+interest,  taxes,  depreciation,  amortization,  and certain noncash charges, as
+defined in the agreement)  ratio at the beginning of each quarter.  The new bank
+credit amendment  requires the Company to meet certain financial tests including
+minimum EBITDA levels,  minimum  interest  coverage ratios and maximum  leverage
+ratios.  The Company posted a positive EBITDA performance of $6.1 million in the
+quarter,  as measured by the bank  agreement.  The new agreement  limits capital
+expenditures to $3.6 million for the remainder of 1998;  $15.0 million for 1999;
+$15.0 million for 2000; and $7.5 million for the first half of 2001.
+
+8.       Related Party Transactions
+
+         Effective March 31, 1998, the Company loaned $1.0 million to one of its
+Directors on an interest bearing note receivable.  This note accrues interest at
+5.89%,  compounded  annually,  and is due on March  31,  2001.  Options  not yet
+exercised  and  546,385  shares  of the  Company's  common  stock  owned by this
+Director secure this note.
+
+9.       Restructuring Charges
+
+         The third quarter  restructuring charge of $5.7 million represents part
+of  the  previously  announced  major  rationalization  plan  of  the  Company's
+manufacturing  operations.  The plan includes  plant  consolidations,  equipment
+rationalization moves, plant/product changes, warehouse consolidations,  as well
+as new distribution centers. The rationalization is expected to result in an 18%
+reduction  in  manufacturing  space  and  a net  7%  reduction  (250  employees,
+primarily in plant manufacturing) in the workforce.  Employee termination costs,
+including  severance  and  benefits  totaled  $1.8  million.  Additionally,  the
+restructuring reserve includes closing costs to exit facilities of $2.5 million,
+lease  termination  costs of $0.5  million,  and  property  taxes after  ceasing
+operations of $0.9 million. As of September 30, 1998, there have been no charges
+to the restructuring reserve.
+
+         Estimated  additional costs of $7.5 million associated with the plan do
+not qualify for current recognition but will be recorded primarily in 1999. Such
+costs include  equipment and inventory  transfer costs,  employee  retention and
+relocation,  recruiting  costs,  interim warehouse costs, and other training and
+efficiency  costs.  The  major  undertakings  of the  rationalization  plan  are
+expected to be completed in 1999.
+
+
+
+                                       9
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+     Item 2 Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+
+Overview
+
+         The  Company  is a leading  manufacturer  and  marketer  of  nationally
+branded and private label paper-based office products  (excluding copy paper) in
+the $60 billion to $70 billion North  American  office  products  industry.  The
+Company  offers a broad  assortment of products  including  writing  pads,  file
+folders,  envelopes and other paper-based products.  Through its Ampad division,
+the Company is among the largest suppliers of pads and other paper-based writing
+products,  filing  supplies,  and retail  envelopes  to many of the  largest and
+fastest growing office products distributors. Through its Williamhouse division,
+the Company is the leading  supplier of mill  branded  specialty  and  commodity
+business  envelopes to paper merchants and  distributors.  The Company  believes
+that its  future  operating  results  will  not be  directly  comparable  to its
+historical  operating  results  because of its strategic  acquisitions.  Certain
+factors which have affected past and may affect future operating  results of the
+Company are discussed below.
+
+         Purchase  Accounting  Effects.  The  Company's  acquisitions  have been
+accounted for using the purchase  accounting method.  The aggregate  acquisition
+costs  (including  assumption of debt) are allocated to the net assets  acquired
+based  on the fair  market  value of such net  assets.  The  allocations  of the
+purchase  price  result in an increase in the  historical  book value of certain
+assets such as property,  plant and equipment and intangible  assets,  including
+goodwill,  which results in incremental  annual  depreciation  and  amortization
+expense each year.
+
+         Raw Material.  The Company's  principal raw material is paper.  Certain
+commodity  grades  utilized  by  the  Company  have  shown   considerable  price
+volatility  since 1992.  From May 1997 through  October 1997, all but one of the
+key commodity grades of paper utilized by the Company increased significantly in
+cost.  Due  to  strategic   customer   considerations   and  competitive  market
+conditions,  the Company did not begin to recover a  significant  portion of the
+increases in paper costs  affecting both its divisions  until December 1997. The
+Company  continued to implement sales price  increases  during the first half of
+1998.  Since October 1997,  the key  commodity  grades of paper  utilized by the
+Company  substantially  decreased  in cost.  Recently,  the  competitive  market
+conditions have  necessitated that sales pricing for certain products follow the
+downward  trend in raw material  prices.  Paper price  volatility is expected to
+continue  to have an  effect  on net  sales  and cost of sales  and  there is no
+assurance   that  the  Company  will  not  be  materially   affected  by  future
+fluctuations  in the price of paper.  Fluctuations  in paper  prices can have an
+effect on  quarterly  comparisons  of the results of  operations  and  financial
+condition of the Company.
+
+Recent developments
+
+     Management Changes.  The Company appointed James W. Swent, III as Executive
+Vice President and Chief Financial  Officer on June 2,  respectively.  Mr. Swent
+was previously Chief Executive Officer of Cyrix  Corporation,  a manufacturer of
+microprocessors   for  the  PC   industry,   until  its  merger  with   National
+Semiconductor.  In addition,  he has held  operations  and  financial  executive
+positions with companies, including Northern Telecom, Rodime PLC and Memorex. On
+July 8, 1998, the Company  appointed Mr. Swent as Chief Executive  Officer and a
+member of its Board of Directors ("Board"). Mr. Swent replaced Charles G. Hanson
+III who retired from his position as Chairman  and Chief  Executive  Officer and
+director of the Company.  Also,  Russel M. Gard  stepped  down as President  and
+Chief  Operating  Officer,  but will  continue his duties as Vice Chairman and a
+member of the Board. On July 20, 1998, the Company  appointed  William L. Morgan
+as  Executive  Vice   President,   Operations.   Mr.  Morgan  has  35  years  of
+manufacturing  experience ranging from entrepreneurial  start-ups to large scale
+multi-national  corporations  including  Northern  Telecom,  Texas  Instruments,
+Memorex and  Fujitsu.  John H.  Rodgers has been  appointed  to the  position of
+Senior Vice President, General Counsel and Secretary.
+
+         On October 14, 1998, the Company  announced the  resignation of Timothy
+Needham, President and Chief Operating Officer.
+
+         Company   Initiatives/Restructuring.   Under  the   leadership  of  new
+management,  the Company has begun a review of all operations with the challenge
+of  rebuilding  market  share,  reducing  debt  and  returning  the  company  to
+profitability.  On July 15, 1998, the Board approved the Company's exit from the
+forms business in its current form which has produced  unfavorable  margins.  As
+part of the review process, the Company retained the management  consulting firm
+of Bain & Company and the investment banking firm of Goldman, Sachs & Company to
+assist the Company in evaluating its current  position in the marketplace and in
+setting the Company's long term strategic direction. Goldman Sachs will explore
+
+
+
+                                       10
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+     Item 2 Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+external  strategic and financial  alternatives to maximize  shareholder  value.
+Bain & Company will work closely with the  Company's  customers and suppliers to
+evaluate core strengths and identify  opportunities  for  improvement and assist
+the Company to  restructure  manufacturing  to best serve each of the  Company's
+markets.
+
+         The third quarter  restructuring charge of $5.7 million represents part
+of  the  previously  announced  major  rationalization  plan  of  the  Company's
+manufacturing  operations.  The plan includes  plant  consolidations,  equipment
+rationalization moves, plant/product changes, warehouse consolidations,  as well
+as new distribution centers. The rationalization is expected to result in an 18%
+reduction  in  manufacturing  space  and  a net  7%  reduction  (250  employees,
+primarily in plant manufacturing) in the workforce.  Employee termination costs,
+including  severance  and  benefits  totaled  $1.8  million.  Additionally,  the
+restructuring reserve includes closing costs to exit facilities of $2.5 million,
+lease  termination  costs of $0.5  million,  and  property  taxes after  ceasing
+operations of $0.9 million. Estimated capital costs of $2.8 million and one-time
+implementation costs of $7.5 million that do not qualify for current recognition
+will be recorded  primarily in 1999. Such costs include  equipment and inventory
+transfer costs,  employee  retention and relocation,  recruiting costs,  interim
+warehouse costs, and other training and efficiency costs. The major undertakings
+of the  rationalization  plan are expected to be  completed  in 1999.  Upon full
+implementation,  the plan is expected to have a significant  positive  effect on
+the  Company's  financial  performance,  resulting  in an  estimated  annualized
+increase in operating income of $10-12 million.
+
+         Covenant Violations/  Negotiation to Modify Agreement. On September 30,
+1998, the Company amended its credit agreement. The seventh amendment eliminated
+all prior  defaults and  reinstated  the original  $300 million  limit under the
+credit  facility.  The amendment  allows the Company to once again  classify the
+underlying  debt as long-term  debt in the balance  sheet.  The restated  credit
+agreement  provides for permanent  reductions in availability under the facility
+of $25 million in December  1998,  $25 million in December 1999, and $50 million
+in July 2000.  The amended  facility  matures in July 2001.  Fees of $.9 million
+were paid in  conjunction  with this  amendment  and will be amortized  over the
+remaining  life of the debt,  beginning  October  1,  1998.  The  interest  rate
+incurred by the Company  will vary each quarter  through July 2001  depending on
+the Company's  consolidated  debt to EBITDA (earnings  before  interest,  taxes,
+depreciation,  amortization,  and  certain  noncash  charges,  as defined in the
+agreement) ratio at the beginning of each quarter. The new bank credit amendment
+requires the Company to meet certain  financial tests  including  minimum EBITDA
+levels,  minimum  interest  coverage  ratios and maximum  leverage  ratios.  The
+Company posted a positive EBITDA performance of $6.1 million in the quarter,  as
+measured by the bank agreement. The new agreement limits capital expenditures to
+$3.6 million for the remainder of 1998;  $15.0  million for 1999;  $15.0 million
+for 2000; and $7.5 million for the first half of 2001.
+
+
+
+                                       11
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+     Item 2 Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+Results of Operations
+
+         The following  table  summarizes  the Company's  historical  results of
+operations  as a  percentage  of net sales for the three  months and nine months
+ended  September  30,  1998  and  1997.  The  Company's  historical  results  of
+operations for each of these periods are  significantly  affected by the results
+of Shade/Allied, which was acquired on February 11, 1997.
+
+<TABLE>
+                                         Three months ended  Nine months ended
+                                             September 30,     September 30,
+           Income Statement Data ......     1998      1997      1998      1997
+                                          -------   -------   -------   -------
+<S>                                      <C>.....  <C>.....  <C>.....  <C>.....
+
+Net sales ...............................  100.0%    100.0%    100.0%    100.0%
+Cost of sales ...........................   89.8%     85.1%     91.6%     82.5%
+                                          -------   -------   -------   -------
+
+   Gross profit .........................   10.2%     14.9%      8.4%     17.5%
+
+Operating expenses:
+   Selling and marketing ................    3.2%      3.1%      3.3%      3.2%
+   General and administrative ...........    5.5%      3.6%      5.0%      3.0%
+   Loss on sale of accounts receivable ..    0.5%      0.4%      0.5%      0.4%
+   Amortization of intangible assets ....    0.8%      1.0%      0.9%      0.9%
+   Restructuring charges ................    3.3%      0.0%      1.2%      0.0%
+   Write-down of intangible assets ......    0.0%      0.0%      8.5%      0.0%
+   Management fees and services .........    0.3%      0.3%      0.3%      0.9%
+                                          -------   -------   -------   -------
+    Income (loss) from operations .......   -3.4%      6.5%    -11.3%      9.1%
+
+Other income (expense):
+   Interest .............................   -6.8%     -5.6%     -7.0%     -5.6%
+                                          -------   -------   -------   -------
+Income (loss) before income taxes .......  -10.2%      0.9%    -18.3%      3.5%
+Provision for (benefit from) income taxes   -2.5%      0.4%     -3.5%      1.6%
+                                          -------   -------   -------   -------
+Net income (loss) .......................   -7.7%      0.5%    -14.8%      1.9%
+                                          =======   =======   =======   =======
+</TABLE>
+
+
+
+                                       12
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+Three months ended  September 30, 1998 compared to three months ended  September
+30, 1997
+
+         Net Sales for the three months ended  September  30, 1998  decreased by
+$2.3  million,  or 1.3%,  to $174.2  million  from $176.5  million for the three
+months ended  September 30, 1997.  The net sales decrease is comprised of a $2.0
+million increase in sales, principally due to favorable mix, partially offset by
+an  unfavorable  volume  variance.  The  increased  sales were  primarily in the
+contract stationer and superstore  channels.  This increase was more than offset
+by a $4.3  million  increase  in customer  incentives.  The  increased  customer
+incentives  are due to additional  rebate  programs  caused by more  competitive
+pricing,  changing  product mix, higher volumes  resulting in certain  customers
+reaching the next  incentive  tier level and  write-offs  related to the loss of
+certain unprofitable forms business and a major customer.
+
+     Gross  Profit for the three months ended  September  30, 1998  decreased by
+$8.6 million, or 32.7%, to $17.7 million from $26.3 million for the three months
+ended September 30, 1997.  Gross profit margin  decreased to 10.2% for the three
+months ended  September 30, 1998 from 14.9% for the three months ended September
+30,1997. The decrease in gross profit margin is primarily attributable to higher
+unit production costs due to underutilized capacity resulting from the Company's
+efforts  to  reduce  its  inventory,  a  reduction  in  selling  margins  due to
+competitive  pricing  pressures,  and the lower sales.  In  addition,  the third
+quarter of 1998 includes  approximately  $2.9 million of charges for  additional
+obsolescence reserves.
+
+     Selling and  marketing  expenses for the three months ended  September  30,
+1998  increased to $5.6 million,  or 3.2% of sales from $5.5 million or 3.1% for
+the three months ended September 30, 1997.
+
+         General  and  administrative   expenses  for  the  three  months  ended
+September  30, 1998  increased  to $9.6  million from $6.3 million for the three
+months ended  September 30, 1997, an increase of $3.3 million.  This increase is
+primarily attributable to $2.2 million of severance and consulting costs paid to
+certain  former  executives  of the company  and $1.4  million of Bain & Company
+consulting fees related to work on the Company's restructuring.
+
+         Restructuring  charges for the three months ended September 30, 1998 of
+$5.7 million represents part of the previously  described major  rationalization
+plan of the Company's manufacturing operations.
+
+         Losses  on sales of  accounts  receivable  for the three  months  ended
+September  30, 1998  increased  to $0.9  million from $0.7 million for the three
+months  ended  September  30, 1997 due  primarily to a higher  average  level of
+accounts receivable sold to the third party trust in the third quarter of 1998.
+
+         Goodwill and intangible asset amortization expense for the three months
+ended  September  30, 1998  decreased  to $1.3 million from $1.7 million for the
+three months ended September 30, 1997, an decrease of $0.4 million primarily due
+to the write-off of the Shade/Allied goodwill in the second quarter of 1998.
+
+     Management  fees and services  expense for the three months ended September
+30,  1998  amounted  to $0.6  million as  compared  to $.6 million for the three
+months ended September 30,1997.
+
+         Interest  expense  for  the  three  months  ended  September  30,  1998
+increased  to $11.9  million  from  $9.8  million  for the  three  months  ended
+September 30, 1997, an increase of $2.1 million. Of this increase,  $0.2 million
+is  attributable  to increased  debt levels,  $0.8  million is  attributable  to
+increased interest rates and $1.1 million is attributable to the amortization of
+fees paid in  connection  with  amendments to the credit  agreement  obtained in
+February and July 1998 and other costs.
+
+     The income tax  provision  for the three month period ended  September  30,
+1998  reflects an effective  tax rate of 24.5%  versus an effective  tax rate of
+45.0% for the three month period ended  September 30, 1997.  Due to the expected
+lower operating results for 1998 and higher non-deductible  expenses as a result
+of the write-down of intangible  assets associated with the decision to exit the
+Shade/Allied continuous forms business, the Company lowered its effective income
+tax rate in 1998.
+
+                                       13
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+Nine months ended September 30, 1998 compared to nine months ended September 30,
+1997
+
+         Net Sales for the nine months  ended  September  30, 1998  decreased by
+$11.0  million,  or 2.2%,  to $482.5  million  from $493.5  million for the nine
+months ended  September 30, 1997. This net sales decrease is comprised of a $6.2
+million  increase  in sales  offset  by a $16.9  million  increase  in  customer
+incentives and a $0.3 million increase in cash discounts. The net sales increase
+is  primarily  attributable  to  favorable  mix and price  variances  and owning
+Shade/Allied ($3.3 million) for nine months of 1998 versus only seven and a half
+months in the same  period in 1997,  partially  offset  by  unfavorable  volumes
+variance.  The sales increase occurred  primarily in the contract  stationer and
+mass market channels.  The increased  customer  incentives are due to additional
+rebate programs caused by more competitive pricing, changing product mix, higher
+volumes  resulting in certain  customers  reaching the next incentive tier level
+and write-offs related to the loss of certain  unprofitable forms business and a
+major customer.
+
+         Gross Profit for the nine months ended  September 30, 1998 decreased by
+$45.7 million, or 53.0%, to $40.5 million from $86.2 million for the nine months
+ended  September 30, 1997.  Gross profit  margin  decreased to 8.4% for the nine
+months ended  September 30, 1998 from 17.5% for the nine months ended  September
+30,  1997.  The decrease in gross profit  margin is  primarily  attributable  to
+higher unit production  costs due to underutilized  capacity  resulting from the
+Company's efforts to reduce its inventory, a reduction in selling margins due to
+competitive  pricing  pressures,  and the lower sales.  In addition,  the second
+quarter of 1998 included  approximately  $7.5 million of charges  resulting from
+reevaluating  certain  inventories based on changes in current market conditions
+and accruals for workers' compensation and property tax and the third quarter of
+1998 includes approximately $2.9 million of charges for additional  obsolescence
+reserves.
+
+         Selling and marketing  expenses for the nine months ended September 30,
+1998 increased to $15.8 million,  or 3.3% of sales, from $15.6 million,  or 3.2%
+of sales,  for the nine months ended  September  30, 1997.  The increase of $0.2
+million,  or 0.1% of sales  was  comprised  primarily  of  severance  costs  and
+increased commissions related to the higher gross sales.
+
+         General and administrative expenses for the nine months ended September
+30, 1998 increased to $24.3 million from $14.7 million for the nine months ended
+September  30,1997,  an increase of $9.6  million.  This  increase is  primarily
+attributable  to $2.2 million of severance and consulting  costs paid to certain
+former executives of the company, $1.9 million of Bain & Company consulting fees
+related to work on the Company's  restructuring,  the Company's  second  quarter
+reevaluation of certain assets which resulted in $1.7 million of current charges
+for additional allowance for doubtful accounts stemming from customer deductions
+and one time severance and litigation costs of $1.3 million. Of the remainder of
+the increase,  $0.1 million is attributable to owning  Shade/Allied for the full
+first half of 1998 versus only four and a half months in the same period in 1997
+and one time charges associated with centralizing certain functions in Dallas.
+
+         Restructuring  charges for the nine months ended  September 30, 1998 of
+$5.7 million represents part of the previously  announced major  rationalization
+plan of the Company's manufacturing operations.
+
+         Losses  on sales of  accounts  receivable  for the  nine  months  ended
+September  30, 1998  increased  to $2.3  million  from $2.0 million for the nine
+months  ended  September  30, 1997 due  primarily to a higher  average  level of
+accounts  receivable  sold to the third party trust in 1998 and slightly  higher
+average interest rates.
+
+         Goodwill and intangible asset amortization  expense for the nine months
+ended September 30, 1998 of $4.5 million remained unchanged from the nine months
+ended September 30, 1997.
+
+         Write-down of Intangible  Assets  expense of $41.0 million for the nine
+months ended September 30,1998 reflects a write-off of goodwill and a write-down
+of intangible assets associated with the Shade/Allied  continuous forms business
+resulting from the Company's  decision to exit the forms business in its current
+form.
+
+
+                                       14
+<PAGE>
+
+                           AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+         Management  fees  and  services  expense  for  the  nine  months  ended
+September  30, 1998 amounted to $1.7 million as compared to $4.3 million for the
+nine months ended  September  30,  1997.  The change in  management  fees is due
+primarily  to a  one-year  non-recurring  consulting  agreement  with the former
+president of Niagara, which expired June 30, 1997.
+
+         Interest expense for the nine months ended September  30,1998 increased
+to $33.7  million  from $27.6  million for the nine months ended  September  30,
+1997,  an  increase  of  $6.1  million.  Of  this  increase,   $3.0  million  is
+attributable to increased debt levels, $1.4 million is attributable to increased
+interest rates and $1.7 million is  attributable to amortization of fees paid in
+connection with amendments to the credit agreement obtained in February and July
+1998 and other costs.
+
+     The income tax provision for the nine month period ended September 30, 1998
+reflects an effective  tax rate of 19.1%  versus an effective  tax rate of 45.0%
+for the nine month period ended  September 30, 1997.  Due to the expected  lower
+operating results for 1998 and higher non-deductible expenses as a result of the
+write-down  of  intangible  assets  associated  with  the  decision  to exit the
+Shade/Allied continuous forms business, the Company lowered its effective income
+tax rate in 1998.
+
+Known Trends and Seasonality
+
+         The Company  experiences some  seasonality in its business  operations.
+During the Company's third and fourth quarters, net sales tend to be higher than
+in the  first  and  second  quarters  due to sales of  back-to-school,  seasonal
+greeting card and tax filing products.
+
+         The Company's Ampad division sells primarily to fast growing  customers
+such as office  products  superstores,  mass  merchants  and  national  contract
+stationers.  Such customers  periodically  adjust the levels of inventory in the
+retail  distribution  channels,  either  in  retail  stores  or in  distribution
+centers.  The Company has  determined  that lower than expected sales will occur
+during the quarters in which such downward  adjustments are made. The Company is
+not able to predict the future effect of such adjustments; however, it is likely
+that its retail  customers  will continue to adjust  inventory  levels in future
+quarters.
+
+         The  Company's  gross  profit is  directly  affected  by,  among  other
+factors,  the mix of  products  sold.  Based on the  Company's  current  product
+categories, the Company's gross profit will be negatively or positively affected
+as the actual product sales mix changes.
+
+Liquidity and Capital Resources
+
+     Net  cash  provided  by  operating  activities  for the nine  months  ended
+September  30, 1998 was $30.3  million as compared to net cash used by operating
+activities for the nine months ended  September 30, 1997 of $30.3 million.  This
+increase is primarily the net result of the following:  (i) cash used by the net
+loss of $23.3 million after adjustment for non-cash expenses, (ii) a decrease in
+accounts  receivable  of $27.2  million  as a result  of  improving  days  sales
+outstanding  in  receivables,  (iii) a decrease in inventories of $24.8 million,
+(iv) a reduction of accounts  payable of $13.7 million,  and (v) a net change in
+all other assets and liabilities of $15.3 million.
+
+         Cash used in investing  activities for the nine months ended  September
+30, 1998 and 1997 was $11.2 million and $62.8  million,  respectively.  The nine
+months  ended  September  30,  1998 use was due to the  purchase  of  equipment,
+principally  production equipment.  The nine months ended September 30, 1997 use
+was due to the  Shade/Allied  acquisition  of $50.7  million  and  purchases  of
+equipment of $15.4 million.
+
+         Net cash provided by financing  activities during the first nine months
+of 1998 and 1997 was $9.2  million  and $91.5  million,  respectively.  Net cash
+provided  during the nine months ended  September 30, 1998 resulted from the net
+of the  repayment of $2.0 million in  financing  outstanding  under the accounts
+receivable credit facility, $1.1 million of repayment of long-term debt, payment
+of fees in  connection  with  amendments  to the bank credit  agreement  of $2.0
+million and borrowings of $14.4 million under the bank credit agreement.  During
+the nine months ended September 30, 1997, the Company  borrowed $99.4 million to
+finance  (i)  repayment  of $7.0  million  in  financing  outstanding  under its
+accounts receivable credit facility, (ii) the acquisition of Shade/Allied, (iii)
+the purchases of equipment and (iv) its working capital needs.
+
+
+                                       15
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+         A portion of the  consolidated  debt of the Company  bears  interest at
+floating rates;  therefore,  its financial  condition is and will continue to be
+affected by changes in prevailing  interest rates.  The Company has entered into
+an interest rate cap to reduce the impact from a rise in interest rates.
+
+         In  February  1998,  the Company  and its  banking  group  agreed to an
+increase in the size of the revolving  credit  agreement  from $300.0 million to
+$330.0  million  for a period of one year.  After such  time,  the level of debt
+available under such credit  agreement was to be reduced to $300.0  million.  In
+December  1997,  February 1998 and April 1998,  certain  covenants in the credit
+agreement  were also  modified  as of the end of 1997 and for a period to end in
+February  1999. In June and July 1998,  the Company  obtained  amendments to its
+credit  agreement  waiving  all  defaults  of  it  financial  covenants  through
+September  30,  1998.  The Company paid fees and expenses of $1.7 million to its
+banking  group and  lawyers  in  connection  with the  amendments  to the credit
+agreement.
+
+         On September 30, 1998, the Company  amended its credit  agreement.  The
+seventh amendment eliminated all prior defaults and reinstated the original $300
+million limit under the credit  facility.  The  amendment  allows the Company to
+once again classify the underlying  debt as long-term debt in the balance sheet.
+The restated credit agreement provides for permanent  reductions in availability
+under the  facility  of $25 million in  December  1998,  $25 million in December
+1999, and $50 million in July 2000. The amended  facility  matures in July 2001.
+Fees of $.9 million were paid in  conjunction  with this  amendment  and will be
+amortized  over the remaining life of the debt,  beginning  October 1, 1998. The
+interest rate  incurred by the Company will vary each quarter  through July 2001
+depending  on  the  Company's  consolidated  debt  to  EBITDA  (earnings  before
+interest,  taxes,  depreciation,  amortization,  and certain noncash charges, as
+defined in the agreement)  ratio at the beginning of each quarter.  The new bank
+credit amendment  requires the Company to meet certain financial tests including
+minimum EBITDA levels,  minimum  interest  coverage ratios and maximum  leverage
+ratios.  The Company posted a positive EBITDA performance of $6.1 million in the
+quarter,  as measured by the bank  agreement.  The new agreement  limits capital
+expenditures  to $3.6  million the  remainder of 1998;  $15.0  million for 1999;
+$15.0 million for 2000; and $7.5 million for the first half of 2001.
+
+         The ability of the  Company to meet its debt  service  obligations  and
+reduce  its total debt will be  dependent  upon the  future  performance  of the
+Company  and its  subsidiaries.  In turn,  such  performance  will be subject to
+general  economic  conditions  and to  financial,  business  and other  factors,
+including factors beyond the Company's control.
+
+     Although there can be no assurance,  management  believes that,  based upon
+cash on hand of $33.2  million at September  30, 1998,  estimates of current and
+future operations,  and other available sources of funds, including availability
+under  the  bank  credit  agreement  and the  accounts  receivable  facility  at
+September 30, 1998 of $15.7 million,  its finances will be adequate for 1998 and
+1999 to make  required  payments of  principal  and  interest  on the  Company's
+indebtedness,  to fund anticipated  capital  expenditures of approximately  $3.6
+million during the remainder of 1998, and to meet working capital requirements.
+
+Year 2000 Issue
+
+         The Year 2000 issue is the result of  date-sensitive  devices,  systems
+and computer  programs  which were deployed  using only two digits,  rather than
+four, to represent the applicable  year. Any such  technologies  may recognize a
+year  containing  "00" as the  year  1900  rather  than the  year  2000.  If not
+corrected, many computer applications could fail or create erroneous results.
+
+         The  Company  recognizes  the need to ensure  that its  operations  and
+relationships  with  vendors,  customers and other parties will not be adversely
+impacted by software or other processing errors arising from calculations  using
+the year 2000 and  beyond.  Like many  companies,  a  significant  number of the
+Company's  computer  applications  and systems require  modification in order to
+render  these  systems  Year 2000  compliant.  Failure by the  Company to timely
+resolve Year 2000 issues could result, in the worst case, in an inability of the
+Company to  manufacture  and distribute its product to customers and process its
+daily business for some period of time. However, based on the progress made to
+
+
+
+                                       16
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+date in its Year 2000  remediation  plan,  the Company  believes  the worst case
+scenario is  unlikely.  Failure to address Year 2000 issues by one or more third
+party service providers on whom the Company relies could also result, in a worst
+case scenario,  in some business  interruption.  The amount of lost revenues, if
+any, resulting from a worst case scenario such as those examples described above
+would depend on the period of time over which the failure goes  uncorrected  and
+the breadth of its impact.
+
+         The Company has recently  purchased a new certified Year 2000 compliant
+version  of  its   existing   software   to  upgrade   critical   manufacturing,
+distribution,   and  financial  applications.   The  upgrade  is  scheduled  for
+completion and full installation by December 31, 1999. While the primary purpose
+of the software upgrade is to modernize and improve the Company's operations, it
+is also  expected  to resolve any Year 2000  issues in these  critical  computer
+systems.   Costs  to  acquire  the  software  and  related  hardware  are  being
+capitalized in accordance  with SOP 98-1  "Accounting  for the Costs of Computer
+Software Developed or Obtained for Internal Use." Costs to implement the upgrade
+and other costs  relating to Year 2000  readiness are being expensed as incurred
+as required by generally accepted accounting  principles.  Through September 30,
+1998, capital  expenditures to purchase software and related hardware total $1.5
+million and non-capital  expenditures for Year 2000 readiness are  approximately
+$140,000.  To complete Year 2000 readiness,  $.5 million of capital expenditures
+will be incurred to complete the  purchase of the software and related  hardware
+and  approximately  $1.5 -2.0  million is expected to be spent  through 1999 for
+implementation  of the upgraded  software,  consultant costs and other Year 2000
+readiness costs. The Company will fund these expenditures  through its operating
+cash flow. At this time, other than the cost of implementing its new information
+system,  the Company does not believe that the costs of addressing the Year 2000
+issue will be  material.  The Company  has  increased  its  overall  information
+systems budget to accommodate the  implementation  of the upgraded  software and
+Year 2000  compliance  projects and has not delayed other  critical  information
+systems work due to its Year 2000 efforts.
+
+         In addition to the software upgrade, a Company-wide committee of senior
+executives  representing  all functional areas has been established to identify,
+evaluate  and  initiate  corrective  actions  in  order  to  achieve  Year  2000
+readiness.  The  committee  has  completed  the  process of taking the  relevant
+inventory,  assessing  risk  and  assigning  priorities  to  various  tasks  and
+performing limited internal tests relative to the Company's critical  functions.
+The  committee  determined  that the  Company's  primary  hardware and operating
+systems,  which were installed in 1997, and the program supporting the Company's
+electronic data interchange are already Year 2000 compliant.  With regard to the
+Company's  manufacturing and other non-IT readiness for Year 2000, the Committee
+has not identified any issues that would have a material,  adverse impact on the
+Company's operations'  processes.  The committee has developed contingency plans
+for the Company's critical  information system which primarily consist of making
+its  existing  information  system  Year 2000  compliant  in the event  that the
+software   upgrade  is  not  completed  by  the  scheduled  date.  In  addition,
+contingency plans have included the development of manual intervention processes
+for critical functions.  The committee's  expectation is that the remedial tasks
+relative to the Company's  critical functions will be completed by June 30, 1999
+and that full  integrated  testing will be  completed  by December 31, 1999.  In
+addition,  the committee has requested and received  documentation  from all key
+customers,  suppliers and other business partners that their  organizations will
+be ready  for the year  2000.  While the  Company  cannot  warrant  that all the
+systems of our business partners will be Year 2000 compliant, based on currently
+available  information,  the Company  expects no business  interruptions  due to
+non-compliance by any particular entity.
+
+         There can be no assurance that the Company will be able to complete the
+installation  of the  upgraded  software  and all of the  remedial  tasks in the
+required time frame, that unanticipated  events will not occur, that the Company
+will be able to  identify  all Year 2000  issues  before the  problems  manifest
+themselves,  that  third  party  systems  will be Year 2000  compliant  and that
+Company's estimate of Year 2000 costs will not require revision if unanticipated
+adverse developments occur.  However,  management believes the Company is taking
+adequate  action to address Year 2000 issues.  Based on a current  assessment of
+risks  relating to its Year 2000  readiness,  the Company  does not believe Year
+2000  issues  will  materially  affect  future  financial  results or  operating
+performance.
+
+                                       17
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+Inflation
+
+         The Company  believes that  inflation has not had a material  impact on
+its results of operations for the nine months ended September 30,1998 and 1997.
+
+
+
+
+                                       18
+<PAGE>
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+Recently Issued Accounting Standards
+
+         The Accounting  Standards  Executive Committee (AcSEC) issued Statement
+of Position  (SOP) 98-5,  which is effective for fiscal years  commencing  after
+December 15,  1998.  SOP 98-5,  Reporting  on the Costs of Start-up  Activities,
+prescribes that start-up costs, including organization costs, should be expensed
+as  incurred.  The SOP states that initial  application  should be reported as a
+cumulative  effect of a change in accounting  principle.  The Company will adopt
+this SOP for its fiscal year ending December 31, 1999. Assuming an effective tax
+rate of 42.5% for the fiscal year ending  December  31,  1999,  the Company will
+report a charge of $.4 million  (net of tax benefit of $.3 million) in the first
+quarter of 1999.
+
+Forward-Looking Statements
+
+         The Company is including  the  following  cautionary  statement in this
+Form 10-Q to make applicable and take advantage of the safe harbor provisions of
+the Private  Securities  Litigation  Reform Act of 1995 for any  forward-looking
+statements  made by, or on behalf of, the  Company.  Forward-looking  statements
+include  statements  concerning plans,  objectives,  goals,  strategies,  future
+events or performance,  and underlying  assumptions and other  statements  which
+(including  the  Company's  restructuring  plan) are other  than  statements  of
+historical  facts.  From time to time, the Company may publish or otherwise make
+available  forward-looking  statements  of  this  nature.  All  such  subsequent
+forward-looking  statements,  whether  written or oral and whether made by or on
+behalf  of the  Company,  are  also  expressly  qualified  by  these  cautionary
+statements.  Certain statements contained herein are forward-looking  statements
+and  accordingly  involve  risks and  uncertainties,  which could  cause  actual
+results,   or  outcomes  to  differ  materially  from  those  expressed  in  the
+forward-looking  statements. The forward-looking statements contained herein are
+based on various  assumptions,  many of which are based,  in turn,  upon further
+assumptions.  The Company's expectations,  beliefs and projections are expressed
+in good  faith and are  believed  by the  Company  to have a  reasonable  basis,
+including without limitation,  management's  examination of historical operating
+trends,  data  contained in the Company's  records and other data available from
+third  parties,  but there can be no assurance  that  management's  expectation,
+beliefs or projections will result or be achieved or  accomplished.  In addition
+to the other factors and matters discussed  elsewhere herein,  the following are
+important  factors that, in the view of the Company,  could cause actual results
+to differ materially from those discussed in the forward-looking statements:
+
+1. Changes in economic conditions,  in particular those, which affect the retail
+and wholesale  office product  markets.  2. Changes in the  availability  and/or
+price of paper, in particular if increases
+ in the price of paper are not passed along to the Company's customers.
+3. Changes in senior management or control of the Company.
+4. Inability to obtain new customers or retain existing ones.
+5. Significant changes in competitive factors, including product pricing
+ conditions, affecting the Company.
+6. Governmental/regulatory  actions and initiatives,  including, those affecting
+financings.
+7. Significant changes from expectations in actual capital expenditures and
+ operating expenses.
+8. Occurrences  affecting the Company's ability to obtain funds from operations,
+ debt or equity to finance needed capital expenditures and other investments.
+9. Significant changes in rates of interest, inflation or taxes. 10. Significant
+changes in the Company's relationship with its employees and the
+ potential adverse effects if labor disputes or grievances were to occur.
+11. Changes in accounting principles and/or the application of such principles
+ to the Company.
+12.  Timely  resolution of Year 2000 issues by the Company and its customers and
+suppliers.
+
+         The foregoing  factors could affect the  Company's  actual  results and
+could cause the Company's actual results during 1998 and beyond to be materially
+different  from  any  anticipated   results  expressed  in  any  forward-looking
+statement made by or on behalf of the Company.
+
+         The Company  disclaims  any  obligation  to update any  forward-looking
+statements to reflect events or other circumstances after date hereof.
+
+
+
+                                       19
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+         Management's Discussion and Analysis of Financial Condition and
+                              Results of Operations
+                                   (continued)
+
+ITEM 3            Quantitative and Qualitative Disclosures about Market Risk
+
+As part of its Bank Credit  Agreement,  the Company was  required to purchase an
+interest rate cap of $100 million for a nominal  rate.  The premium paid for the
+interest  rate cap  agreement is amortized as interest  expense over the term of
+the  agreement.  The amounts  concerned  are  immaterial  to both the  financial
+position and operations of the Company.
+
+
+                                       20
+<PAGE>
+
+
+                          AMERICAN PAD & PAPER COMPANY
+
+                            PART II OTHER INFORMATION
+
+
+ITEM 1            Legal Proceedings
+
+         As reported in the  Company's  Form 10-Q for the quarter ended June 30,
+1998,  between March 10, 1998 and April 11, 1998, three complaints were filed in
+the United States  District  Court for the Northern  District of Texas naming as
+defendants the Company, certain of its officers and directors and certain of the
+underwriters and other related entities involved in the Company's initial public
+offering.  The  plaintiffs  in the first two  complaints  purport to represent a
+class of stockholders  who acquired shares of the Company's common stock between
+July 2, 1996 and December 17, 1997. The complaints seek unspecified  damages and
+other relief under the federal  securities  laws based on  allegations  that the
+Company made  omissions and  misleading  disclosures in public reports and press
+releases  and to  securities  analysts  during  1996  and  1997  concerning  the
+Company's financial  condition,  its future business prospects and the impact of
+various acquisitions.  These two lawsuits were consolidated on July 2, 1998. The
+third  complaint was dismissed  without  prejudice by the plaintiffs on June 29,
+1998.  Motions to dismiss have been filed in the consolidated cases but briefing
+will not be concluded  until  January  1999.  Pending a ruling on the motions to
+dismiss,  all proceedings in the  consolidated  action have been stayed.  To the
+extent that the  motions to dismiss are denied in whole or in part,  the Company
+believes that it has meritorious  defenses to plaintiff's  claims and intends to
+vigorously defend the action.
+
+ITEM 2            Changes in Securities and Use of Proceeds
+
+         During the period,  in partial  consideration  for their  agreement  to
+serve as employees  and  executive  officers of the  Company,  three newly hired
+executives were granted  options,  with effective dates of September 3, 1998 and
+September  21, 1998 to purchase an aggregate of 900,000  shares of the Company's
+common stock, par value $.01, at a weighted average price of approximately $2.05
+per share. The above described  transactions were exempt from registration under
+the  Securities  Act  pursuant  to  Section  4 (2)  of  the  Securities  Act  as
+transactions not involving any public offering.
+
+ITEM 3            Defaults Upon Senior Securities
+                  None
+
+ITEM 4            Submission of Matters to a Vote of Security Holders
+                  None
+
+ITEM 5            Other Information
+                  None
+
+ITEM 6            Exhibits and Reports on Form 8-K
+
+(a) Exhibits. The following Exhibits are filed herewith and made a part hereof:
+
+Exhibit No.                          Description of Exhibit
+
+4.21              Seventh  Amendment  to  the  Credit  Agreement,  dated  as  of
+                  September 30, 1998 among the Company, WR Acquisition, Inc., AP
+                  &  P  Delaware,   various   Lending   Institutions,   Bank  of
+                  Tokyo-Mitsubishi  Trust Company,  Bank One,  Texas,  N.A., The
+                  Bank of Nova Scotia and the First National Bank of Boston,  as
+                  Co-Agents and Bankers Trust Company, as Agent.
+
+27.03             Financial Data Schedule
+
+99.017            Press release on November 10, 1998 announced that the Company
+                  will close its plant in Kosciusko, Mississippi.
+
+
+                                       21
+<PAGE>
+
+                         AMERICAN PAD & PAPER COMPANY
+
+                            PART II OTHER INFORMATION
+                                  (continued)
+
+(b) Reports on Form 8-K.
+
+         The  following  reports on Form 8-K were filed during the third quarter
+         of 1998 and through the date of the filing of this report:
+
+(1)               Current Report on Form 8-K filed September  1,1998 relating to
+                  the Company's August 17 and August 18, 1998 press releases.  A
+                  press release on August 17, 1998 announced the Company's first
+                  step in its restructuring  plan. A press release on August 18,
+                  1998  announced the Company's  appointment of John Hill to the
+                  position of Vice President of the Ampad Division.
+
+(2)               Current  Report on Form 8-K filed October 15, 1998 relating to
+                  the Company's  September  30,  October 7, and October 14, 1998
+                  press  releases.   A  press  release  on  September  30,  1998
+                  announced  that  the  Company's   lending  group  amended  the
+                  original lending agreement. A press release on October 7, 1998
+                  announced an update of the Company's  restructuring  plans.  A
+                  press release on October 14, 1998 announced the resignation of
+                  Timothy Needham, President and Chief Operating Officer.
+
+(3)               Current  Report on Form 8-K filed October 26, 1998 relating to
+                  the Company's  October 15 and October 16, 1998 press releases.
+                  A press  release on October 15, 1998  announced  the Company's
+                  third  quarter and  year-to-date  results.  A press release on
+                  October 16, 1998 announced the Company's  appointments of John
+                  H.  Rodgers to Senior  Vice  President,  General  Counsel  and
+                  Secretary,  Mark  S.  Lipscomb  to  Vice  President  Corporate
+                  Communications,  Patrick D. "Dan" Lane to Treasurer, Robert D.
+                  Dunn to Vice  President,  Corporate  Development and Planning,
+                  and Deborah A. Garrett to Vice President, Human Resources.
+
+
+                                   SIGNATURES
+
+Pursuant to the  requirements of the Securities  Exchange Act of 1934,  American
+Pad & Paper  Company has duly  caused  this report to be signed on November  13,
+1998 on their behalf by the undersigned thereunto duly authorized.
+
+
+<TABLE>
+
+<S>                                    <C>
+
+/s/ James W. Swent, III                            /s/ David N. Pilotte
+- ----------------------------            ----------------------------------------
+James W. Swent, III                                    David N. Pilotte
+Chief Executive Officer and             Vice President and Corporate Controller
+Chief Financial Officer                        Principal Accounting Officer
+Principal Financial Officer
+</TABLE>
+
+
+                                       22
+<PAGE>
+                                INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+
+EXHIBT NO     DESCRIPTION OF EXHIBIT
+- ----------    -----------------------------------------------------------------
+<C> ......    <S>
+     4.21     Seventh Amendment to the Credit  Agreement,  dated as of September
+              30, 1998 among the Company, WR Acquisition, Inc., AP & P Delaware,
+              various Lending Institutions, Bank of Tokyo-Mitsubishi Trust
+              Company, Bank One, Texas, N.A., The Bank of Nova Scotia and the
+              First National Bank of Boston, as Co-Agents and Bankers Trust
+              Company, as Agent.
+
+     27.03    Financial Data Schedule
+
+    99.017    Press release on November 10, 1998 announced that the Company will
+              close its plant in Kosciusko, Mississippi.
+</TABLE>
+
+                                       23
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.21
+<SEQUENCE>2
+<DESCRIPTION>EX-4.21 SEVENTH AMENDMENT TO BANK CREDIT AGREEMENT
+<TEXT>
+
+                                                                 Exhibit 4.21
+                               SEVENTH AMENDMENT
+
+SEVENTH  AMENDMENT  (this  "Amendment"),  dated as of September 30, 1998,  among
+American  Pad  &  Paper  Company   ("Holdings"),   WR  Acquisition,   Inc.  ("WR
+Acquisition"),  American Pad & Paper Company of Delaware, Inc. (the "Borrower"),
+the lending institutions party to the Credit Agreement referred to below (each a
+"Bank" and, collectively,  the "Banks"), Bank of Tokyo-Mitsubishi Trust Company,
+Bank One Texas,  N.A.,  The Bank of Nova Scotia and The First  National  Bank of
+Boston, as Co-Agents (the "Co-Agents"), and Bankers Trust Company, as Agent (the
+"Agent").  All  capitalized  terms used herein and not otherwise  defined herein
+shall have the respective meanings provided such terms in the Credit Agreement.
+
+                              W I T N E S S E T H:
+
+
+WHEREAS,  Holdings, WR Acquisition,  the Borrower,  the Banks, the Co-Agents and
+the Agent are party to a Credit Agreement, dated as of July 8, 1996 (as amended,
+modified and  supplemented  prior to the date hereof,  the "Credit  Agreement");
+WHEREAS,  Holdings, WR Acquisition,  the Borrower,  the Banks, the Co-Agents and
+the Agent are party to a number of  amendments,  modifications  and  waivers  in
+connection with the Credit  Agreement,  including  without  limitation the Third
+Amendment,  dated as of February 6, 1998 (the "Third  Amendment");  and WHEREAS,
+the Borrower  has  requested  that the Banks  provide the  amendments,  waivers,
+consents and agreements provided for herein and the Banks have agreed to provide
+such  amendments,  waivers,  consents and agreements on the terms and conditions
+set forth herein;
+
+NOW, THEREFORE, it is agreed:
+A.       Amendments
+
+1.  Section  3.03(b) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+(b) In addition to any other mandatory  commitment  reductions  pursuant to this
+Section  3.03 (but subject to the last  sentence of each of Section  3.03(c) and
+Section  3.03(g)),  the Total  Revolving  Loan  Commitment  shall be permanently
+reduced on the dates set forth  below by the  amounts  set forth  opposite  such
+dates below:
+
+     Date                         Amount
+     December 31, 1998            $25,000,000
+     December 31, 1999            $25,000,000
+     July 8, 2000                 $50,000,000
+
+
+                                       24
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+2.  Section  3.03(c) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+"(c) In addition to any other mandatory  commitment  reductions pursuant to this
+Section 3.03, on the third  Business Day after each date on or after the Initial
+Borrowing  Date on  which  Holdings  or any of its  Subsidiaries  receives  Cash
+Proceeds from any Asset Sale (or, in the case of an Asset Sale in which payments
+to Holdings or any of its Subsidiaries originate from outside the United States,
+within five Business Days after the date of receipt of such Cash Proceeds),  the
+Total Revolving Loan Commitment shall be permanently  reduced by an amount equal
+to 100% of the Net Cash Proceeds from such Asset Sale. Each mandatory  reduction
+pursuant to this Section  3.03(c)  shall be applied to reduce  future  scheduled
+reductions pursuant to Section 3.03(b) as follows:  (i) first, to reduce in full
+the scheduled  reduction on July 8, 2000,  and (ii) second,  in inverse order of
+maturity."
+
+3. Section  3.03(d) of the Credit  Agreement  is hereby  amended by deleting the
+first  parenthetical  phrase appearing  therein and by inserting in lieu thereof
+the following new parenthetical phrase:
+
+"(other than  Indebtedness  permitted to be incurred pursuant to Section 8.04 as
+in effect on the Effective Date, except for Indebtedness  incurred under Section
+8.04(p) the net cash  proceeds of which will be required to be applied to reduce
+the Total Revolving Loan Commitment pursuant to this Section 3.03(d))".
+
+4. Section  3.03(e) of the Credit  Agreement  is hereby  amended by deleting the
+reference to "50%" contained therein and inserting "100%" in lieu thereof.
+
+5.  Section  3.03 of the  Credit  Agreement  is hereby  further  amended  by (a)
+redesignating clauses (g) and (h) thereof as clauses (h) and (i),  respectively,
+and (b) inserting therein immediately following clause (f) thereof the following
+new clause (g):
+
+(g) In addition to any other mandatory  commitment  reductions  pursuant to this
+Section 3.03, on the 90th day following each fiscal year of Holdings (commencing
+with the  fiscal  year  ended  December  31,  1999),  the Total  Revolving  Loan
+Commitment  shall be  permanently  reduced by an amount  equal to 100% of Excess
+Cash Flow for such  fiscal  year.  Each  mandatory  reduction  pursuant  to this
+Section 3.03(g) shall be applied to reduce future scheduled  reductions pursuant
+to Section 3.03(b) in inverse order of maturity.
+
+6.  Section  8.02(d) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+(d) the Borrower and its  Subsidiaries  may sell assets,  provided  that (x) the
+aggregate  sale proceeds from all assets  subject to such sales pursuant to this
+clause (d) shall not exceed $10,000,000 in any fiscal year of the Borrower,  (y)
+each  such  asset  sale is for at least  85% cash and at fair  market  value (as
+determined  in good  faith  by the  Borrower)  and (z)  the  Net  Cash  Proceeds
+therefrom are applied to reduce the Total  Revolving Loan Commitment as provided
+in Section 3.03(c);.
+
+
+
+
+                                       25
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+7.  Section  8.02(e) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+"(e) the Borrower and its Subsidiaries may sell other assets, provided, that the
+aggregate  sale proceeds  from all such asset sales  pursuant to this clause (e)
+are  reinvested  within one year  following  such sale in assets  which,  in the
+reasonable  judgment of the Borrower,  are useful to the Borrower's business and
+do not exceed $250,000 in any fiscal year of the Borrower;".
+
+8.  Section  8.02(q) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+(q) so long as no  Default  or Event of  Default  then  exists  or would  result
+therefrom, the Borrower and its Wholly-Owned  Subsidiaries may acquire assets or
+the capital stock of any Person (any such  acquisition  permitted by this clause
+(q), a (Permitted Acquisition),  provided,  that(i)no such Permitted Acquisition
+shall be consummated  without the prior written  consent of the Required  Banks,
+(ii) such  Person  (or the  assets so  acquired)was,  immediately  prior to such
+acquisition,  engaged(or used) primarily in the business  permitted  pursuant to
+Section  8.01(a),(iii)if  such acquisition is structured as a stock acquisition,
+then  either(A)the  Person so acquired becomes a Wholly-Owned  Subsidiary of the
+Borrower  or  (B)such  Person  is  merged  with  and  into  the  Borrower  or  a
+Wholly-Owned  Subsidiary of the  Borrower(with the Borrower or such Wholly-Owned
+Subsidiary being the surviving corporation of such merger), and in any case, all
+of the  provisions  of Section 8.15 have been  complied  with in respect of such
+Person and (iv) any Liens or  Indebtedness  assumed or issued in connection with
+such acquisition are otherwise permitted under Section 8.03 or 8.04, as the case
+may be.
+
+9.  Section  8.02(u) of the Credit  Agreement  is hereby  amended to read in its
+entirety as follows:
+
+"(u) the Permitted Sale-Leaseback Transactions shall be permitted so long as (i)
+the Net Cash Proceeds  therefrom are applied to reduce the Total  Revolving Loan
+Commitment as provided in Section 3.03(c) and (ii) the lease obligations created
+thereby are otherwise permitted under this Agreement;".
+
+10.  Section  8.02 of the  Credit  Agreement  is hereby  further  amended by (a)
+deleting the word "and" appearing at the end of clause (x) thereof, (b) deleting
+the  period at the end of  clause  (y)  thereof  and  inserting  "; and" in lieu
+thereof, and (c) inserting at the end thereof the following new clause (z):
+
+"(z) the Borrower  and its  Subsidiaries  may sell the assets  listed on Annex X
+hereto,  in each case  provided that (x) each such sale is for at least 85% cash
+and at fair market value (as  determined  in good faith by the Borrower) and (y)
+the Net Cash Proceeds  therefrom are applied to reduce the Total  Revolving Loan
+Commitment as provided in Section 3.03(c)."
+
+
+
+
+                                       26
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+11. Section 8.04(e) of the Credit Agreement is hereby amended by deleting clause
+(ii) (B) contained  therein in its entirety and  inserting the following  clause
+(ii) (B) in lieu thereof:
+
+"(B)  during  any  fiscal  year of the  Borrower  thereafter  shall  not  exceed
+$15,000,000;".
+
+12.  Section  8.04(o) of the Credit  Agreement is hereby  amended to read in its
+entirety as follows:
+
+(o) Indebtedness of Holdings  incurred under Permitted  Holdings PIK Securities,
+provided that (i) such PermittedHoldings PIK Securities are issued in connection
+with and  asconsideration  for a Permitted  Acquisition  and (ii) the  aggregate
+outstanding  principal amount of Permitted Holdings PIK Securities  constituting
+Indebtedness, when added to the liquidation preference of Permitted Holdings PIK
+Securities  constituting preferred stock, shall not exceed $10,000,000 (plus the
+amount of interest or accrued  dividends,  as the case may be, on such Permitted
+Holdings PIK Securities  paid in kind or through  accretion);  and". 13. Section
+8.06(f) of the Credit Agreement is hereby amended by adding the following phrase
+at the end thereof:
+
+",  provided,  that no loan  may be made  pursuant  to this  clause  (ii)  after
+September 15, 1998".
+
+14.  Section  8.06(i) of the Credit  Agreement is hereby amended by deleting the
+reference to  "$2,500,000"  contained  therein and inserting  "$500,000" in lieu
+thereof.
+
+15.  Section  8.06(u) of the Credit  Agreement is hereby amended by deleting the
+reference to "$7,500,000"  contained  therein and by inserting in lieu thereof a
+reference to "$250,000".
+
+16.  Section  8.07(ii) of the Credit  Agreement is hereby amended to read in its
+entirety as follows:
+
+"(ii) Intentionally Omitted;".
+
+17. Section  8.07(iii) of the Credit  Agreement is hereby amended to read in its
+entirety as follows:
+
+"(iii) Intentionally Omitted;".
+
+
+                                       27
+<PAGE>
+
+                                                                  Exhibit 4.21
+
+18.  Section  8.07(vi) of the Credit  Agreement is hereby amended to read in its
+entirety as follows:
+
+"(vi) Intentionally Omitted; and".
+
+19.  Notwithstanding  anything to the contrary  contained in Section 8.08 of the
+Credit  Agreement,  neither  Holdings nor any of its  Subsidiaries  may make any
+payments pursuant to clause (iii) or (viii) of such Section,  provided that such
+amounts  may  accrue  and may be  payable  when the  Credit  Agreement  has been
+terminated  and all  Obligations  have  been  paid in  full  or  otherwise  when
+permitted to be paid by the Required Banks.
+
+20. Section 8.09(a) of the Credit Agreement is hereby amended by deleting clause
+(y) contained therein in its entirety and inserting the following new clause (y)
+in lieu thereof:
+
+"(y) the Borrower and its Subsidiaries may make Capital  Expenditures (i) during
+the  fiscal  quarter  ended  September  30,  1998,  in an  amount  not to exceed
+$3,000,000,  (ii) during the two fiscal  quarter period ended December 31, 1998,
+in an amount not to exceed  $8,500,000  (and so long as the aggregate  amount of
+Capital  Expenditures  made by the Borrower and its  Subsidiaries in fiscal year
+1998 does not exceed  $15,000,000) and (iii) during each fiscal year thereafter,
+for the period  from the first day of such fiscal year to the end of each fiscal
+quarter  occurring in such fiscal year set forth below (on a cumulative  basis),
+in an amount not to exceed the amount set forth  opposite  such  fiscal  quarter
+below:
+
+Fiscal Year        Fiscal Quarter Ending               Amount
+1999               March 31, 1999                      $ 5,500,000
+                   June 30, 1999                       $ 9,500,000
+                   September 30, 1999                  $13,500,000
+                   December 31, 1999                   $15,000,000
+2000               March 31, 2000                      $ 3,750,000
+                   June 30, 2000                       $ 7,500,000
+                   September 30, 2000                  $11,250,000
+                   December 31, 2000                   $15,000,000
+2001               March 31, 2001                      $ 3,750,000
+                   June 30, 2001                       $ 7,500,000
+
+
+                                       28
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+21.  Section  8.09(b) of the Credit  Agreement is hereby  amended to read in its
+entirety as follows:
+
+"(b) Intentionally Omitted."
+
+22.  Section  8.09(c) of the Credit  Agreement is hereby  amended to read in its
+entirety as follows:
+
+"(c) Intentionally Omitted."
+
+23. Section 8.09(f) of the Credit Agreement is hereby deleted in its entirety.
+
+24.  Section  8.10 of the  Credit  Agreement  is hereby  amended  to read in its
+entirety as follows:
+
+"8.10 Minimum Consolidated EBITDA. (a) The Borrower will not permit Consolidated
+EBITDA for any Test Period ending on the last day of a fiscal  quarter set forth
+below to be less than the amount set forth opposite such fiscal quarter below:
+
+Fiscal Quarter Ending ..................................   Minimum Consolidated
+                                     EBITDA
+  September 30, 1998 .........................................   $ 5,500,000
+  December 31, 1998 ..........................................   $18,825,000
+    March 31, 1999 ...........................................   $24,400,000
+     June 30, 1999 ...........................................   $35,200,000
+  September 30, 1999 .........................................   $44,800,000
+  December 31, 1999 ..........................................   $52,600,000
+    March 31, 2000 ...........................................   $53,500,000
+    June 30, 2000 ............................................   $55,800,000
+  September 30, 2000 .........................................   $61,300,000
+  December 30, 2000 ..........................................   $72,400,000
+    March 31, 2001 ...........................................   $73,900,000
+    June 30, 2001 ............................................   $76,700,000"
+
+
+                                       29
+<PAGE>
+
+                                                                  Exhibit 4.21
+
+(b) The  Borrower  will not permit  Consolidated  EBITDA for the period from and
+including  July  1,  1998 to and  including  February  28,  1999  (taken  as one
+accounting period) to be less than $22,100,000.
+
+25.  Section  8.11 of the  Credit  Agreement  is hereby  amended  to read in its
+entirety as follows:
+
+"8.11  Interest  Coverage  Ratio.  The  Borrower  will not permit  the  Interest
+Coverage  Ratio for any Test Period  ending on the last day of a fiscal  quarter
+set forth below to be less than the ratio set forth opposite such fiscal quarter
+below:
+
+Fiscal Quarter Ending ........................     Interest Coverage Ratio
+ September 30, 1998 ..........................           0.45:1.00
+  December 31, 1998 ..........................           0.85:1.00
+   March 31, 1999 ............................           0.75:1.00
+    June 30, 1999 ............................           0.80:1.00
+ September 30, 1999 ..........................           1.00:1.00
+  December 31, 1999 ..........................           1.20:1.00
+   March 31, 2000 ............................           1.25:1.00
+    June 30, 2000 ............................           1.25:1.00
+ September 30, 2000 ..........................           1.40:1.00
+  December 30, 2000 ..........................           1.70:1.00
+   March 31, 2001 ............................           1.80:1.00
+    June 30, 2001 ............................           1.90:1.00"
+
+
+26. Section 8.12 of the Credit  Agreement (as amended) is hereby amended to read
+in its entirety as follows:
+
+"8.12  Leverage  Ratio.  The Borrower will not permit the Leverage  Ratio at any
+time  during a period  set  forth  below to be more  than the  ratio  set  forth
+opposite such period below:
+
+
+                                       30
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+                    Period ................................       Leverage Ratio
+June 30, 1999 through September 29, 1999 ..................       11.35:1.00
+September 30, 1999 through December 30, 1999 ..............       9.00:1.00
+December 31, 1999 through March 30, 2000 ..................       6.90:1.00
+March 31, 2000 through June 29, 2000 ......................       6.75:1.00
+June 30, 2000 through September 29, 2000 ..................       6.50:1.00
+September 30, 2000 through December 30, 2000 ..............       5.90:1.00
+December 31, 2000 through March 30, 2001 ..................       4.95:1.00
+March 31, 2001 through June 29, 2001 ......................       4.30:1.00
+Thereafter ................................................       4.15:1.00"
+
+
+27.  Section  8.13(i) of the Credit  Agreement is hereby  amended to read in its
+entirety as follows:
+
+"(i) make (or give any notice in respect of) any  voluntary or optional  payment
+or prepayment on or redemption or acquisition  for value of (including,  without
+limitation,  by way of depositing  with the trustee with respect  thereto or any
+other Person money or securities  before due for the purpose of paying when due)
+any Senior Subordinated Note or any Permitted Holdings PIK Security."
+
+28. Section 8 of the Credit  Agreement is hereby amended by inserting at the end
+thereof the following new Section 8.16:
+
+"8.16 Quick Ratio.  The Borrower  will not permit the Quick Ratio as of any date
+set forth below to be more than the ratio set forth opposite such date below:
+
+
+                                       31
+<PAGE>
+
+                                                                  Exhibit 4.21
+
+                 Date .................................              Quick Ratio
+September 30, 1998 ....................................              1.40:1.00
+December 31, 1998 .....................................              1.25:1.00
+March 31, 1999 ........................................              1.45:1.00
+June 30, 1999 .........................................              1.35:1.00
+September 30, 1999 ....................................              1.30:1.00
+December 31, 1999 .....................................              1.00:1.00
+March 31, 2000 ........................................              1.20:1.00
+June 30, 2000 .........................................              1.20:1.00
+September 30, 2000 ....................................              1.20:1.00
+December 31, 2000 .....................................              1.20:1.00
+March 31, 2001 ........................................              1.20:1.00
+June 30, 2001 .........................................              1.20:1.00"
+
+
+29. The definitions of "Applicable Base Rate Margin", "Applicable Commitment Fee
+Percentage",  "Applicable  Eurodollar Margin" and "Interest  Reduction Discount"
+contained in Section 10 of the Credit  Agreement  are hereby  amended to read in
+their entirety as follows:
+
+"Applicable  Base Rate Margin" shall mean a percentage per annum equal to 3.00%,
+less the then applicable Interest Reduction Discount, if any.
+
+"Applicable  Commitment Fee Percentage"  shall mean a percentage per annum equal
+to .50%,  provided,  that from and after any  Start  Date to and  including  the
+corresponding  End Date, the Applicable  Commitment Fee Percentage  shall be the
+respective  percentage  per annum set forth in clause (A), (B), (C) or (D) below
+if,  but  only if,  as of the Test  Date  for  such  Start  Date the  applicable
+conditions  set forth in clause (A), (B), (C) or (D) below,  as the case may be,
+are met:
+
+(A) .45% if, but only if, as of the Test Date for such  Start Date the  Leverage
+Ratio for the Test Period ended on such Test Date shall be less than 3.5:1.0 and
+none of the  conditions set forth in clause (B), (C) or (D) below are satisfied;
+
+
+                                       32
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+(B) .40% if, but only if, as of the Test Date for such  Start Date the  Leverage
+Ratio for the Test Period ended on such Test Date shall be less than 3.0:1.0 and
+neither of the conditions set forth in clause (C) or (D) below,  as the case may
+be, are satisfied;
+
+(C) .35% if, but only if, as of the Test Date for such  Start Date the  Leverage
+Ratio for the Test Period ended on such Test Date shall be less than 2.5:1.0 and
+the condition set forth in clause (D) below is not met; or
+
+(D) .30% if, but only if, as of the Test Date for such  Start Date the  Leverage
+Ratio for the Test Period ended on such Test Date shall be less than 2.0:1.0.
+
+Notwithstanding anything to the contrary contained above in this definition, the
+Applicable Commitment Fee Percentage shall be .50% at all times (i) prior to the
+delivery of the June 30, 1999 financial  statements pursuant to Section 7.01(b),
+(ii) when the  Leverage  Ratio  shall be more than  3.50:1.00  and (iii) when an
+Event of Default shall exist.
+
+"Applicable Eurodollar Margin" shall mean a percentage per annum equal to 4.00%,
+less the then applicable Interest Reduction Discount, if any.
+
+"Interest  Reduction Discount" shall mean zero, provided that from and after the
+first day of any Margin Reduction Period (the "Start Date") to and including the
+last  day of such  Margin  Reduction  Period  (the  "End  Date"),  the  Interest
+Reduction  Discount  shall be the  respective  percentage per annum set forth in
+clause (A), (B), (C), (D), (E), (F) or (G) below if, but only if, as of the last
+day of the  most  recent  fiscal  quarter  or year,  as the  case may be,  ended
+immediately prior to such Start Day (the "Test Date"), the applicable conditions
+set forth in clause (A), (B),  (C), (D), (E), (F) or (G) below,  as the case may
+be, are met:
+
+(A) .50% if, but only if, as of the Test Date for such Start Date,  the Leverage
+Ratio for the Test Period  ended on such Test Date shall be less than  8.00:1.00
+and none of the  conditions  set forth in clause (B),  (C), (D), (E), (F) or (G)
+below, as the case may be, are satisfied;
+
+(B) 1.00% if, but only if, as of the Test Date for such Start Date, the Leverage
+Ratio for the Test Period  ended on such Test Date shall be less than  7.00:1.00
+and none of the  conditions set forth in clause (C), (D), (E), (F) or (G) below,
+as the case may be, are satisfied;
+
+(C) 1.50% if,  but not only if, as of the Test  Date for such  Start  Date,  the
+Leverage  Ratio for the Test  Period  ended on such Test Date shall be less than
+6.50:1.00  and none of the  conditions  set forth in clause (D), (E), (F) or (G)
+below, as the case may be, are satisfied;
+
+                                       33
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+(D) 1.75% if, but only if, as of the Test Date for such Start Date, the Leverage
+Ratio for the Test Period  ended on such Test Date shall be less than  6.00:1.00
+and none of the  conditions  set forth in clause (E),  (F) or (G) below,  as the
+case may be, are satisfied;
+
+(E) 2.00% if, but only if, as of the Test Date for such Start Date, the Leverage
+Ratio for the Test Period  ended on such Test Date shall be less than  5.00:1.00
+and none of the conditions set forth in clause (F) or (G) below, as the case may
+be, are satisfied;
+
+(F) 2.25% if, but only if, as of the Test Date for such Start Date, the Leverage
+Ratio for the Test Period  ended on such Test Date shall be less than  4.00:1.00
+and the condition set forth in clause (G) below is not satisfied; or
+
+(G) 2.50% if, but only if, as of the Test Date for such Start Date, the Leverage
+Ratio for the Test Period ended on such Test Date shall be less than 3.50:1.00.
+
+Notwithstanding  anything  contained  above  in this  definition,  the  Interest
+Reduction  Discount  shall be zero at all times (i) prior to the delivery of the
+June 30, 1999 financial  statements  pursuant to Section 7.01(b),  (ii) when the
+Leverage  Ratio shall be more than  8.00:1.00 and (iii) when an Event of Default
+shall exist.
+
+30. The  definition  of  "Consolidated  EBITDA"  contained  in Section 10 of the
+Credit Agreement is hereby amended to read in its entirety as follows:
+
+"Consolidated EBITDA" shall mean, for any period, Consolidated EBIT, adjusted by
+adding thereto the amount of all depreciation  expense and amortization  expense
+that were deducted in determining  Consolidated  EBIT for such period,  it being
+understood and agreed,  however,  that  Consolidated  EBITDA shall be determined
+without  giving  effect  to any  Restructuring  Charges  otherwise  deducted  in
+determining Consolidated EBITDA for such period.
+
+31. The definition of "Cumulative  Income Amount" contained in Section 10 of the
+Credit Agreement is hereby deleted in its entirety.
+
+32.  The  definition  of "Test  Period"  contained  in  Section 10 of the Credit
+Agreement is hereby amended to read in its entirety as follows:
+
+"Test Period" shall mean the four  consecutive  fiscal  quarters of the Borrower
+then last ended (taken as one period),  or, if shorter,  the period from July 1,
+1998 to the last day of the fiscal quarter then last ended.
+
+33. The following  new  definitions  are hereby  inserted into Section 10 of the
+Credit Agreement in appropriate alphabetical order:
+
+
+                                       34
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+"Consolidated Current Assets" shall mean, at any time, the current assets (other
+than cash, Cash  Equivalents and deferred income taxes to the extent included in
+current  assets)  of the  Borrower  and  its  Subsidiaries  (including,  without
+limitation,  the interest in accounts  receivable  represented by the transferor
+certificate  held by the  Receivables  Entity)  at  such  time  determined  on a
+consolidated basis.
+
+"Consolidated  Current  Liabilities"  shall  mean,  at  any  time,  the  current
+liabilities  of the Borrower and its  Subsidiaries  determined on a consolidated
+basis,  but  excluding  deferred  income  taxes and the  current  portion of and
+accrued but unpaid  interest on any  Indebtedness  under this  Agreement and any
+other long-term Indebtedness which would otherwise be included therein.
+
+"Excess  Cash Flow" shall mean,  for any period (i) the sum of (A)  Consolidated
+Net  Income  for  such  period,  plus (B) the  amount  of all  non-cash  charges
+(including,  without  limitation  or  duplication,  depreciation,  amortization,
+non-cash  interest expense and  Restructuring  Charges)  included in determining
+Consolidated  Net Income  for such  period  plus (C) the  decrease,  if any,  in
+Working Capital from the first day to the last day of such period (except to the
+extent that such  decrease  occurs as a result of an  increase  in the  Accounts
+Receivable  Facility),  minus  (ii)  the sum  (without  duplication)  of (A) any
+non-cash  credits  (including  from sales of  assets)  included  in  determining
+Consolidated  Net Income for such period,  (B) gains from sales of assets (other
+than  sales of  inventory  in the  ordinary  course  of  business)  included  in
+determining   Consolidated   Net  Income  for  such  period,   (C)  all  Capital
+Expenditures  (excluding  Capital  Expenditures made during such period that are
+financed by Indebtedness,  including Capitalized Lease Obligations but excluding
+Loans hereunder),  (D) the amount expended in respect of Permitted  Acquisitions
+during such period,  except to the extent constituting  Capital  Expenditures or
+financed  with  Indebtedness,  (E) the aggregate  principal  amount of permanent
+principal  payments of  Indebtedness  for borrowed money of the Borrower and its
+Subsidiaries  (other  than (1)  repayments  of  Indebtedness  with  proceeds  of
+issuance  of  other  Indebtedness  or  with  proceeds  Recovery  Events  and (2)
+repayments  of Loans or other  Obligations,  provided  that  repayments of Loans
+shall be deducted in determining  Excess Cash Flow if such  repayments  were (x)
+required as a result of a mandatory  commitment  reduction under Section 3.03(b)
+or (y) made as a voluntary  prepayment with  internally  generated funds (but in
+the case of a voluntary  prepayment of Revolving Loans or Swingline Loans,  only
+to the extent  accompanied by a voluntary  reduction to the Total Revolving Loan
+Commitment))  during such period,  (F) non-cash charges added back in a previous
+period  pursuant to clause (i)(B) above to the extent any such charge has become
+a cash item in the current period, (G) the increase,  if any, in Working Capital
+from the  first  day to the last  day of such  period,  (H)  costs  incurred  by
+Holdings  during such period and paid for with the proceeds of dividends paid by
+the  Borrower  pursuant  to  Section  8.07(iv)  to the extent  not  deducted  in
+determining   Consolidated   Net  Income  for  such  period  and  (I)  any  cash
+disbursements made against noncurrent  liabilities (such as transition  reserves
+and deferred taxes) to the extent not deducted in determining  Consolidated  Net
+Income for such period.
+
+                                       35
+<PAGE>
+
+                                                                 Exhibit 4.21
+
+"Restructuring  Charges" shall mean restructuring  charges taken by Holdings and
+its  Subsidiaries  relating to plant  rationalization  and  obsolete  inventory,
+provided that such  restructuring  charges shall only  constitute  Restructuring
+Charges  hereunder  if taken on or after July 1, 1998 and on or before  December
+31, 2000, and the aggregate amount of Restructuring Charges shall not exceed (i)
+in the case of the plant  rationalization  program,  $13,300,000 and (ii) in the
+case of obsolete inventory, $2,900,000.
+
+"Quick  Ratio"  shall  mean,  at any  time,  the ratio of (i)  inventory  of the
+Borrower  and its  Subsidiaries  at such time to (ii) the  accounts  payable and
+accrued  expenses  (other than  expenses  accrued under  Sections  8.08(iii) and
+(viii) of this Agreement) of the Borrower and its Subsidiaries at such time.
+
+"Working  Capital"  shall mean the excess of  Consolidated  Current  Assets (but
+excluding therefrom all cash and Cash Equivalents,  and deferred income taxes to
+the extent included in current assets) over Consolidated Current Liabilities.
+
+34. The Credit Agreement is hereby further amended by adding thereto a new Annex
+X in the form of Annex X attached hereto.
+
+B. Consents, Waivers and Agreement
+
+1.  Section 1(b) of the Third  Amendment  is hereby  amended by (i) deleting the
+references to "January 31, 1999" contained therein and inserting  "September 30,
+1998" in lieu thereof and (ii) deleting the  references  to  "Scheduled  1/31/99
+Reduction"  contained  therein  and  inserting  "Scheduled  September  30,  1998
+Reduction" in lieu thereof.
+
+2. The Banks hereby waive  compliance  with Sections 8.10 and 8.11 of the Credit
+Agreement  for the Test  Period  ended June 30,  1998.  The Banks  hereby  waive
+compliance  with  Section 8.12 of the Credit  Agreement  for the period from and
+including July 1, 1998 to but excluding September 30, 1998.
+
+3. The Banks  hereby  agree that  Section  6.03(ii) of the Credit  Agreement  is
+deemed amended to exclude from the scope of such  representation and warrant any
+conflict that exists between  Section 8.08 of the Credit  Agreement (as modified
+by Section A(19) of this  Amendment)  and any  management  or similar  agreement
+between  Holdings or any of its  Subsidiaries  and Bain Capital  and/or any Bain
+Affiliate.
+
+4. In order to induce  the  Banks to enter  into this  Amendment,  the  Borrower
+hereby agrees to pay to each Bank which  executes and delivers a counterpart  of
+this Amendment on or before 12:.00 noon (New York time) on September 30, 1998, a
+fee equal to 1/4 of 1% of such  Bank's  Revolving  Loan  Commitment  immediately
+after giving effect to this Amendment,  such fee to be earned and payable on the
+Amendment Effective Date. 
+
+                                       36
+<PAGE>
+                                                                 Exhibit 4.21
+
+C. Miscellaneous Provisions
+
+1. In order to induce the Banks to enter into this Amendment,  each of Holdings,
+WR  Acquisition  and the Borrower  hereby  represents  and warrants  that (i) no
+Default  or Event of  Default  exists  as of the  Amendment  Effective  Date (as
+defined  below) after giving effect to this  Amendment and (ii) on the Amendment
+Effective Date, after giving effect to this Amendment,  all  representations and
+warranties  contained in the Credit  Agreement and in the other Credit Documents
+are true and correct in all material respects.
+
+2. This Amendment shall become  effective on the date (the "Amendment  Effective
+Date") when the Required Banks,  Holdings, WR Acquisition and the Borrower shall
+have signed a counterpart  hereof  (whether the same or different  counterparts)
+and shall have delivered  (including by way of facsimile  transmission) the same
+to the Agent at its Notice Office.
+
+3.  This   Amendment  is  limited  as  specified  and  shall  not  constitute  a
+modification,  acceptance  or  waiver  of any  other  provision  of  the  Credit
+Agreement or any other Credit Document.
+
+4. This  Amendment  may be  executed  in any number of  counterparts  and by the
+different parties hereto on separate  counterparts,  each of which  counterparts
+when  executed  and  delivered  shall be an  original,  but all of  which  shall
+together constitute one and the same instrument.  A complete set of counterparts
+shall be lodged with the Borrower and the Agent.
+
+5. All  references in the Credit  Agreement and each of the Credit  Documents to
+the Credit  Agreement shall be deemed to be references to such Credit  Agreement
+after giving effect to this Amendment.
+
+6. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES  HEREUNDER SHALL
+BE GOVERNED BY AND  CONSTRUED  IN  ACCORDANCE  WITH THE LAWS OF THE STATE OF NEW
+YORK.
+                                                                 * * *
+
+                                       37
+<PAGE>
+
+                                                                Exhibit 4.21
+
+
+IN WITNESS WHEREOF,  each of the parties hereto has caused a counterpart of this
+Amendment to be duly executed and delivered as of the date hereof.
+
+
+
+
+AMERICAN PAD & PAPER COMPANY
+
+
+
+By:
+Name:
+Title:
+
+
+WR ACQUISITION, INC.
+
+
+By:
+Name:
+Title:
+
+
+AMERICAN PAD & PAPER COMPANY OF DELAWARE, INC.
+
+
+By:
+Name:
+Title:
+
+
+BANKERS TRUST COMPANY, individually and as Agent
+
+
+By:
+Name:
+Title:
+
+                                       38
+<PAGE>
+
+                                                                Exhibit 4.21
+
+BANKBOSTON, N.A.
+
+
+By:
+Name:
+Title:
+
+
+
+BANK LEUMI USA
+
+
+By:
+Name:
+Title:
+
+
+THE BANK OF NEW YORK
+
+
+By:
+Name:
+Title:
+
+
+
+THE BANK OF NOVA SCOTIA
+
+
+By:
+Name:
+Title:
+
+
+
+BANK OF SCOTLAND
+
+
+By:
+Name:
+Title:
+
+                                       39
+<PAGE>
+
+                                                                   Exhibit 4.21
+
+BANK OF TOKYO-MITSUBISHI TRUST COMPANY
+
+
+By:
+Name:
+Title:
+
+
+BANK ONE TEXAS
+
+
+By:
+Name:
+Title:
+
+
+BANK POLSKA KASA OPIEKI, S.A.
+
+
+By:
+Name:
+Title:
+
+
+BEAR, STEARNS & CO. INC.
+
+
+By:
+Name:
+Title:
+
+
+CHASE SECURITIES, INC., as agent for CHASE MANHATTAN BANK
+
+
+By:
+Name:
+Title:
+
+                                       40
+<PAGE>
+
+                                                                  Exhibit 4.21
+
+CHRISTIANIA BANK OG KREDITKASSE, NEW YORK BRANCH
+
+
+By:
+Name:
+Title:
+
+
+By:
+Name:
+Title:
+
+
+CIBC INC.
+
+
+
+By:
+Name:
+Title:
+
+
+
+ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG
+
+
+By:
+Name:
+Title:
+
+
+FIRST UNION CORP.
+
+
+By:
+Name:
+Title:
+
+
+
+GUARANTY FEDERAL BANK, F.S.B.
+
+
+
+By:
+Name:
+Title:
+
+                                       41
+<PAGE>
+
+                                                                  Exhibit 4.21
+
+NATIONS BANK, N.A.
+
+
+By:
+Name:
+Title:
+
+
+PAM CAPITAL FUNDING,  L.P., by HIGHLAND CAPITAL MANAGEMENT,  L.P., as collateral
+manager
+
+
+
+By:
+Name:
+Title:
+
+
+
+THE LONG-TERM CREDIT BANK OF JAPAN, LIMITED, NEW YORK BRANCH
+
+
+By:
+Name:
+Title:
+
+
+
+SANWA BUSINESS CREDIT CORPORATION
+
+
+By:
+Name:
+Title:
+
+
+SOCIETE GENERALE
+
+
+By:
+Name:
+Title:
+
+
+                                       42
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.003
+<SEQUENCE>3
+<DESCRIPTION>FDS --27.003
+<TEXT>
+
+<TABLE> <S> <C>
+                                               
+<ARTICLE>                                           5
+<LEGEND>                                       
+     This schedule  contains summary  financial  information  extracted from the
+historical  financial statements of American Pad & Paper Company's September 30,
+1998 10-Q and is  qualified  in its  entirety  by  reference  to such  financial
+statements. </LEGEND>
+<CIK>0000005588
+<NAME>American Pad & Paper Company
+<MULTIPLIER>                                                 1,000
+                                                     
+<S>                                                   <C>
+<PERIOD-TYPE>                                       9-mos
+<FISCAL-YEAR-END>                                   Dec-31-1998
+<PERIOD-START>                                      Jan-01-1998
+<PERIOD-END>                                        Sep-30-1998
+<CASH>                                                           0
+<SECURITIES>                                                     0
+<RECEIVABLES>                                                    0
+<ALLOWANCES>                                                     0
+<INVENTORY>                                                      0
+<CURRENT-ASSETS>                                                 0
+<PP&E>                                                           0
+<DEPRECIATION>                                                   0
+<TOTAL-ASSETS>                                             558,281
+<CURRENT-LIABILITIES>                                            0
+<BONDS>                                                          0
+<PREFERRED-MANDATORY>                                            0
+<PREFERRED>                                                      0
+<COMMON>                                                       277
+<OTHER-SE>                                                  28,986
+<TOTAL-LIABILITY-AND-EQUITY>                               558,281
+<SALES>                                                          0
+<TOTAL-REVENUES>                                           482,479
+<CGS>                                                            0
+<TOTAL-COSTS>                                                    0
+<OTHER-EXPENSES>                                                 0
+<LOSS-PROVISION>                                                 0
+<INTEREST-EXPENSE>                                               0
+<INCOME-PRETAX>                                                  0
+<INCOME-TAX>                                               (16,907)
+<INCOME-CONTINUING>                                        (71,416)
+<DISCONTINUED>                                                   0
+<EXTRAORDINARY>                                                  0
+<CHANGES>                                                        0
+<NET-INCOME>                                               (71,416)
+<EPS-PRIMARY>                                                (2.58)
+<EPS-DILUTED>                                                (2.58)
+        
+
+ 
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.017
+<SEQUENCE>4
+<DESCRIPTION>EX - 99.017 KOSCIUSKO PLANT CLOSING PRESS RELEASE
+<TEXT>
+
+
+                              CONTACT:Mark Lipscomb
+                              Vice President, Corporate Communications
+                              American Pad & Paper Co.
+                              (972) 733-5415
+
+For immediate Release
+                              Theresa Schillero
+                              Media: Leslie Feldman/Eileen King
+                              (212) 850-5600
+                              Ken Pieper
+                              (972) 663-9390
+                              Morgen-Walke Associates
+
+                  American Pad & Paper ANNOUNCES PLANT CLOSING
+
+         DALLAS,  Texas,  November  10, 1998,  -- American  Pad & Paper  Company
+(NYSE:AGP)  (AP&P)  announced that its plant in Kosciusko,  Mississippi  will be
+closed as part of a previously  announced  restructuring plan, which is designed
+to improve customer  service,  better balance  manufacturing  capacity to market
+demands and reduce overall manufacturing costs.
+
+         The Kosciusko plant is an AMPAD operation and will be transferring  its
+production  capability to other  American Pad & Paper sites.  This plant,  which
+employees  approximately 175 people,  will continue operations at reduced levels
+through  the end of May 1999.  Eligible  employees  affected  will be provided a
+severance  package,  and  the  Company  will be  working  with  the  Mississippi
+Employment Training Division to provide a career transition program.
+
+         Commenting on the plant closure,  James W. Swent III,  Chief  Executive
+Officer of American  Pad & Paper said,  "I sincerely  regret that some  employee
+reductions  are necessary,  but the future of our Company  depends on a strategy
+that  provides  greater  efficiency  and a return to  profitable  growth.  These
+actions are  necessary  to improve both  service to our  customers,  and move us
+closer to our goal of being the lowest cost manufacturer in our industry."
+
+     American  Pad & Paper  Company is a leading  manufacturer  and  marketer of
+paper-based  office  products  in  North  America.   Product  offerings  include
+envelopes,  writing pads, file folders, machine papers, greeting cards and other
+office products.  The key operating  divisions of the company are  Williamhouse,
+AMPAD,  and Creative  Card which market  principally  under the  following  Name
+Brands: AMPAD,  Century,  Embassy,  Gold Fibre, Huxley,  Karolton,  Kent, Peel &
+Seel,  SCM,  Williamhouse  and World Fibre.  Company  revenues in 1997 were $687
+million.
+
+         This release  contains  forward-looking  statements  relating to future
+results.  Actual  results may differ  significantly  as a result of factors over
+which the Company has no control, including the strength of domestic and foreign
+economies,  slower than anticipated sales growth,  price and product competition
+and changes in raw material costs. Additional information which could affect the
+Company's financial results is included in the Company's prospectus on file with
+the Securities and Exchange Commission.
+
+                                                                  ###
+
+
+                                       44
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

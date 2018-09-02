@@ -1,0 +1,203 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BArhKk70MuoESwJXr+NNb5PbcuuLx2vGxtPWUVF2UOCSzfOwT4WtKosXEnecZfX/
+ DcKIEIF2V+kY1zn/DNQTQQ==
+
+<SEC-DOCUMENT>0000006201-03-000012.txt : 20030401
+<SEC-HEADER>0000006201-03-000012.hdr.sgml : 20030401
+<ACCEPTANCE-DATETIME>20030401121234
+ACCESSION NUMBER:		0000006201-03-000012
+CONFORMED SUBMISSION TYPE:	NT 10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030401
+FILED AS OF DATE:		20030401
+EFFECTIVENESS DATE:		20030401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMR CORP
+		CENTRAL INDEX KEY:			0000006201
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				751825172
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NT 10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08400
+		FILM NUMBER:		03633311
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76155
+		BUSINESS PHONE:		8179631234
+
+	MAIL ADDRESS:	
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			75261-9616
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-K
+<SEQUENCE>1
+<FILENAME>arnt10kf.txt
+<DESCRIPTION>FORM 12B-25
+<TEXT>
+<Page> 1
+                           UNITED STATES
+                SECURITIES AND EXCHANGE COMMISSION
+                      Washington, D.C. 20549
+                            FORM 12b-25
+                    NOTIFICATION OF LATE FILING
+(Check One): [X] Form 10-K   Form 20-F   Form 10-Q   Form N-SAR
+
+          For Period Ended: December 31, 2002
+              Transition Report on Form 10-K
+              Transition Report on Form 20-F
+              Transition Report on Form 11-K
+              Transition Report on Form 10-Q
+              Transition Report on Form N-SAR
+          For the Transition Period Ended:
+  Read Instruction (on back page) Before Preparing Form. Please
+                          Print or Type.
+    Nothing in this form shall be construed to imply that the
+    Commission has verified any information contained herein.
+If the notification relates to a portion of the filing checked
+above, identify the Item(s) to which the notification relates:
+
+PART I - REGISTRANT INFORMATION
+
+AMR Corporation
+(Full Name of Registrant)
+N/A
+(Former Name if Applicable)
+4333 Amon Carter Blvd.  MD 5675
+(Address of Principal Executive Office) (Street and Number)
+Fort Worth, Texas 76155
+(City, State and Zip Code)
+
+PART II - RULES 12b-25(b) AND (c)
+
+If the subject report could not be filed without unreasonable
+effort or expense and the registrant seeks relief pursuant to Rule
+12b-25(b), the following should be completed.  (Check box if
+appropriate)
+         [X](a) The reasons described in reasonable detail in Part
+           III of this form could not be eliminated without
+           unreasonable effort or expense;
+         [X](b) The subject annual report, semi-annual report,
+           transition report on Form 10-K, Form 20-F,11-K or Form N-
+           SAR, or portion thereof, will be filed on or before the
+           fifteenth calendar day following the prescribed due
+           date; or the subject quarterly report or transition
+           report on Form 10-Q, or portion thereof will be filed on
+           or before the fifth calendar day following the
+           prescribed due date; and
+            (c) The accountant's statement or other exhibit
+           required by Rule 12b-25(c) has been attached if
+           applicable.
+
+PART III - NARRATIVE
+
+State below in reasonable detail the reasons why Forms 10-K, 20-F,
+11-K, 10-Q, N-SAR, or the transition report or portion thereof,
+could not be filed within the prescribed time period.
+                  (Attach Extra Sheets if Needed)
+
+The Registrant's Annual Report on Form 10-K for the year ended
+December 31, 2002, could not be filed at this time without
+unreasonable effort and expense.  The Registrant is in the process
+of negotiating and implementing a crucial cost reduction program.
+That program includes ongoing, intensive discussions with its three
+major labor unions, aircraft creditors and significant vendors
+concerning the major concessions that are necessary in light of the
+Registrant's weakened financial condition.  The Registrant needs to
+implement this program quickly to survive because its financial
+results are not sustainable.  The Registrant believes it will soon
+conclude these discussions and be in a position to file its Form 10-K.
+
+
+<Page> 2
+PART IV- OTHER INFORMATION
+
+(1) Name and telephone number of person to contact in regard to
+this notification
+
+      Charles D. MarLett      817          967-1254
+          (Name)         (Area Code)   (Telephone Number)
+
+(2) Have all other periodic reports required under Section 13
+  or 15(d) of the Securities Exchange Act of 1934 or Section 30 of
+  the Investment Company Act of 1940 during the preceding 12
+  months or for such shorter period that the registrant was
+  required to file such report(s) been filed?  If answer is no,
+  identify report(s). [x]Yes  No
+
+(3) Is it anticipated that any significant change in results of op
+  erations from the corresponding period for the last fiscal year
+  will be reflected by the earnings statements to be included in
+  the subject report or portion thereof?  [X]Yes  No
+
+  If so, attach an explanation of the anticipated change, both
+  narratively and quantitatively, and, if appropriate, state the
+  reasons why a reasonable estimate of the results cannot be made.
+
+
+                          AMR Corporation
+           (Name of Registrant as Specified in Charter)
+
+has caused this notification to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: April 1, 2003          By:/s/Charles D.MarLett
+                             Charles D. MarLett
+                             Corporate Secretary
+
+INSTRUCTION: The form may be signed by an executive officer of the
+registrant or by any other duly authorized representative.  The
+name and title of the person signing the form shall be typed or
+printed beneath the signature.  If the statement is signed on
+behalf of the registrant by an authorized representative (other
+than an executive officer), evidence of the representative's
+authority to sign on behalf of the registrant shall be filed with
+the form.
+
+                             Attention
+Intentional misstatements or omissions of fact constitute Federal
+            Criminal Violations (See 18 U.S.C. 1001).
+
+<Page> 3
+Attachment of Form 12b-25 of AMR Corporation, filed March 31, 2003
+4333 Amon Carter Blvd., Fort Worth, Texas  76155
+IRS Employer Identification Number: 75-1825172
+
+
+PART IV - OTHER INFORMATION
+
+  The past two years have had a large impact on the Registrant's
+  finances.  The Registrant incurred an aggregate operating loss
+  of $3.3 billion in 2002, up from the operating loss of $2.5 billion
+  for 2001. These losses reflect, among other things, the substantial
+  decrease in the Registrant's revenues which began in early 2001
+  and accelerated after the September 11 terrorist attacks.  On
+  reduced capacity since the events of September 11, 2001, the
+  Registrant's revenues for the year ended December 31, 2002 were
+  down 8.8 percent, with the Registrant's primary subsidiary's
+  revenue per available seat mile down 7.2 percent on a capacity
+  decrease of 1.4 percent, compared to the year ended December 31,
+  2001.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
